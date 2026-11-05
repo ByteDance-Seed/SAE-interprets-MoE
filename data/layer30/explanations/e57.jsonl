@@ -1,0 +1,2000 @@
+{"feat": "30-F129", "explanation": "Create responsive websites", "confidence": "medium"}
+{"feat": "30-F1176", "explanation": "HTML/CSS code syntax", "confidence": "medium"}
+{"feat": "30-F4212", "explanation": "HTML div element", "confidence": "medium"}
+{"feat": "30-F2088", "explanation": "HTML class attributes", "confidence": "high"}
+{"feat": "30-F128", "explanation": "scrolling interfaces", "confidence": "high"}
+{"feat": "30-F4151", "explanation": "Script before closing body", "confidence": "medium"}
+{"feat": "30-F11408", "explanation": "CSS display property", "confidence": "high"}
+{"feat": "30-F4750", "explanation": "building / constructing", "confidence": "high"}
+{"feat": "30-F10120", "explanation": "XHTML DOCTYPE declarations", "confidence": "high"}
+{"feat": "30-F3477", "explanation": "Card UI component", "confidence": "high"}
+{"feat": "30-F2452", "explanation": "org.zkoss Java imports", "confidence": "high"}
+{"feat": "30-F5292", "explanation": "jQuery web code", "confidence": "medium"}
+{"feat": "30-F7725", "explanation": "Core Web Vitals metrics", "confidence": "high"}
+{"feat": "30-F1068", "explanation": "HTML id attribute", "confidence": "high"}
+{"feat": "30-F4332", "explanation": "Web app code identifiers", "confidence": "medium"}
+{"feat": "30-F4075", "explanation": "CSS display property", "confidence": "high"}
+{"feat": "30-F13218", "explanation": "JavaScript frontend frameworks", "confidence": "medium"}
+{"feat": "30-F12989", "explanation": "Responsive web design", "confidence": "high"}
+{"feat": "30-F13699", "explanation": "React component closing syntax", "confidence": "medium"}
+{"feat": "30-F14427", "explanation": "DOM element access", "confidence": "high"}
+{"feat": "30-F15878", "explanation": "D3 translate transform", "confidence": "high"}
+{"feat": "30-F15262", "explanation": "optimization terminology", "confidence": "high"}
+{"feat": "30-F16223", "explanation": "HTML anchor links", "confidence": "high"}
+{"feat": "30-F15139", "explanation": "JavaScript DOM ID selection", "confidence": "medium"}
+{"feat": "30-F14339", "explanation": "HTML form attributes", "confidence": "high"}
+{"feat": "30-F13999", "explanation": "HTML meta boilerplate", "confidence": "medium"}
+{"feat": "30-F16693", "explanation": "React className assignments", "confidence": "high"}
+{"feat": "30-F17356", "explanation": "Bootstrap btn class", "confidence": "high"}
+{"feat": "30-F17160", "explanation": "Say mirror", "confidence": "low"}
+{"feat": "30-F15840", "explanation": "PHP echo statements", "confidence": "high"}
+{"feat": "30-F16053", "explanation": "HTML picture elements", "confidence": "high"}
+{"feat": "30-F13843", "explanation": "CSS spacing declarations", "confidence": "high"}
+{"feat": "30-F17687", "explanation": "Dash HTML components", "confidence": "high"}
+{"feat": "30-F18162", "explanation": "international policy initiatives", "confidence": "medium"}
+{"feat": "30-F18746", "explanation": "JavaScript closing call punctuation", "confidence": "medium"}
+{"feat": "30-F21790", "explanation": "web application code", "confidence": "medium"}
+{"feat": "30-F20256", "explanation": "JavaScript web development", "confidence": "medium"}
+{"feat": "30-F22289", "explanation": "JavaScript modal controls", "confidence": "high"}
+{"feat": "30-F18171", "explanation": "AMP HTML components", "confidence": "medium"}
+{"feat": "30-F21166", "explanation": "JavaScript click handlers", "confidence": "high"}
+{"feat": "30-F21977", "explanation": "SVG xmlns attribute", "confidence": "high"}
+{"feat": "30-F24104", "explanation": "HTML input fields", "confidence": "high"}
+{"feat": "30-F21186", "explanation": "Global development statistics", "confidence": "medium"}
+{"feat": "30-F23216", "explanation": "Say counts", "confidence": "medium"}
+{"feat": "30-F22505", "explanation": "CSS font-size values", "confidence": "medium"}
+{"feat": "30-F23865", "explanation": "CSS terminology", "confidence": "high"}
+{"feat": "30-F24212", "explanation": "SVG namespace code", "confidence": "high"}
+{"feat": "30-F22909", "explanation": "web development code", "confidence": "medium"}
+{"feat": "30-F31858", "explanation": "Bootstrap container class", "confidence": "high"}
+{"feat": "30-F24688", "explanation": "Ending AIDS epidemic", "confidence": "high"}
+{"feat": "30-F26454", "explanation": "Python UI widget parameters", "confidence": "medium"}
+{"feat": "30-F28166", "explanation": "responsive mobile layout", "confidence": "medium"}
+{"feat": "30-F26978", "explanation": "D3 SVG transform translate", "confidence": "high"}
+{"feat": "30-F28162", "explanation": "Bootstrap CSS classes", "confidence": "high"}
+{"feat": "30-F29370", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F27900", "explanation": "CSS border radius", "confidence": "high"}
+{"feat": "30-F27353", "explanation": "JavaScript import from", "confidence": "high"}
+{"feat": "30-F28667", "explanation": "HTML id or class attributes", "confidence": "medium"}
+{"feat": "30-F32736", "explanation": "HTML viewport meta tag", "confidence": "high"}
+{"feat": "30-F31195", "explanation": "Bulma CSS framework", "confidence": "high"}
+{"feat": "30-F32179", "explanation": "HTML image tags", "confidence": "high"}
+{"feat": "30-F29136", "explanation": "HTML/DOM event handlers", "confidence": "medium"}
+{"feat": "30-F29837", "explanation": "BeautifulSoup HTML parser", "confidence": "high"}
+{"feat": "30-F34357", "explanation": "Selenium browser automation", "confidence": "high"}
+{"feat": "30-F34306", "explanation": "sustainable development goals", "confidence": "medium"}
+{"feat": "30-F32996", "explanation": "sustainable development rhetoric", "confidence": "medium"}
+{"feat": "30-F39710", "explanation": "HTML form attributes", "confidence": "high"}
+{"feat": "30-F33321", "explanation": "WHO health statistics", "confidence": "medium"}
+{"feat": "30-F34106", "explanation": "World Economic Forum claims", "confidence": "medium"}
+{"feat": "30-F34922", "explanation": "CSS style properties", "confidence": "high"}
+{"feat": "30-F35697", "explanation": "SweetAlert modal dialogs", "confidence": "high"}
+{"feat": "30-F39126", "explanation": "HTML viewport width=device-width", "confidence": "high"}
+{"feat": "30-F38257", "explanation": "CSS/Bootstrap styling code", "confidence": "medium"}
+{"feat": "30-F39259", "explanation": "JavaScript DOM document", "confidence": "high"}
+{"feat": "30-F37114", "explanation": "Enzyme wrapper tests", "confidence": "high"}
+{"feat": "30-F42099", "explanation": "digital economy statistics", "confidence": "high"}
+{"feat": "30-F42255", "explanation": "HTML script src attributes", "confidence": "high"}
+{"feat": "30-F42117", "explanation": "CSS flex direction", "confidence": "high"}
+{"feat": "30-F45130", "explanation": "frontend component frameworks", "confidence": "high"}
+{"feat": "30-F42291", "explanation": "Bootstrap framework", "confidence": "high"}
+{"feat": "30-F42709", "explanation": "web development tutorials", "confidence": "medium"}
+{"feat": "30-F43448", "explanation": "PHP pagination for-loops", "confidence": "high"}
+{"feat": "30-F44469", "explanation": "HTML table body syntax", "confidence": "high"}
+{"feat": "30-F43819", "explanation": "people-centered rights and access", "confidence": "medium"}
+{"feat": "30-F44160", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F45619", "explanation": "Scroll to Top link", "confidence": "high"}
+{"feat": "30-F46061", "explanation": "sustainable development projects", "confidence": "medium"}
+{"feat": "30-F46112", "explanation": "frontend JavaScript HTML code", "confidence": "medium"}
+{"feat": "30-F48136", "explanation": "biodiversity conservation policy", "confidence": "medium"}
+{"feat": "30-F47003", "explanation": "social protection programs", "confidence": "high"}
+{"feat": "30-F49373", "explanation": "JavaScript callback functions", "confidence": "high"}
+{"feat": "30-F50228", "explanation": "JavaScript DOM targets", "confidence": "medium"}
+{"feat": "30-F50312", "explanation": "human wellbeing", "confidence": "medium"}
+{"feat": "30-F51349", "explanation": "Web accessibility guidelines", "confidence": "high"}
+{"feat": "30-F50330", "explanation": "Plotly visualization code", "confidence": "medium"}
+{"feat": "30-F51081", "explanation": "View template render calls", "confidence": "medium"}
+{"feat": "30-F51166", "explanation": "adolescent sexual health education", "confidence": "medium"}
+{"feat": "30-F50597", "explanation": "web template filenames", "confidence": "high"}
+{"feat": "30-F36426", "explanation": "Zero in code literals", "confidence": "medium"}
+{"feat": "30-F51356", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F56053", "explanation": "CSS font-family property", "confidence": "high"}
+{"feat": "30-F52376", "explanation": "HTML closing style tag", "confidence": "high"}
+{"feat": "30-F52411", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F59116", "explanation": "spatial allocation", "confidence": "medium"}
+{"feat": "30-F40653", "explanation": "healthcare policy", "confidence": "medium"}
+{"feat": "30-F54434", "explanation": "code import declarations", "confidence": "medium"}
+{"feat": "30-F54615", "explanation": "Chinese education policy rhetoric", "confidence": "medium"}
+{"feat": "30-F60718", "explanation": "JavaScript DOM selection", "confidence": "medium"}
+{"feat": "30-F54630", "explanation": "jQuery animate method", "confidence": "high"}
+{"feat": "30-F56476", "explanation": "web accessibility", "confidence": "high"}
+{"feat": "30-F57399", "explanation": "Next.js feature descriptions", "confidence": "medium"}
+{"feat": "30-F56707", "explanation": "D3 DOM manipulation", "confidence": "high"}
+{"feat": "30-F60418", "explanation": "D3.js selection methods", "confidence": "medium"}
+{"feat": "30-F61856", "explanation": "HTML form input elements", "confidence": "medium"}
+{"feat": "30-F60866", "explanation": "European Green Deal", "confidence": "medium"}
+{"feat": "30-F64389", "explanation": "Plotly Dash app code", "confidence": "medium"}
+{"feat": "30-F63633", "explanation": "child poverty statistics", "confidence": "medium"}
+{"feat": "30-F64900", "explanation": "Scroll to Top link", "confidence": "high"}
+{"feat": "30-F65741", "explanation": "goal-directed infinitives", "confidence": "medium"}
+{"feat": "30-F65976", "explanation": "Sustainable Development Goals", "confidence": "high"}
+{"feat": "30-F67815", "explanation": "JavaScript container variables", "confidence": "high"}
+{"feat": "30-F66163", "explanation": "HTML doctype declaration", "confidence": "high"}
+{"feat": "30-F70765", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F66944", "explanation": "CSS class manipulation", "confidence": "high"}
+{"feat": "30-F68623", "explanation": "CSS inline-block layout", "confidence": "medium"}
+{"feat": "30-F71537", "explanation": "from/source expressions", "confidence": "medium"}
+{"feat": "30-F74286", "explanation": "Fluid grid layouts", "confidence": "high"}
+{"feat": "30-F70290", "explanation": "Increase by percentage", "confidence": "high"}
+{"feat": "30-F71311", "explanation": "JavaServer Faces beans", "confidence": "high"}
+{"feat": "30-F76058", "explanation": "Angular ng-model syntax", "confidence": "high"}
+{"feat": "30-F69390", "explanation": "website mentions", "confidence": "high"}
+{"feat": "30-F71853", "explanation": "HTML tag endings", "confidence": "high"}
+{"feat": "30-F72503", "explanation": "UI button toolbar code", "confidence": "medium"}
+{"feat": "30-F52054", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F73649", "explanation": "React import statements", "confidence": "high"}
+{"feat": "30-F72175", "explanation": "Bootstrap modal UI code", "confidence": "medium"}
+{"feat": "30-F39796", "explanation": "web framework flash messages", "confidence": "medium"}
+{"feat": "30-F76091", "explanation": "Salesforce Lightning development", "confidence": "medium"}
+{"feat": "30-F79322", "explanation": "HTML form name attribute", "confidence": "high"}
+{"feat": "30-F79388", "explanation": "large monetary amounts", "confidence": "medium"}
+{"feat": "30-F77052", "explanation": "HTML stylesheet link tags", "confidence": "high"}
+{"feat": "30-F77574", "explanation": "JavaScript DOM helper functions", "confidence": "medium"}
+{"feat": "30-F77291", "explanation": "global user count statistics", "confidence": "medium"}
+{"feat": "30-F78797", "explanation": "HTML div attributes", "confidence": "medium"}
+{"feat": "30-F79233", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F79422", "explanation": "jQuery IIFE wrapper", "confidence": "high"}
+{"feat": "30-F80925", "explanation": "HTML/JSX markup", "confidence": "high"}
+{"feat": "30-F79336", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F80153", "explanation": "CSS deep selectors", "confidence": "high"}
+{"feat": "30-F84206", "explanation": "SDG Life goals", "confidence": "medium"}
+{"feat": "30-F81080", "explanation": "JavaScript DOM element creation", "confidence": "high"}
+{"feat": "30-F81697", "explanation": "ASP.NET runat server attribute", "confidence": "high"}
+{"feat": "30-F83068", "explanation": "web design terminology", "confidence": "high"}
+{"feat": "30-F84365", "explanation": "Mobile-friendly web design", "confidence": "medium"}
+{"feat": "30-F84329", "explanation": "programming code snippets", "confidence": "medium"}
+{"feat": "30-F84700", "explanation": "JavaScript event handlers", "confidence": "high"}
+{"feat": "30-F84803", "explanation": "CSS button styling", "confidence": "high"}
+{"feat": "30-F85469", "explanation": "Flask app configuration", "confidence": "high"}
+{"feat": "30-F85443", "explanation": "government action plans", "confidence": "medium"}
+{"feat": "30-F85968", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F92271", "explanation": "HTML name attribute", "confidence": "high"}
+{"feat": "30-F86836", "explanation": "PHP footer include", "confidence": "high"}
+{"feat": "30-F91590", "explanation": "HTML viewport initial-scale", "confidence": "high"}
+{"feat": "30-F92801", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F94474", "explanation": "global climate action", "confidence": "medium"}
+{"feat": "30-F91855", "explanation": "jQuery append calls", "confidence": "high"}
+{"feat": "30-F93172", "explanation": "Bootstrap components", "confidence": "medium"}
+{"feat": "30-F93935", "explanation": "Angular provider configuration", "confidence": "high"}
+{"feat": "30-F93884", "explanation": "JavaScript classList removal", "confidence": "medium"}
+{"feat": "30-F95767", "explanation": "Laravel request parameter", "confidence": "medium"}
+{"feat": "30-F97563", "explanation": "JavaScript CustomEvent API", "confidence": "high"}
+{"feat": "30-F95918", "explanation": "Flash message code", "confidence": "high"}
+{"feat": "30-F96046", "explanation": "JavaScript object properties", "confidence": "high"}
+{"feat": "30-F97115", "explanation": "Component-based web development", "confidence": "high"}
+{"feat": "30-F97200", "explanation": "React Router Link JSX", "confidence": "high"}
+{"feat": "30-F100206", "explanation": "Environmental sustainability organizations", "confidence": "medium"}
+{"feat": "30-F98372", "explanation": "front-end web frameworks", "confidence": "high"}
+{"feat": "30-F99726", "explanation": "AngularJS module definition", "confidence": "medium"}
+{"feat": "30-F99851", "explanation": "React Navbar imports", "confidence": "medium"}
+{"feat": "30-F100004", "explanation": "SVG gradient stops", "confidence": "high"}
+{"feat": "30-F101225", "explanation": "HTML attribute syntax", "confidence": "high"}
+{"feat": "30-F100936", "explanation": "HTML viewport meta content", "confidence": "high"}
+{"feat": "30-F101016", "explanation": "Say agricultural topics", "confidence": "high"}
+{"feat": "30-F101084", "explanation": "JavaScript comma syntax", "confidence": "medium"}
+{"feat": "30-F103245", "explanation": "HTML template placeholders", "confidence": "medium"}
+{"feat": "30-F101186", "explanation": "server-side rendering", "confidence": "medium"}
+{"feat": "30-F101230", "explanation": "Dark/light theme code", "confidence": "high"}
+{"feat": "30-F86931", "explanation": "Controller class inheritance", "confidence": "high"}
+{"feat": "30-F102933", "explanation": "ASP.NET Page_Load handlers", "confidence": "high"}
+{"feat": "30-F103146", "explanation": "JavaScript import statements", "confidence": "medium"}
+{"feat": "30-F103300", "explanation": "programming code syntax", "confidence": "low"}
+{"feat": "30-F103739", "explanation": "JavaScript use strict", "confidence": "high"}
+{"feat": "30-F104587", "explanation": "CSS pixel measurements", "confidence": "high"}
+{"feat": "30-F105189", "explanation": "HTML DOM parsing code", "confidence": "high"}
+{"feat": "30-F105353", "explanation": "JavaScript DOM manipulation", "confidence": "high"}
+{"feat": "30-F106133", "explanation": "React Component classes", "confidence": "high"}
+{"feat": "30-F106695", "explanation": "Express view engine config", "confidence": "medium"}
+{"feat": "30-F96773", "explanation": "JavaScript document object", "confidence": "high"}
+{"feat": "30-F108612", "explanation": "HTML viewport device-width", "confidence": "medium"}
+{"feat": "30-F106514", "explanation": "HTTP request parameters", "confidence": "high"}
+{"feat": "30-F108821", "explanation": "CSS font properties", "confidence": "high"}
+{"feat": "30-F109699", "explanation": "Dash callback syntax", "confidence": "high"}
+{"feat": "30-F110812", "explanation": "Paris climate agreements", "confidence": "high"}
+{"feat": "30-F107017", "explanation": "Web DOM templates", "confidence": "high"}
+{"feat": "30-F108692", "explanation": "Bootstrap popover tooltips", "confidence": "high"}
+{"feat": "30-F109324", "explanation": "official diplomatic discourse", "confidence": "medium"}
+{"feat": "30-F110034", "explanation": "web design writing", "confidence": "medium"}
+{"feat": "30-F110142", "explanation": "CSS hover interactions", "confidence": "high"}
+{"feat": "30-F101745", "explanation": "JavaScript indentation", "confidence": "medium"}
+{"feat": "30-F111378", "explanation": "JavaScript slideshow code", "confidence": "high"}
+{"feat": "30-F112038", "explanation": "XML namespace URLs", "confidence": "high"}
+{"feat": "30-F112361", "explanation": "HTML/CSS attribute syntax", "confidence": "medium"}
+{"feat": "30-F112651", "explanation": "HTML charset attribute", "confidence": "high"}
+{"feat": "30-F113632", "explanation": "programming code context", "confidence": "medium"}
+{"feat": "30-F113862", "explanation": "D3 dy em attribute", "confidence": "medium"}
+{"feat": "30-F114549", "explanation": "Say year durations", "confidence": "medium"}
+{"feat": "30-F114662", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F116167", "explanation": "CSS flex alignment", "confidence": "medium"}
+{"feat": "30-F116322", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F117358", "explanation": "Appropriateness and suitability", "confidence": "medium"}
+{"feat": "30-F118689", "explanation": "poverty reduction", "confidence": "high"}
+{"feat": "30-F119190", "explanation": "PHP docblock comment", "confidence": "medium"}
+{"feat": "30-F119406", "explanation": "jQuery dollar selector", "confidence": "high"}
+{"feat": "30-F119578", "explanation": "Bootstrap button classes", "confidence": "high"}
+{"feat": "30-F119700", "explanation": "climate change policy", "confidence": "high"}
+{"feat": "30-F122455", "explanation": "jQuery event handlers", "confidence": "high"}
+{"feat": "30-F121078", "explanation": "Progressive enhancement", "confidence": "high"}
+{"feat": "30-F121719", "explanation": "JavaScript use strict", "confidence": "high"}
+{"feat": "30-F122120", "explanation": "CSS line-height declarations", "confidence": "medium"}
+{"feat": "30-F124034", "explanation": "HTML id/class attributes", "confidence": "high"}
+{"feat": "30-F113153", "explanation": "responsive CSS media queries", "confidence": "high"}
+{"feat": "30-F124361", "explanation": "front-end development", "confidence": "high"}
+{"feat": "30-F125012", "explanation": "JavaScript mentions", "confidence": "high"}
+{"feat": "30-F123923", "explanation": "HTML attribute syntax", "confidence": "medium"}
+{"feat": "30-F125445", "explanation": "PHP class code", "confidence": "medium"}
+{"feat": "30-F125748", "explanation": "Find all elements", "confidence": "medium"}
+{"feat": "30-F115158", "explanation": "Portuguese desenvolvimento", "confidence": "high"}
+{"feat": "30-F126197", "explanation": "WPBakery CSS classes", "confidence": "high"}
+{"feat": "30-F126649", "explanation": "JavaScript string quotes", "confidence": "medium"}
+{"feat": "30-F129177", "explanation": "Angular templates/directives", "confidence": "medium"}
+{"feat": "30-F27057", "explanation": "Aurelia frontend framework", "confidence": "Medium"}
+{"feat": "30-F128795", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F127041", "explanation": "Python library attribute access", "confidence": "medium"}
+{"feat": "30-F120844", "explanation": "CSS white text color", "confidence": "high"}
+{"feat": "30-F120254", "explanation": "jQuery slogan", "confidence": "high"}
+{"feat": "30-F129753", "explanation": "global health targets", "confidence": "medium"}
+{"feat": "30-F129378", "explanation": "Selenium WebDriver switchTo", "confidence": "medium"}
+{"feat": "30-F134576", "explanation": "JavaScript DOM text nodes", "confidence": "high"}
+{"feat": "30-F130551", "explanation": "web development", "confidence": "high"}
+{"feat": "30-F133227", "explanation": "government funding programs", "confidence": "medium"}
+{"feat": "30-F133364", "explanation": "Say rural revitalization", "confidence": "high"}
+{"feat": "30-F139676", "explanation": "inline web styling", "confidence": "high"}
+{"feat": "30-F137371", "explanation": "React CSS class names", "confidence": "high"}
+{"feat": "30-F137169", "explanation": "Svelte framework", "confidence": "high"}
+{"feat": "30-F139824", "explanation": "Web asset URL helpers", "confidence": "medium"}
+{"feat": "30-F139164", "explanation": "CSS pixel styling", "confidence": "medium"}
+{"feat": "30-F141532", "explanation": "UI styling configuration", "confidence": "medium"}
+{"feat": "30-F125804", "explanation": "CSS grid layout", "confidence": "high"}
+{"feat": "30-F140456", "explanation": "Chinese national strategy", "confidence": "medium"}
+{"feat": "30-F144600", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F142311", "explanation": "JavaScript DOM element variables", "confidence": "high"}
+{"feat": "30-F141565", "explanation": "Angular ControlValueAccessor boilerplate", "confidence": "high"}
+{"feat": "30-F142953", "explanation": "JavaScript DOM manipulation", "confidence": "high"}
+{"feat": "30-F143819", "explanation": "CSS flexbox properties", "confidence": "high"}
+{"feat": "30-F144282", "explanation": "CSS opacity property", "confidence": "high"}
+{"feat": "30-F144618", "explanation": "CSS style terminology", "confidence": "medium"}
+{"feat": "30-F144982", "explanation": "Don't Say button", "confidence": "medium"}
+{"feat": "30-F145127", "explanation": "React styling code", "confidence": "high"}
+{"feat": "30-F34488", "explanation": "Angular CLI commands", "confidence": "high"}
+{"feat": "30-F145418", "explanation": "jQuery selector syntax", "confidence": "high"}
+{"feat": "30-F37094", "explanation": "Bootstrap HTML/jQuery code", "confidence": "high"}
+{"feat": "30-F146132", "explanation": "PHP/HTML code syntax", "confidence": "medium"}
+{"feat": "30-F147878", "explanation": "About page routes", "confidence": "medium"}
+{"feat": "30-F148182", "explanation": "global public goods", "confidence": "medium"}
+{"feat": "30-F149161", "explanation": "CSS padding values", "confidence": "high"}
+{"feat": "30-F149328", "explanation": "AngularJS $scope variables", "confidence": "medium"}
+{"feat": "30-F150457", "explanation": "CSS web development", "confidence": "medium"}
+{"feat": "30-F151858", "explanation": "Preposition for", "confidence": "medium"}
+{"feat": "30-F151682", "explanation": "styled-components imports", "confidence": "high"}
+{"feat": "30-F152006", "explanation": "JSX image alt attribute", "confidence": "high"}
+{"feat": "30-F152929", "explanation": "PHP array key access", "confidence": "high"}
+{"feat": "30-F152933", "explanation": "DOM body appendChild", "confidence": "high"}
+{"feat": "30-F154700", "explanation": "CSS background positioning", "confidence": "high"}
+{"feat": "30-F154377", "explanation": "HTML main element", "confidence": "high"}
+{"feat": "30-F155499", "explanation": "SVG fill none attribute", "confidence": "high"}
+{"feat": "30-F156534", "explanation": "XML findall method", "confidence": "high"}
+{"feat": "30-F157167", "explanation": "Don't Say pagination", "confidence": "medium"}
+{"feat": "30-F157547", "explanation": "one-page websites", "confidence": "medium"}
+{"feat": "30-F156459", "explanation": "MVC view layer", "confidence": "high"}
+{"feat": "30-F156862", "explanation": "HTML tag structure", "confidence": "high"}
+{"feat": "30-F157406", "explanation": "responsive iframe CSS", "confidence": "high"}
+{"feat": "30-F60514", "explanation": "web development code", "confidence": "medium"}
+{"feat": "30-F157929", "explanation": "React event handler props", "confidence": "high"}
+{"feat": "30-F158248", "explanation": "Selenium find_element_by methods", "confidence": "high"}
+{"feat": "30-F158609", "explanation": "JavaScript click handlers", "confidence": "high"}
+{"feat": "30-F159902", "explanation": "Bootstrap 4 links", "confidence": "high"}
+{"feat": "30-F160053", "explanation": "CSS border: none", "confidence": "high"}
+{"feat": "30-F148935", "explanation": "Vue validation code", "confidence": "medium"}
+{"feat": "30-F161349", "explanation": "CSS zero margins", "confidence": "medium"}
+{"feat": "30-F160929", "explanation": "HTML mentions", "confidence": "high"}
+{"feat": "30-F161517", "explanation": "HTML class attribute", "confidence": "high"}
+{"feat": "30-F161520", "explanation": "web development code", "confidence": "medium"}
+{"feat": "30-F162355", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F162391", "explanation": "HTML class attributes", "confidence": "medium"}
+{"feat": "30-F162709", "explanation": "Don't Say images", "confidence": "medium"}
+{"feat": "30-F164324", "explanation": "jQuery smooth scrolling", "confidence": "high"}
+{"feat": "30-F162996", "explanation": "Laravel controller namespace", "confidence": "high"}
+{"feat": "30-F163516", "explanation": "UI layout code", "confidence": "medium"}
+{"feat": "30-F164670", "explanation": "HTML navigation links", "confidence": "medium"}
+{"feat": "30-F163940", "explanation": "JavaScript event.target handling", "confidence": "high"}
+{"feat": "30-F167407", "explanation": "JavaScript variable e", "confidence": "medium"}
+{"feat": "30-F164476", "explanation": "React JSX elements", "confidence": "high"}
+{"feat": "30-F165745", "explanation": "HTML form code", "confidence": "medium"}
+{"feat": "30-F167259", "explanation": "XPath bracket predicates", "confidence": "high"}
+{"feat": "30-F167526", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F168082", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F169116", "explanation": "Data visualization code", "confidence": "medium"}
+{"feat": "30-F169356", "explanation": "UN sustainability goals", "confidence": "medium"}
+{"feat": "30-F169506", "explanation": "Inline SVG markup", "confidence": "high"}
+{"feat": "30-F171031", "explanation": "ASP.NET HTML helpers", "confidence": "medium"}
+{"feat": "30-F169960", "explanation": "JavaScript frontend frameworks", "confidence": "medium"}
+{"feat": "30-F172943", "explanation": "HTML document structure", "confidence": "high"}
+{"feat": "30-F86664", "explanation": "HTML button elements", "confidence": "high"}
+{"feat": "30-F170999", "explanation": "JavaScript class manipulation", "confidence": "high"}
+{"feat": "30-F92975", "explanation": "Child sexual exploitation NGOs", "confidence": "medium"}
+{"feat": "30-F173851", "explanation": "Angular component metadata", "confidence": "medium"}
+{"feat": "30-F172617", "explanation": "CSS 0.5 length values", "confidence": "high"}
+{"feat": "30-F173947", "explanation": "Indefinite article a", "confidence": "high"}
+{"feat": "30-F173028", "explanation": "styled-components CSS", "confidence": "high"}
+{"feat": "30-F173318", "explanation": "HTML tag syntax", "confidence": "high"}
+{"feat": "30-F173992", "explanation": "CSS hex color codes", "confidence": "high"}
+{"feat": "30-F174459", "explanation": "HTTP 404 route handling", "confidence": "medium"}
+{"feat": "30-F174780", "explanation": "JavaScript event parameter", "confidence": "high"}
+{"feat": "30-F176039", "explanation": "education access policy", "confidence": "medium"}
+{"feat": "30-F175578", "explanation": "frontend dependency imports", "confidence": "medium"}
+{"feat": "30-F176565", "explanation": "Content-presentation separation", "confidence": "medium"}
+{"feat": "30-F177652", "explanation": "CSS styling properties", "confidence": "medium"}
+{"feat": "30-F177339", "explanation": "D3 select calls", "confidence": "high"}
+{"feat": "30-F177521", "explanation": "Say organization terminology", "confidence": "medium"}
+{"feat": "30-F178158", "explanation": "HTML form attributes", "confidence": "high"}
+{"feat": "30-F178997", "explanation": "CSS property names", "confidence": "high"}
+{"feat": "30-F178016", "explanation": "software version numbers", "confidence": "high"}
+{"feat": "30-F178416", "explanation": "Web automation waits", "confidence": "medium"}
+{"feat": "30-F169505", "explanation": "Provide optimal user experience", "confidence": "high"}
+{"feat": "30-F179077", "explanation": "CSS inline style properties", "confidence": "high"}
+{"feat": "30-F180068", "explanation": "React component import paths", "confidence": "medium"}
+{"feat": "30-F180868", "explanation": "Bootstrap modal buttons", "confidence": "high"}
+{"feat": "30-F179114", "explanation": "CSS alignment", "confidence": "high"}
+{"feat": "30-F181013", "explanation": "ASP.NET Razor PageModel", "confidence": "high"}
+{"feat": "30-F180996", "explanation": "CSS/HTML syntax", "confidence": "medium"}
+{"feat": "30-F103394", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F104296", "explanation": "Bootstrap list-group-item", "confidence": "high"}
+{"feat": "30-F182630", "explanation": "PHP POST superglobal", "confidence": "high"}
+{"feat": "30-F182811", "explanation": "Say high-quality", "confidence": "high"}
+{"feat": "30-F183890", "explanation": "UN environmental policy", "confidence": "medium"}
+{"feat": "30-F183558", "explanation": "Global action agenda", "confidence": "high"}
+{"feat": "30-F183174", "explanation": "Asia-Pacific regions", "confidence": "medium"}
+{"feat": "30-F184246", "explanation": "CSS max-width property", "confidence": "high"}
+{"feat": "30-F183925", "explanation": "Code if statements", "confidence": "high"}
+{"feat": "30-F184701", "explanation": "PHP closing tag", "confidence": "medium"}
+{"feat": "30-F185022", "explanation": "JavaScript import punctuation", "confidence": "medium"}
+{"feat": "30-F185587", "explanation": "CSS content property", "confidence": "medium"}
+{"feat": "30-F186432", "explanation": "CSS Flexbox", "confidence": "high"}
+{"feat": "30-F188220", "explanation": "built-in hyphenation", "confidence": "medium"}
+{"feat": "30-F185219", "explanation": "SVG URL fragment references", "confidence": "high"}
+{"feat": "30-F186599", "explanation": "HTML form elements", "confidence": "medium"}
+{"feat": "30-F188953", "explanation": "Three-item enumerations", "confidence": "medium"}
+{"feat": "30-F188625", "explanation": "UN economic commissions", "confidence": "medium"}
+{"feat": "30-F189605", "explanation": "ES import commas", "confidence": "medium"}
+{"feat": "30-F189730", "explanation": "faster and easier web development", "confidence": "high"}
+{"feat": "30-F110856", "explanation": "JavaScript DOM selectors", "confidence": "high"}
+{"feat": "30-F190307", "explanation": "CSS margin property", "confidence": "high"}
+{"feat": "30-F190644", "explanation": "HTML document boilerplate", "confidence": "high"}
+{"feat": "30-F193247", "explanation": "Chinese Communist Party", "confidence": "high"}
+{"feat": "30-F191262", "explanation": "CSS frameworks", "confidence": "high"}
+{"feat": "30-F193432", "explanation": "HTML submit button attributes", "confidence": "high"}
+{"feat": "30-F194703", "explanation": "CSS margin zero", "confidence": "high"}
+{"feat": "30-F194073", "explanation": "React JSX markup", "confidence": "high"}
+{"feat": "30-F195323", "explanation": "CSS responsive breakpoints", "confidence": "medium"}
+{"feat": "30-F197014", "explanation": "Don't Say navigation menu", "confidence": "medium"}
+{"feat": "30-F195500", "explanation": "jQuery selector code", "confidence": "medium"}
+{"feat": "30-F195983", "explanation": "CSS terminology", "confidence": "high"}
+{"feat": "30-F195741", "explanation": "JavaScript style display", "confidence": "high"}
+{"feat": "30-F202134", "explanation": "UN Decade initiatives", "confidence": "medium"}
+{"feat": "30-F196621", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F197469", "explanation": "PHP include statements", "confidence": "high"}
+{"feat": "30-F200796", "explanation": "web app code updates", "confidence": "medium"}
+{"feat": "30-F198130", "explanation": "Dynamic web applications", "confidence": "high"}
+{"feat": "30-F201715", "explanation": "JavaScript forEach callbacks", "confidence": "high"}
+{"feat": "30-F202565", "explanation": "WordPress development", "confidence": "medium"}
+{"feat": "30-F207408", "explanation": "UI layout code", "confidence": "medium"}
+{"feat": "30-F119750", "explanation": "2030 target deadline", "confidence": "high"}
+{"feat": "30-F204164", "explanation": "CSS background-image property", "confidence": "high"}
+{"feat": "30-F204582", "explanation": "technical explanatory prose", "confidence": "low"}
+{"feat": "30-F204840", "explanation": "WCAG accessibility standards", "confidence": "high"}
+{"feat": "30-F208375", "explanation": "frontend UI properties", "confidence": "medium"}
+{"feat": "30-F206375", "explanation": "Express static public directory", "confidence": "high"}
+{"feat": "30-F208162", "explanation": "JavaScript element visibility toggling", "confidence": "high"}
+{"feat": "30-F206629", "explanation": "Seek progress, maintain stability", "confidence": "medium"}
+{"feat": "30-F207370", "explanation": "Web app template names", "confidence": "medium"}
+{"feat": "30-F208901", "explanation": "BeautifulSoup HTML scraping", "confidence": "high"}
+{"feat": "30-F208145", "explanation": "Say dependence/independence", "confidence": "low"}
+{"feat": "30-F210209", "explanation": "JavaScript assignment equals", "confidence": "high"}
+{"feat": "30-F214074", "explanation": "just transition", "confidence": "high"}
+{"feat": "30-F208983", "explanation": "CSS web development", "confidence": "high"}
+{"feat": "30-F210815", "explanation": "React Router routes", "confidence": "high"}
+{"feat": "30-F210528", "explanation": "HTML stylesheet links", "confidence": "high"}
+{"feat": "30-F210302", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F212421", "explanation": "CSS/HTML index attributes", "confidence": "medium"}
+{"feat": "30-F211087", "explanation": "Vue.js framework descriptions", "confidence": "medium"}
+{"feat": "30-F213546", "explanation": "JavaScript DOM assignments", "confidence": "medium"}
+{"feat": "30-F214934", "explanation": "responsive web design", "confidence": "high"}
+{"feat": "30-F215079", "explanation": "jQuery stop/unbind methods", "confidence": "medium"}
+{"feat": "30-F215470", "explanation": "Say short", "confidence": "low"}
+{"feat": "30-F221927", "explanation": "Dependence on nature", "confidence": "medium"}
+{"feat": "30-F215572", "explanation": "Theme identifiers in code", "confidence": "medium"}
+{"feat": "30-F215642", "explanation": "HTML attribute closing", "confidence": "medium"}
+{"feat": "30-F216477", "explanation": "front-end web development", "confidence": "medium"}
+{"feat": "30-F216557", "explanation": "Chinese policy announcements", "confidence": "medium"}
+{"feat": "30-F216992", "explanation": "HTML and code syntax", "confidence": "medium"}
+{"feat": "30-F218106", "explanation": "jQuery event handler quotes", "confidence": "high"}
+{"feat": "30-F219228", "explanation": "Java HTML templating", "confidence": "high"}
+{"feat": "30-F221981", "explanation": "JavaScript event listener quotes", "confidence": "high"}
+{"feat": "30-F220069", "explanation": "SVG viewBox zero", "confidence": "medium"}
+{"feat": "30-F222469", "explanation": "HTML tag names", "confidence": "medium"}
+{"feat": "30-F225221", "explanation": "scrollIntoView method", "confidence": "high"}
+{"feat": "30-F205623", "explanation": "Java ModelAndView", "confidence": "high"}
+{"feat": "30-F223044", "explanation": "HTML attribute assignment", "confidence": "medium"}
+{"feat": "30-F226985", "explanation": "R Shiny Leaflet code", "confidence": "high"}
+{"feat": "30-F223397", "explanation": "JavaScript reducer indentation", "confidence": "high"}
+{"feat": "30-F223069", "explanation": "Angular app root component", "confidence": "high"}
+{"feat": "30-F223978", "explanation": "HTML form label markup", "confidence": "high"}
+{"feat": "30-F224949", "explanation": "JavaScript function parentheses", "confidence": "medium"}
+{"feat": "30-F224767", "explanation": "JSX prop assignment braces", "confidence": "high"}
+{"feat": "30-F226233", "explanation": "HTML name attribute", "confidence": "high"}
+{"feat": "30-F225227", "explanation": "jQuery script imports", "confidence": "medium"}
+{"feat": "30-F234409", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F227495", "explanation": "Elementor WordPress builder", "confidence": "medium"}
+{"feat": "30-F227268", "explanation": "jQuery fade animations", "confidence": "high"}
+{"feat": "30-F227799", "explanation": "DOM tree navigation", "confidence": "medium"}
+{"feat": "30-F229239", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F232798", "explanation": "programming code context", "confidence": "medium"}
+{"feat": "30-F233203", "explanation": "HTML type attribute", "confidence": "high"}
+{"feat": "30-F233498", "explanation": "Say protection", "confidence": "high"}
+{"feat": "30-F234489", "explanation": "jQuery plugin closure", "confidence": "high"}
+{"feat": "30-F239756", "explanation": "Largest Contentful Paint", "confidence": "medium"}
+{"feat": "30-F235396", "explanation": "Web script placement", "confidence": "medium"}
+{"feat": "30-F238316", "explanation": "code assignment operator", "confidence": "medium"}
+{"feat": "30-F236518", "explanation": "HTML language mentions", "confidence": "high"}
+{"feat": "30-F240012", "explanation": "web code identifiers", "confidence": "medium"}
+{"feat": "30-F238614", "explanation": "JavaScript DOM selectors", "confidence": "medium"}
+{"feat": "30-F239245", "explanation": "CSS viewport units", "confidence": "high"}
+{"feat": "30-F239781", "explanation": "WordPress page template", "confidence": "high"}
+{"feat": "30-F239995", "explanation": "sustainable agriculture", "confidence": "medium"}
+{"feat": "30-F240210", "explanation": "economic development", "confidence": "high"}
+{"feat": "30-F241425", "explanation": "JavaScript class component code", "confidence": "medium"}
+{"feat": "30-F241467", "explanation": "Accordion UI components", "confidence": "high"}
+{"feat": "30-F242276", "explanation": "Font Awesome assets", "confidence": "high"}
+{"feat": "30-F138713", "explanation": "HTML lang=\"en\" attribute", "confidence": "high"}
+{"feat": "30-F242345", "explanation": "HTML meta charset syntax", "confidence": "high"}
+{"feat": "30-F245238", "explanation": "AngularJS module definitions", "confidence": "medium"}
+{"feat": "30-F243813", "explanation": "transformative climate action", "confidence": "high"}
+{"feat": "30-F244328", "explanation": "responsive web design", "confidence": "medium"}
+{"feat": "30-F244569", "explanation": "Hidden HTML elements", "confidence": "high"}
+{"feat": "30-F245062", "explanation": "CSS width properties", "confidence": "high"}
+{"feat": "30-F248540", "explanation": "CSS spacing properties", "confidence": "high"}
+{"feat": "30-F245687", "explanation": "Express.js request object", "confidence": "high"}
+{"feat": "30-F245936", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F245691", "explanation": "Awkward technical documentation", "confidence": "medium"}
+{"feat": "30-F246288", "explanation": "HTML closing tags", "confidence": "high"}
+{"feat": "30-F247130", "explanation": "Tailwind CSS framework", "confidence": "high"}
+{"feat": "30-F247281", "explanation": "Chinese official policy rhetoric", "confidence": "high"}
+{"feat": "30-F247349", "explanation": "HTML template placeholders", "confidence": "high"}
+{"feat": "30-F248957", "explanation": "HTML id selectors", "confidence": "high"}
+{"feat": "30-F249673", "explanation": "HTML form input attributes", "confidence": "medium"}
+{"feat": "30-F249464", "explanation": "JavaScript import from", "confidence": "high"}
+{"feat": "30-F249925", "explanation": "economic globalization rhetoric", "confidence": "medium"}
+{"feat": "30-F249975", "explanation": "WCAG accessibility principles", "confidence": "high"}
+{"feat": "30-F250705", "explanation": "HTML body tag", "confidence": "high"}
+{"feat": "30-F251489", "explanation": "AngularJS controller code", "confidence": "high"}
+{"feat": "30-F250721", "explanation": "CSS child selectors", "confidence": "high"}
+{"feat": "30-F251749", "explanation": "Web design terminology", "confidence": "high"}
+{"feat": "30-F146872", "explanation": "HTML5 web features", "confidence": "high"}
+{"feat": "30-F257245", "explanation": "XPath selector syntax", "confidence": "high"}
+{"feat": "30-F252134", "explanation": "jQuery document ready", "confidence": "high"}
+{"feat": "30-F252357", "explanation": "CSS z-index values", "confidence": "high"}
+{"feat": "30-F257951", "explanation": "URL path slash", "confidence": "medium"}
+{"feat": "30-F252865", "explanation": "Indented HTML markup", "confidence": "high"}
+{"feat": "30-F254314", "explanation": "DOM selection code", "confidence": "medium"}
+{"feat": "30-F255923", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F255588", "explanation": "React App JSX template", "confidence": "high"}
+{"feat": "30-F255258", "explanation": "CSS selector class names", "confidence": "medium"}
+{"feat": "30-F264134", "explanation": "Laravel store method docblock", "confidence": "high"}
+{"feat": "30-F256560", "explanation": "Selenium ExpectedConditions methods", "confidence": "high"}
+{"feat": "30-F257901", "explanation": "UI layout attributes", "confidence": "medium"}
+{"feat": "30-F264807", "explanation": "HTML table attributes", "confidence": "high"}
+{"feat": "30-F257995", "explanation": "Say classes", "confidence": "medium"}
+{"feat": "30-F258299", "explanation": "CSS hex color values", "confidence": "high"}
+{"feat": "30-F262385", "explanation": "website development case studies", "confidence": "medium"}
+{"feat": "30-F263102", "explanation": "Gradio UI library", "confidence": "high"}
+{"feat": "30-F263480", "explanation": "HTML structural tags", "confidence": "medium"}
+{"feat": "30-F45706", "explanation": "JavaScript DOM element variables", "confidence": "high"}
+{"feat": "30-F264207", "explanation": "Website speed optimization", "confidence": "medium"}
+{"feat": "30-F264877", "explanation": "JavaScript DOM code", "confidence": "medium"}
+{"feat": "30-F266414", "explanation": "Google brand name", "confidence": "high"}
+{"feat": "30-F265862", "explanation": "React class components", "confidence": "high"}
+{"feat": "30-F269501", "explanation": "HTML body tag", "confidence": "high"}
+{"feat": "30-F266479", "explanation": "CSS media screen queries", "confidence": "high"}
+{"feat": "30-F266911", "explanation": "Markdown web tech lists", "confidence": "medium"}
+{"feat": "30-F267014", "explanation": "JSX className attribute", "confidence": "high"}
+{"feat": "30-F267347", "explanation": "DOM Element types", "confidence": "high"}
+{"feat": "30-F268931", "explanation": "screen-reader-only accessibility", "confidence": "high"}
+{"feat": "30-F269017", "explanation": "JavaScript DOM element getters", "confidence": "high"}
+{"feat": "30-F271823", "explanation": "CSS font-weight values", "confidence": "high"}
+{"feat": "30-F269593", "explanation": "China development policy", "confidence": "medium"}
+{"feat": "30-F272734", "explanation": "Scrapy XPath parsing", "confidence": "high"}
+{"feat": "30-F269646", "explanation": "SPA index.html fallback routing", "confidence": "high"}
+{"feat": "30-F272917", "explanation": "HTML Document title", "confidence": "high"}
+{"feat": "30-F270697", "explanation": "UI event handlers", "confidence": "medium"}
+{"feat": "30-F271826", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F270721", "explanation": "WCAG 2.x standards", "confidence": "high"}
+{"feat": "30-F270737", "explanation": "JavaScript document object", "confidence": "high"}
+{"feat": "30-F273816", "explanation": "NDC climate commitments", "confidence": "medium"}
+{"feat": "30-F271927", "explanation": "Frontend JSX/CSS code", "confidence": "medium"}
+{"feat": "30-F272194", "explanation": "HTML heading elements", "confidence": "medium"}
+{"feat": "30-F272350", "explanation": "React App className JSX", "confidence": "high"}
+{"feat": "30-F273629", "explanation": "LESS CSS preprocessing", "confidence": "medium"}
+{"feat": "30-F281398", "explanation": "Frontend styling imports", "confidence": "medium"}
+{"feat": "30-F274788", "explanation": "JavaScript callback functions", "confidence": "high"}
+{"feat": "30-F276445", "explanation": "CSS declaration syntax", "confidence": "high"}
+{"feat": "30-F278479", "explanation": "JavaScript preventDefault calls", "confidence": "high"}
+{"feat": "30-F278974", "explanation": "web application code", "confidence": "medium"}
+{"feat": "30-F277041", "explanation": "JavaScript component endings", "confidence": "high"}
+{"feat": "30-F265765", "explanation": "Angular directives", "confidence": "high"}
+{"feat": "30-F280488", "explanation": "COP28 climate agreements", "confidence": "medium"}
+{"feat": "30-F280606", "explanation": "CSS padding values", "confidence": "medium"}
+{"feat": "30-F280887", "explanation": "technical computing text", "confidence": "low"}
+{"feat": "30-F281459", "explanation": "challenges and insufficiency", "confidence": "medium"}
+{"feat": "30-F287101", "explanation": "HTML tag names", "confidence": "high"}
+{"feat": "30-F285077", "explanation": "HTML anchor list items", "confidence": "high"}
+{"feat": "30-F284742", "explanation": "Sustainable development issues", "confidence": "medium"}
+{"feat": "30-F285984", "explanation": "CSS margin positioning", "confidence": "high"}
+{"feat": "30-F285107", "explanation": "Decent Work and Economic Growth", "confidence": "high"}
+{"feat": "30-F285152", "explanation": "web routing paths", "confidence": "medium"}
+{"feat": "30-F287029", "explanation": "Paris climate agreement", "confidence": "high"}
+{"feat": "30-F162898", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F287671", "explanation": "Hyphenated code identifiers", "confidence": "medium"}
+{"feat": "30-F291149", "explanation": "AOS animation library", "confidence": "medium"}
+{"feat": "30-F295019", "explanation": "Blazor web framework", "confidence": "high"}
+{"feat": "30-F292121", "explanation": "mental health discourse", "confidence": "high"}
+{"feat": "30-F288743", "explanation": "Selenium find elements", "confidence": "high"}
+{"feat": "30-F292423", "explanation": "Public health burden statistics", "confidence": "medium"}
+{"feat": "30-F293038", "explanation": "HTML base element", "confidence": "high"}
+{"feat": "30-F292544", "explanation": "CSS media query breakpoints", "confidence": "medium"}
+{"feat": "30-F292827", "explanation": "Python plotting widgets", "confidence": "medium"}
+{"feat": "30-F292854", "explanation": "MVC view name strings", "confidence": "high"}
+{"feat": "30-F293991", "explanation": "CSS style declarations", "confidence": "medium"}
+{"feat": "30-F295608", "explanation": "HTML table header", "confidence": "high"}
+{"feat": "30-F297696", "explanation": "JavaScript export identifier", "confidence": "high"}
+{"feat": "30-F296127", "explanation": "RGB color values", "confidence": "high"}
+{"feat": "30-F279732", "explanation": "HTML input elements", "confidence": "high"}
+{"feat": "30-F298946", "explanation": "XPath id selectors", "confidence": "high"}
+{"feat": "30-F296260", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F296385", "explanation": "AngularJS module methods", "confidence": "medium"}
+{"feat": "30-F296533", "explanation": "JavaScript event.target", "confidence": "high"}
+{"feat": "30-F300360", "explanation": "HTML required attribute", "confidence": "high"}
+{"feat": "30-F297874", "explanation": "Say lowering costs", "confidence": "high"}
+{"feat": "30-F296942", "explanation": "static site generator markup", "confidence": "high"}
+{"feat": "30-F298624", "explanation": "Bootstrap margin classes", "confidence": "high"}
+{"feat": "30-F287008", "explanation": "jQuery document ready", "confidence": "high"}
+{"feat": "30-F299104", "explanation": "data visualization code", "confidence": "medium"}
+{"feat": "30-F299319", "explanation": "JavaScript window object", "confidence": "high"}
+{"feat": "30-F299310", "explanation": "social equity and equality", "confidence": "medium"}
+{"feat": "30-F300725", "explanation": "HTML5 shiv legacy IE", "confidence": "high"}
+{"feat": "30-F301305", "explanation": "HTML attribute syntax", "confidence": "high"}
+{"feat": "30-F288272", "explanation": "JSX/HTML opening tags", "confidence": "high"}
+{"feat": "30-F301522", "explanation": "JavaScript DOM appendChild", "confidence": "high"}
+{"feat": "30-F302355", "explanation": "BRI co-building slogan", "confidence": "high"}
+{"feat": "30-F302584", "explanation": "JavaScript keyboard event handling", "confidence": "high"}
+{"feat": "30-F302609", "explanation": "WordPress theme markup", "confidence": "medium"}
+{"feat": "30-F303316", "explanation": "CSS ID/class selectors", "confidence": "high"}
+{"feat": "30-F290782", "explanation": "humanitarian nonprofit advocacy", "confidence": "medium"}
+{"feat": "30-F303429", "explanation": "CSS max-width media query", "confidence": "high"}
+{"feat": "30-F303912", "explanation": "HTML submit input", "confidence": "high"}
+{"feat": "30-F303930", "explanation": "single-page app routing", "confidence": "medium"}
+{"feat": "30-F307811", "explanation": "Bootstrap modal target attributes", "confidence": "high"}
+{"feat": "30-F305219", "explanation": "React class component JSX", "confidence": "medium"}
+{"feat": "30-F304032", "explanation": "XPath selectors", "confidence": "high"}
+{"feat": "30-F306095", "explanation": "Angular unit test setup", "confidence": "high"}
+{"feat": "30-F307232", "explanation": "SDG elimination targets", "confidence": "medium"}
+{"feat": "30-F308431", "explanation": "HTML form layout code", "confidence": "medium"}
+{"feat": "30-F306195", "explanation": "HTML tag references", "confidence": "high"}
+{"feat": "30-F307870", "explanation": "Responsive web design", "confidence": "high"}
+{"feat": "30-F308368", "explanation": "JavaScript indentation", "confidence": "high"}
+{"feat": "30-F308446", "explanation": "JavaScript DOM deletion", "confidence": "high"}
+{"feat": "30-F309450", "explanation": "JavaScript dollar syntax", "confidence": "high"}
+{"feat": "30-F312072", "explanation": "BEM double underscore", "confidence": "high"}
+{"feat": "30-F309346", "explanation": "Image sliders", "confidence": "high"}
+{"feat": "30-F312679", "explanation": "Angular framework", "confidence": "high"}
+{"feat": "30-F311290", "explanation": "React UI components", "confidence": "medium"}
+{"feat": "30-F309617", "explanation": "Ionic Angular code", "confidence": "high"}
+{"feat": "30-F311787", "explanation": "www.w3.org XML namespace", "confidence": "high"}
+{"feat": "30-F312623", "explanation": "responsive mobile breakpoints", "confidence": "high"}
+{"feat": "30-F313340", "explanation": "WordPress page_not_loaded", "confidence": "high"}
+{"feat": "30-F312763", "explanation": "DOM viewport bounds checks", "confidence": "high"}
+{"feat": "30-F313231", "explanation": "uppercase code constants", "confidence": "medium"}
+{"feat": "30-F314620", "explanation": "JSX markup structure", "confidence": "medium"}
+{"feat": "30-F315450", "explanation": "HTML label element", "confidence": "high"}
+{"feat": "30-F315114", "explanation": "CSS !important declarations", "confidence": "high"}
+{"feat": "30-F316012", "explanation": "Say Chinese locatives", "confidence": "medium"}
+{"feat": "30-F316490", "explanation": "JavaScript HTML templates", "confidence": "high"}
+{"feat": "30-F317013", "explanation": "JavaScript event target value", "confidence": "high"}
+{"feat": "30-F317931", "explanation": "No-code web builders", "confidence": "medium"}
+{"feat": "30-F319071", "explanation": "HTML image tags", "confidence": "high"}
+{"feat": "30-F319404", "explanation": "CSS property declarations", "confidence": "high"}
+{"feat": "30-F320365", "explanation": "Laravel resource store docblock", "confidence": "medium"}
+{"feat": "30-F319973", "explanation": "Bootstrap CSS paths", "confidence": "high"}
+{"feat": "30-F320454", "explanation": "No-code website building", "confidence": "medium"}
+{"feat": "30-F321439", "explanation": "jQuery document ready callback", "confidence": "high"}
+{"feat": "30-F326909", "explanation": "HTML form action attribute", "confidence": "high"}
+{"feat": "30-F326674", "explanation": "jQuery DOM methods", "confidence": "medium"}
+{"feat": "30-F326470", "explanation": "HTML div elements", "confidence": "high"}
+{"feat": "30-F322443", "explanation": "HTML form action attribute", "confidence": "high"}
+{"feat": "30-F325690", "explanation": "programming code syntax", "confidence": "medium"}
+{"feat": "30-F329304", "explanation": "JavaScript route configuration", "confidence": "medium"}
+{"feat": "30-F293980", "explanation": "React conditional loading return", "confidence": "medium"}
+{"feat": "30-F181927", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F326947", "explanation": "JavaScript .length loops", "confidence": "high"}
+{"feat": "30-F329365", "explanation": "CSS spacing properties", "confidence": "high"}
+{"feat": "30-F333122", "explanation": "Indented CSS styling", "confidence": "medium"}
+{"feat": "30-F329765", "explanation": "JavaScript variable declarations", "confidence": "high"}
+{"feat": "30-F332245", "explanation": "D3.js chart code", "confidence": "high"}
+{"feat": "30-F330699", "explanation": "HTML/SVG height attribute", "confidence": "high"}
+{"feat": "30-F330674", "explanation": "CSS hex color codes", "confidence": "high"}
+{"feat": "30-F331890", "explanation": "cross-browser compatibility", "confidence": "medium"}
+{"feat": "30-F331290", "explanation": "HTML table body", "confidence": "high"}
+{"feat": "30-F331320", "explanation": "enumerated framework categories", "confidence": "medium"}
+{"feat": "30-F331815", "explanation": "JavaScript DOM elements", "confidence": "medium"}
+{"feat": "30-F312113", "explanation": "AngularJS application development", "confidence": "medium"}
+{"feat": "30-F332654", "explanation": "lightbox image plugin", "confidence": "high"}
+{"feat": "30-F332350", "explanation": "Gender equality", "confidence": "high"}
+{"feat": "30-F333531", "explanation": "Paris climate agreement", "confidence": "high"}
+{"feat": "30-F333412", "explanation": "Vietnam economic development", "confidence": "medium"}
+{"feat": "30-F333867", "explanation": "CSS html body selector", "confidence": "high"}
+{"feat": "30-F334193", "explanation": "JavaScript code", "confidence": "medium"}
+{"feat": "30-F334811", "explanation": "CSS z-index property", "confidence": "high"}
+{"feat": "30-F334684", "explanation": "contextual CSS/code identifiers", "confidence": "medium"}
+{"feat": "30-F335832", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F335039", "explanation": "Responsive web design", "confidence": "high"}
+{"feat": "30-F335848", "explanation": "PHP/HTML template code", "confidence": "high"}
+{"feat": "30-F336490", "explanation": "HTML/XHTML markup", "confidence": "medium"}
+{"feat": "30-F337481", "explanation": "jQuery UI documentation", "confidence": "medium"}
+{"feat": "30-F337571", "explanation": "responsive mobile web design", "confidence": "medium"}
+{"feat": "30-F342503", "explanation": "HTML/CSS web development", "confidence": "medium"}
+{"feat": "30-F338377", "explanation": "WordPress version metadata", "confidence": "high"}
+{"feat": "30-F338895", "explanation": "HTML closing tags", "confidence": "medium"}
+{"feat": "30-F340423", "explanation": "PHP method chaining", "confidence": "high"}
+{"feat": "30-F340137", "explanation": "DOM element manipulation", "confidence": "medium"}
+{"feat": "30-F339172", "explanation": "JavaScript closing brace", "confidence": "medium"}
+{"feat": "30-F345292", "explanation": "Selenium JavaScript execution", "confidence": "high"}
+{"feat": "30-F340473", "explanation": "CakePHP view variable setting", "confidence": "high"}
+{"feat": "30-F341599", "explanation": "HTML head markup", "confidence": "medium"}
+{"feat": "30-F343364", "explanation": "JavaScript event parameter", "confidence": "high"}
+{"feat": "30-F343405", "explanation": "Sustainable Development Goals", "confidence": "high"}
+{"feat": "30-F350462", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F343601", "explanation": "Don't Say China/Gov", "confidence": "medium"}
+{"feat": "30-F345500", "explanation": "CSS layout sizing", "confidence": "medium"}
+{"feat": "30-F351043", "explanation": "HTML charset meta tag", "confidence": "high"}
+{"feat": "30-F346031", "explanation": "CSS padding property", "confidence": "high"}
+{"feat": "30-F346534", "explanation": "event handler parameter e", "confidence": "medium"}
+{"feat": "30-F348942", "explanation": "Web UI property attributes", "confidence": "medium"}
+{"feat": "30-F348534", "explanation": "SDG 10 inequalities", "confidence": "high"}
+{"feat": "30-F346946", "explanation": "Say news media", "confidence": "medium"}
+{"feat": "30-F350287", "explanation": "Image variable shorthand", "confidence": "high"}
+{"feat": "30-F350222", "explanation": "HTML CSS JavaScript", "confidence": "medium"}
+{"feat": "30-F350342", "explanation": "Bootstrap file paths", "confidence": "high"}
+{"feat": "30-F351802", "explanation": "Laravel resource storage comment", "confidence": "high"}
+{"feat": "30-F351840", "explanation": "Tailwind CSS utility classes", "confidence": "high"}
+{"feat": "30-F354380", "explanation": "768px responsive breakpoint", "confidence": "medium"}
+{"feat": "30-F355256", "explanation": "Bootstrap web UI code", "confidence": "medium"}
+{"feat": "30-F356723", "explanation": "PHP DOM scraping code", "confidence": "high"}
+{"feat": "30-F357008", "explanation": "HTML/CSS styling syntax", "confidence": "medium"}
+{"feat": "30-F355694", "explanation": "Tailwind CSS directives", "confidence": "high"}
+{"feat": "30-F358195", "explanation": "HTML form markup", "confidence": "high"}
+{"feat": "30-F358361", "explanation": "CSS zero margins", "confidence": "high"}
+{"feat": "30-F360877", "explanation": "Website header navigation", "confidence": "medium"}
+{"feat": "30-F339083", "explanation": "AngularJS templates", "confidence": "high"}
+{"feat": "30-F358729", "explanation": "XPath method calls", "confidence": "high"}
+{"feat": "30-F361286", "explanation": "CSS box-shadow values", "confidence": "high"}
+{"feat": "30-F360494", "explanation": "React import statements", "confidence": "high"}
+{"feat": "30-F363119", "explanation": "On-page SEO explanations", "confidence": "medium"}
+{"feat": "30-F360854", "explanation": "Socket.io event handlers", "confidence": "high"}
+{"feat": "30-F359570", "explanation": "HTML label elements", "confidence": "high"}
+{"feat": "30-F361140", "explanation": "Password form fields", "confidence": "high"}
+{"feat": "30-F361299", "explanation": "React user interfaces", "confidence": "high"}
+{"feat": "30-F362021", "explanation": "CSS layout styling", "confidence": "medium"}
+{"feat": "30-F361705", "explanation": "HTML document header", "confidence": "medium"}
+{"feat": "30-F362939", "explanation": "JavaScript visualization code", "confidence": "medium"}
+{"feat": "30-F362959", "explanation": "HTML/JSX indentation", "confidence": "high"}
+{"feat": "30-F365747", "explanation": "Angular @Component metadata", "confidence": "medium"}
+{"feat": "30-F366393", "explanation": "jQuery animate object literal", "confidence": "high"}
+{"feat": "30-F368504", "explanation": "web accessibility", "confidence": "high"}
+{"feat": "30-F366674", "explanation": "Address shortcomings", "confidence": "high"}
+{"feat": "30-F368597", "explanation": "Chinese economic policy rhetoric", "confidence": "medium"}
+{"feat": "30-F368778", "explanation": "ASP.NET runat server attributes", "confidence": "high"}
+{"feat": "30-F369607", "explanation": "CSS rules/selectors", "confidence": "medium"}
+{"feat": "30-F370578", "explanation": "web code snippets", "confidence": "medium"}
+{"feat": "30-F370155", "explanation": "expansion and scaling", "confidence": "high"}
+{"feat": "30-F371142", "explanation": "CSS padding attributes", "confidence": "high"}
+{"feat": "30-F371491", "explanation": "JavaScript DOM loops", "confidence": "high"}
+{"feat": "30-F372222", "explanation": "CSS border styling", "confidence": "high"}
+{"feat": "30-F373077", "explanation": "Vue.js code snippets", "confidence": "medium"}
+{"feat": "30-F374750", "explanation": "JavaScript variable declarations", "confidence": "high"}
+{"feat": "30-F376055", "explanation": "Website internals", "confidence": "medium"}
+{"feat": "30-F376870", "explanation": "JavaScript import from", "confidence": "high"}
+{"feat": "30-F376799", "explanation": "realization / achievement", "confidence": "medium"}
+{"feat": "30-F376857", "explanation": "AppleWebKit user agent", "confidence": "high"}
+{"feat": "30-F377935", "explanation": "Bootstrap modal HTML", "confidence": "high"}
+{"feat": "30-F377410", "explanation": "development statistics", "confidence": "medium"}
+{"feat": "30-F378477", "explanation": "Vue.js import statements", "confidence": "high"}
+{"feat": "30-F378501", "explanation": "WordPress theme customization", "confidence": "medium"}
+{"feat": "30-F378708", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F383194", "explanation": "Flask render_template imports", "confidence": "high"}
+{"feat": "30-F380993", "explanation": "International development cooperation", "confidence": "medium"}
+{"feat": "30-F379226", "explanation": "International day themes", "confidence": "medium"}
+{"feat": "30-F385354", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F234441", "explanation": "HTML element selectors", "confidence": "medium"}
+{"feat": "30-F381143", "explanation": "Web standard version numbers", "confidence": "high"}
+{"feat": "30-F383586", "explanation": "JSX submit buttons", "confidence": "medium"}
+{"feat": "30-F388276", "explanation": "source code syntax", "confidence": "medium"}
+{"feat": "30-F385049", "explanation": "Liquid template end tags", "confidence": "high"}
+{"feat": "30-F385824", "explanation": "Vue Router documentation", "confidence": "high"}
+{"feat": "30-F386055", "explanation": "HTML span element", "confidence": "high"}
+{"feat": "30-F390145", "explanation": "Code for-loop iteration", "confidence": "medium"}
+{"feat": "30-F390904", "explanation": "JS arrow function callbacks", "confidence": "high"}
+{"feat": "30-F386913", "explanation": "Width specifications in code", "confidence": "high"}
+{"feat": "30-F387753", "explanation": "Backbone.js framework", "confidence": "high"}
+{"feat": "30-F388558", "explanation": "Responsive web design", "confidence": "high"}
+{"feat": "30-F388671", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F390510", "explanation": "PHP include/require statements", "confidence": "high"}
+{"feat": "30-F394239", "explanation": "HTML attribute quotation marks", "confidence": "medium"}
+{"feat": "30-F392893", "explanation": "JavaScript import quote", "confidence": "high"}
+{"feat": "30-F392960", "explanation": "Plotly visualization code", "confidence": "high"}
+{"feat": "30-F394323", "explanation": "web styling code", "confidence": "medium"}
+{"feat": "30-F395737", "explanation": "UN sustainable development goals", "confidence": "medium"}
+{"feat": "30-F395743", "explanation": "Bootstrap carousel markup", "confidence": "high"}
+{"feat": "30-F395999", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F396173", "explanation": "Plotly fig variable", "confidence": "high"}
+{"feat": "30-F396235", "explanation": "jQuery form validation errors", "confidence": "high"}
+{"feat": "30-F398427", "explanation": "CSS styling syntax", "confidence": "high"}
+{"feat": "30-F396925", "explanation": "relative import paths", "confidence": "high"}
+{"feat": "30-F399139", "explanation": "Need for policy action", "confidence": "medium"}
+{"feat": "30-F397211", "explanation": "HTML type attribute", "confidence": "high"}
+{"feat": "30-F398458", "explanation": "Angular providedIn decorator", "confidence": "high"}
+{"feat": "30-F399284", "explanation": "HTML section identifier", "confidence": "medium"}
+{"feat": "30-F399322", "explanation": "HTML password inputs", "confidence": "medium"}
+{"feat": "30-F399729", "explanation": "CSS definition explanations", "confidence": "high"}
+{"feat": "30-F400506", "explanation": "Bootstrap grid columns", "confidence": "high"}
+{"feat": "30-F401032", "explanation": "Hotwire Rails JavaScript", "confidence": "high"}
+{"feat": "30-F401464", "explanation": "Web development how-to questions", "confidence": "medium"}
+{"feat": "30-F401502", "explanation": "AJAX web technology", "confidence": "high"}
+{"feat": "30-F401785", "explanation": "CSS layout properties", "confidence": "medium"}
+{"feat": "30-F402250", "explanation": "Python Flask imports", "confidence": "high"}
+{"feat": "30-F391409", "explanation": "JSX opening tags", "confidence": "high"}
+{"feat": "30-F402255", "explanation": "HTML input attributes", "confidence": "high"}
+{"feat": "30-F403461", "explanation": "HTML document header", "confidence": "high"}
+{"feat": "30-F403828", "explanation": "frontend root DOM mounting", "confidence": "medium"}
+{"feat": "30-F403550", "explanation": "JavaScript library versions", "confidence": "medium"}
+{"feat": "30-F405055", "explanation": "HTML DOM elements", "confidence": "high"}
+{"feat": "30-F404429", "explanation": "MVC Home/Index scaffolding", "confidence": "medium"}
+{"feat": "30-F408068", "explanation": "CSS class selector syntax", "confidence": "high"}
+{"feat": "30-F408473", "explanation": "AngularJS controller callbacks", "confidence": "high"}
+{"feat": "30-F405480", "explanation": "Semantic UI framework", "confidence": "medium"}
+{"feat": "30-F396905", "explanation": "Indented HTML closing tags", "confidence": "high"}
+{"feat": "30-F405667", "explanation": "PHP SQL database queries", "confidence": "high"}
+{"feat": "30-F266833", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F406957", "explanation": "JavaScript jQuery code", "confidence": "medium"}
+{"feat": "30-F408569", "explanation": "HTML document header", "confidence": "high"}
+{"feat": "30-F408911", "explanation": "XML element creation", "confidence": "high"}
+{"feat": "30-F399535", "explanation": "HTTP 404 errors", "confidence": "high"}
+{"feat": "30-F409413", "explanation": "Express view engine setup", "confidence": "high"}
+{"feat": "30-F409498", "explanation": "jQuery version numbers", "confidence": "medium"}
+{"feat": "30-F410427", "explanation": "Angular framework documentation", "confidence": "medium"}
+{"feat": "30-F410364", "explanation": "JavaScript event handlers", "confidence": "medium"}
+{"feat": "30-F410772", "explanation": "JavaScript smooth scrolling", "confidence": "medium"}
+{"feat": "30-F409949", "explanation": "WordPress theme features", "confidence": "medium"}
+{"feat": "30-F415842", "explanation": "Lorem ipsum placeholder text", "confidence": "high"}
+{"feat": "30-F411158", "explanation": "Angular NGX libraries", "confidence": "high"}
+{"feat": "30-F415415", "explanation": "global development statistics", "confidence": "medium"}
+{"feat": "30-F417346", "explanation": "AngularJS code", "confidence": "medium"}
+{"feat": "30-F417207", "explanation": "HTML document boilerplate", "confidence": "high"}
+{"feat": "30-F417141", "explanation": "UI component code", "confidence": "medium"}
+{"feat": "30-F418060", "explanation": "HTML parsing loop variables", "confidence": "high"}
+{"feat": "30-F419838", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F418473", "explanation": "website color customization", "confidence": "high"}
+{"feat": "30-F418808", "explanation": "D3 data visualization", "confidence": "medium"}
+{"feat": "30-F419472", "explanation": "HTML rel attribute", "confidence": "high"}
+{"feat": "30-F421458", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F420076", "explanation": "d3 JavaScript imports", "confidence": "high"}
+{"feat": "30-F422402", "explanation": "Redux mapStateToProps state", "confidence": "high"}
+{"feat": "30-F422778", "explanation": "CSS/HTML code requests", "confidence": "medium"}
+{"feat": "30-F423106", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F422950", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F423396", "explanation": "Redux reducer action parameter", "confidence": "high"}
+{"feat": "30-F409325", "explanation": "Inline critical CSS", "confidence": "high"}
+{"feat": "30-F425444", "explanation": "HTML style attribute", "confidence": "high"}
+{"feat": "30-F425672", "explanation": "climate emissions reduction targets", "confidence": "medium"}
+{"feat": "30-F425674", "explanation": "CSS numeric zero values", "confidence": "high"}
+{"feat": "30-F425866", "explanation": "D3 data binding", "confidence": "high"}
+{"feat": "30-F426363", "explanation": "numeric decimal periods", "confidence": "medium"}
+{"feat": "30-F426579", "explanation": "JavaScript string construction", "confidence": "medium"}
+{"feat": "30-F426768", "explanation": "CSS pixel measurements", "confidence": "medium"}
+{"feat": "30-F428120", "explanation": "Bootstrap framework", "confidence": "high"}
+{"feat": "30-F428402", "explanation": "HTML attribute access", "confidence": "high"}
+{"feat": "30-F428441", "explanation": "CSS child combinator", "confidence": "high"}
+{"feat": "30-F428762", "explanation": "HTML fieldset tag", "confidence": "high"}
+{"feat": "30-F431089", "explanation": "CSS rgba box-shadow", "confidence": "high"}
+{"feat": "30-F429954", "explanation": "CSS file imports", "confidence": "high"}
+{"feat": "30-F431107", "explanation": "ReactDOM render calls", "confidence": "high"}
+{"feat": "30-F431681", "explanation": "JavaScript ID assignment", "confidence": "medium"}
+{"feat": "30-F431583", "explanation": "Chart.js initialization", "confidence": "high"}
+{"feat": "30-F435593", "explanation": "UI component lists", "confidence": "medium"}
+{"feat": "30-F435235", "explanation": "quantified economic impact", "confidence": "medium"}
+{"feat": "30-F434299", "explanation": "web framework routing", "confidence": "medium"}
+{"feat": "30-F436561", "explanation": "Font Awesome icons", "confidence": "high"}
+{"feat": "30-F434610", "explanation": "JavaScript web app code", "confidence": "medium"}
+{"feat": "30-F436931", "explanation": "frontend JavaScript code", "confidence": "medium"}
+{"feat": "30-F438598", "explanation": "HTML head section", "confidence": "high"}
+{"feat": "30-F440741", "explanation": "HTML input type attribute", "confidence": "high"}
+{"feat": "30-F440977", "explanation": "Substring \"in\"", "confidence": "medium"}
+{"feat": "30-F440714", "explanation": "JavaScript event parameter", "confidence": "high"}
+{"feat": "30-F442567", "explanation": "child mortality targets", "confidence": "medium"}
+{"feat": "30-F443510", "explanation": "technical exposition", "confidence": "low"}
+{"feat": "30-F444415", "explanation": "indefinite article a", "confidence": "medium"}
+{"feat": "30-F445171", "explanation": "HTML head metadata", "confidence": "high"}
+{"feat": "30-F445234", "explanation": "CSS class selectors", "confidence": "medium"}
+{"feat": "30-F446809", "explanation": "Say aging demographics", "confidence": "high"}
+{"feat": "30-F449281", "explanation": "CSS fixed overlay positioning", "confidence": "high"}
+{"feat": "30-F447210", "explanation": "Cascading Style Sheets", "confidence": "medium"}
+{"feat": "30-F449218", "explanation": "Express Handlebars templating", "confidence": "medium"}
+{"feat": "30-F452148", "explanation": "PHP public function declarations", "confidence": "high"}
+{"feat": "30-F452954", "explanation": "extending software functionality", "confidence": "medium"}
+{"feat": "30-F449991", "explanation": "PHP flash messages", "confidence": "high"}
+{"feat": "30-F451722", "explanation": "React root div", "confidence": "high"}
+{"feat": "30-F330009", "explanation": "jQuery UI widgets", "confidence": "high"}
+{"feat": "30-F453049", "explanation": "Frontend routing configuration", "confidence": "high"}
+{"feat": "30-F455367", "explanation": "CSS transition durations", "confidence": "high"}
+{"feat": "30-F455178", "explanation": "Markdown code formatting", "confidence": "medium"}
+{"feat": "30-F456111", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F456796", "explanation": "JavaScript click handlers", "confidence": "high"}
+{"feat": "30-F456829", "explanation": "JavaScript initialize functions", "confidence": "high"}
+{"feat": "30-F457812", "explanation": "CSS flex alignment", "confidence": "high"}
+{"feat": "30-F335800", "explanation": "HTML/CSS navigation code", "confidence": "medium"}
+{"feat": "30-F458083", "explanation": "CSS text-align property", "confidence": "high"}
+{"feat": "30-F458149", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F459473", "explanation": "React Redux mapStateToProps", "confidence": "medium"}
+{"feat": "30-F459632", "explanation": "HTML/JavaScript code snippets", "confidence": "medium"}
+{"feat": "30-F461513", "explanation": "event handler code", "confidence": "medium"}
+{"feat": "30-F463232", "explanation": "UI layout numeric values", "confidence": "medium"}
+{"feat": "30-F461560", "explanation": "programming documentation", "confidence": "low"}
+{"feat": "30-F462189", "explanation": "CSS border property", "confidence": "high"}
+{"feat": "30-F462315", "explanation": "Next.js framework", "confidence": "high"}
+{"feat": "30-F464356", "explanation": "CSS style properties", "confidence": "medium"}
+{"feat": "30-F464152", "explanation": "CSS terminology", "confidence": "high"}
+{"feat": "30-F463343", "explanation": "JavaScript attribute syntax", "confidence": "medium"}
+{"feat": "30-F464519", "explanation": "Ending poverty or harm", "confidence": "medium"}
+{"feat": "30-F464530", "explanation": "web development code", "confidence": "medium"}
+{"feat": "30-F464539", "explanation": "XPath syntax", "confidence": "high"}
+{"feat": "30-F464995", "explanation": "CSS responsive styling", "confidence": "high"}
+{"feat": "30-F465529", "explanation": "Selenium element waits", "confidence": "high"}
+{"feat": "30-F465095", "explanation": "HTML textarea form fields", "confidence": "high"}
+{"feat": "30-F465802", "explanation": "PHP delete redirect handling", "confidence": "medium"}
+{"feat": "30-F465952", "explanation": "WordPress CMS descriptions", "confidence": "medium"}
+{"feat": "30-F368873", "explanation": "CSS table styling", "confidence": "high"}
+{"feat": "30-F466554", "explanation": "ClojureScript Reagent code", "confidence": "high"}
+{"feat": "30-F466567", "explanation": "HTML/CSS attributes", "confidence": "medium"}
+{"feat": "30-F468190", "explanation": "HTML div tags", "confidence": "medium"}
+{"feat": "30-F467869", "explanation": "HTML viewport meta tag", "confidence": "high"}
+{"feat": "30-F375528", "explanation": "Chart title parameter", "confidence": "high"}
+{"feat": "30-F373832", "explanation": "HTML stylesheet links", "confidence": "high"}
+{"feat": "30-F468575", "explanation": "Pixel screen dimensions", "confidence": "high"}
+{"feat": "30-F468570", "explanation": "Code UI helper patterns", "confidence": "medium"}
+{"feat": "30-F469103", "explanation": "demographic dividend", "confidence": "high"}
+{"feat": "30-F469362", "explanation": "HTML placeholder attribute", "confidence": "high"}
+{"feat": "30-F470083", "explanation": "Universal equitable access", "confidence": "high"}
+{"feat": "30-F470504", "explanation": "development goal commitments", "confidence": "medium"}
+{"feat": "30-F464299", "explanation": "HTML form elements", "confidence": "high"}
+{"feat": "30-F472344", "explanation": "programming property names", "confidence": "medium"}
+{"feat": "30-F471008", "explanation": "Bootstrap CSS imports", "confidence": "high"}
+{"feat": "30-F474856", "explanation": "Mars web scraping code", "confidence": "medium"}
+{"feat": "30-F473762", "explanation": "frontend component setup", "confidence": "medium"}
+{"feat": "30-F474501", "explanation": "frontend HTML/CSS code", "confidence": "medium"}
+{"feat": "30-F476787", "explanation": "web UI markup", "confidence": "medium"}
+{"feat": "30-F475813", "explanation": "scroll-triggered navbar code", "confidence": "high"}
+{"feat": "30-F477792", "explanation": "React import statement", "confidence": "high"}
+{"feat": "30-F478165", "explanation": "Bootstrap UI classes", "confidence": "medium"}
+{"feat": "30-F394040", "explanation": "Selenium element selectors", "confidence": "medium"}
+{"feat": "30-F478577", "explanation": "Website template placeholder text", "confidence": "medium"}
+{"feat": "30-F478866", "explanation": "HTML web development", "confidence": "high"}
+{"feat": "30-F480370", "explanation": "vertical bar separator", "confidence": "medium"}
+{"feat": "30-F480400", "explanation": "Vue.js framework", "confidence": "high"}
+{"feat": "30-F478260", "explanation": "CSS terminology", "confidence": "high"}
+{"feat": "30-F478363", "explanation": "software documentation", "confidence": "medium"}
+{"feat": "30-F478829", "explanation": "JavaScript page load handlers", "confidence": "high"}
+{"feat": "30-F478301", "explanation": "HTML display none", "confidence": "medium"}
+{"feat": "30-F478959", "explanation": "Angular styleUrls property", "confidence": "high"}
+{"feat": "30-F480369", "explanation": "quantitative health statistics", "confidence": "medium"}
+{"feat": "30-F398478", "explanation": "Angular component file paths", "confidence": "medium"}
+{"feat": "30-F399223", "explanation": "Click actions in code", "confidence": "high"}
+{"feat": "30-F482627", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F482898", "explanation": "Improve user experience", "confidence": "high"}
+{"feat": "30-F480775", "explanation": "RDA library catalog metadata", "confidence": "high"}
+{"feat": "30-F480813", "explanation": "CSS styling language", "confidence": "medium"}
+{"feat": "30-F481008", "explanation": "sustainable development benefits", "confidence": "medium"}
+{"feat": "30-F481108", "explanation": "International Women’s Day themes", "confidence": "high"}
+{"feat": "30-F482465", "explanation": "CSS rgba opacity values", "confidence": "high"}
+{"feat": "30-F486714", "explanation": "Climate sustainability goals", "confidence": "medium"}
+{"feat": "30-F482200", "explanation": "React inline style objects", "confidence": "high"}
+{"feat": "30-F487558", "explanation": "React framework mentions", "confidence": "high"}
+{"feat": "30-F486051", "explanation": "HTML lang attribute", "confidence": "high"}
+{"feat": "30-F485068", "explanation": "CSS3 references", "confidence": "high"}
+{"feat": "30-F475563", "explanation": "Bootstrap CDN URLs", "confidence": "high"}
+{"feat": "30-F491926", "explanation": "URL route parameters", "confidence": "high"}
+{"feat": "30-F487377", "explanation": "JavaScript setAttribute calls", "confidence": "high"}
+{"feat": "30-F491163", "explanation": "web loading indicators", "confidence": "medium"}
+{"feat": "30-F490063", "explanation": "approaching economic milestones", "confidence": "medium"}
+{"feat": "30-F487973", "explanation": "HTML/CSS markup", "confidence": "high"}
+{"feat": "30-F491170", "explanation": "jQuery callback parameter comma", "confidence": "medium"}
+{"feat": "30-F492247", "explanation": "CSS pseudo-element positioning", "confidence": "high"}
+{"feat": "30-F497371", "explanation": "JavaScript attribute access", "confidence": "high"}
+{"feat": "30-F493412", "explanation": "PHP MySQL row assignment", "confidence": "medium"}
+{"feat": "30-F492863", "explanation": "HTML div elements", "confidence": "high"}
+{"feat": "30-F495069", "explanation": "HTML link stylesheet tags", "confidence": "high"}
+{"feat": "30-F495710", "explanation": "wpb-js-composer CSS class", "confidence": "high"}
+{"feat": "30-F495743", "explanation": "HTML image tag syntax", "confidence": "high"}
+{"feat": "30-F495841", "explanation": "Angular Injectable decorator", "confidence": "high"}
+{"feat": "30-F496989", "explanation": "Angular Component syntax", "confidence": "high"}
+{"feat": "30-F499655", "explanation": "Vue components registration", "confidence": "high"}
+{"feat": "30-F498248", "explanation": "JavaScript array conversion", "confidence": "medium"}
+{"feat": "30-F498900", "explanation": "REST API route handlers", "confidence": "medium"}
+{"feat": "30-F500697", "explanation": "HTML attribute syntax", "confidence": "high"}
+{"feat": "30-F408085", "explanation": "Python for loops", "confidence": "high"}
+{"feat": "30-F499592", "explanation": "Bootstrap grid classes", "confidence": "medium"}
+{"feat": "30-F499738", "explanation": "WordPress page builders", "confidence": "high"}
+{"feat": "30-F500190", "explanation": "JavaScript code snippets", "confidence": "medium"}
+{"feat": "30-F500354", "explanation": "UI layout numeric values", "confidence": "medium"}
+{"feat": "30-F500248", "explanation": "Responsive web design", "confidence": "high"}
+{"feat": "30-F501653", "explanation": "Don't Say insert", "confidence": "high"}
+{"feat": "30-F501464", "explanation": "jQuery plugin initialization", "confidence": "medium"}
+{"feat": "30-F502098", "explanation": "React component identifiers", "confidence": "high"}
+{"feat": "30-F502444", "explanation": "ARIA accessibility attributes", "confidence": "high"}
+{"feat": "30-F502692", "explanation": "Large population quantities", "confidence": "high"}
+{"feat": "30-F503774", "explanation": "Bootstrap data-toggle attribute", "confidence": "high"}
+{"feat": "30-F502730", "explanation": "HTML form input styling", "confidence": "medium"}
+{"feat": "30-F502755", "explanation": "CSS padding and margins", "confidence": "medium"}
+{"feat": "30-F504759", "explanation": "component props explanation", "confidence": "medium"}
+{"feat": "30-F503336", "explanation": "JavaScript createElement calls", "confidence": "high"}
+{"feat": "30-F503617", "explanation": "HTML line break tag", "confidence": "high"}
+{"feat": "30-F495818", "explanation": "D3 attr chaining", "confidence": "high"}
+{"feat": "30-F505309", "explanation": "JavaScript DOM table construction", "confidence": "medium"}
+{"feat": "30-F505066", "explanation": "null checks in code", "confidence": "high"}
+{"feat": "30-F505726", "explanation": "HTML div selectors", "confidence": "high"}
+{"feat": "30-F507997", "explanation": "HTML element targeting", "confidence": "medium"}
+{"feat": "30-F505824", "explanation": "Python import aliases", "confidence": "high"}
+{"feat": "30-F507434", "explanation": "ExtJS DOM manipulation", "confidence": "high"}
+{"feat": "30-F507902", "explanation": "CSS stylesheet links", "confidence": "high"}
+{"feat": "30-F509177", "explanation": "DOM elements", "confidence": "high"}
+{"feat": "30-F501982", "explanation": "JavaScript variable declarations", "confidence": "high"}
+{"feat": "30-F511284", "explanation": "HTML id attributes", "confidence": "high"}
+{"feat": "30-F512543", "explanation": "React CSS styling", "confidence": "medium"}
+{"feat": "30-F510369", "explanation": "Laravel facade static calls", "confidence": "medium"}
+{"feat": "30-F509684", "explanation": "HTML opening tags", "confidence": "high"}
+{"feat": "30-F508110", "explanation": "jQuery UI boilerplate", "confidence": "medium"}
+{"feat": "30-F508256", "explanation": "JavaScript DOM styling", "confidence": "medium"}
+{"feat": "30-F513010", "explanation": "Web app routing", "confidence": "medium"}
+{"feat": "30-F509944", "explanation": "Click event handlers", "confidence": "high"}
+{"feat": "30-F514590", "explanation": "Angular app component paths", "confidence": "medium"}
+{"feat": "30-F514149", "explanation": "HTML event handlers", "confidence": "high"}
+{"feat": "30-F514054", "explanation": "JavaScript DOM containers", "confidence": "medium"}
+{"feat": "30-F513601", "explanation": "web accessibility guidelines", "confidence": "medium"}
+{"feat": "30-F503845", "explanation": "Nested code containment", "confidence": "medium"}
+{"feat": "30-F515587", "explanation": "Angular DOM directives", "confidence": "medium"}
+{"feat": "30-F514686", "explanation": "HTML terminology", "confidence": "high"}
+{"feat": "30-F516570", "explanation": "Flask render_template calls", "confidence": "high"}
+{"feat": "30-F516692", "explanation": "CSS styling syntax", "confidence": "medium"}
+{"feat": "30-F495837", "explanation": "Apache Wicket Java code", "confidence": "high"}
+{"feat": "30-F506958", "explanation": "JavaScript string endings", "confidence": "medium"}
+{"feat": "30-F517095", "explanation": "CSS style tags", "confidence": "medium"}
+{"feat": "30-F517286", "explanation": "JavaScript default exports", "confidence": "high"}
+{"feat": "30-F520681", "explanation": "Institutional report citations", "confidence": "medium"}
+{"feat": "30-F519706", "explanation": "web development tutorials", "confidence": "medium"}
+{"feat": "30-F520928", "explanation": "CSS position property", "confidence": "high"}
+{"feat": "30-F520240", "explanation": "Front-end attribute styling", "confidence": "medium"}
+{"feat": "30-F520167", "explanation": "Responsive web design", "confidence": "high"}
+{"feat": "30-F522873", "explanation": "JavaScript const declarations", "confidence": "high"}
+{"feat": "30-F435089", "explanation": "HTML table headers", "confidence": "medium"}
+{"feat": "30-F510283", "explanation": "code-sharing URLs", "confidence": "high"}
+{"feat": "30-F523519", "explanation": "CSS max-width media queries", "confidence": "high"}
+{"feat": "30-F527799", "explanation": "WordPress widget placeholder", "confidence": "medium"}
+{"feat": "30-F524836", "explanation": "HTML/CSS syntax", "confidence": "medium"}
+{"feat": "30-F528217", "explanation": "AngularJS module declaration", "confidence": "high"}
+{"feat": "30-F528088", "explanation": "software code syntax", "confidence": "medium"}
+{"feat": "30-F528363", "explanation": "web framework code", "confidence": "medium"}
+{"feat": "30-F528522", "explanation": "HTML terminology", "confidence": "high"}
+{"feat": "30-F529654", "explanation": "HTML anchor tags", "confidence": "high"}
+{"feat": "30-F530421", "explanation": "ES module import from", "confidence": "high"}
+{"feat": "30-F531506", "explanation": "WordPress ajax_fade class", "confidence": "high"}
+{"feat": "30-F532202", "explanation": "CSS code blocks", "confidence": "high"}
+{"feat": "30-F444677", "explanation": "D3 style method", "confidence": "high"}
+{"feat": "30-F533904", "explanation": "web route definitions", "confidence": "medium"}
+{"feat": "30-F535783", "explanation": "nutrition terminology", "confidence": "high"}
+{"feat": "30-F537068", "explanation": "JavaScript DOM manipulation", "confidence": "medium"}
+{"feat": "30-F535213", "explanation": "CSS flexbox centering", "confidence": "high"}
+{"feat": "30-F537481", "explanation": "append method calls", "confidence": "high"}
+{"feat": "30-F537622", "explanation": "Theme terminology", "confidence": "high"}
+{"feat": "30-F538057", "explanation": "JSX closing div", "confidence": "high"}
+{"feat": "30-F446480", "explanation": "JavaScript DOM assignment", "confidence": "high"}
+{"feat": "30-F538655", "explanation": "Back to home navigation", "confidence": "medium"}
+{"feat": "30-F539112", "explanation": "CSS stylesheet references", "confidence": "high"}
+{"feat": "30-F542270", "explanation": "HTML closing angle bracket", "confidence": "medium"}
+{"feat": "30-F539534", "explanation": "JavaScript DOM style property", "confidence": "high"}
+{"feat": "30-F542188", "explanation": "CSS comma separators", "confidence": "medium"}
+{"feat": "30-F542248", "explanation": "HTML attribute quotes", "confidence": "high"}
+{"feat": "30-F541254", "explanation": "HTML/CSS/JavaScript implementation", "confidence": "medium"}
+{"feat": "30-F543817", "explanation": "Tkinter grid layout", "confidence": "high"}
+{"feat": "30-F543227", "explanation": "responsive image HTML attributes", "confidence": "high"}
+{"feat": "30-F544461", "explanation": "Framework definition article", "confidence": "medium"}
+{"feat": "30-F544510", "explanation": "HTML CSS class attributes", "confidence": "high"}
+{"feat": "30-F545277", "explanation": "Django template tags", "confidence": "high"}
+{"feat": "30-F455494", "explanation": "CSS color property", "confidence": "high"}
+{"feat": "30-F545560", "explanation": "SVG vector graphics", "confidence": "high"}
+{"feat": "30-F545746", "explanation": "jQuery UI themes", "confidence": "high"}
+{"feat": "30-F547613", "explanation": "software applications", "confidence": "high"}
+{"feat": "30-F546416", "explanation": "JavaScript template variables", "confidence": "high"}
+{"feat": "30-F551463", "explanation": "C# GUI event handlers", "confidence": "medium"}
+{"feat": "30-F548064", "explanation": "Government development initiatives", "confidence": "medium"}
+{"feat": "30-F551246", "explanation": "Indented code block endings", "confidence": "medium"}
+{"feat": "30-F549797", "explanation": "Django template files", "confidence": "high"}
+{"feat": "30-F548612", "explanation": "CSS semicolon syntax", "confidence": "high"}
+{"feat": "30-F549750", "explanation": "Defer JavaScript/CSS loading", "confidence": "high"}
+{"feat": "30-F550955", "explanation": "JavaScript loop syntax", "confidence": "medium"}
+{"feat": "30-F551867", "explanation": "global sustainability goals", "confidence": "medium"}
+{"feat": "30-F458066", "explanation": "DOM element creation", "confidence": "high"}
+{"feat": "30-F558418", "explanation": "JavaScript scroll positioning", "confidence": "high"}
+{"feat": "30-F551903", "explanation": "Scoped npm imports", "confidence": "medium"}
+{"feat": "30-F555458", "explanation": "Svelte web framework", "confidence": "medium"}
+{"feat": "30-F552561", "explanation": "web route redirection", "confidence": "high"}
+{"feat": "30-F552136", "explanation": "Material-UI imports", "confidence": "high"}
+{"feat": "30-F556621", "explanation": "web app routing", "confidence": "medium"}
+{"feat": "30-F560683", "explanation": "CSS text utility classes", "confidence": "high"}
+{"feat": "30-F560087", "explanation": "AngularJS $scope", "confidence": "high"}
+{"feat": "30-F560979", "explanation": "C# event handler signature", "confidence": "high"}
+{"feat": "30-F561453", "explanation": "Python XML element lookup", "confidence": "high"}
+{"feat": "30-F561469", "explanation": "CSS style properties", "confidence": "high"}
+{"feat": "30-F562229", "explanation": "JavaScript variable declarations", "confidence": "high"}
+{"feat": "30-F561605", "explanation": "programming code syntax", "confidence": "medium"}
+{"feat": "30-F563413", "explanation": "HTML attribute syntax", "confidence": "medium"}
+{"feat": "30-F563495", "explanation": "Fast website performance", "confidence": "high"}
+{"feat": "30-F564229", "explanation": "CSS rgba black shadows", "confidence": "medium"}
+{"feat": "30-F564154", "explanation": "User-Agent version strings", "confidence": "medium"}
+{"feat": "30-F563700", "explanation": "React UI components", "confidence": "medium"}
+{"feat": "30-F566094", "explanation": "UI framework code", "confidence": "medium"}
+{"feat": "30-F564366", "explanation": "UTF-8 charset declaration", "confidence": "high"}
+{"feat": "30-F566651", "explanation": "React inline styles", "confidence": "high"}
+{"feat": "30-F565649", "explanation": "Angular decorator blocks", "confidence": "high"}
+{"feat": "30-F565162", "explanation": "TypeScript import alias syntax", "confidence": "high"}
+{"feat": "30-F565488", "explanation": "CSS border radius", "confidence": "high"}
+{"feat": "30-F566525", "explanation": "programming tutorial prose", "confidence": "medium"}
+{"feat": "30-F566430", "explanation": "Say welfare benefits", "confidence": "low"}
+{"feat": "30-F566872", "explanation": "HTML document start", "confidence": "high"}
+{"feat": "30-F566750", "explanation": "Express static middleware", "confidence": "high"}
+{"feat": "30-F566927", "explanation": "scraped SEO web content", "confidence": "medium"}
+{"feat": "30-F567755", "explanation": "JavaScript indentation", "confidence": "medium"}
+{"feat": "30-F570277", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F568459", "explanation": "climate change impacts", "confidence": "medium"}
+{"feat": "30-F568401", "explanation": "CSS padding declarations", "confidence": "high"}
+{"feat": "30-F567510", "explanation": "color definitions in code", "confidence": "high"}
+{"feat": "30-F569964", "explanation": "CSS pixel measurements", "confidence": "medium"}
+{"feat": "30-F571398", "explanation": "Responsive web design", "confidence": "high"}
+{"feat": "30-F571606", "explanation": "Programming identifiers", "confidence": "medium"}
+{"feat": "30-F571814", "explanation": "CSS mailing list tags", "confidence": "high"}
+{"feat": "30-F571816", "explanation": "Angular Renderer API", "confidence": "high"}
+{"feat": "30-F572714", "explanation": "JavaScript DOM list creation", "confidence": "high"}
+{"feat": "30-F572848", "explanation": "WordPress footer settings", "confidence": "high"}
+{"feat": "30-F573389", "explanation": "CSS/jQuery selectors", "confidence": "high"}
+{"feat": "30-F573571", "explanation": "CSS pseudo-element syntax", "confidence": "medium"}
+{"feat": "30-F573740", "explanation": "SDG Goal 9", "confidence": "high"}
+{"feat": "30-F575966", "explanation": "JavaScript variable declarations", "confidence": "high"}
+{"feat": "30-F575174", "explanation": "CSS files", "confidence": "high"}
+{"feat": "30-F577069", "explanation": "customElements.define calls", "confidence": "high"}
+{"feat": "30-F576148", "explanation": "web code syntax", "confidence": "medium"}
+{"feat": "30-F577541", "explanation": "append operations", "confidence": "medium"}
+{"feat": "30-F577207", "explanation": "mobile SEO page speed", "confidence": "medium"}
+{"feat": "30-F578391", "explanation": "Popper.js script imports", "confidence": "high"}
+{"feat": "30-F582404", "explanation": "RGB color commas", "confidence": "high"}
+{"feat": "30-F579990", "explanation": "JavaScript routing code", "confidence": "high"}
+{"feat": "30-F580806", "explanation": "content marketing statistics", "confidence": "medium"}
+{"feat": "30-F582213", "explanation": "TypeScript source code", "confidence": "medium"}
+{"feat": "30-F581114", "explanation": "JavaScript input values", "confidence": "high"}
+{"feat": "30-F583827", "explanation": "Atomic design methodology", "confidence": "high"}
+{"feat": "30-F585222", "explanation": "HTML attribute syntax", "confidence": "high"}
+{"feat": "30-F585184", "explanation": "Python block-opening colon", "confidence": "high"}
+{"feat": "30-F583829", "explanation": "XML ElementTree find", "confidence": "medium"}
+{"feat": "30-F586761", "explanation": "Selenium WebDriver interactions", "confidence": "medium"}
+{"feat": "30-F588978", "explanation": "Tailwind CSS", "confidence": "high"}
+{"feat": "30-F587945", "explanation": "HTML form markup", "confidence": "high"}
+{"feat": "30-F588948", "explanation": "Capitalization / uppercase", "confidence": "low"}
+{"feat": "30-F589229", "explanation": "Say shared benefits", "confidence": "high"}
+{"feat": "30-F589792", "explanation": "CSS stylesheet imports", "confidence": "high"}
+{"feat": "30-F590691", "explanation": "Ruby on Rails helpers", "confidence": "medium"}
+{"feat": "30-F590974", "explanation": "HTML/CSS frontend terms", "confidence": "high"}
+{"feat": "30-F591810", "explanation": "frontend UI code", "confidence": "medium"}
+{"feat": "30-F590993", "explanation": "JavaScript DOM selectors", "confidence": "high"}
+{"feat": "30-F576141", "explanation": "HTML attribute syntax", "confidence": "high"}
+{"feat": "30-F591489", "explanation": "Bootstrap table classes", "confidence": "high"}
+{"feat": "30-F594145", "explanation": "Tkinter grid row parameter", "confidence": "high"}
+{"feat": "30-F592331", "explanation": "Web app route definitions", "confidence": "high"}
+{"feat": "30-F593273", "explanation": "HTML input attributes", "confidence": "high"}
+{"feat": "30-F595216", "explanation": "Bootstrap CDN links", "confidence": "high"}
+{"feat": "30-F595272", "explanation": "JavaScript DOM manipulation", "confidence": "high"}
+{"feat": "30-F594402", "explanation": "Bootstrap card image markup", "confidence": "high"}
+{"feat": "30-F594553", "explanation": "PHP widget instance update", "confidence": "high"}
+{"feat": "30-F597668", "explanation": "CSS ID selectors", "confidence": "medium"}
+{"feat": "30-F598570", "explanation": "HTML option elements", "confidence": "medium"}
+{"feat": "30-F598783", "explanation": "React rendering terminology", "confidence": "high"}
+{"feat": "30-F599373", "explanation": "Definitional is-a statements", "confidence": "medium"}
+{"feat": "30-F601158", "explanation": "CSS base styles", "confidence": "high"}
+{"feat": "30-F601384", "explanation": "CSS selector syntax", "confidence": "high"}
+{"feat": "30-F603294", "explanation": "jQuery JavaScript code", "confidence": "medium"}
+{"feat": "30-F602119", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F601971", "explanation": "CSS list reset styling", "confidence": "high"}
+{"feat": "30-F603432", "explanation": "JavaScript import quotes", "confidence": "high"}
+{"feat": "30-F603395", "explanation": "CSS absolute centering", "confidence": "high"}
+{"feat": "30-F603719", "explanation": "1.5°C climate target", "confidence": "high"}
+{"feat": "30-F604402", "explanation": "modal dialog code", "confidence": "medium"}
+{"feat": "30-F606133", "explanation": "formal ensure statements", "confidence": "high"}
+{"feat": "30-F606726", "explanation": "Flask render_template", "confidence": "high"}
+{"feat": "30-F607314", "explanation": "UI color themes", "confidence": "medium"}
+{"feat": "30-F607424", "explanation": "African free trade area", "confidence": "medium"}
+{"feat": "30-F608974", "explanation": "CSS vertical centering", "confidence": "medium"}
+{"feat": "30-F609859", "explanation": "HTML navigation code", "confidence": "medium"}
+{"feat": "30-F610075", "explanation": "ASP.NET Controllers namespace", "confidence": "high"}
+{"feat": "30-F610267", "explanation": "PHP embedded in HTML", "confidence": "high"}
+{"feat": "30-F610747", "explanation": "HTML button elements", "confidence": "high"}
+{"feat": "30-F611335", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F612683", "explanation": "HTML opening tags", "confidence": "medium"}
+{"feat": "30-F612332", "explanation": "Mozilla user agent strings", "confidence": "high"}
+{"feat": "30-F611610", "explanation": "WordPress enqueue scripts", "confidence": "high"}
+{"feat": "30-F612708", "explanation": "HTTP GET handlers", "confidence": "medium"}
+{"feat": "30-F613240", "explanation": "WordPress styling", "confidence": "medium"}
+{"feat": "30-F613556", "explanation": "JavaScript DOM selectors", "confidence": "high"}
+{"feat": "30-F614210", "explanation": "JavaScript outside-click handlers", "confidence": "high"}
+{"feat": "30-F614336", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F615153", "explanation": "Angular NgModule code", "confidence": "medium"}
+{"feat": "30-F614955", "explanation": "HTML iframe dimensions", "confidence": "high"}
+{"feat": "30-F615332", "explanation": "jQuery selector syntax", "confidence": "high"}
+{"feat": "30-F615798", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F519066", "explanation": "adding code functionality", "confidence": "medium"}
+{"feat": "30-F615516", "explanation": "Angular/Vue frontend code", "confidence": "medium"}
+{"feat": "30-F519335", "explanation": "Internet Explorer compatibility", "confidence": "high"}
+{"feat": "30-F616610", "explanation": "Obama policy goals", "confidence": "medium"}
+{"feat": "30-F617246", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F619765", "explanation": "frontend DOM JavaScript", "confidence": "medium"}
+{"feat": "30-F618227", "explanation": "Bootstrap navbar toggle", "confidence": "high"}
+{"feat": "30-F618538", "explanation": "JavaScript string delimiters", "confidence": "high"}
+{"feat": "30-F618634", "explanation": "CSS background positioning", "confidence": "high"}
+{"feat": "30-F619082", "explanation": "CSS table styling", "confidence": "high"}
+{"feat": "30-F620976", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F620602", "explanation": "CSS width height styles", "confidence": "medium"}
+{"feat": "30-F622280", "explanation": "two-way data binding", "confidence": "high"}
+{"feat": "30-F621543", "explanation": "Laravel view compact", "confidence": "high"}
+{"feat": "30-F622548", "explanation": "D3 event handler functions", "confidence": "medium"}
+{"feat": "30-F547406", "explanation": "WCAG accessibility standards", "confidence": "high"}
+{"feat": "30-F622772", "explanation": "Bootstrap UI components", "confidence": "medium"}
+{"feat": "30-F514776", "explanation": "Web framework pronoun", "confidence": "medium"}
+{"feat": "30-F548246", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F624305", "explanation": "HTML5/CSS3 web standards", "confidence": "high"}
+{"feat": "30-F622905", "explanation": "New policy initiative titles", "confidence": "medium"}
+{"feat": "30-F624459", "explanation": "basic services access", "confidence": "medium"}
+{"feat": "30-F624409", "explanation": "React Testing Library queries", "confidence": "medium"}
+{"feat": "30-F625139", "explanation": "HTML stylesheet link", "confidence": "high"}
+{"feat": "30-F626565", "explanation": "TinyMCE code documentation", "confidence": "medium"}
+{"feat": "30-F626886", "explanation": "Python find methods", "confidence": "medium"}
+{"feat": "30-F627277", "explanation": "development booster language", "confidence": "medium"}
+{"feat": "30-F629424", "explanation": "Angular ng syntax", "confidence": "medium"}
+{"feat": "30-F627921", "explanation": "React import destructuring", "confidence": "medium"}
+{"feat": "30-F628454", "explanation": "HTML/CSS layout markup", "confidence": "high"}
+{"feat": "30-F628608", "explanation": "Build Back Better", "confidence": "high"}
+{"feat": "30-F629626", "explanation": "CSS vendor prefixes", "confidence": "high"}
+{"feat": "30-F630423", "explanation": "HTML table header tag", "confidence": "high"}
+{"feat": "30-F631856", "explanation": "frontend web development", "confidence": "medium"}
+{"feat": "30-F632686", "explanation": "Redux action type property", "confidence": "high"}
+{"feat": "30-F564446", "explanation": "JavaScript querySelector", "confidence": "high"}
+{"feat": "30-F633073", "explanation": "Sustainable Development Goals", "confidence": "high"}
+{"feat": "30-F633815", "explanation": "React Helmet metadata", "confidence": "medium"}
+{"feat": "30-F635369", "explanation": "JavaScript components imports", "confidence": "high"}
+{"feat": "30-F634267", "explanation": "JavaScript DOM selectors", "confidence": "medium"}
+{"feat": "30-F635362", "explanation": "PHP variable sigil", "confidence": "high"}
+{"feat": "30-F636060", "explanation": "CSS numeric dimensions", "confidence": "high"}
+{"feat": "30-F636263", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F637423", "explanation": "JavaScript DOM selection", "confidence": "high"}
+{"feat": "30-F637434", "explanation": "NgRx action type strings", "confidence": "high"}
+{"feat": "30-F637636", "explanation": "HTML H2 heading", "confidence": "high"}
+{"feat": "30-F639217", "explanation": "CSS @keyframes animations", "confidence": "high"}
+{"feat": "30-F639709", "explanation": "Web development benefits", "confidence": "medium"}
+{"feat": "30-F638840", "explanation": "UI element selection", "confidence": "medium"}
+{"feat": "30-F639900", "explanation": "React frontend libraries", "confidence": "medium"}
+{"feat": "30-F640259", "explanation": "jQuery UI code", "confidence": "high"}
+{"feat": "30-F640632", "explanation": "PHP file opening", "confidence": "high"}
+{"feat": "30-F641252", "explanation": "jQuery selector code", "confidence": "high"}
+{"feat": "30-F641257", "explanation": "global climate agreements", "confidence": "high"}
+{"feat": "30-F641928", "explanation": "D3 SVG attribute syntax", "confidence": "high"}
+{"feat": "30-F642353", "explanation": "WHO health pages", "confidence": "medium"}
+{"feat": "30-F641989", "explanation": "JSX React markup", "confidence": "high"}
+{"feat": "30-F642558", "explanation": "code indentation whitespace", "confidence": "high"}
+{"feat": "30-F575721", "explanation": "UI modal interactions", "confidence": "medium"}
+{"feat": "30-F642898", "explanation": "hamburger menu JavaScript", "confidence": "high"}
+{"feat": "30-F642920", "explanation": "CSS position relative", "confidence": "high"}
+{"feat": "30-F634580", "explanation": "AngularJS controller definition", "confidence": "high"}
+{"feat": "30-F643741", "explanation": "JavaScript module syntax", "confidence": "medium"}
+{"feat": "30-F643822", "explanation": "Angular imports", "confidence": "high"}
+{"feat": "30-F643825", "explanation": "Bootstrap responsive grid classes", "confidence": "medium"}
+{"feat": "30-F577845", "explanation": "HTML attribute syntax", "confidence": "medium"}
+{"feat": "30-F580443", "explanation": "Frontend JavaScript code", "confidence": "medium"}
+{"feat": "30-F644164", "explanation": "JavaScript DOM manipulation", "confidence": "medium"}
+{"feat": "30-F644335", "explanation": "React Router Link", "confidence": "high"}
+{"feat": "30-F644280", "explanation": "Font Awesome icons", "confidence": "high"}
+{"feat": "30-F644798", "explanation": "HTML5 references", "confidence": "high"}
+{"feat": "30-F645449", "explanation": "React children prop", "confidence": "high"}
+{"feat": "30-F645861", "explanation": "CSS terminology", "confidence": "high"}
+{"feat": "30-F647003", "explanation": "CSS web styling", "confidence": "high"}
+{"feat": "30-F647940", "explanation": "HTML div elements", "confidence": "medium"}
+{"feat": "30-F649212", "explanation": "Tkinter Treeview columns", "confidence": "high"}
+{"feat": "30-F648605", "explanation": "Data visualization tooltips", "confidence": "high"}
+{"feat": "30-F648182", "explanation": "HTML attribute syntax", "confidence": "medium"}
+{"feat": "30-F648715", "explanation": "CSS style declarations", "confidence": "medium"}
+{"feat": "30-F649127", "explanation": "UN climate conferences", "confidence": "medium"}
+{"feat": "30-F648865", "explanation": "Farmers' income increases", "confidence": "medium"}
+{"feat": "30-F649155", "explanation": "UI settings navigation", "confidence": "medium"}
+{"feat": "30-F652617", "explanation": "React event target value", "confidence": "high"}
+{"feat": "30-F650738", "explanation": "HTML form markup", "confidence": "high"}
+{"feat": "30-F650229", "explanation": "CSS utility classes", "confidence": "high"}
+{"feat": "30-F652184", "explanation": "JSX onClick handlers", "confidence": "high"}
+{"feat": "30-F652262", "explanation": "DOM grid cell creation", "confidence": "medium"}
+{"feat": "30-F652271", "explanation": "HTML attribute syntax", "confidence": "high"}
+{"feat": "30-F654048", "explanation": "JavaScript opening brace", "confidence": "medium"}
+{"feat": "30-F643270", "explanation": "SDG 6 water sanitation", "confidence": "medium"}
+{"feat": "30-F654057", "explanation": "responsive web design", "confidence": "high"}
+{"feat": "30-F654908", "explanation": "SVG gradient attributes", "confidence": "high"}
+{"feat": "30-F656200", "explanation": "HTML target blank attribute", "confidence": "high"}
+{"feat": "30-F656352", "explanation": "Say poverty alleviation", "confidence": "high"}
+{"feat": "30-F657250", "explanation": "JavaScript AJAX data field", "confidence": "high"}
+{"feat": "30-F659177", "explanation": "even/odd index checks", "confidence": "medium"}
+{"feat": "30-F659887", "explanation": "HTML viewport initial-scale", "confidence": "high"}
+{"feat": "30-F658348", "explanation": "CSS background images", "confidence": "medium"}
+{"feat": "30-F657914", "explanation": "HTML head element", "confidence": "high"}
+{"feat": "30-F660927", "explanation": "CSS pixel margins", "confidence": "high"}
+{"feat": "30-F658355", "explanation": "React App component", "confidence": "high"}
+{"feat": "30-F663782", "explanation": "ReactDOM imports", "confidence": "high"}
+{"feat": "30-F661026", "explanation": "template loop directives", "confidence": "medium"}
+{"feat": "30-F660584", "explanation": "jQuery method calls", "confidence": "medium"}
+{"feat": "30-F660460", "explanation": "HTML/CSS UI code", "confidence": "medium"}
+{"feat": "30-F661288", "explanation": "HTML style attribute", "confidence": "high"}
+{"feat": "30-F664272", "explanation": "React onChange event handler", "confidence": "high"}
+{"feat": "30-F663498", "explanation": "HTML table scope attribute", "confidence": "high"}
+{"feat": "30-F664926", "explanation": "JavaScript DOM helper functions", "confidence": "medium"}
+{"feat": "30-F666563", "explanation": "Redux action type property", "confidence": "high"}
+{"feat": "30-F665251", "explanation": "green transition", "confidence": "high"}
+{"feat": "30-F666061", "explanation": "jQuery each iteration", "confidence": "medium"}
+{"feat": "30-F667651", "explanation": "JavaScript web UI code", "confidence": "medium"}
+{"feat": "30-F668097", "explanation": "Responsive design breakpoints", "confidence": "high"}
+{"feat": "30-F669840", "explanation": "Bootstrap framework", "confidence": "high"}
+{"feat": "30-F672139", "explanation": "source code syntax", "confidence": "medium"}
+{"feat": "30-F668450", "explanation": "China carbon neutrality goals", "confidence": "high"}
+{"feat": "30-F672169", "explanation": "React import statements", "confidence": "high"}
+{"feat": "30-F655245", "explanation": "HTML icon tags", "confidence": "medium"}
+{"feat": "30-F657828", "explanation": "web app code syntax", "confidence": "medium"}
+{"feat": "30-F672864", "explanation": "JavaScript UI documentation", "confidence": "medium"}
+{"feat": "30-F674616", "explanation": "frontend development job duties", "confidence": "high"}
+{"feat": "30-F678646", "explanation": "CSS styling properties", "confidence": "medium"}
+{"feat": "30-F674140", "explanation": "Chinese development goals", "confidence": "medium"}
+{"feat": "30-F677489", "explanation": "React JSX return", "confidence": "high"}
+{"feat": "30-F677558", "explanation": "WordPress theme metadata", "confidence": "medium"}
+{"feat": "30-F677242", "explanation": "Web development code", "confidence": "medium"}
+{"feat": "30-F677797", "explanation": "PHP HTML attributes", "confidence": "medium"}
+{"feat": "30-F661935", "explanation": "CSS web styling", "confidence": "high"}
+{"feat": "30-F682264", "explanation": "CSS property declarations", "confidence": "high"}
+{"feat": "30-F664935", "explanation": "CSS border radius values", "confidence": "high"}
+{"feat": "30-F678716", "explanation": "Paris warming limits", "confidence": "medium"}
+{"feat": "30-F609128", "explanation": "JavaScript single quotes", "confidence": "high"}
+{"feat": "30-F679756", "explanation": "JavaScript CSS class assignment", "confidence": "medium"}
+{"feat": "30-F682449", "explanation": "jQuery smooth scrolling", "confidence": "high"}
+{"feat": "30-F680168", "explanation": "WebDriver JavaScript execution", "confidence": "high"}
+{"feat": "30-F681040", "explanation": "XML attribute syntax", "confidence": "medium"}
+{"feat": "30-F681903", "explanation": "CSS web technology", "confidence": "high"}
+{"feat": "30-F682659", "explanation": "JavaScript syntax", "confidence": "medium"}
+{"feat": "30-F682934", "explanation": "CSS background-position property", "confidence": "high"}
+{"feat": "30-F682982", "explanation": "Vuex action destructuring", "confidence": "high"}
+{"feat": "30-F670661", "explanation": "Bootstrap button markup", "confidence": "high"}
+{"feat": "30-F683077", "explanation": "D3 axis code", "confidence": "medium"}
+{"feat": "30-F683520", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F683622", "explanation": "web development terminology", "confidence": "medium"}
+{"feat": "30-F685877", "explanation": "DOM element ID selection", "confidence": "high"}
+{"feat": "30-F686768", "explanation": "JavaScript string concatenation", "confidence": "high"}
+{"feat": "30-F683691", "explanation": "HTML placeholder links", "confidence": "medium"}
+{"feat": "30-F684633", "explanation": "Google Fonts CSS links", "confidence": "high"}
+{"feat": "30-F686423", "explanation": "JSX form input code", "confidence": "medium"}
+{"feat": "30-F684222", "explanation": "Angular component code", "confidence": "medium"}
+{"feat": "30-F610560", "explanation": "Bootstrap tab navigation", "confidence": "medium"}
+{"feat": "30-F687059", "explanation": "JavaScript DOM construction", "confidence": "high"}
+{"feat": "30-F687280", "explanation": "Chinese party governance", "confidence": "medium"}
+{"feat": "30-F687804", "explanation": "Chart.js canvas context", "confidence": "high"}
+{"feat": "30-F688905", "explanation": "CSS fixed positioning", "confidence": "high"}
+{"feat": "30-F689623", "explanation": "web application code", "confidence": "medium"}
+{"feat": "30-F691181", "explanation": "JavaScript string literals", "confidence": "medium"}
+{"feat": "30-F690529", "explanation": "climate finance commitments", "confidence": "medium"}
+{"feat": "30-F692527", "explanation": "Doubling quantities", "confidence": "high"}
+{"feat": "30-F695281", "explanation": "Firebase config object", "confidence": "high"}
+{"feat": "30-F693149", "explanation": "XML root variable", "confidence": "high"}
+{"feat": "30-F693817", "explanation": "CSS justify-content", "confidence": "high"}
+{"feat": "30-F694289", "explanation": "REDD forest conservation", "confidence": "high"}
+{"feat": "30-F694575", "explanation": "HTML role attribute", "confidence": "medium"}
+{"feat": "30-F695487", "explanation": "JavaScript default export", "confidence": "high"}
+{"feat": "30-F696057", "explanation": "DOM class selectors", "confidence": "medium"}
+{"feat": "30-F609549", "explanation": "CSS padding property", "confidence": "high"}
+{"feat": "30-F697067", "explanation": "Say industrial upgrading", "confidence": "medium"}
+{"feat": "30-F697295", "explanation": "CSS terminology", "confidence": "high"}
+{"feat": "30-F698044", "explanation": "Access to services", "confidence": "high"}
+{"feat": "30-F698650", "explanation": "HTML input attributes", "confidence": "high"}
+{"feat": "30-F698485", "explanation": "HTML list items", "confidence": "high"}
+{"feat": "30-F699391", "explanation": "HTML head section", "confidence": "high"}
+{"feat": "30-F542882", "explanation": "CSS style blocks", "confidence": "High"}
+{"feat": "30-F698725", "explanation": "Form submission code", "confidence": "high"}
+{"feat": "30-F700244", "explanation": "JavaScript loop index i", "confidence": "high"}
+{"feat": "30-F700283", "explanation": "HTML tag syntax", "confidence": "high"}
+{"feat": "30-F703203", "explanation": "web development", "confidence": "high"}
+{"feat": "30-F701464", "explanation": "JavaScript callback functions", "confidence": "high"}
+{"feat": "30-F702401", "explanation": "climate sustainability", "confidence": "high"}
+{"feat": "30-F702956", "explanation": "React Router code", "confidence": "high"}
+{"feat": "30-F703465", "explanation": "Angular Input import", "confidence": "high"}
+{"feat": "30-F704246", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F703229", "explanation": "CSS preprocessor tutorials", "confidence": "medium"}
+{"feat": "30-F704515", "explanation": "CSS margin auto", "confidence": "medium"}
+{"feat": "30-F704649", "explanation": "CSS border radius", "confidence": "high"}
+{"feat": "30-F705953", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F706622", "explanation": "Selenium element automation", "confidence": "medium"}
+{"feat": "30-F706809", "explanation": "Say fairness/equity", "confidence": "medium"}
+{"feat": "30-F707796", "explanation": "HTML body tag", "confidence": "high"}
+{"feat": "30-F706953", "explanation": "MDG reduction targets", "confidence": "high"}
+{"feat": "30-F708199", "explanation": "Angular Input/Output decorators", "confidence": "high"}
+{"feat": "30-F708319", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F708232", "explanation": "HTML selected option attribute", "confidence": "high"}
+{"feat": "30-F708620", "explanation": "web framework version numbers", "confidence": "medium"}
+{"feat": "30-F709137", "explanation": "Made in China 2025", "confidence": "medium"}
+{"feat": "30-F696202", "explanation": "D3 SVG dimensions", "confidence": "high"}
+{"feat": "30-F712754", "explanation": "web development content", "confidence": "medium"}
+{"feat": "30-F711125", "explanation": "Bootstrap CSS classes", "confidence": "high"}
+{"feat": "30-F711637", "explanation": "CSS checkbox hack", "confidence": "high"}
+{"feat": "30-F712166", "explanation": "form validation errors", "confidence": "high"}
+{"feat": "30-F712270", "explanation": "HTML form input handlers", "confidence": "high"}
+{"feat": "30-F714599", "explanation": "Closing code brace", "confidence": "high"}
+{"feat": "30-F712756", "explanation": "HTML/CSS selector syntax", "confidence": "high"}
+{"feat": "30-F712857", "explanation": "development progress indicators", "confidence": "medium"}
+{"feat": "30-F715761", "explanation": "Sustainable Development Goals", "confidence": "medium"}
+{"feat": "30-F713870", "explanation": "JavaScript web code", "confidence": "medium"}
+{"feat": "30-F714587", "explanation": "JavaScript my identifiers", "confidence": "high"}
+{"feat": "30-F717186", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F716087", "explanation": "CSS padding declarations", "confidence": "high"}
+{"feat": "30-F716360", "explanation": "Component render props pattern", "confidence": "medium"}
+{"feat": "30-F715642", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F716329", "explanation": "frontend component tutorials", "confidence": "medium"}
+{"feat": "30-F716570", "explanation": "HTML meta tags", "confidence": "high"}
+{"feat": "30-F716655", "explanation": "Python function definitions", "confidence": "high"}
+{"feat": "30-F718018", "explanation": "HTML anchor links", "confidence": "medium"}
+{"feat": "30-F718547", "explanation": "CSS selector syntax", "confidence": "medium"}
+{"feat": "30-F721213", "explanation": "Checkbox checked handling", "confidence": "medium"}
+{"feat": "30-F719553", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F719877", "explanation": "JavaScript this.state access", "confidence": "high"}
+{"feat": "30-F719946", "explanation": "Angular OnInit lifecycle", "confidence": "high"}
+{"feat": "30-F720398", "explanation": "JavaScript UI code", "confidence": "medium"}
+{"feat": "30-F724760", "explanation": "HTML table markup", "confidence": "medium"}
+{"feat": "30-F722264", "explanation": "JavaScript selector chaining", "confidence": "high"}
+{"feat": "30-F720524", "explanation": "SVG gradient stops", "confidence": "high"}
+{"feat": "30-F721319", "explanation": "SDG 14 ocean conservation", "confidence": "high"}
+{"feat": "30-F725844", "explanation": "CSS custom properties", "confidence": "high"}
+{"feat": "30-F723467", "explanation": "HTML viewport meta tag", "confidence": "high"}
+{"feat": "30-F724170", "explanation": "DOM element code", "confidence": "medium"}
+{"feat": "30-F712696", "explanation": "TypeScript action classes", "confidence": "high"}
+{"feat": "30-F725634", "explanation": "jQuery .is() checks", "confidence": "high"}
+{"feat": "30-F725272", "explanation": "Software concept definitions", "confidence": "medium"}
+{"feat": "30-F724868", "explanation": "HTML div elements", "confidence": "high"}
+{"feat": "30-F726134", "explanation": "HTML table structure", "confidence": "high"}
+{"feat": "30-F626346", "explanation": "web development code", "confidence": "medium"}
+{"feat": "30-F726937", "explanation": "Interactive web app code", "confidence": "medium"}
+{"feat": "30-F726544", "explanation": "Bootstrap column classes", "confidence": "high"}
+{"feat": "30-F728519", "explanation": "Code render content", "confidence": "medium"}
+{"feat": "30-F726817", "explanation": "HTML attribute closing syntax", "confidence": "high"}
+{"feat": "30-F727844", "explanation": "jQuery document ready", "confidence": "high"}
+{"feat": "30-F730864", "explanation": "responsive HTML tables", "confidence": "medium"}
+{"feat": "30-F729172", "explanation": "HTML meta attributes", "confidence": "high"}
+{"feat": "30-F729993", "explanation": "Web frontend code", "confidence": "high"}
+{"feat": "30-F730356", "explanation": "Java web frameworks", "confidence": "medium"}
+{"feat": "30-F730958", "explanation": "HTML viewport meta tag", "confidence": "high"}
+{"feat": "30-F731160", "explanation": "JavaScript event listeners", "confidence": "high"}
+{"feat": "30-F731228", "explanation": "Web component slots", "confidence": "medium"}
+{"feat": "30-F731925", "explanation": "jQuery scroll offset top", "confidence": "high"}
+{"feat": "30-F732875", "explanation": "frontend web development", "confidence": "medium"}
+{"feat": "30-F732251", "explanation": "PySimpleGUI code", "confidence": "high"}
+{"feat": "30-F734375", "explanation": "mobile web optimization", "confidence": "medium"}
+{"feat": "30-F733532", "explanation": "DOM element selectors", "confidence": "medium"}
+{"feat": "30-F736489", "explanation": "CSS hex color codes", "confidence": "high"}
+{"feat": "30-F737343", "explanation": "YAML layout field", "confidence": "high"}
+{"feat": "30-F737948", "explanation": "React useState setters", "confidence": "high"}
+{"feat": "30-F737998", "explanation": "DOM visibility toggling", "confidence": "high"}
+{"feat": "30-F741002", "explanation": "JavaScript creates dynamic web content", "confidence": "high"}
+{"feat": "30-F741316", "explanation": "United Nations references", "confidence": "high"}
+{"feat": "30-F741603", "explanation": "UN climate convention", "confidence": "high"}
+{"feat": "30-F743196", "explanation": "Angular core imports", "confidence": "high"}
+{"feat": "30-F742411", "explanation": "HTML/CSS web code", "confidence": "medium"}
+{"feat": "30-F743688", "explanation": "Creating improved conditions", "confidence": "medium"}
+{"feat": "30-F747766", "explanation": "Bootstrap responsive grid classes", "confidence": "high"}
+{"feat": "30-F743226", "explanation": "SDG climate action", "confidence": "high"}
+{"feat": "30-F743332", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F748345", "explanation": "Angular Material code", "confidence": "medium"}
+{"feat": "30-F744859", "explanation": "JavaScript classList manipulation", "confidence": "medium"}
+{"feat": "30-F746881", "explanation": "website usage statistics", "confidence": "medium"}
+{"feat": "30-F748718", "explanation": "HTML class attributes", "confidence": "high"}
+{"feat": "30-F751359", "explanation": "HTML class attributes", "confidence": "medium"}
+{"feat": "30-F749797", "explanation": "HTML/DOM element IDs", "confidence": "high"}
+{"feat": "30-F749556", "explanation": "Angular TypeScript components", "confidence": "medium"}
+{"feat": "30-F750221", "explanation": "Say village", "confidence": "medium"}
+{"feat": "30-F751294", "explanation": "Say UI/GUI", "confidence": "high"}
+{"feat": "30-F755557", "explanation": "Selenium element selectors", "confidence": "high"}
+{"feat": "30-F751985", "explanation": "CSS page layout", "confidence": "medium"}
+{"feat": "30-F756023", "explanation": "JavaScript DOM removeChild", "confidence": "high"}
+{"feat": "30-F754078", "explanation": "browser feature support", "confidence": "medium"}
+{"feat": "30-F753854", "explanation": "single-page applications", "confidence": "high"}
+{"feat": "30-F756083", "explanation": "web scraping element variables", "confidence": "medium"}
+{"feat": "30-F754882", "explanation": "HTML/CSS footer styling", "confidence": "medium"}
+{"feat": "30-F755321", "explanation": "HTML web development", "confidence": "high"}
+{"feat": "30-F755801", "explanation": "Heroku app URLs", "confidence": "high"}
+{"feat": "30-F756869", "explanation": "JavaScript comma separators", "confidence": "high"}
+{"feat": "30-F758706", "explanation": "ASP.NET MVC ActionResult Index", "confidence": "high"}
+{"feat": "30-F758759", "explanation": "PHP function declarations", "confidence": "high"}
+{"feat": "30-F758947", "explanation": "UI control rendering code", "confidence": "medium"}
+{"feat": "30-F760469", "explanation": "CSS float property", "confidence": "high"}
+{"feat": "30-F761187", "explanation": "JavaScript getElementById", "confidence": "high"}
+{"feat": "30-F760902", "explanation": "XHTML 1.0 doctype", "confidence": "high"}
+{"feat": "30-F761493", "explanation": "JavaScript page reload", "confidence": "high"}
+{"feat": "30-F762598", "explanation": "legacy browser support", "confidence": "high"}
+{"feat": "30-F763491", "explanation": "Socket.IO web sockets", "confidence": "medium"}
+{"feat": "30-F748813", "explanation": "npm install commands", "confidence": "high"}
+{"feat": "30-F764383", "explanation": "web browser compatibility", "confidence": "high"}
+{"feat": "30-F764635", "explanation": "jQuery selector syntax", "confidence": "medium"}
+{"feat": "30-F766173", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F767502", "explanation": "Angular Output EventEmitter", "confidence": "high"}
+{"feat": "30-F768189", "explanation": "Bootstrap input groups", "confidence": "high"}
+{"feat": "30-F768622", "explanation": "frontend web development", "confidence": "medium"}
+{"feat": "30-F771406", "explanation": "Portuguese Human Development Index", "confidence": "high"}
+{"feat": "30-F769261", "explanation": "Svelte framework code", "confidence": "medium"}
+{"feat": "30-F769517", "explanation": "React App component definition", "confidence": "medium"}
+{"feat": "30-F754203", "explanation": "HTML heading tags", "confidence": "high"}
+{"feat": "30-F769594", "explanation": "CSS 600px media query", "confidence": "high"}
+{"feat": "30-F652582", "explanation": "Website performance measurement", "confidence": "high"}
+{"feat": "30-F772390", "explanation": "CSS pixel units", "confidence": "high"}
+{"feat": "30-F772431", "explanation": "Materialize CSS components", "confidence": "medium"}
+{"feat": "30-F772489", "explanation": "ordinal numbers", "confidence": "high"}
+{"feat": "30-F772596", "explanation": "Largest Contentful Paint", "confidence": "high"}
+{"feat": "30-F774723", "explanation": "Code indentation", "confidence": "medium"}
+{"feat": "30-F772691", "explanation": "HTML navigation elements", "confidence": "high"}
+{"feat": "30-F773283", "explanation": "Inline CSS syntax", "confidence": "high"}
+{"feat": "30-F775580", "explanation": "Say industries", "confidence": "medium"}
+{"feat": "30-F775158", "explanation": "JavaScript import statements", "confidence": "medium"}
+{"feat": "30-F776099", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F778000", "explanation": "HTML body element", "confidence": "high"}
+{"feat": "30-F776445", "explanation": "JavaScript indentation", "confidence": "medium"}
+{"feat": "30-F776821", "explanation": "CSS class selectors", "confidence": "high"}
+{"feat": "30-F777108", "explanation": "CSS sans-serif font", "confidence": "high"}
+{"feat": "30-F778096", "explanation": "food waste reduction", "confidence": "high"}
+{"feat": "30-F777939", "explanation": "D3.js visualization code", "confidence": "high"}
+{"feat": "30-F780850", "explanation": "JavaScript load event listener", "confidence": "high"}
+{"feat": "30-F778958", "explanation": "JavaScript zero initialization", "confidence": "medium"}
+{"feat": "30-F778599", "explanation": "Python import statements", "confidence": "high"}
+{"feat": "30-F780090", "explanation": "CSS font properties", "confidence": "high"}
+{"feat": "30-F780451", "explanation": "Core Web Vitals", "confidence": "high"}
+{"feat": "30-F780621", "explanation": "Chinese development policy goals", "confidence": "medium"}
+{"feat": "30-F781396", "explanation": "jQuery element creation", "confidence": "high"}
+{"feat": "30-F770545", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F781080", "explanation": "SVG element attributes", "confidence": "high"}
+{"feat": "30-F781344", "explanation": "React className App", "confidence": "high"}
+{"feat": "30-F783094", "explanation": "Frontend build tooling", "confidence": "medium"}
+{"feat": "30-F783579", "explanation": "HTML table header", "confidence": "high"}
+{"feat": "30-F783069", "explanation": "Web page routing code", "confidence": "medium"}
+{"feat": "30-F784834", "explanation": "DOM ancestor traversal", "confidence": "high"}
+{"feat": "30-F786019", "explanation": "UN development policy", "confidence": "medium"}
+{"feat": "30-F786046", "explanation": "PHP closing tag", "confidence": "high"}
+{"feat": "30-F786760", "explanation": "bootstrap.min.css imports", "confidence": "high"}
+{"feat": "30-F787903", "explanation": "JavaScript click handlers", "confidence": "high"}
+{"feat": "30-F790091", "explanation": "CSS media queries", "confidence": "high"}
+{"feat": "30-F788204", "explanation": "SVG attribute syntax", "confidence": "medium"}
+{"feat": "30-F676307", "explanation": "React fragment syntax", "confidence": "high"}
+{"feat": "30-F790105", "explanation": "jQuery active-class toggling", "confidence": "high"}
+{"feat": "30-F790752", "explanation": "Bootstrap form-group class", "confidence": "high"}
+{"feat": "30-F791451", "explanation": "sustainable development policy", "confidence": "medium"}
+{"feat": "30-F791645", "explanation": "HTML stylesheet link tag", "confidence": "high"}
+{"feat": "30-F792034", "explanation": "CSS navigation styling", "confidence": "high"}
+{"feat": "30-F793193", "explanation": "JavaScript map code", "confidence": "medium"}
+{"feat": "30-F794655", "explanation": "CSS media queries", "confidence": "high"}
+{"feat": "30-F792842", "explanation": "Markup attribute syntax", "confidence": "medium"}
+{"feat": "30-F792782", "explanation": "web development code", "confidence": "medium"}
+{"feat": "30-F793828", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F794146", "explanation": "HTML table rows", "confidence": "high"}
+{"feat": "30-F795392", "explanation": "Bootstrap button class", "confidence": "high"}
+{"feat": "30-F794845", "explanation": "CSS text alignment", "confidence": "high"}
+{"feat": "30-F610477", "explanation": "Angular directive code", "confidence": "medium"}
+{"feat": "30-F795484", "explanation": "JavaScript coordinate offsets", "confidence": "high"}
+{"feat": "30-F795700", "explanation": "JSX form markup", "confidence": "medium"}
+{"feat": "30-F796664", "explanation": "HTML form inputs", "confidence": "high"}
+{"feat": "30-F796687", "explanation": "Angular decorators", "confidence": "high"}
+{"feat": "30-F797414", "explanation": "cross-browser CSS styling", "confidence": "medium"}
+{"feat": "30-F797591", "explanation": "HTML code block start", "confidence": "high"}
+{"feat": "30-F799495", "explanation": "LitElement TypeScript code", "confidence": "medium"}
+{"feat": "30-F800488", "explanation": "Single Page Applications", "confidence": "high"}
+{"feat": "30-F800186", "explanation": "JavaScript querySelector calls", "confidence": "medium"}
+{"feat": "30-F800505", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F800544", "explanation": "CSS gray color classes", "confidence": "medium"}
+{"feat": "30-F801159", "explanation": "SVG defs section", "confidence": "medium"}
+{"feat": "30-F801240", "explanation": "Web routing code", "confidence": "medium"}
+{"feat": "30-F801338", "explanation": "Angular framework imports", "confidence": "high"}
+{"feat": "30-F801777", "explanation": "Sass / SCSS", "confidence": "high"}
+{"feat": "30-F696806", "explanation": "Chart.js initialization", "confidence": "high"}
+{"feat": "30-F802654", "explanation": "webpage footer templates", "confidence": "high"}
+{"feat": "30-F802879", "explanation": "return statements", "confidence": "medium"}
+{"feat": "30-F803766", "explanation": "React Redux useDispatch", "confidence": "high"}
+{"feat": "30-F803819", "explanation": "HTML X-UA-Compatible meta tag", "confidence": "high"}
+{"feat": "30-F804245", "explanation": "CSS-in-JS styling", "confidence": "high"}
+{"feat": "30-F804575", "explanation": "JavaScript string quotes", "confidence": "medium"}
+{"feat": "30-F805403", "explanation": "CSS style properties", "confidence": "high"}
+{"feat": "30-F805706", "explanation": "frontend web code", "confidence": "medium"}
+{"feat": "30-F807709", "explanation": "Don't Say HTML/SEO", "confidence": "medium"}
+{"feat": "30-F806838", "explanation": "PHP file opening", "confidence": "high"}
+{"feat": "30-F808874", "explanation": "JavaScript import quotes", "confidence": "medium"}
+{"feat": "30-F709355", "explanation": "React import comma", "confidence": "high"}
+{"feat": "30-F809129", "explanation": "HTML block elements", "confidence": "high"}
+{"feat": "30-F810166", "explanation": "JavaScript click handlers", "confidence": "high"}
+{"feat": "30-F709995", "explanation": "CSS cursor pointer", "confidence": "high"}
+{"feat": "30-F810402", "explanation": "HTML meta tags", "confidence": "high"}
+{"feat": "30-F810418", "explanation": "Blueprint CSS framework", "confidence": "medium"}
+{"feat": "30-F802152", "explanation": "bullet point requirement", "confidence": "medium"}
+{"feat": "30-F810681", "explanation": "CSS paragraph selector", "confidence": "high"}
+{"feat": "30-F810746", "explanation": "HTML doctype declaration", "confidence": "high"}
+{"feat": "30-F811773", "explanation": "Chinese reform policy", "confidence": "medium"}
+{"feat": "30-F812223", "explanation": "Vue router routing", "confidence": "medium"}
+{"feat": "30-F813586", "explanation": "JavaScript variable declarations", "confidence": "high"}
+{"feat": "30-F813831", "explanation": "WCAG accessibility guidelines", "confidence": "high"}
+{"feat": "30-F813944", "explanation": "Say high-quality development", "confidence": "high"}
+{"feat": "30-F814647", "explanation": "Vue component testing", "confidence": "medium"}
+{"feat": "30-F815357", "explanation": "UI layout numeric values", "confidence": "medium"}
+{"feat": "30-F815487", "explanation": "Qode Bridge theme classes", "confidence": "high"}
+{"feat": "30-F815869", "explanation": "HTML download link creation", "confidence": "medium"}
+{"feat": "30-F818523", "explanation": "CSS flexbox centering", "confidence": "high"}
+{"feat": "30-F819239", "explanation": "Vue template blocks", "confidence": "high"}
+{"feat": "30-F819350", "explanation": "Indian welfare schemes", "confidence": "medium"}
+{"feat": "30-F822754", "explanation": "Retina display terminology", "confidence": "high"}
+{"feat": "30-F820595", "explanation": "HTML input validation pattern", "confidence": "medium"}
+{"feat": "30-F820829", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F819904", "explanation": "HTML/CSS hero sections", "confidence": "medium"}
+{"feat": "30-F821662", "explanation": "D3 circle radius attribute", "confidence": "high"}
+{"feat": "30-F821676", "explanation": "jQuery event delegation", "confidence": "high"}
+{"feat": "30-F822728", "explanation": "China references", "confidence": "high"}
+{"feat": "30-F823337", "explanation": "Vue.js frontend framework", "confidence": "high"}
+{"feat": "30-F826921", "explanation": "ajax_fade CSS class", "confidence": "high"}
+{"feat": "30-F825203", "explanation": "Web app index redirects", "confidence": "high"}
+{"feat": "30-F825215", "explanation": "D3 translate transform", "confidence": "high"}
+{"feat": "30-F728967", "explanation": "PHP echo in HTML", "confidence": "high"}
+{"feat": "30-F825315", "explanation": "responsive web sizing", "confidence": "medium"}
+{"feat": "30-F825740", "explanation": "Java UI package imports", "confidence": "high"}
+{"feat": "30-F826927", "explanation": "Bootstrap framework", "confidence": "high"}
+{"feat": "30-F826982", "explanation": "XPath attribute selectors", "confidence": "high"}
+{"feat": "30-F826967", "explanation": "Angular web development", "confidence": "high"}
+{"feat": "30-F828357", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F829111", "explanation": "CSS pixel units", "confidence": "high"}
+{"feat": "30-F829239", "explanation": "JavaScript import quotes", "confidence": "medium"}
+{"feat": "30-F833208", "explanation": "state change toggles", "confidence": "high"}
+{"feat": "30-F830574", "explanation": "Angular core imports", "confidence": "high"}
+{"feat": "30-F830341", "explanation": "Bootstrap card image HTML", "confidence": "high"}
+{"feat": "30-F830298", "explanation": "Flask render_template", "confidence": "high"}
+{"feat": "30-F833543", "explanation": "increasing prevalence framing", "confidence": "medium"}
+{"feat": "30-F834861", "explanation": "Redux TypeScript code", "confidence": "medium"}
+{"feat": "30-F835943", "explanation": "localStorage getItem calls", "confidence": "high"}
+{"feat": "30-F836454", "explanation": "Popper.js CDN script", "confidence": "high"}
+{"feat": "30-F836979", "explanation": "W3C XHTML doctype", "confidence": "high"}
+{"feat": "30-F837048", "explanation": "code argument separator comma", "confidence": "medium"}
+{"feat": "30-F839361", "explanation": "Bootstrap grid columns", "confidence": "high"}
+{"feat": "30-F839582", "explanation": "JavaScript comment sections", "confidence": "medium"}
+{"feat": "30-F839656", "explanation": "Qode child theme classes", "confidence": "high"}
+{"feat": "30-F840956", "explanation": "WCAG accessibility standards", "confidence": "medium"}
+{"feat": "30-F841893", "explanation": "jQuery event handlers", "confidence": "high"}
+{"feat": "30-F843037", "explanation": "Chinese political ideology", "confidence": "medium"}
+{"feat": "30-F841712", "explanation": "Apply CSS class to HTML", "confidence": "high"}
+{"feat": "30-F845896", "explanation": "definitional purpose statements", "confidence": "medium"}
+{"feat": "30-F844258", "explanation": "Redux payload property", "confidence": "high"}
+{"feat": "30-F845916", "explanation": "Angular 2 framework", "confidence": "medium"}
+{"feat": "30-F846495", "explanation": "HTTP method parameter", "confidence": "high"}
+{"feat": "30-F846591", "explanation": "climate commitments targets", "confidence": "medium"}
+{"feat": "30-F757171", "explanation": "BeautifulSoup attribute dictionaries", "confidence": "high"}
+{"feat": "30-F833293", "explanation": "Bootstrap data attributes", "confidence": "high"}
+{"feat": "30-F847107", "explanation": "HTML attribute syntax", "confidence": "medium"}
+{"feat": "30-F847277", "explanation": "Jupyter ipywidgets", "confidence": "high"}
+{"feat": "30-F848963", "explanation": "JavaScript code syntax", "confidence": "medium"}
+{"feat": "30-F849124", "explanation": "HTML label for attribute", "confidence": "high"}
+{"feat": "30-F847753", "explanation": "website login navigation", "confidence": "medium"}
+{"feat": "30-F850132", "explanation": "CSS hover pseudo-class", "confidence": "high"}
+{"feat": "30-F850411", "explanation": "HTML/CSS/JavaScript syntax", "confidence": "medium"}
+{"feat": "30-F851702", "explanation": "international economic cooperation", "confidence": "medium"}
+{"feat": "30-F852598", "explanation": "React web development", "confidence": "medium"}
+{"feat": "30-F850750", "explanation": "JavaScript form reset", "confidence": "medium"}
+{"feat": "30-F850910", "explanation": "CSS numeric dimensions", "confidence": "medium"}
+{"feat": "30-F852986", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F770045", "explanation": "CSS class selectors", "confidence": "high"}
+{"feat": "30-F851945", "explanation": "Qode theme CSS classes", "confidence": "high"}
+{"feat": "30-F852889", "explanation": "sticky scroll positioning", "confidence": "medium"}
+{"feat": "30-F852913", "explanation": "component content slots", "confidence": "medium"}
+{"feat": "30-F857531", "explanation": "HTML doctype opening", "confidence": "high"}
+{"feat": "30-F853968", "explanation": "drag-and-drop interfaces", "confidence": "high"}
+{"feat": "30-F855239", "explanation": "Food system greenhouse emissions", "confidence": "high"}
+{"feat": "30-F855987", "explanation": "responsive layout adaptation", "confidence": "medium"}
+{"feat": "30-F860105", "explanation": "Belt and Road Initiative", "confidence": "high"}
+{"feat": "30-F859841", "explanation": "frontend attribute binding syntax", "confidence": "high"}
+{"feat": "30-F861726", "explanation": "C# event handler parameters", "confidence": "high"}
+{"feat": "30-F857830", "explanation": "Indented JavaScript code", "confidence": "medium"}
+{"feat": "30-F860350", "explanation": "HTML input type attribute", "confidence": "high"}
+{"feat": "30-F864415", "explanation": "CSS property declarations", "confidence": "high"}
+{"feat": "30-F847498", "explanation": "CSS content syntax", "confidence": "high"}
+{"feat": "30-F862042", "explanation": "CSS box-shadow styling", "confidence": "high"}
+{"feat": "30-F865420", "explanation": "Chinese government news", "confidence": "low"}
+{"feat": "30-F863934", "explanation": "D3 enter append pattern", "confidence": "high"}
+{"feat": "30-F866301", "explanation": "Bootstrap version numbers", "confidence": "medium"}
+{"feat": "30-F866743", "explanation": "CSS background shorthand", "confidence": "high"}
+{"feat": "30-F868489", "explanation": "Say Chinese policy jargon", "confidence": "medium"}
+{"feat": "30-F868385", "explanation": "JavaScript event parameter", "confidence": "high"}
+{"feat": "30-F866930", "explanation": "WordPress sidebar widget area", "confidence": "high"}
+{"feat": "30-F869130", "explanation": "Chinese rural migrant labor", "confidence": "medium"}
+{"feat": "30-F867688", "explanation": "HTML form controls", "confidence": "medium"}
+{"feat": "30-F873582", "explanation": "Chinese development statistics", "confidence": "medium"}
+{"feat": "30-F871434", "explanation": "WordPress smooth scroll classes", "confidence": "medium"}
+{"feat": "30-F873840", "explanation": "JavaScript web frameworks", "confidence": "medium"}
+{"feat": "30-F787484", "explanation": "JavaScript click event listener", "confidence": "high"}
+{"feat": "30-F871856", "explanation": "bottom layout position", "confidence": "medium"}
+{"feat": "30-F871880", "explanation": "Hidden embedded web data", "confidence": "medium"}
+{"feat": "30-F871789", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F873042", "explanation": "Magento JavaScript development", "confidence": "medium"}
+{"feat": "30-F874613", "explanation": "Say eg", "confidence": "low"}
+{"feat": "30-F874755", "explanation": "web UI framework code", "confidence": "medium"}
+{"feat": "30-F874994", "explanation": "Google page speed SEO", "confidence": "medium"}
+{"feat": "30-F878489", "explanation": "React Button attributes", "confidence": "high"}
+{"feat": "30-F880843", "explanation": "HTML table scope attribute", "confidence": "high"}
+{"feat": "30-F792464", "explanation": "CSS responsive breakpoints", "confidence": "high"}
+{"feat": "30-F878689", "explanation": "Capybara page assertions", "confidence": "high"}
+{"feat": "30-F879033", "explanation": "HTML/CSS code syntax", "confidence": "medium"}
+{"feat": "30-F793073", "explanation": "CSS zero values", "confidence": "medium"}
+{"feat": "30-F879769", "explanation": "JavaScript array indexing", "confidence": "medium"}
+{"feat": "30-F880211", "explanation": "code indentation whitespace", "confidence": "high"}
+{"feat": "30-F880951", "explanation": "Microsoft AspNetCore namespace", "confidence": "high"}
+{"feat": "30-F881102", "explanation": "jQuery slogan", "confidence": "medium"}
+{"feat": "30-F795283", "explanation": "Function call terminators", "confidence": "high"}
+{"feat": "30-F881306", "explanation": "Chart width/height settings", "confidence": "medium"}
+{"feat": "30-F882968", "explanation": "WordPress PHP theme files", "confidence": "medium"}
+{"feat": "30-F883086", "explanation": "React input onChange handlers", "confidence": "high"}
+{"feat": "30-F883204", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F883763", "explanation": "DOM element selection", "confidence": "high"}
+{"feat": "30-F884467", "explanation": "React Router imports", "confidence": "high"}
+{"feat": "30-F884976", "explanation": "CSS media declarations", "confidence": "high"}
+{"feat": "30-F798478", "explanation": "Global cooperation commitments", "confidence": "medium"}
+{"feat": "30-F885726", "explanation": "HTML table tags", "confidence": "high"}
+{"feat": "30-F799144", "explanation": "CSS pseudo-elements", "confidence": "high"}
+{"feat": "30-F886987", "explanation": "Animate.css animations", "confidence": "medium"}
+{"feat": "30-F888727", "explanation": "CSS width property", "confidence": "high"}
+{"feat": "30-F888436", "explanation": "Webflow platform", "confidence": "medium"}
+{"feat": "30-F889288", "explanation": "CSS hex color codes", "confidence": "high"}
+{"feat": "30-F889794", "explanation": "Before closing body tag", "confidence": "high"}
+{"feat": "30-F890814", "explanation": "UN Sustainable Development Goals", "confidence": "high"}
+{"feat": "30-F896946", "explanation": "Frontend UI code", "confidence": "medium"}
+{"feat": "30-F892604", "explanation": "React component code", "confidence": "medium"}
+{"feat": "30-F892856", "explanation": "data visualization code", "confidence": "medium"}
+{"feat": "30-F893162", "explanation": "Table/grid code", "confidence": "medium"}
+{"feat": "30-F893552", "explanation": "Selenium iframe switching", "confidence": "high"}
+{"feat": "30-F893312", "explanation": "Bootstrap frontend framework", "confidence": "medium"}
+{"feat": "30-F894309", "explanation": "PHP header redirects", "confidence": "high"}
+{"feat": "30-F894932", "explanation": "HTML5 web development", "confidence": "high"}
+{"feat": "30-F895279", "explanation": "HTML h1 closing bracket", "confidence": "high"}
+{"feat": "30-F895854", "explanation": "JavaScript data attributes", "confidence": "medium"}
+{"feat": "30-F900282", "explanation": "DataTables table filtering", "confidence": "medium"}
+{"feat": "30-F900716", "explanation": "TypeScript relative imports", "confidence": "high"}
+{"feat": "30-F897611", "explanation": "JavaScript web app code", "confidence": "medium"}
+{"feat": "30-F898962", "explanation": "Leave no one behind", "confidence": "high"}
+{"feat": "30-F898470", "explanation": "CSS body canvas reset", "confidence": "high"}
+{"feat": "30-F899501", "explanation": "JavaScript default export", "confidence": "high"}
+{"feat": "30-F900925", "explanation": "HTML terminology", "confidence": "high"}
+{"feat": "30-F904660", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F901133", "explanation": "HTML attribute assignment", "confidence": "medium"}
+{"feat": "30-F904689", "explanation": "DOM sibling selectors", "confidence": "high"}
+{"feat": "30-F901192", "explanation": "React hook imports", "confidence": "medium"}
+{"feat": "30-F902159", "explanation": "JavaScript DOM element creation", "confidence": "medium"}
+{"feat": "30-F905738", "explanation": "Webpack output configuration", "confidence": "high"}
+{"feat": "30-F902650", "explanation": "web scrolling configuration", "confidence": "medium"}
+{"feat": "30-F902943", "explanation": "HTML/CSS frontend markup", "confidence": "medium"}
+{"feat": "30-F903691", "explanation": "HTML data-id attributes", "confidence": "high"}
+{"feat": "30-F905011", "explanation": "HTML table DOM code", "confidence": "high"}
+{"feat": "30-F911898", "explanation": "CSS class selectors", "confidence": "high"}
+{"feat": "30-F906621", "explanation": "JavaScript DOM selectors", "confidence": "medium"}
+{"feat": "30-F908588", "explanation": "Say tax cuts", "confidence": "high"}
+{"feat": "30-F907938", "explanation": "CSS nth-child selector", "confidence": "high"}
+{"feat": "30-F909282", "explanation": "JavaScript file paths", "confidence": "high"}
+{"feat": "30-F909701", "explanation": "Visual Composer shortcode attributes", "confidence": "high"}
+{"feat": "30-F911523", "explanation": "CSS margin styling", "confidence": "medium"}
+{"feat": "30-F914689", "explanation": "CSS size values", "confidence": "medium"}
+{"feat": "30-F914820", "explanation": "Food and Agriculture Organization", "confidence": "high"}
+{"feat": "30-F915880", "explanation": "HTML5 JavaScript app development", "confidence": "medium"}
+{"feat": "30-F916399", "explanation": "CSS min-height property", "confidence": "medium"}
+{"feat": "30-F917349", "explanation": "HTML tag syntax", "confidence": "high"}
+{"feat": "30-F918590", "explanation": "JavaScript DOM selectors", "confidence": "medium"}
+{"feat": "30-F920171", "explanation": "user interfaces", "confidence": "medium"}
+{"feat": "30-F920608", "explanation": "Playwright locator API", "confidence": "high"}
+{"feat": "30-F899745", "explanation": "CSS font size", "confidence": "high"}
+{"feat": "30-F920749", "explanation": "CSS media queries", "confidence": "medium"}
+{"feat": "30-F925530", "explanation": "BeautifulSoup HTML parsing", "confidence": "high"}
+{"feat": "30-F927515", "explanation": "website navigation links", "confidence": "medium"}
+{"feat": "30-F924047", "explanation": "responsive grid columns", "confidence": "medium"}
+{"feat": "30-F925595", "explanation": "web development documentation", "confidence": "medium"}
+{"feat": "30-F927937", "explanation": "MDN web documentation URLs", "confidence": "high"}
+{"feat": "30-F926839", "explanation": "Website load time thresholds", "confidence": "high"}
+{"feat": "30-F926653", "explanation": "web frontend code", "confidence": "medium"}
+{"feat": "30-F927460", "explanation": "instructional possessive your", "confidence": "medium"}
+{"feat": "30-F927664", "explanation": "GUI programming code", "confidence": "medium"}
+{"feat": "30-F907558", "explanation": "HTML heading tags", "confidence": "high"}
+{"feat": "30-F928519", "explanation": "custom CSS editing", "confidence": "high"}
+{"feat": "30-F929616", "explanation": "Angular HTTP methods", "confidence": "high"}
+{"feat": "30-F929641", "explanation": "CSS hex color codes", "confidence": "high"}
+{"feat": "30-F929705", "explanation": "CSS list-style property", "confidence": "medium"}
+{"feat": "30-F929808", "explanation": "React class components", "confidence": "high"}
+{"feat": "30-F929963", "explanation": "UNESCO Creative Cities", "confidence": "medium"}
+{"feat": "30-F930907", "explanation": "web content", "confidence": "medium"}
+{"feat": "30-F932780", "explanation": "ASP.NET MVC View calls", "confidence": "high"}
+{"feat": "30-F933053", "explanation": "Simplify web development", "confidence": "high"}
+{"feat": "30-F819342", "explanation": "HTML form tag", "confidence": "high"}
+{"feat": "30-F931871", "explanation": "Data in web code", "confidence": "medium"}
+{"feat": "30-F931515", "explanation": "UN sustainable development goals", "confidence": "medium"}
+{"feat": "30-F934391", "explanation": "HTML select element", "confidence": "high"}
+{"feat": "30-F934903", "explanation": "React import paths", "confidence": "high"}
+{"feat": "30-F935156", "explanation": "development improvement rhetoric", "confidence": "medium"}
+{"feat": "30-F935896", "explanation": "structured documentation references", "confidence": "medium"}
+{"feat": "30-F937919", "explanation": "HTML inline width style", "confidence": "high"}
+{"feat": "30-F938219", "explanation": "custom website features", "confidence": "high"}
+{"feat": "30-F939214", "explanation": "JavaScript arrow handlers", "confidence": "medium"}
+{"feat": "30-F940071", "explanation": "SVG viewBox coordinates", "confidence": "medium"}
+{"feat": "30-F940313", "explanation": "BeautifulSoup HTML parsing", "confidence": "high"}
+{"feat": "30-F940608", "explanation": "Sustainable development policy", "confidence": "medium"}
+{"feat": "30-F941714", "explanation": "template inheritance", "confidence": "medium"}
+{"feat": "30-F941106", "explanation": "Chinese urbanization", "confidence": "medium"}
+{"feat": "30-F826213", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F941398", "explanation": "CSS translate transforms", "confidence": "high"}
+{"feat": "30-F942199", "explanation": "HTML form inputs", "confidence": "medium"}
+{"feat": "30-F942447", "explanation": "D3 SVG shape elements", "confidence": "high"}
+{"feat": "30-F942972", "explanation": "HTML/CSS class styling", "confidence": "medium"}
+{"feat": "30-F943336", "explanation": "Web app callback code", "confidence": "medium"}
+{"feat": "30-F943938", "explanation": "CSS background color", "confidence": "high"}
+{"feat": "30-F944294", "explanation": "JavaScript mouseover events", "confidence": "high"}
+{"feat": "30-F935514", "explanation": "DOM id string construction", "confidence": "medium"}
+{"feat": "30-F946724", "explanation": "Core Web Vitals metrics", "confidence": "high"}
+{"feat": "30-F945179", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F947934", "explanation": "JavaScript callback index parameter", "confidence": "high"}
+{"feat": "30-F947546", "explanation": "Bootstrap button classes", "confidence": "high"}
+{"feat": "30-F948539", "explanation": "JavaScript setAttribute method", "confidence": "high"}
+{"feat": "30-F937824", "explanation": "Elementor mentions", "confidence": "medium"}
+{"feat": "30-F949468", "explanation": "web application code", "confidence": "medium"}
+{"feat": "30-F948674", "explanation": "JavaScript export default", "confidence": "high"}
+{"feat": "30-F948612", "explanation": "Astra WordPress theme", "confidence": "medium"}
+{"feat": "30-F938080", "explanation": "Conjunction in policy text", "confidence": "medium"}
+{"feat": "30-F948976", "explanation": "Bootstrap tab navigation code", "confidence": "high"}
+{"feat": "30-F949031", "explanation": "international development discourse", "confidence": "medium"}
+{"feat": "30-F840146", "explanation": "web layout design", "confidence": "high"}
+{"feat": "30-F949639", "explanation": "React named import syntax", "confidence": "medium"}
+{"feat": "30-F950189", "explanation": "Indented code blocks", "confidence": "medium"}
+{"feat": "30-F950566", "explanation": "D3 tooltip positioning", "confidence": "high"}
+{"feat": "30-F950770", "explanation": "JavaScript HTTP requests", "confidence": "medium"}
+{"feat": "30-F951139", "explanation": "JavaScript indentation", "confidence": "high"}
+{"feat": "30-F951759", "explanation": "fluid responsive layouts", "confidence": "high"}
+{"feat": "30-F952791", "explanation": "HTML charset UTF-8", "confidence": "medium"}
+{"feat": "30-F953012", "explanation": "Progressive Web Apps", "confidence": "high"}
+{"feat": "30-F953067", "explanation": "JavaScript input elements", "confidence": "medium"}
+{"feat": "30-F954632", "explanation": "development policy discourse", "confidence": "medium"}
+{"feat": "30-F953309", "explanation": "Chinese policy development", "confidence": "medium"}
+{"feat": "30-F956491", "explanation": "PHP POST array keys", "confidence": "high"}
+{"feat": "30-F954829", "explanation": "Next.js data fetching", "confidence": "high"}
+{"feat": "30-F957587", "explanation": "D3 axis code", "confidence": "high"}
+{"feat": "30-F958079", "explanation": "International climate agreements", "confidence": "high"}
+{"feat": "30-F958287", "explanation": "comparative degree", "confidence": "medium"}
+{"feat": "30-F958422", "explanation": "Express router initialization", "confidence": "high"}
+{"feat": "30-F959994", "explanation": "JavaScript file upload handlers", "confidence": "high"}
+{"feat": "30-F958430", "explanation": "Markdown code fences", "confidence": "medium"}
+{"feat": "30-F959573", "explanation": "HTML/PHP indentation", "confidence": "medium"}
+{"feat": "30-F960082", "explanation": "Ext JS framework", "confidence": "medium"}
+{"feat": "30-F960248", "explanation": "CSS reset normalize", "confidence": "high"}
+{"feat": "30-F960621", "explanation": "CSS specificity priority", "confidence": "high"}
+{"feat": "30-F961236", "explanation": "HTML input elements", "confidence": "high"}
+{"feat": "30-F960970", "explanation": "CSS top positioning", "confidence": "high"}
+{"feat": "30-F952442", "explanation": "CSS font weight", "confidence": "high"}
+{"feat": "30-F961856", "explanation": "economic development", "confidence": "high"}
+{"feat": "30-F961881", "explanation": "CSS property declarations", "confidence": "medium"}
+{"feat": "30-F961922", "explanation": "Chinese Five-Year Plans", "confidence": "high"}
+{"feat": "30-F962335", "explanation": "Sustainable development definition", "confidence": "high"}
+{"feat": "30-F962008", "explanation": "HTML/PHP markup", "confidence": "high"}
+{"feat": "30-F962816", "explanation": "JavaScript import from", "confidence": "high"}
+{"feat": "30-F955452", "explanation": "Hello world examples", "confidence": "high"}
+{"feat": "30-F964905", "explanation": "sustainable development", "confidence": "high"}
+{"feat": "30-F963567", "explanation": "Bootstrap grid rows", "confidence": "high"}
+{"feat": "30-F964245", "explanation": "Frontend JavaScript code", "confidence": "medium"}
+{"feat": "30-F963601", "explanation": "CSS chat container styling", "confidence": "high"}
+{"feat": "30-F964421", "explanation": "UI configuration parameters", "confidence": "medium"}
+{"feat": "30-F967231", "explanation": "HTML element creation", "confidence": "high"}
+{"feat": "30-F965022", "explanation": "Python .get method", "confidence": "high"}
+{"feat": "30-F966004", "explanation": "Say routing", "confidence": "high"}
+{"feat": "30-F967028", "explanation": "react-router-dom imports", "confidence": "high"}
+{"feat": "30-F967094", "explanation": "global vaccine access", "confidence": "medium"}
+{"feat": "30-F967811", "explanation": "HTML form method attribute", "confidence": "high"}
+{"feat": "30-F968046", "explanation": "Bootstrap carousel sliders", "confidence": "medium"}
+{"feat": "30-F968065", "explanation": "i18n internationalization", "confidence": "high"}
+{"feat": "30-F968142", "explanation": "climate reduction targets", "confidence": "medium"}
+{"feat": "30-F968721", "explanation": "HTML type attribute", "confidence": "high"}
+{"feat": "30-F968614", "explanation": "IntersectionObserver entries handling", "confidence": "high"}
+{"feat": "30-F869785", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F968796", "explanation": "CSS/XPath selector strings", "confidence": "high"}
+{"feat": "30-F969012", "explanation": "React JSX return", "confidence": "high"}
+{"feat": "30-F971578", "explanation": "WordPress themes", "confidence": "high"}
+{"feat": "30-F969041", "explanation": "CSS hover selectors", "confidence": "medium"}
+{"feat": "30-F970188", "explanation": "Bootstrap frontend code", "confidence": "medium"}
+{"feat": "30-F969650", "explanation": "React class component props", "confidence": "high"}
+{"feat": "30-F971113", "explanation": "Code string interpolation", "confidence": "high"}
+{"feat": "30-F972108", "explanation": "Web development technologies", "confidence": "medium"}
+{"feat": "30-F973573", "explanation": "AngularJS form validation", "confidence": "high"}
+{"feat": "30-F972151", "explanation": "WordPress single post classes", "confidence": "high"}
+{"feat": "30-F973237", "explanation": "jQuery animation callbacks", "confidence": "medium"}
+{"feat": "30-F975123", "explanation": "Web Components JavaScript", "confidence": "medium"}
+{"feat": "30-F973568", "explanation": "JavaScript import quotes", "confidence": "medium"}
+{"feat": "30-F973973", "explanation": "Don't Say death", "confidence": "high"}
+{"feat": "30-F974591", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F976811", "explanation": "CSS background-repeat property", "confidence": "high"}
+{"feat": "30-F976888", "explanation": "Web development code syntax", "confidence": "medium"}
+{"feat": "30-F977533", "explanation": "JavaScript string concatenation", "confidence": "high"}
+{"feat": "30-F976595", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F977651", "explanation": "CSS error color styling", "confidence": "high"}
+{"feat": "30-F978912", "explanation": "programming tutorial curricula", "confidence": "medium"}
+{"feat": "30-F979226", "explanation": "CSS margin property", "confidence": "high"}
+{"feat": "30-F979656", "explanation": "Code indentation whitespace", "confidence": "high"}
+{"feat": "30-F980579", "explanation": "W3C HTML mailing lists", "confidence": "medium"}
+{"feat": "30-F980581", "explanation": "Visualization config syntax", "confidence": "medium"}
+{"feat": "30-F969571", "explanation": "JavaScript Redux action creators", "confidence": "high"}
+{"feat": "30-F981754", "explanation": "World Economic Forum job forecasts", "confidence": "high"}
+{"feat": "30-F981745", "explanation": "CSS reset styles", "confidence": "high"}
+{"feat": "30-F982107", "explanation": "D3.js visualization callbacks", "confidence": "medium"}
+{"feat": "30-F983288", "explanation": "JavaScript relative imports", "confidence": "high"}
+{"feat": "30-F982431", "explanation": "Streamlit Python library", "confidence": "high"}
+{"feat": "30-F982806", "explanation": "Bootstrap panel markup", "confidence": "high"}
+{"feat": "30-F982606", "explanation": "UI label fields", "confidence": "medium"}
+{"feat": "30-F894209", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F984152", "explanation": "JavaScript function callbacks", "confidence": "high"}
+{"feat": "30-F985263", "explanation": "Code string literals", "confidence": "medium"}
+{"feat": "30-F988634", "explanation": "CSS layout sizing", "confidence": "high"}
+{"feat": "30-F985348", "explanation": "HTML script imports", "confidence": "medium"}
+{"feat": "30-F985511", "explanation": "CSS spacing properties", "confidence": "medium"}
+{"feat": "30-F986371", "explanation": "JavaScript DOM element variables", "confidence": "medium"}
+{"feat": "30-F987413", "explanation": "React import quote", "confidence": "medium"}
+{"feat": "30-F987503", "explanation": "CSS background-color declarations", "confidence": "high"}
+{"feat": "30-F989537", "explanation": "frontend route configuration", "confidence": "medium"}
+{"feat": "30-F990254", "explanation": "Layout structure terminology", "confidence": "medium"}
+{"feat": "30-F990308", "explanation": "CSS background-size property", "confidence": "high"}
+{"feat": "30-F990931", "explanation": "D3 scale definitions", "confidence": "high"}
+{"feat": "30-F979768", "explanation": "JavaScript framework documentation", "confidence": "medium"}
+{"feat": "30-F991994", "explanation": "HTML5 references", "confidence": "high"}
+{"feat": "30-F992074", "explanation": "Frontend framework code", "confidence": "medium"}
+{"feat": "30-F995693", "explanation": "Express res.render object", "confidence": "medium"}
+{"feat": "30-F993588", "explanation": "web development tutorials", "confidence": "medium"}
+{"feat": "30-F994381", "explanation": "React JSX code", "confidence": "medium"}
+{"feat": "30-F995899", "explanation": "Vue.js framework code", "confidence": "medium"}
+{"feat": "30-F995414", "explanation": "Start Bootstrap templates", "confidence": "high"}
+{"feat": "30-F997434", "explanation": "Bootstrap form-control class", "confidence": "high"}
+{"feat": "30-F983139", "explanation": "public/private investment finance", "confidence": "high"}
+{"feat": "30-F997461", "explanation": "HTML anchor tags", "confidence": "high"}
+{"feat": "30-F921852", "explanation": "JavaScript DOM element creation", "confidence": "high"}
+{"feat": "30-F999001", "explanation": "TypeScript import declarations", "confidence": "high"}
+{"feat": "30-F1000519", "explanation": "HTML template syntax", "confidence": "high"}
+{"feat": "30-F1000561", "explanation": "Leaflet JavaScript API", "confidence": "high"}
+{"feat": "30-F922876", "explanation": "CSS nth-child selectors", "confidence": "high"}
+{"feat": "30-F1001291", "explanation": "Progressive Web Apps", "confidence": "high"}
+{"feat": "30-F1003741", "explanation": "CSS indentation", "confidence": "medium"}
+{"feat": "30-F1004566", "explanation": "Python web app initialization", "confidence": "medium"}
+{"feat": "30-F1002027", "explanation": "CSS flexbox layout", "confidence": "high"}
+{"feat": "30-F925987", "explanation": "JavaScript import strings", "confidence": "medium"}
+{"feat": "30-F1005599", "explanation": "JavaScript window width", "confidence": "medium"}
+{"feat": "30-F1003289", "explanation": "JavaScript form value access", "confidence": "medium"}
+{"feat": "30-F1003647", "explanation": "Express sendFile calls", "confidence": "high"}
+{"feat": "30-F1008529", "explanation": "Nature-based climate solutions", "confidence": "medium"}
+{"feat": "30-F1003443", "explanation": "Angular injectable imports", "confidence": "high"}
+{"feat": "30-F1009492", "explanation": "HTML attribute assignment", "confidence": "high"}
+{"feat": "30-F1004967", "explanation": "JSX div element", "confidence": "high"}
+{"feat": "30-F1005647", "explanation": "responsive CSS styling", "confidence": "medium"}
+{"feat": "30-F1006183", "explanation": "framework API code", "confidence": "medium"}
+{"feat": "30-F1007147", "explanation": "web pages", "confidence": "high"}
+{"feat": "30-F1009442", "explanation": "HTML attribute syntax", "confidence": "high"}
+{"feat": "30-F1009989", "explanation": "HTML attribute quotes", "confidence": "medium"}
+{"feat": "30-F1009820", "explanation": "Angular NgModule bootstrap", "confidence": "high"}
+{"feat": "30-F1010292", "explanation": "CSS styling syntax", "confidence": "high"}
+{"feat": "30-F1010483", "explanation": "responsive web design", "confidence": "high"}
+{"feat": "30-F1000376", "explanation": "JavaScript/HTML identifiers", "confidence": "medium"}
+{"feat": "30-F936277", "explanation": "Website accessibility statements", "confidence": "high"}
+{"feat": "30-F1013039", "explanation": "Selenium XPath findElement", "confidence": "high"}
+{"feat": "30-F1011559", "explanation": "UI framework code", "confidence": "high"}
+{"feat": "30-F1013439", "explanation": "Backbone events hash", "confidence": "high"}
+{"feat": "30-F1013462", "explanation": "Express route handlers", "confidence": "high"}
+{"feat": "30-F1013759", "explanation": "HTML hidden input attributes", "confidence": "high"}
+{"feat": "30-F1013990", "explanation": "AJAX contentType setting", "confidence": "high"}
+{"feat": "30-F1014214", "explanation": "HTML name attribute", "confidence": "high"}
+{"feat": "30-F1001628", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F1014627", "explanation": "Web asset paths", "confidence": "high"}
+{"feat": "30-F1015410", "explanation": "Say sense of gain", "confidence": "high"}
+{"feat": "30-F1015224", "explanation": "childhood obesity statistics", "confidence": "high"}
+{"feat": "30-F1016235", "explanation": "Plotly visualization code", "confidence": "medium"}
+{"feat": "30-F1017967", "explanation": "Form input value handling", "confidence": "medium"}
+{"feat": "30-F1017780", "explanation": "humanitarian development advocacy", "confidence": "medium"}
+{"feat": "30-F1018259", "explanation": "web accessibility guidelines", "confidence": "high"}
+{"feat": "30-F1018281", "explanation": "Express.js route handlers", "confidence": "medium"}
+{"feat": "30-F1018629", "explanation": "Paris Agreement temperature goal", "confidence": "high"}
+{"feat": "30-F1018645", "explanation": "CSS opening brace", "confidence": "high"}
+{"feat": "30-F1020095", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F1020507", "explanation": "UN climate treaty negotiations", "confidence": "medium"}
+{"feat": "30-F1021246", "explanation": "Don't Say active", "confidence": "medium"}
+{"feat": "30-F1020884", "explanation": "D3 SVG creation", "confidence": "high"}
+{"feat": "30-F1021233", "explanation": "CSS pixel string concatenation", "confidence": "high"}
+{"feat": "30-F1021375", "explanation": "CSS box model styling", "confidence": "medium"}
+{"feat": "30-F1021462", "explanation": "HTML input attributes", "confidence": "high"}
+{"feat": "30-F1022182", "explanation": "Laravel resource creation form", "confidence": "medium"}
+{"feat": "30-F1021539", "explanation": "Digital divide", "confidence": "high"}
+{"feat": "30-F1022064", "explanation": "@material-ui/core imports", "confidence": "high"}
+{"feat": "30-F944455", "explanation": "React createClass lifecycle methods", "confidence": "high"}
+{"feat": "30-F1022469", "explanation": "Python ElementTree imports", "confidence": "high"}
+{"feat": "30-F1028243", "explanation": "HTML doctype declaration", "confidence": "high"}
+{"feat": "30-F1023903", "explanation": "Common but differentiated responsibilities", "confidence": "high"}
+{"feat": "30-F1024813", "explanation": "DOM element selection", "confidence": "high"}
+{"feat": "30-F1025621", "explanation": "SVG stroke-width attribute", "confidence": "high"}
+{"feat": "30-F1025681", "explanation": "WordPress theme CSS classes", "confidence": "medium"}
+{"feat": "30-F1028798", "explanation": "Redux action object", "confidence": "high"}
+{"feat": "30-F1027138", "explanation": "Net zero emissions targets", "confidence": "high"}
+{"feat": "30-F1026445", "explanation": "jQuery CDN URL", "confidence": "medium"}
+{"feat": "30-F1028306", "explanation": "HTML div elements", "confidence": "high"}
+{"feat": "30-F1033722", "explanation": "React useState import braces", "confidence": "high"}
+{"feat": "30-F1028877", "explanation": "WHO public health mission", "confidence": "medium"}
+{"feat": "30-F1028956", "explanation": "CSS-in-JS style colons", "confidence": "high"}
+{"feat": "30-F1029407", "explanation": "UN sustainable development", "confidence": "medium"}
+{"feat": "30-F1031721", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F1030196", "explanation": "Say .css stylesheet", "confidence": "high"}
+{"feat": "30-F1033445", "explanation": "Indented quoted code strings", "confidence": "medium"}
+{"feat": "30-F1032258", "explanation": "JavaScript use strict directive", "confidence": "high"}
+{"feat": "30-F1035168", "explanation": "JavaScript event listeners", "confidence": "high"}
+{"feat": "30-F1037296", "explanation": "CSS left positioning", "confidence": "high"}
+{"feat": "30-F1035368", "explanation": "CSS center alignment", "confidence": "high"}
+{"feat": "30-F1035444", "explanation": "Qode theme version strings", "confidence": "high"}
+{"feat": "30-F1035746", "explanation": "JavaScript classnames imports", "confidence": "high"}
+{"feat": "30-F1036266", "explanation": "Tailwind CSS", "confidence": "high"}
+{"feat": "30-F1036699", "explanation": "React form change handlers", "confidence": "high"}
+{"feat": "30-F1038293", "explanation": "HTML head tag", "confidence": "high"}
+{"feat": "30-F1037333", "explanation": "frontend component code", "confidence": "medium"}
+{"feat": "30-F1037899", "explanation": "public method declarations", "confidence": "high"}
+{"feat": "30-F1038177", "explanation": "global development statistics", "confidence": "medium"}
+{"feat": "30-F1038509", "explanation": "HTML comments", "confidence": "high"}
+{"feat": "30-F1039037", "explanation": "CSS framework classes", "confidence": "medium"}
+{"feat": "30-F1039791", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F953077", "explanation": "HTML opening tags in strings", "confidence": "high"}
+{"feat": "30-F1039938", "explanation": "HTML tag close delimiter", "confidence": "medium"}
+{"feat": "30-F1040574", "explanation": "CSS utility classes", "confidence": "medium"}
+{"feat": "30-F1041894", "explanation": "HTML/XML tag openings", "confidence": "medium"}
+{"feat": "30-F1041337", "explanation": "Don't Say search", "confidence": "medium"}
+{"feat": "30-F1041989", "explanation": "React JSX syntax", "confidence": "medium"}
+{"feat": "30-F1042759", "explanation": "JavaScript slideshow code", "confidence": "medium"}
+{"feat": "30-F1042366", "explanation": "CSS dimensions", "confidence": "medium"}
+{"feat": "30-F1043526", "explanation": "Emission reduction percentages", "confidence": "high"}
+{"feat": "30-F1043562", "explanation": "JavaScript code syntax", "confidence": "medium"}
+{"feat": "30-F1044935", "explanation": "JavaScript synthetic events", "confidence": "high"}
+{"feat": "30-F1045235", "explanation": "HTML div structure", "confidence": "high"}
+{"feat": "30-F1046004", "explanation": "UN sustainable development goals", "confidence": "high"}
+{"feat": "30-F1046483", "explanation": "CSS descendant selectors", "confidence": "medium"}
+{"feat": "30-F1046976", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F1046654", "explanation": "HTML lang attribute", "confidence": "high"}
+{"feat": "30-F1048453", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F1037228", "explanation": "CSS grid / flex layout", "confidence": "high"}
+{"feat": "30-F962732", "explanation": "CSS left spacing", "confidence": "high"}
+{"feat": "30-F882515", "explanation": "jQuery click handlers", "confidence": "high"}
+{"feat": "30-F992351", "explanation": "JavaScript event handlers", "confidence": "medium"}
+{"feat": "30-F1005868", "explanation": "international climate agreements", "confidence": "medium"}
+{"feat": "30-F1025352", "explanation": "programming code syntax", "confidence": "medium"}

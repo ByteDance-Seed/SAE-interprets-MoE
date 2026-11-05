@@ -1,0 +1,2000 @@
+{"feat": "30-F78", "explanation": "transversal angle geometry", "confidence": "medium"}
+{"feat": "30-F2051", "explanation": "Geometric rotation transformations", "confidence": "medium"}
+{"feat": "30-F2797", "explanation": "external angle bisectors", "confidence": "medium"}
+{"feat": "30-F333", "explanation": "triangle area calculations", "confidence": "medium"}
+{"feat": "30-F4049", "explanation": "Geometric spatial relations", "confidence": "medium"}
+{"feat": "30-F1629", "explanation": "Say eyes", "confidence": "high"}
+{"feat": "30-F5882", "explanation": "Geometric orientation test", "confidence": "medium"}
+{"feat": "30-F5914", "explanation": "curved shapes", "confidence": "high"}
+{"feat": "30-F6802", "explanation": "Elementary geometry shapes", "confidence": "medium"}
+{"feat": "30-F950", "explanation": "Into/out-of-page vectors", "confidence": "high"}
+{"feat": "30-F3623", "explanation": "decimal coordinate syntax", "confidence": "medium"}
+{"feat": "30-F5626", "explanation": "Geometry segment on x-axis", "confidence": "medium"}
+{"feat": "30-F5495", "explanation": "Geometric reflections", "confidence": "high"}
+{"feat": "30-F6581", "explanation": "inscribed angle geometry", "confidence": "medium"}
+{"feat": "30-F4583", "explanation": "Including clause marker", "confidence": "low"}
+{"feat": "30-F8447", "explanation": "coordinate geometry code", "confidence": "medium"}
+{"feat": "30-F8233", "explanation": "Say offset", "confidence": "medium"}
+{"feat": "30-F10307", "explanation": "3D block structures", "confidence": "high"}
+{"feat": "30-F8784", "explanation": "geometric from-to endpoints", "confidence": "medium"}
+{"feat": "30-F12745", "explanation": "triangle side references", "confidence": "medium"}
+{"feat": "30-F13749", "explanation": "naval architecture terminology", "confidence": "medium"}
+{"feat": "30-F13018", "explanation": "Say length", "confidence": "high"}
+{"feat": "30-F9933", "explanation": "paper folding geometry", "confidence": "medium"}
+{"feat": "30-F14964", "explanation": "isosceles triangle equal sides", "confidence": "medium"}
+{"feat": "30-F11751", "explanation": "Say inner", "confidence": "medium"}
+{"feat": "30-F12226", "explanation": "Peripheral geometric endpoints", "confidence": "medium"}
+{"feat": "30-F13913", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F16010", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F16037", "explanation": "2D grid rotation tasks", "confidence": "medium"}
+{"feat": "30-F15296", "explanation": "National flag iconography", "confidence": "medium"}
+{"feat": "30-F17206", "explanation": "Garbled Unicode text", "confidence": "low"}
+{"feat": "30-F17257", "explanation": "geometric drawing instructions", "confidence": "medium"}
+{"feat": "30-F22370", "explanation": "Say upper", "confidence": "medium"}
+{"feat": "30-F17876", "explanation": "stacked layers", "confidence": "medium"}
+{"feat": "30-F22609", "explanation": "Side lengths forming shapes", "confidence": "medium"}
+{"feat": "30-F19947", "explanation": "mathematical terminology", "confidence": "medium"}
+{"feat": "30-F18977", "explanation": "distance and area measurement", "confidence": "medium"}
+{"feat": "30-F23525", "explanation": "Don't Say area", "confidence": "medium"}
+{"feat": "30-F21270", "explanation": "Planar geometric figures", "confidence": "medium"}
+{"feat": "30-F23546", "explanation": "Coordinate plane references", "confidence": "medium"}
+{"feat": "30-F21452", "explanation": "Geometry problem predicates", "confidence": "low"}
+{"feat": "30-F25029", "explanation": "left-to-right direction", "confidence": "medium"}
+{"feat": "30-F1347", "explanation": "lateral edges and faces", "confidence": "medium"}
+{"feat": "30-F26749", "explanation": "Don't Say space", "confidence": "low"}
+{"feat": "30-F25098", "explanation": "Y-coordinates in geometry", "confidence": "medium"}
+{"feat": "30-F25860", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F27483", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F25680", "explanation": "Number three", "confidence": "medium"}
+{"feat": "30-F29033", "explanation": "Say surface", "confidence": "high"}
+{"feat": "30-F26841", "explanation": "paired opposites", "confidence": "medium"}
+{"feat": "30-F30492", "explanation": "suprasternal notch anatomy", "confidence": "high"}
+{"feat": "30-F28778", "explanation": "Origin coordinate notation", "confidence": "medium"}
+{"feat": "30-F27716", "explanation": "function argument syntax", "confidence": "medium"}
+{"feat": "30-F30705", "explanation": "checkerboard color alternation", "confidence": "medium"}
+{"feat": "30-F34220", "explanation": "Cone from circular sector", "confidence": "medium"}
+{"feat": "30-F36578", "explanation": "circle of radius", "confidence": "medium"}
+{"feat": "30-F34669", "explanation": "Trapezoid bases", "confidence": "medium"}
+{"feat": "30-F35915", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F36291", "explanation": "No three collinear points", "confidence": "medium"}
+{"feat": "30-F38451", "explanation": "Normal vector direction geometry", "confidence": "medium"}
+{"feat": "30-F36579", "explanation": "centroid at origin", "confidence": "medium"}
+{"feat": "30-F36725", "explanation": "Polygon terminology", "confidence": "medium"}
+{"feat": "30-F36544", "explanation": "brain cortical anatomy", "confidence": "high"}
+{"feat": "30-F39935", "explanation": "Coordinate geometry setup", "confidence": "medium"}
+{"feat": "30-F39379", "explanation": "geometric constraints", "confidence": "medium"}
+{"feat": "30-F41946", "explanation": "polygon interior angle sums", "confidence": "medium"}
+{"feat": "30-F42923", "explanation": "LaTeX math delimiter", "confidence": "medium"}
+{"feat": "30-F42158", "explanation": "Geometric star shapes", "confidence": "high"}
+{"feat": "30-F43747", "explanation": "Centroid coordinate averaging", "confidence": "high"}
+{"feat": "30-F44055", "explanation": "golden rectangle side ratio", "confidence": "high"}
+{"feat": "30-F44330", "explanation": "UI frame dimensions", "confidence": "high"}
+{"feat": "30-F44504", "explanation": "Structured symbolic notation", "confidence": "medium"}
+{"feat": "30-F47922", "explanation": "Unspecified geometric location", "confidence": "medium"}
+{"feat": "30-F46561", "explanation": "Angle degree notation", "confidence": "medium"}
+{"feat": "30-F47646", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F48021", "explanation": "Don't Say angle/rotation", "confidence": "medium"}
+{"feat": "30-F50067", "explanation": "physical scale analogies", "confidence": "medium"}
+{"feat": "30-F51403", "explanation": "fractional length proportions", "confidence": "medium"}
+{"feat": "30-F49081", "explanation": "3D rotation vectors", "confidence": "medium"}
+{"feat": "30-F50478", "explanation": "π/n polygon trigonometry", "confidence": "medium"}
+{"feat": "30-F53606", "explanation": "Sum-of-squares formulas", "confidence": "medium"}
+{"feat": "30-F52039", "explanation": "Point-on-segment coordinates", "confidence": "medium"}
+{"feat": "30-F52237", "explanation": "Grid rows and columns", "confidence": "medium"}
+{"feat": "30-F52263", "explanation": "mesh subdivision refinement", "confidence": "medium"}
+{"feat": "30-F52569", "explanation": "Inradius formula", "confidence": "medium"}
+{"feat": "30-F53508", "explanation": "sharing edges or vertices", "confidence": "medium"}
+{"feat": "30-F54128", "explanation": "physical arch structures", "confidence": "medium"}
+{"feat": "30-F54745", "explanation": "Polygon side counts", "confidence": "medium"}
+{"feat": "30-F54839", "explanation": "Graph edge-list vertices", "confidence": "medium"}
+{"feat": "30-F54207", "explanation": "Let me reasoning setup", "confidence": "medium"}
+{"feat": "30-F55617", "explanation": "Perpendicular / orthogonal geometry", "confidence": "medium"}
+{"feat": "30-F54928", "explanation": "Incenter at (r, r)", "confidence": "medium"}
+{"feat": "30-F57342", "explanation": "Compass geometry construction", "confidence": "high"}
+{"feat": "30-F60988", "explanation": "3D geometry notation", "confidence": "high"}
+{"feat": "30-F57817", "explanation": "Geometric line descriptions", "confidence": "medium"}
+{"feat": "30-F58528", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F58849", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F58339", "explanation": "conditional if clauses", "confidence": "medium"}
+{"feat": "30-F58934", "explanation": "Geometric shape descriptors", "confidence": "medium"}
+{"feat": "30-F59397", "explanation": "Don't Say rotation/flip", "confidence": "medium"}
+{"feat": "30-F60310", "explanation": "Geometric semi-axes", "confidence": "high"}
+{"feat": "30-F59582", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F60930", "explanation": "Technical relational “of”", "confidence": "low"}
+{"feat": "30-F62371", "explanation": "triangle ABC notation", "confidence": "medium"}
+{"feat": "30-F63477", "explanation": "Say water surface", "confidence": "high"}
+{"feat": "30-F61609", "explanation": "vectors from common vertex", "confidence": "medium"}
+{"feat": "30-F64454", "explanation": "geometric terminology", "confidence": "medium"}
+{"feat": "30-F64534", "explanation": "Diameter in geometry", "confidence": "high"}
+{"feat": "30-F66458", "explanation": "trigonometric Ceva formula", "confidence": "high"}
+{"feat": "30-F64659", "explanation": "Anatomical front/outer surfaces", "confidence": "medium"}
+{"feat": "30-F66481", "explanation": "Zero in coordinates", "confidence": "medium"}
+{"feat": "30-F66639", "explanation": "Spiral grid traversal code", "confidence": "medium"}
+{"feat": "30-F68521", "explanation": "shared edge adjacency", "confidence": "medium"}
+{"feat": "30-F21428", "explanation": "Geometric congruence", "confidence": "high"}
+{"feat": "30-F68005", "explanation": "Triangle side BC", "confidence": "medium"}
+{"feat": "30-F68708", "explanation": "Geometric label ABCDEF", "confidence": "medium"}
+{"feat": "30-F70174", "explanation": "Geometric element relationships", "confidence": "medium"}
+{"feat": "30-F69140", "explanation": "Vertex figure notation", "confidence": "high"}
+{"feat": "30-F69283", "explanation": "Geometry area ratios", "confidence": "medium"}
+{"feat": "30-F71207", "explanation": "Coordinate origin notation", "confidence": "medium"}
+{"feat": "30-F52183", "explanation": "Geometric bounding volumes", "confidence": "medium"}
+{"feat": "30-F70666", "explanation": "Point already on line", "confidence": "medium"}
+{"feat": "30-F70953", "explanation": "triangle inequality", "confidence": "high"}
+{"feat": "30-F69536", "explanation": "r-by-c rectangle notation", "confidence": "medium"}
+{"feat": "30-F73065", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F71449", "explanation": "Coordinate geometry x-axis", "confidence": "medium"}
+{"feat": "30-F73933", "explanation": "graphics UI code", "confidence": "medium"}
+{"feat": "30-F74057", "explanation": "digit 2", "confidence": "medium"}
+{"feat": "30-F74423", "explanation": "Starfish leg-count ambiguity", "confidence": "high"}
+{"feat": "30-F76640", "explanation": "Geometric midpoint constructions", "confidence": "medium"}
+{"feat": "30-F77486", "explanation": "geometry explanations", "confidence": "medium"}
+{"feat": "30-F74875", "explanation": "angle between line and plane", "confidence": "medium"}
+{"feat": "30-F74845", "explanation": "width dimension variable", "confidence": "high"}
+{"feat": "30-F75850", "explanation": "zero vector components", "confidence": "high"}
+{"feat": "30-F77344", "explanation": "90° clockwise rotation formula", "confidence": "medium"}
+{"feat": "30-F77345", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F79037", "explanation": "Coordinate pair notation", "confidence": "high"}
+{"feat": "30-F80237", "explanation": "Don't Say points", "confidence": "high"}
+{"feat": "30-F79377", "explanation": "point-to-circle distance", "confidence": "medium"}
+{"feat": "30-F83135", "explanation": "rough opening measurements", "confidence": "medium"}
+{"feat": "30-F81362", "explanation": "garment pattern drafting", "confidence": "medium"}
+{"feat": "30-F69072", "explanation": "Number twelve", "confidence": "medium"}
+{"feat": "30-F82875", "explanation": "Quadrilateral intersecting diagonals", "confidence": "medium"}
+{"feat": "30-F83831", "explanation": "Say transition", "confidence": "low"}
+{"feat": "30-F83590", "explanation": "right boundary coordinates", "confidence": "medium"}
+{"feat": "30-F86153", "explanation": "raytracing geometry code", "confidence": "medium"}
+{"feat": "30-F84367", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F85730", "explanation": "Maximum physical dimensions", "confidence": "high"}
+{"feat": "30-F85406", "explanation": "shaded geometry regions", "confidence": "medium"}
+{"feat": "30-F85461", "explanation": "Zero coordinates", "confidence": "medium"}
+{"feat": "30-F86049", "explanation": "Say axis", "confidence": "medium"}
+{"feat": "30-F87908", "explanation": "LaTeX math delimiters", "confidence": "medium"}
+{"feat": "30-F86504", "explanation": "regular polygon geometry", "confidence": "medium"}
+{"feat": "30-F88808", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F72661", "explanation": "prism cross-sections", "confidence": "medium"}
+{"feat": "30-F88933", "explanation": "In all directions", "confidence": "medium"}
+{"feat": "30-F89119", "explanation": "parabola opens downward", "confidence": "medium"}
+{"feat": "30-F89083", "explanation": "Drilled cylindrical holes", "confidence": "medium"}
+{"feat": "30-F89144", "explanation": "Coordinate point sets", "confidence": "medium"}
+{"feat": "30-F89421", "explanation": "Angle bounds 0 to π", "confidence": "medium"}
+{"feat": "30-F92385", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F91880", "explanation": "3D geometry descriptions", "confidence": "medium"}
+{"feat": "30-F94664", "explanation": "normal vector direction", "confidence": "medium"}
+{"feat": "30-F94161", "explanation": "Angle between geometric objects", "confidence": "medium"}
+{"feat": "30-F95466", "explanation": "Perpendicular bisectors", "confidence": "high"}
+{"feat": "30-F97139", "explanation": "Equal side lengths", "confidence": "medium"}
+{"feat": "30-F98458", "explanation": "Geometric line segments", "confidence": "medium"}
+{"feat": "30-F97386", "explanation": "Say divide", "confidence": "medium"}
+{"feat": "30-F98191", "explanation": "Mandibular angle anatomy", "confidence": "medium"}
+{"feat": "30-F103508", "explanation": "triangle incenter side lengths", "confidence": "medium"}
+{"feat": "30-F101205", "explanation": "physical contact points", "confidence": "medium"}
+{"feat": "30-F99059", "explanation": "2D point coordinates", "confidence": "medium"}
+{"feat": "30-F101486", "explanation": "spatial geometry descriptions", "confidence": "medium"}
+{"feat": "30-F104303", "explanation": "Equilateral triangle formulas", "confidence": "medium"}
+{"feat": "30-F103840", "explanation": "Cone from sector geometry", "confidence": "medium"}
+{"feat": "30-F104820", "explanation": "Objects fitting along dimensions", "confidence": "high"}
+{"feat": "30-F105141", "explanation": "Indefinite articles", "confidence": "medium"}
+{"feat": "30-F106836", "explanation": "Square coordinate vertices", "confidence": "medium"}
+{"feat": "30-F71492", "explanation": "Against the grain", "confidence": "high"}
+{"feat": "30-F107115", "explanation": "Ptolemy theorem formula", "confidence": "high"}
+{"feat": "30-F107513", "explanation": "equilateral triangles", "confidence": "high"}
+{"feat": "30-F107813", "explanation": "spatial dimension terms", "confidence": "medium"}
+{"feat": "30-F111278", "explanation": "positive coordinate axis", "confidence": "medium"}
+{"feat": "30-F112457", "explanation": "Say boundary", "confidence": "medium"}
+{"feat": "30-F113312", "explanation": "volume and buoyancy", "confidence": "medium"}
+{"feat": "30-F110157", "explanation": "Full circle 360 degrees", "confidence": "high"}
+{"feat": "30-F93318", "explanation": "Pressure at points", "confidence": "medium"}
+{"feat": "30-F115242", "explanation": "Trigonometric height ratios", "confidence": "high"}
+{"feat": "30-F114523", "explanation": "Small numeric indices", "confidence": "low"}
+{"feat": "30-F115330", "explanation": "triangle opposite angle notation", "confidence": "high"}
+{"feat": "30-F115447", "explanation": "Say circles", "confidence": "low"}
+{"feat": "30-F116326", "explanation": "aerodynamic nose cones", "confidence": "medium"}
+{"feat": "30-F117305", "explanation": "Random chord paradox", "confidence": "medium"}
+{"feat": "30-F118762", "explanation": "left/right orientation", "confidence": "medium"}
+{"feat": "30-F118392", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F117692", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F117645", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F117781", "explanation": "Geometric fixed points", "confidence": "medium"}
+{"feat": "30-F119127", "explanation": "straight lines", "confidence": "high"}
+{"feat": "30-F119370", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F119888", "explanation": "90-degree vector rotation", "confidence": "medium"}
+{"feat": "30-F119920", "explanation": "Asymptote path connectors", "confidence": "medium"}
+{"feat": "30-F122602", "explanation": "Say exit", "confidence": "low"}
+{"feat": "30-F122894", "explanation": "3D axis rotations", "confidence": "medium"}
+{"feat": "30-F123198", "explanation": "Geometric shapes", "confidence": "high"}
+{"feat": "30-F123103", "explanation": "mathematical equation syntax", "confidence": "medium"}
+{"feat": "30-F124610", "explanation": "Perpendicular to direction vector", "confidence": "medium"}
+{"feat": "30-F123399", "explanation": "conic section axes", "confidence": "medium"}
+{"feat": "30-F124109", "explanation": "Geometric shapes", "confidence": "medium"}
+{"feat": "30-F125350", "explanation": "diagonal orientation", "confidence": "medium"}
+{"feat": "30-F61435", "explanation": "physical length measurements", "confidence": "Medium"}
+{"feat": "30-F125760", "explanation": "Anatomical creases", "confidence": "high"}
+{"feat": "30-F126868", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F113365", "explanation": "Geometry segment CD", "confidence": "high"}
+{"feat": "30-F126914", "explanation": "Triangle vertex A", "confidence": "medium"}
+{"feat": "30-F127336", "explanation": "Don't Say external", "confidence": "medium"}
+{"feat": "30-F127771", "explanation": "Circle diameter/radius geometry", "confidence": "medium"}
+{"feat": "30-F127905", "explanation": "Dimension multiplication", "confidence": "medium"}
+{"feat": "30-F129411", "explanation": "spatial geometry terms", "confidence": "low"}
+{"feat": "30-F129567", "explanation": "Zero y-coordinate", "confidence": "medium"}
+{"feat": "30-F129775", "explanation": "Geometric area calculation", "confidence": "medium"}
+{"feat": "30-F130156", "explanation": "rectangular fencing optimization", "confidence": "medium"}
+{"feat": "30-F130307", "explanation": "Infinity notation", "confidence": "medium"}
+{"feat": "30-F132992", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F132099", "explanation": "Geometry distance questions", "confidence": "medium"}
+{"feat": "30-F134036", "explanation": "spatial geometry descriptions", "confidence": "low"}
+{"feat": "30-F133237", "explanation": "Right triangle inradius formula", "confidence": "medium"}
+{"feat": "30-F135339", "explanation": "Physical size measurements", "confidence": "high"}
+{"feat": "30-F135218", "explanation": "border offset calculations", "confidence": "high"}
+{"feat": "30-F136183", "explanation": "collinear segment geometry", "confidence": "high"}
+{"feat": "30-F136370", "explanation": "kite diagonal properties", "confidence": "medium"}
+{"feat": "30-F14073", "explanation": "objects moving around corners", "confidence": "medium"}
+{"feat": "30-F136478", "explanation": "polyhedron component counts", "confidence": "medium"}
+{"feat": "30-F136859", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F137790", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F138189", "explanation": "Mathematical equals sign", "confidence": "medium"}
+{"feat": "30-F22725", "explanation": "Geometric center definitions", "confidence": "medium"}
+{"feat": "30-F24263", "explanation": "Cardinal direction literals", "confidence": "high"}
+{"feat": "30-F139616", "explanation": "one of two alternatives", "confidence": "medium"}
+{"feat": "30-F138648", "explanation": "Point lies on segment", "confidence": "medium"}
+{"feat": "30-F140548", "explanation": "geometric shapes and coordinates", "confidence": "medium"}
+{"feat": "30-F127408", "explanation": "Spatial geometry", "confidence": "medium"}
+{"feat": "30-F139849", "explanation": "Triangle geometry", "confidence": "medium"}
+{"feat": "30-F140209", "explanation": "Spatial orientation axes", "confidence": "high"}
+{"feat": "30-F140767", "explanation": "3D mesh face indices", "confidence": "medium"}
+{"feat": "30-F141840", "explanation": "trapezoid/quadrilateral geometry", "confidence": "high"}
+{"feat": "30-F142152", "explanation": "spatial dimension notation", "confidence": "low"}
+{"feat": "30-F132193", "explanation": "Orientation and alignment", "confidence": "high"}
+{"feat": "30-F142738", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F142780", "explanation": "an adjacent cell phrase", "confidence": "low"}
+{"feat": "30-F144467", "explanation": "intersecting circles geometry", "confidence": "medium"}
+{"feat": "30-F144546", "explanation": "first quadrant/octant", "confidence": "high"}
+{"feat": "30-F144741", "explanation": "light reflection paths", "confidence": "medium"}
+{"feat": "30-F146141", "explanation": "Right angle geometry", "confidence": "medium"}
+{"feat": "30-F147634", "explanation": "Coordinate origin setup", "confidence": "medium"}
+{"feat": "30-F149181", "explanation": "Physical protrusion", "confidence": "high"}
+{"feat": "30-F149279", "explanation": "coordinate geometry setup", "confidence": "high"}
+{"feat": "30-F149431", "explanation": "Chord length formula", "confidence": "medium"}
+{"feat": "30-F149836", "explanation": "cross shape geometry", "confidence": "medium"}
+{"feat": "30-F150802", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F151286", "explanation": "grid diagonal counting", "confidence": "medium"}
+{"feat": "30-F151509", "explanation": "vertical/horizontal orientation", "confidence": "medium"}
+{"feat": "30-F152518", "explanation": "Opposite sides are equal", "confidence": "medium"}
+{"feat": "30-F152643", "explanation": "2D graphics code", "confidence": "medium"}
+{"feat": "30-F152726", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F153527", "explanation": "Folding edges over", "confidence": "medium"}
+{"feat": "30-F153753", "explanation": "Don't Say equ", "confidence": "high"}
+{"feat": "30-F155471", "explanation": "math solution setup", "confidence": "medium"}
+{"feat": "30-F154233", "explanation": "inscribed geometry reasoning", "confidence": "medium"}
+{"feat": "30-F153768", "explanation": "rotational motion mechanics", "confidence": "high"}
+{"feat": "30-F154740", "explanation": "cylinder geometry", "confidence": "low"}
+{"feat": "30-F156022", "explanation": "Geometric dimensions and orientation", "confidence": "medium"}
+{"feat": "30-F157509", "explanation": "Asymptote Arc syntax", "confidence": "medium"}
+{"feat": "30-F159211", "explanation": "√3/2 geometry coordinates", "confidence": "high"}
+{"feat": "30-F146677", "explanation": "Integrating source contributions", "confidence": "medium"}
+{"feat": "30-F68283", "explanation": "square-cube scaling", "confidence": "high"}
+{"feat": "30-F159609", "explanation": "Coordinate point placement", "confidence": "medium"}
+{"feat": "30-F160068", "explanation": "Trigonometric Ceva theorem", "confidence": "medium"}
+{"feat": "30-F160519", "explanation": "Tangent-normal geometry", "confidence": "medium"}
+{"feat": "30-F160520", "explanation": "Rectangle side constraints", "confidence": "medium"}
+{"feat": "30-F160847", "explanation": "Pyramid apex coordinates", "confidence": "medium"}
+{"feat": "30-F161094", "explanation": "Geometry and mesh setup", "confidence": "medium"}
+{"feat": "30-F161667", "explanation": "triangle angle bisectors", "confidence": "medium"}
+{"feat": "30-F149890", "explanation": "mathematical slope phrases", "confidence": "medium"}
+{"feat": "30-F161811", "explanation": "equilateral triangles", "confidence": "high"}
+{"feat": "30-F162871", "explanation": "Triangle incenter geometry", "confidence": "medium"}
+{"feat": "30-F162943", "explanation": "Say area", "confidence": "high"}
+{"feat": "30-F164814", "explanation": "Right lower quadrant", "confidence": "high"}
+{"feat": "30-F164546", "explanation": "linear length measurement", "confidence": "high"}
+{"feat": "30-F80791", "explanation": "non-overlapping coverage constraints", "confidence": "medium"}
+{"feat": "30-F166427", "explanation": "circumcircle geometry", "confidence": "high"}
+{"feat": "30-F82117", "explanation": "geometric adjacency edges", "confidence": "medium"}
+{"feat": "30-F166608", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F167018", "explanation": "Grid and gridlines", "confidence": "high"}
+{"feat": "30-F154195", "explanation": "Angles at intersections", "confidence": "medium"}
+{"feat": "30-F167318", "explanation": "Problem involves framing", "confidence": "medium"}
+{"feat": "30-F168250", "explanation": "cube face adjacency", "confidence": "medium"}
+{"feat": "30-F88555", "explanation": "right-angled triangles", "confidence": "high"}
+{"feat": "30-F168998", "explanation": "Circle intersection conditions", "confidence": "medium"}
+{"feat": "30-F170527", "explanation": "area and volume calculations", "confidence": "medium"}
+{"feat": "30-F170694", "explanation": "mathematical exposition", "confidence": "medium"}
+{"feat": "30-F175743", "explanation": "triangle labeling ambiguity", "confidence": "medium"}
+{"feat": "30-F172707", "explanation": "Say circular shapes", "confidence": "medium"}
+{"feat": "30-F173469", "explanation": "Coordinate pair notation", "confidence": "medium"}
+{"feat": "30-F174870", "explanation": "From-to coordinate notation", "confidence": "medium"}
+{"feat": "30-F174285", "explanation": "geometric side length", "confidence": "medium"}
+{"feat": "30-F89370", "explanation": "circle equation coordinates", "confidence": "medium"}
+{"feat": "30-F175353", "explanation": "Arctangent quadrant correction", "confidence": "medium"}
+{"feat": "30-F176118", "explanation": "dimension comparison for nesting", "confidence": "medium"}
+{"feat": "30-F177535", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F176655", "explanation": "geometric figure labeling", "confidence": "medium"}
+{"feat": "30-F177712", "explanation": "area and volume measurements", "confidence": "low"}
+{"feat": "30-F178044", "explanation": "inradius distance to sides", "confidence": "medium"}
+{"feat": "30-F100847", "explanation": "random points on circle", "confidence": "medium"}
+{"feat": "30-F178842", "explanation": "plane geometry problems", "confidence": "medium"}
+{"feat": "30-F102406", "explanation": "Geometry formula equations", "confidence": "medium"}
+{"feat": "30-F179095", "explanation": "Geometric intersections", "confidence": "high"}
+{"feat": "30-F178471", "explanation": "3D camera up vector", "confidence": "medium"}
+{"feat": "30-F179169", "explanation": "meshgrid coordinate arrays", "confidence": "high"}
+{"feat": "30-F182587", "explanation": "angle bisectors", "confidence": "medium"}
+{"feat": "30-F179828", "explanation": "Products of geometric lengths", "confidence": "medium"}
+{"feat": "30-F166898", "explanation": "No duplicate coordinates", "confidence": "medium"}
+{"feat": "30-F184798", "explanation": "Cartesian coordinate variables", "confidence": "medium"}
+{"feat": "30-F184308", "explanation": "LaTeX diagram labels", "confidence": "medium"}
+{"feat": "30-F185788", "explanation": "visual spatial analogy", "confidence": "medium"}
+{"feat": "30-F186186", "explanation": "geometry length problems", "confidence": "medium"}
+{"feat": "30-F186218", "explanation": "dS surface area formula", "confidence": "medium"}
+{"feat": "30-F187108", "explanation": "wireframe rendering", "confidence": "medium"}
+{"feat": "30-F186375", "explanation": "Midpoint coordinate statements", "confidence": "medium"}
+{"feat": "30-F186400", "explanation": "For simplicity phrase", "confidence": "medium"}
+{"feat": "30-F187157", "explanation": "±1 coordinate triples", "confidence": "medium"}
+{"feat": "30-F188544", "explanation": "spherical excess geometry", "confidence": "medium"}
+{"feat": "30-F189083", "explanation": "Don't Say three", "confidence": "high"}
+{"feat": "30-F187414", "explanation": "Triangle midpoint definitions", "confidence": "medium"}
+{"feat": "30-F189100", "explanation": "Pentagram geometry", "confidence": "medium"}
+{"feat": "30-F190365", "explanation": "Transverse morphology", "confidence": "high"}
+{"feat": "30-F190375", "explanation": "direction in geometry", "confidence": "medium"}
+{"feat": "30-F190699", "explanation": "octagon geometry", "confidence": "medium"}
+{"feat": "30-F191834", "explanation": "Don't Say circle", "confidence": "high"}
+{"feat": "30-F190744", "explanation": "CSS border triangles", "confidence": "medium"}
+{"feat": "30-F191833", "explanation": "Triangle geometry", "confidence": "medium"}
+{"feat": "30-F192874", "explanation": "tetrahedron geometry", "confidence": "high"}
+{"feat": "30-F192922", "explanation": "rectangles in geometry", "confidence": "medium"}
+{"feat": "30-F193111", "explanation": "2D geometry problems", "confidence": "high"}
+{"feat": "30-F194081", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F195892", "explanation": "3D spatial directions", "confidence": "medium"}
+{"feat": "30-F196406", "explanation": "geometry area problems", "confidence": "medium"}
+{"feat": "30-F195919", "explanation": "on top relation", "confidence": "medium"}
+{"feat": "30-F196005", "explanation": "geometric points", "confidence": "low"}
+{"feat": "30-F197898", "explanation": "Truncated polyhedron properties", "confidence": "medium"}
+{"feat": "30-F197557", "explanation": "Mathematical let-denote setup", "confidence": "medium"}
+{"feat": "30-F200557", "explanation": "right-angled triangle statements", "confidence": "medium"}
+{"feat": "30-F198683", "explanation": "Geometry tangent statements", "confidence": "medium"}
+{"feat": "30-F201323", "explanation": "same height/base triangles", "confidence": "medium"}
+{"feat": "30-F203263", "explanation": "inch measurements", "confidence": "medium"}
+{"feat": "30-F204217", "explanation": "STEM technical content", "confidence": "medium"}
+{"feat": "30-F203852", "explanation": "geometric angle notation", "confidence": "medium"}
+{"feat": "30-F205175", "explanation": "pyramid shapes", "confidence": "high"}
+{"feat": "30-F204647", "explanation": "Coordinate tuple notation", "confidence": "medium"}
+{"feat": "30-F205959", "explanation": "mathematical formula notation", "confidence": "medium"}
+{"feat": "30-F207324", "explanation": "trapezoid geometry problems", "confidence": "medium"}
+{"feat": "30-F205142", "explanation": "Subword fragments", "confidence": "low"}
+{"feat": "30-F208228", "explanation": "lateral surface geometry", "confidence": "medium"}
+{"feat": "30-F208492", "explanation": "Hypotenuse geometry term", "confidence": "high"}
+{"feat": "30-F209519", "explanation": "isosceles trapezoids", "confidence": "medium"}
+{"feat": "30-F209705", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F210896", "explanation": "perpendicular bisector geometry", "confidence": "medium"}
+{"feat": "30-F213138", "explanation": "mathematical angles", "confidence": "medium"}
+{"feat": "30-F211742", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F214492", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F214792", "explanation": "Horizontal direction", "confidence": "medium"}
+{"feat": "30-F214894", "explanation": "Geometric side length", "confidence": "medium"}
+{"feat": "30-F214968", "explanation": "Radius perpendicular to tangent", "confidence": "medium"}
+{"feat": "30-F129718", "explanation": "Circle center geometry", "confidence": "medium"}
+{"feat": "30-F217865", "explanation": "coordinate geometry setup", "confidence": "medium"}
+{"feat": "30-F217977", "explanation": "Cutting food into pieces", "confidence": "high"}
+{"feat": "30-F218475", "explanation": "Complex-number rotations", "confidence": "medium"}
+{"feat": "30-F221660", "explanation": "Line-plane angle geometry", "confidence": "medium"}
+{"feat": "30-F221401", "explanation": "Coordinate geometry equations", "confidence": "medium"}
+{"feat": "30-F221678", "explanation": "circular arrangements", "confidence": "medium"}
+{"feat": "30-F223272", "explanation": "calculus area and volume", "confidence": "medium"}
+{"feat": "30-F223857", "explanation": "Soccer ball panel geometry", "confidence": "medium"}
+{"feat": "30-F226509", "explanation": "geometric vector relations", "confidence": "medium"}
+{"feat": "30-F226731", "explanation": "right-hand rule orientation", "confidence": "high"}
+{"feat": "30-F223644", "explanation": "Electromagnetic force calculations", "confidence": "medium"}
+{"feat": "30-F227023", "explanation": "Polygon angle measures", "confidence": "medium"}
+{"feat": "30-F228534", "explanation": "breech fetal presentation", "confidence": "high"}
+{"feat": "30-F228539", "explanation": "Convex hull shoelace answers", "confidence": "medium"}
+{"feat": "30-F214121", "explanation": "geometric diameter", "confidence": "high"}
+{"feat": "30-F229135", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F229272", "explanation": "Zero coordinate notation", "confidence": "medium"}
+{"feat": "30-F229429", "explanation": "spatial adjacency", "confidence": "medium"}
+{"feat": "30-F229581", "explanation": "Say steps", "confidence": "medium"}
+{"feat": "30-F229661", "explanation": "triangle geometry", "confidence": "medium"}
+{"feat": "30-F229933", "explanation": "counterclockwise direction", "confidence": "high"}
+{"feat": "30-F142976", "explanation": "Zero coordinate entries", "confidence": "medium"}
+{"feat": "30-F232084", "explanation": "swept wing aerodynamics", "confidence": "medium"}
+{"feat": "30-F230790", "explanation": "Right triangle circumradius theorem", "confidence": "high"}
+{"feat": "30-F232096", "explanation": "geometry problems", "confidence": "medium"}
+{"feat": "30-F232332", "explanation": "Say environmental", "confidence": "low"}
+{"feat": "30-F218621", "explanation": "plot coordinate syntax", "confidence": "medium"}
+{"feat": "30-F233378", "explanation": "Tangent boundary distances", "confidence": "medium"}
+{"feat": "30-F233866", "explanation": "adjacent sides in geometry", "confidence": "high"}
+{"feat": "30-F136218", "explanation": "Definite article \"the\"", "confidence": "medium"}
+{"feat": "30-F234550", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F232481", "explanation": "technical mathematical exposition", "confidence": "medium"}
+{"feat": "30-F234966", "explanation": "coordinate geometry point placement", "confidence": "medium"}
+{"feat": "30-F236231", "explanation": "Trigonometric Ceva formula", "confidence": "high"}
+{"feat": "30-F235942", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F235306", "explanation": "diagram math labels", "confidence": "medium"}
+{"feat": "30-F168234", "explanation": "Cutting cylinders into halves", "confidence": "Medium"}
+{"feat": "30-F236835", "explanation": "head-to-tail measurements", "confidence": "high"}
+{"feat": "30-F236196", "explanation": "Algorithmic size variables", "confidence": "medium"}
+{"feat": "30-F238525", "explanation": "x-axis rotations", "confidence": "medium"}
+{"feat": "30-F237131", "explanation": "Pie chart slices", "confidence": "medium"}
+{"feat": "30-F237542", "explanation": "sector as pie slice", "confidence": "high"}
+{"feat": "30-F237592", "explanation": "Angle between definition", "confidence": "medium"}
+{"feat": "30-F237826", "explanation": "hexagon rotation angles", "confidence": "medium"}
+{"feat": "30-F239461", "explanation": "Circle arc endpoints", "confidence": "medium"}
+{"feat": "30-F239631", "explanation": "Opposite side in triangles", "confidence": "high"}
+{"feat": "30-F157517", "explanation": "included angle geometry", "confidence": "high"}
+{"feat": "30-F240056", "explanation": "triangle side pairs", "confidence": "medium"}
+{"feat": "30-F240143", "explanation": "Shape-based naming", "confidence": "medium"}
+{"feat": "30-F240331", "explanation": "solid angle", "confidence": "high"}
+{"feat": "30-F242753", "explanation": "opposite side/direction", "confidence": "medium"}
+{"feat": "30-F243368", "explanation": "Cartesian coordinate tuples", "confidence": "medium"}
+{"feat": "30-F243898", "explanation": "surface area", "confidence": "medium"}
+{"feat": "30-F244972", "explanation": "coordinate from-to notation", "confidence": "medium"}
+{"feat": "30-F245151", "explanation": "rounded shape descriptors", "confidence": "high"}
+{"feat": "30-F248860", "explanation": "Top/bottom position labels", "confidence": "high"}
+{"feat": "30-F249941", "explanation": "Double-counted polygon vertices", "confidence": "medium"}
+{"feat": "30-F250475", "explanation": "Line slope calculations", "confidence": "high"}
+{"feat": "30-F163546", "explanation": "Coordinate geometry orientation", "confidence": "medium"}
+{"feat": "30-F251944", "explanation": "Matrix main diagonal", "confidence": "medium"}
+{"feat": "30-F244512", "explanation": "Math.PI circle arcs", "confidence": "high"}
+{"feat": "30-F178000", "explanation": "rotating lottery wheels", "confidence": "medium"}
+{"feat": "30-F178047", "explanation": "Introductory clause comma", "confidence": "Medium"}
+{"feat": "30-F189433", "explanation": "Auxiliary geometry points", "confidence": "medium"}
+{"feat": "30-F227706", "explanation": "tunnel dimensions", "confidence": "Medium"}
+{"feat": "30-F195625", "explanation": "Convex hull construction", "confidence": "high"}
+{"feat": "30-F196135", "explanation": "Angles and coordinates", "confidence": "medium"}
+{"feat": "30-F197636", "explanation": "Matplotlib plot calls", "confidence": "high"}
+{"feat": "30-F183319", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F248264", "explanation": "diagonal length variable d1", "confidence": "Medium"}
+{"feat": "30-F239661", "explanation": "Straight grid lines", "confidence": "High"}
+{"feat": "30-F252961", "explanation": "tangential motion", "confidence": "High"}
+{"feat": "30-F251625", "explanation": "quadrilateral diagonals", "confidence": "Medium"}
+{"feat": "30-F258916", "explanation": "Asymptote midpoint labels", "confidence": "High"}
+{"feat": "30-F260143", "explanation": "Don't Say rotate", "confidence": "Medium"}
+{"feat": "30-F242941", "explanation": "Tangent distance condition", "confidence": "Medium"}
+{"feat": "30-F253982", "explanation": "3D vertex coordinates", "confidence": "High"}
+{"feat": "30-F249721", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F242106", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F257270", "explanation": "2D coordinate lists", "confidence": "Medium"}
+{"feat": "30-F256784", "explanation": "Regular hexagon", "confidence": "High"}
+{"feat": "30-F260498", "explanation": "Geometry point on side", "confidence": "Medium"}
+{"feat": "30-F258021", "explanation": "Divide into parts", "confidence": "Medium"}
+{"feat": "30-F260524", "explanation": "Geometry equality conditions", "confidence": "Medium"}
+{"feat": "30-F252092", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F256142", "explanation": "SVG line coordinates", "confidence": "Medium"}
+{"feat": "30-F266213", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F265017", "explanation": "cis/trans geometrical isomerism", "confidence": "Medium"}
+{"feat": "30-F261488", "explanation": "centroids and center of mass", "confidence": "High"}
+{"feat": "30-F261518", "explanation": "parametric curve self-intersection", "confidence": "Medium"}
+{"feat": "30-F261738", "explanation": "Cube side length phrasing", "confidence": "Medium"}
+{"feat": "30-F236952", "explanation": "Say anatomical joints", "confidence": "High"}
+{"feat": "30-F261237", "explanation": "Parenthetical radius definition", "confidence": "Medium"}
+{"feat": "30-F265170", "explanation": "Geometry math notation", "confidence": "Medium"}
+{"feat": "30-F266526", "explanation": "pyramid apex geometry", "confidence": "Medium"}
+{"feat": "30-F258089", "explanation": "Suggesting solution method", "confidence": "Low"}
+{"feat": "30-F238212", "explanation": "bird tail support", "confidence": "medium"}
+{"feat": "30-F239359", "explanation": "one side/corner reference", "confidence": "medium"}
+{"feat": "30-F267371", "explanation": "Geometric intersections", "confidence": "Medium"}
+{"feat": "30-F268132", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F271027", "explanation": "triangular prism lateral faces", "confidence": "Medium"}
+{"feat": "30-F267610", "explanation": "cis same-side stereochemistry", "confidence": "High"}
+{"feat": "30-F269665", "explanation": "Geometric division by point", "confidence": "Medium"}
+{"feat": "30-F272232", "explanation": "volume calculations", "confidence": "Medium"}
+{"feat": "30-F271848", "explanation": "Geometry side BC", "confidence": "Medium"}
+{"feat": "30-F269094", "explanation": "mathematical method selection", "confidence": "Medium"}
+{"feat": "30-F267478", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F273948", "explanation": "cross product area formula", "confidence": "Medium"}
+{"feat": "30-F273987", "explanation": "ABCD geometry label", "confidence": "Medium"}
+{"feat": "30-F278105", "explanation": "Bottom side of shapes", "confidence": "High"}
+{"feat": "30-F271892", "explanation": "right triangle hypotenuse", "confidence": "Medium"}
+{"feat": "30-F268379", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F268963", "explanation": "mathematical physics notation", "confidence": "Low"}
+{"feat": "30-F274143", "explanation": "coordinate parameter bounds", "confidence": "Medium"}
+{"feat": "30-F273783", "explanation": "brain ventricular anatomy", "confidence": "Medium"}
+{"feat": "30-F277202", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F276330", "explanation": "Cartesian origin coordinates", "confidence": "High"}
+{"feat": "30-F272469", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F279900", "explanation": "Pyramid apex", "confidence": "Medium"}
+{"feat": "30-F283883", "explanation": "convex polygons", "confidence": "Medium"}
+{"feat": "30-F278763", "explanation": "mechanical linkages", "confidence": "Medium"}
+{"feat": "30-F276625", "explanation": "parallelogram diagonal properties", "confidence": "Medium"}
+{"feat": "30-F278256", "explanation": "geometric shapes", "confidence": "Medium"}
+{"feat": "30-F252554", "explanation": "Sun angle shadows", "confidence": "High"}
+{"feat": "30-F253104", "explanation": "squared variable equations", "confidence": "Medium"}
+{"feat": "30-F286581", "explanation": "Trigonometric coordinate formula", "confidence": "Medium"}
+{"feat": "30-F286389", "explanation": "Geometric area formulas", "confidence": "Medium"}
+{"feat": "30-F290689", "explanation": "Aircraft roll control", "confidence": "High"}
+{"feat": "30-F297067", "explanation": "Coordinate origin (0,0)", "confidence": "medium"}
+{"feat": "30-F287502", "explanation": "coordinate range endpoints", "confidence": "Medium"}
+{"feat": "30-F255343", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F288627", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F289868", "explanation": "intercepted arcs geometry", "confidence": "Medium"}
+{"feat": "30-F288473", "explanation": "orthogonal adjacency", "confidence": "High"}
+{"feat": "30-F291926", "explanation": "Gauss/Ampere law integrals", "confidence": "Medium"}
+{"feat": "30-F295535", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F266422", "explanation": "Inside a circle", "confidence": "High"}
+{"feat": "30-F291707", "explanation": "Definite article the", "confidence": "Medium"}
+{"feat": "30-F296442", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F293697", "explanation": "Surface as xy-plane", "confidence": "Medium"}
+{"feat": "30-F294539", "explanation": "Geometry point B", "confidence": "Medium"}
+{"feat": "30-F295562", "explanation": "Spatial regions", "confidence": "Medium"}
+{"feat": "30-F295861", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F298003", "explanation": "tangent geometry", "confidence": "High"}
+{"feat": "30-F300855", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F297639", "explanation": "pushed to periphery", "confidence": "Medium"}
+{"feat": "30-F301042", "explanation": "Say side", "confidence": "High"}
+{"feat": "30-F299897", "explanation": "Say patch", "confidence": "Medium"}
+{"feat": "30-F300914", "explanation": "pyramid base geometry", "confidence": "Medium"}
+{"feat": "30-F301881", "explanation": "Horizontal leftward movement", "confidence": "High"}
+{"feat": "30-F296671", "explanation": "Vehicle stability terminology", "confidence": "Medium"}
+{"feat": "30-F274809", "explanation": "Perpendicular / orthogonal geometry", "confidence": "High"}
+{"feat": "30-F301115", "explanation": "geometric points", "confidence": "Medium"}
+{"feat": "30-F300778", "explanation": "sqrt(2) geometry calculations", "confidence": "Medium"}
+{"feat": "30-F303748", "explanation": "convex geometry", "confidence": "High"}
+{"feat": "30-F303647", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F302959", "explanation": "tangential field component", "confidence": "High"}
+{"feat": "30-F283315", "explanation": "Six-sided geometry", "confidence": "Medium"}
+{"feat": "30-F281414", "explanation": "Square geometry problems", "confidence": "High"}
+{"feat": "30-F301365", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F283602", "explanation": "bounded by descriptions", "confidence": "High"}
+{"feat": "30-F304492", "explanation": "Coordinate geometry setup", "confidence": "Medium"}
+{"feat": "30-F305133", "explanation": "Ellipse major axis", "confidence": "High"}
+{"feat": "30-F304719", "explanation": "geometric impossibility detection", "confidence": "Medium"}
+{"feat": "30-F283447", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F305264", "explanation": "Directrix of parabola", "confidence": "High"}
+{"feat": "30-F306040", "explanation": "computational geometry code", "confidence": "Medium"}
+{"feat": "30-F308106", "explanation": "circle tangent length formula", "confidence": "High"}
+{"feat": "30-F286365", "explanation": "Trigonometric shape-drawing code", "confidence": "High"}
+{"feat": "30-F307008", "explanation": "coordinate geometry projections", "confidence": "Medium"}
+{"feat": "30-F308565", "explanation": "vertical spatial position", "confidence": "Medium"}
+{"feat": "30-F306247", "explanation": "Collinear geometry lines", "confidence": "Medium"}
+{"feat": "30-F309938", "explanation": "Earth orbit not circular", "confidence": "Medium"}
+{"feat": "30-F289164", "explanation": "geometric surfaces and planes", "confidence": "Medium"}
+{"feat": "30-F312100", "explanation": "Coordinate axis directions", "confidence": "High"}
+{"feat": "30-F293724", "explanation": "fractal curve construction", "confidence": "Medium"}
+{"feat": "30-F284766", "explanation": "Two geometric quantities", "confidence": "Medium"}
+{"feat": "30-F313341", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F310393", "explanation": "angle bisector geometry", "confidence": "Medium"}
+{"feat": "30-F311824", "explanation": "Diagonal velocity components", "confidence": "Medium"}
+{"feat": "30-F312925", "explanation": "cone surface area formulas", "confidence": "High"}
+{"feat": "30-F290394", "explanation": "spatial dimensions", "confidence": "Medium"}
+{"feat": "30-F313423", "explanation": "spherical cap geometry", "confidence": "High"}
+{"feat": "30-F306427", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F286591", "explanation": "anatomical diameter measurements", "confidence": "Medium"}
+{"feat": "30-F312563", "explanation": "semiperimeter subtraction formulas", "confidence": "Medium"}
+{"feat": "30-F310490", "explanation": "Definitional is-a statements", "confidence": "Medium"}
+{"feat": "30-F313114", "explanation": "rounded rectangle corners", "confidence": "Medium"}
+{"feat": "30-F299578", "explanation": "Intersecting lines", "confidence": "High"}
+{"feat": "30-F316901", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F271858", "explanation": "Asymptote geometry markup", "confidence": "Medium"}
+{"feat": "30-F314181", "explanation": "coordinate pair notation", "confidence": "Medium"}
+{"feat": "30-F315097", "explanation": "isosceles right triangles", "confidence": "Medium"}
+{"feat": "30-F321560", "explanation": "Point ordering on line", "confidence": "High"}
+{"feat": "30-F316326", "explanation": "coordinate geometry transformations", "confidence": "Medium"}
+{"feat": "30-F296855", "explanation": "geometry problem reasoning", "confidence": "Medium"}
+{"feat": "30-F319019", "explanation": "x-axis coordinate projection", "confidence": "Medium"}
+{"feat": "30-F325238", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F318198", "explanation": "coordinate geometry reasoning", "confidence": "Medium"}
+{"feat": "30-F321737", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F325315", "explanation": "Conic focus distance", "confidence": "Medium"}
+{"feat": "30-F302660", "explanation": "3D coordinate tuples", "confidence": "Medium"}
+{"feat": "30-F327037", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F325900", "explanation": "Spheres in geometry", "confidence": "Medium"}
+{"feat": "30-F304285", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F327792", "explanation": "concentric / coaxial geometry", "confidence": "High"}
+{"feat": "30-F325896", "explanation": "coordinate geometry code", "confidence": "Medium"}
+{"feat": "30-F305558", "explanation": "Kite adjacent equal sides", "confidence": "High"}
+{"feat": "30-F330311", "explanation": "Geometric cross-sections", "confidence": "Medium"}
+{"feat": "30-F325873", "explanation": "No two constraint", "confidence": "Low"}
+{"feat": "30-F320410", "explanation": "solid geometry problems", "confidence": "Medium"}
+{"feat": "30-F329945", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F326100", "explanation": "Grid puzzle directions", "confidence": "Medium"}
+{"feat": "30-F329511", "explanation": "Say direction", "confidence": "Medium"}
+{"feat": "30-F328067", "explanation": "Geometric sides and edges", "confidence": "Medium"}
+{"feat": "30-F305420", "explanation": "computational fluid dynamics", "confidence": "Medium"}
+{"feat": "30-F326782", "explanation": "Stewart's theorem explanation", "confidence": "Medium"}
+{"feat": "30-F331334", "explanation": "square root formulas", "confidence": "Medium"}
+{"feat": "30-F330256", "explanation": "straightedge and compass construction", "confidence": "High"}
+{"feat": "30-F334192", "explanation": "Geometry area problems", "confidence": "Medium"}
+{"feat": "30-F332668", "explanation": "Non-convex polygon speculation", "confidence": "Medium"}
+{"feat": "30-F333818", "explanation": "coordinate geometry setup", "confidence": "Medium"}
+{"feat": "30-F333782", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F341563", "explanation": "Geometric point parameterization", "confidence": "medium"}
+{"feat": "30-F333820", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F337147", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F330425", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F308705", "explanation": "triangle midsegment theorem", "confidence": "High"}
+{"feat": "30-F338142", "explanation": "Say rotational motion", "confidence": "High"}
+{"feat": "30-F332653", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F331719", "explanation": "vortex dynamics", "confidence": "Medium"}
+{"feat": "30-F335932", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F340211", "explanation": "Cyclic polygon angle sums", "confidence": "Medium"}
+{"feat": "30-F335505", "explanation": "spatial boundary descriptions", "confidence": "Medium"}
+{"feat": "30-F309709", "explanation": "Graph coloring formulation", "confidence": "High"}
+{"feat": "30-F348816", "explanation": "Hypothetical assumption", "confidence": "medium"}
+{"feat": "30-F338705", "explanation": "puckered cycloalkane conformations", "confidence": "High"}
+{"feat": "30-F336167", "explanation": "at an angle phrase", "confidence": "Medium"}
+{"feat": "30-F334833", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F340545", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F340415", "explanation": "grid dimensions", "confidence": "Medium"}
+{"feat": "30-F314496", "explanation": "coordinate directions", "confidence": "High"}
+{"feat": "30-F338896", "explanation": "external boundary-layer flow", "confidence": "High"}
+{"feat": "30-F344615", "explanation": "polygon diagonals formula", "confidence": "High"}
+{"feat": "30-F318668", "explanation": "Chess king movement", "confidence": "Medium"}
+{"feat": "30-F343404", "explanation": "Touching or overlapping", "confidence": "High"}
+{"feat": "30-F345561", "explanation": "motion tracking systems", "confidence": "Medium"}
+{"feat": "30-F347013", "explanation": "CSS transform origin", "confidence": "High"}
+{"feat": "30-F345444", "explanation": "diagonal adjacency", "confidence": "Medium"}
+{"feat": "30-F348650", "explanation": "coordinate-list commas", "confidence": "Medium"}
+{"feat": "30-F350647", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F328824", "explanation": "Divide proportionally", "confidence": "Medium"}
+{"feat": "30-F345816", "explanation": "polygon vertex labeling", "confidence": "Medium"}
+{"feat": "30-F350783", "explanation": "random coordinate generation", "confidence": "Medium"}
+{"feat": "30-F346265", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F352060", "explanation": "Coordinate origin notation", "confidence": "Medium"}
+{"feat": "30-F348603", "explanation": "Tree anatomy", "confidence": "Medium"}
+{"feat": "30-F352056", "explanation": "geometric object parts", "confidence": "Medium"}
+{"feat": "30-F350500", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F317031", "explanation": "compression / squeezing", "confidence": "Medium"}
+{"feat": "30-F345886", "explanation": "mathematical relation properties", "confidence": "Low"}
+{"feat": "30-F353862", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F352704", "explanation": "Triangle side labels", "confidence": "Medium"}
+{"feat": "30-F329643", "explanation": "monotone chain convex hull", "confidence": "Medium"}
+{"feat": "30-F306200", "explanation": "paper folding creases", "confidence": "High"}
+{"feat": "30-F352446", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F360705", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F353581", "explanation": "straight-line distance", "confidence": "High"}
+{"feat": "30-F356465", "explanation": "first quadrant trigonometry", "confidence": "High"}
+{"feat": "30-F355510", "explanation": "polyhedron vertex incidence", "confidence": "Medium"}
+{"feat": "30-F355307", "explanation": "Spatial offset / displacement", "confidence": "High"}
+{"feat": "30-F354849", "explanation": "demonstrative those references", "confidence": "Low"}
+{"feat": "30-F356079", "explanation": "Perpendicular geometry relation", "confidence": "Medium"}
+{"feat": "30-F357665", "explanation": "chirality handedness", "confidence": "High"}
+{"feat": "30-F357658", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F359927", "explanation": "adjacent vertices", "confidence": "Medium"}
+{"feat": "30-F357244", "explanation": "rolling dough into shapes", "confidence": "High"}
+{"feat": "30-F357150", "explanation": "LaTeX syntax", "confidence": "Medium"}
+{"feat": "30-F358798", "explanation": "regular polygon diagonals", "confidence": "Medium"}
+{"feat": "30-F359915", "explanation": "Regular polygon angles", "confidence": "Medium"}
+{"feat": "30-F337335", "explanation": "geometric coordinate extents", "confidence": "Medium"}
+{"feat": "30-F360701", "explanation": "Billiards unfolding trick", "confidence": "High"}
+{"feat": "30-F360555", "explanation": "Coordinate point assignment", "confidence": "Medium"}
+{"feat": "30-F340296", "explanation": "cube/cuboid terminology", "confidence": "Medium"}
+{"feat": "30-F364009", "explanation": "Two-set partitioning", "confidence": "Medium"}
+{"feat": "30-F365401", "explanation": "largest rectangle histogram", "confidence": "Medium"}
+{"feat": "30-F366194", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F338909", "explanation": "Axis intercept coordinates", "confidence": "Medium"}
+{"feat": "30-F359608", "explanation": "mathematical exposition", "confidence": "Medium"}
+{"feat": "30-F365264", "explanation": "shared center vertex", "confidence": "Medium"}
+{"feat": "30-F367240", "explanation": "Spatial location description", "confidence": "High"}
+{"feat": "30-F366720", "explanation": "spatial distance descriptions", "confidence": "Medium"}
+{"feat": "30-F364254", "explanation": "geometry quantity calculation", "confidence": "Medium"}
+{"feat": "30-F340848", "explanation": "Triangle incenter formula", "confidence": "Medium"}
+{"feat": "30-F361175", "explanation": "LaTeX geometry formulas", "confidence": "Medium"}
+{"feat": "30-F367466", "explanation": "Geometry triangles", "confidence": "Medium"}
+{"feat": "30-F362325", "explanation": "perpendicular bisectors", "confidence": "High"}
+{"feat": "30-F366804", "explanation": "Zero coordinates", "confidence": "Medium"}
+{"feat": "30-F370329", "explanation": "coordinate drawing code", "confidence": "Medium"}
+{"feat": "30-F349921", "explanation": "Grid coordinate notation", "confidence": "Medium"}
+{"feat": "30-F368016", "explanation": "coordinate pair opening parenthesis", "confidence": "Medium"}
+{"feat": "30-F361565", "explanation": "geometric definitions", "confidence": "Low"}
+{"feat": "30-F368342", "explanation": "opposite cube faces", "confidence": "Medium"}
+{"feat": "30-F370848", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F369571", "explanation": "Vertex coordinate lists", "confidence": "Medium"}
+{"feat": "30-F372552", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F377439", "explanation": "Rectangle dimensions", "confidence": "High"}
+{"feat": "30-F368957", "explanation": "Don't Say base", "confidence": "High"}
+{"feat": "30-F378172", "explanation": "nasal bridge deformities", "confidence": "High"}
+{"feat": "30-F374993", "explanation": "UFO shape descriptions", "confidence": "Medium"}
+{"feat": "30-F374578", "explanation": "Centered at origin", "confidence": "Medium"}
+{"feat": "30-F373510", "explanation": "consecutive vertices or pairs", "confidence": "Medium"}
+{"feat": "30-F377622", "explanation": "Trigonometric quadrants", "confidence": "Medium"}
+{"feat": "30-F378015", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F378438", "explanation": "Coordinate loop indices", "confidence": "High"}
+{"feat": "30-F352435", "explanation": "45-degree angles", "confidence": "Medium"}
+{"feat": "30-F374094", "explanation": "right triangle geometry", "confidence": "Medium"}
+{"feat": "30-F381555", "explanation": "C++ Ray parameter", "confidence": "High"}
+{"feat": "30-F374665", "explanation": "cube surface area problems", "confidence": "Medium"}
+{"feat": "30-F379157", "explanation": "Equilateral triangle side equalities", "confidence": "Medium"}
+{"feat": "30-F381270", "explanation": "Cube face constraints", "confidence": "Medium"}
+{"feat": "30-F350176", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F380229", "explanation": "pipe heat transfer calculations", "confidence": "Medium"}
+{"feat": "30-F385397", "explanation": "Decimal geometry notation", "confidence": "Medium"}
+{"feat": "30-F384275", "explanation": "bisected equal parts", "confidence": "High"}
+{"feat": "30-F383965", "explanation": "intersecting chords geometry", "confidence": "Medium"}
+{"feat": "30-F395522", "explanation": "Regular hexagon vertices", "confidence": "medium"}
+{"feat": "30-F384387", "explanation": "cosine in polygon formulas", "confidence": "High"}
+{"feat": "30-F379383", "explanation": "visual spatial layout", "confidence": "Medium"}
+{"feat": "30-F384477", "explanation": "Geometry problem statements", "confidence": "Medium"}
+{"feat": "30-F387007", "explanation": "coordinate pair comma", "confidence": "Medium"}
+{"feat": "30-F353909", "explanation": "otherwise impossibility reasoning", "confidence": "Medium"}
+{"feat": "30-F386398", "explanation": "Geometry point P", "confidence": "Medium"}
+{"feat": "30-F356156", "explanation": "circle tangent equations", "confidence": "Medium"}
+{"feat": "30-F389003", "explanation": "Regular polygon tessellations", "confidence": "High"}
+{"feat": "30-F387650", "explanation": "Mathematical constraint reasoning", "confidence": "Medium"}
+{"feat": "30-F386959", "explanation": "cube subdivision problems", "confidence": "Medium"}
+{"feat": "30-F399760", "explanation": "central atoms in molecules", "confidence": "medium"}
+{"feat": "30-F388629", "explanation": "Geometric dimensions descriptions", "confidence": "Medium"}
+{"feat": "30-F399937", "explanation": "tangent circles condition", "confidence": "medium"}
+{"feat": "30-F393797", "explanation": "Grid maze prompts", "confidence": "Medium"}
+{"feat": "30-F390156", "explanation": "coordinate geometry setup", "confidence": "Medium"}
+{"feat": "30-F392569", "explanation": "surface normal vectors", "confidence": "High"}
+{"feat": "30-F394430", "explanation": "surface integrals geometry", "confidence": "Medium"}
+{"feat": "30-F393147", "explanation": "parametric curve equations", "confidence": "Medium"}
+{"feat": "30-F396447", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F391602", "explanation": "code literal constants", "confidence": "Medium"}
+{"feat": "30-F388755", "explanation": "Say Dot", "confidence": "Medium"}
+{"feat": "30-F341025", "explanation": "Right triangle altitude theorem", "confidence": "High"}
+{"feat": "30-F363245", "explanation": "Say rotation", "confidence": "Medium"}
+{"feat": "30-F397717", "explanation": "3D graphics code", "confidence": "Medium"}
+{"feat": "30-F396703", "explanation": "mathematical addition operator", "confidence": "Medium"}
+{"feat": "30-F397316", "explanation": "Right triangle leg", "confidence": "Medium"}
+{"feat": "30-F396767", "explanation": "mathematical universal quantifier", "confidence": "Medium"}
+{"feat": "30-F398382", "explanation": "Separated by distance", "confidence": "High"}
+{"feat": "30-F402138", "explanation": "Quadrilateral ratio formula", "confidence": "Medium"}
+{"feat": "30-F399494", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F400904", "explanation": "inside unit disk", "confidence": "Medium"}
+{"feat": "30-F401479", "explanation": "clockwise ordering", "confidence": "Medium"}
+{"feat": "30-F401864", "explanation": "Shoelace vertex ordering", "confidence": "Medium"}
+{"feat": "30-F403144", "explanation": "Say area", "confidence": "High"}
+{"feat": "30-F399531", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F403066", "explanation": "spatial geometry", "confidence": "Medium"}
+{"feat": "30-F402498", "explanation": "not on", "confidence": "Medium"}
+{"feat": "30-F400681", "explanation": "spatial geometry descriptions", "confidence": "Medium"}
+{"feat": "30-F403847", "explanation": "regular hexagon geometry", "confidence": "Medium"}
+{"feat": "30-F403549", "explanation": "Coordinate-pair commas", "confidence": "Medium"}
+{"feat": "30-F373408", "explanation": "Don't Say rotation", "confidence": "High"}
+{"feat": "30-F406231", "explanation": "right-side spatial positions", "confidence": "Medium"}
+{"feat": "30-F406709", "explanation": "opposite sides equal", "confidence": "Medium"}
+{"feat": "30-F406657", "explanation": "Physics vector magnitude/angle", "confidence": "Medium"}
+{"feat": "30-F405295", "explanation": "zero in coordinates", "confidence": "Medium"}
+{"feat": "30-F404861", "explanation": "geometry height from point", "confidence": "Medium"}
+{"feat": "30-F386020", "explanation": "Rectangle adjacent sides", "confidence": "High"}
+{"feat": "30-F334122", "explanation": "Congruent geometric figures", "confidence": "High"}
+{"feat": "30-F409064", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F390542", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F409412", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F386868", "explanation": "geometry exercise identifiers", "confidence": "Medium"}
+{"feat": "30-F408037", "explanation": "circle geometry setup", "confidence": "Medium"}
+{"feat": "30-F407399", "explanation": "Shared triangle side", "confidence": "Medium"}
+{"feat": "30-F411765", "explanation": "relative geographic location", "confidence": "Medium"}
+{"feat": "30-F413643", "explanation": "Equatorial plane", "confidence": "High"}
+{"feat": "30-F413027", "explanation": "Circle chords geometry", "confidence": "High"}
+{"feat": "30-F410358", "explanation": "prism vertex alignment", "confidence": "Medium"}
+{"feat": "30-F389586", "explanation": "Parallel lines in geometry", "confidence": "High"}
+{"feat": "30-F408940", "explanation": "2×2 grid size", "confidence": "Medium"}
+{"feat": "30-F414438", "explanation": "Geometry circles", "confidence": "High"}
+{"feat": "30-F415107", "explanation": "Coordinate geometry points", "confidence": "Medium"}
+{"feat": "30-F391862", "explanation": "tetrahedron coordinate setup", "confidence": "Medium"}
+{"feat": "30-F414067", "explanation": "triangle geometry", "confidence": "Medium"}
+{"feat": "30-F426379", "explanation": "STEM technical terminology", "confidence": "medium"}
+{"feat": "30-F410937", "explanation": "coordinate pair comma", "confidence": "Medium"}
+{"feat": "30-F395955", "explanation": "trapezoid diagonal triangles", "confidence": "Medium"}
+{"feat": "30-F415424", "explanation": "Geometric vertices form triangle", "confidence": "Medium"}
+{"feat": "30-F410510", "explanation": "inscribed angle theorem", "confidence": "Medium"}
+{"feat": "30-F419122", "explanation": "Inequality constraints", "confidence": "Medium"}
+{"feat": "30-F421864", "explanation": "coordinate pair notation", "confidence": "Medium"}
+{"feat": "30-F422105", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F417532", "explanation": "Say coordinate tuple", "confidence": "Medium"}
+{"feat": "30-F420247", "explanation": "OpenGL draw array calls", "confidence": "Medium"}
+{"feat": "30-F417190", "explanation": "Don't Say staircase", "confidence": "Medium"}
+{"feat": "30-F415806", "explanation": "coordinate geometry projection", "confidence": "Medium"}
+{"feat": "30-F418660", "explanation": "Triangle lines intersect", "confidence": "Medium"}
+{"feat": "30-F426080", "explanation": "Small circles geometry", "confidence": "High"}
+{"feat": "30-F423236", "explanation": "geometry segment labels", "confidence": "Medium"}
+{"feat": "30-F416593", "explanation": "Ampere's law currents", "confidence": "Medium"}
+{"feat": "30-F426553", "explanation": "Optimization geometry word problems", "confidence": "Medium"}
+{"feat": "30-F397814", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F403302", "explanation": "principal axes of inertia", "confidence": "High"}
+{"feat": "30-F402122", "explanation": "polygon diagonals", "confidence": "Medium"}
+{"feat": "30-F428059", "explanation": "geometric intersections", "confidence": "Medium"}
+{"feat": "30-F425817", "explanation": "breast anatomy regions", "confidence": "Medium"}
+{"feat": "30-F402723", "explanation": "chord length formula", "confidence": "Medium"}
+{"feat": "30-F425180", "explanation": "up/down orientation", "confidence": "High"}
+{"feat": "30-F428218", "explanation": "mass point geometry", "confidence": "Medium"}
+{"feat": "30-F429918", "explanation": "Isosceles trapezoid base angles", "confidence": "Medium"}
+{"feat": "30-F430572", "explanation": "parabolic arch equations", "confidence": "Medium"}
+{"feat": "30-F428985", "explanation": "Theorem statement introduction", "confidence": "Medium"}
+{"feat": "30-F428916", "explanation": "In front of", "confidence": "High"}
+{"feat": "30-F426421", "explanation": "Say height or tall", "confidence": "Medium"}
+{"feat": "30-F431158", "explanation": "Ocean dynamics", "confidence": "Medium"}
+{"feat": "30-F403393", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F443040", "explanation": "Shared angle in geometry", "confidence": "medium"}
+{"feat": "30-F427298", "explanation": "posterior body anatomy", "confidence": "Medium"}
+{"feat": "30-F406884", "explanation": "Horizontal cylinder volume", "confidence": "Medium"}
+{"feat": "30-F444720", "explanation": "mathematical problem setup", "confidence": "medium"}
+{"feat": "30-F431850", "explanation": "right-side positions", "confidence": "Medium"}
+{"feat": "30-F436566", "explanation": "Self-intersection / overlap", "confidence": "High"}
+{"feat": "30-F375988", "explanation": "regular polygon apothem formula", "confidence": "High"}
+{"feat": "30-F435177", "explanation": "spatial positioning descriptions", "confidence": "Low"}
+{"feat": "30-F435367", "explanation": "perpendicular equal lengths", "confidence": "Medium"}
+{"feat": "30-F432003", "explanation": "dimension separator x", "confidence": "High"}
+{"feat": "30-F436162", "explanation": "Diagonals divide parallelograms", "confidence": "High"}
+{"feat": "30-F434730", "explanation": "vector path editing tools", "confidence": "Medium"}
+{"feat": "30-F438218", "explanation": "Circle fractions", "confidence": "High"}
+{"feat": "30-F433819", "explanation": "sound wave physics", "confidence": "High"}
+{"feat": "30-F433425", "explanation": "triangle altitude length", "confidence": "Medium"}
+{"feat": "30-F434642", "explanation": "parallelogram diagonals bisect", "confidence": "Medium"}
+{"feat": "30-F442456", "explanation": "Elongated shape descriptions", "confidence": "High"}
+{"feat": "30-F448819", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F442959", "explanation": "Square tiling problems", "confidence": "Medium"}
+{"feat": "30-F412701", "explanation": "Traversing around geometry", "confidence": "High"}
+{"feat": "30-F439197", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F439422", "explanation": "graphics style specifiers", "confidence": "Medium"}
+{"feat": "30-F441161", "explanation": "physical dimensions", "confidence": "High"}
+{"feat": "30-F440239", "explanation": "circle sector fractions", "confidence": "Medium"}
+{"feat": "30-F443630", "explanation": "3D model edge creases", "confidence": "Medium"}
+{"feat": "30-F443507", "explanation": "quadrilateral angle reasoning", "confidence": "Medium"}
+{"feat": "30-F443290", "explanation": "Spatial preposition on", "confidence": "Medium"}
+{"feat": "30-F447457", "explanation": "polyhedron diagonals", "confidence": "Medium"}
+{"feat": "30-F448285", "explanation": "Geometry congruence problems", "confidence": "High"}
+{"feat": "30-F447047", "explanation": "cube geometry selections", "confidence": "Medium"}
+{"feat": "30-F447646", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F451197", "explanation": "pentagon geometry", "confidence": "High"}
+{"feat": "30-F450312", "explanation": "3D coordinate zeros", "confidence": "Medium"}
+{"feat": "30-F448936", "explanation": "grid cell adjacency", "confidence": "Low"}
+{"feat": "30-F450770", "explanation": "Code coordinate zeros", "confidence": "Medium"}
+{"feat": "30-F450555", "explanation": "x-axis notation", "confidence": "Medium"}
+{"feat": "30-F448545", "explanation": "Say closing parenthesis comma", "confidence": "Medium"}
+{"feat": "30-F456993", "explanation": "equidistant geometry", "confidence": "high"}
+{"feat": "30-F449513", "explanation": "Say draw diagram", "confidence": "Medium"}
+{"feat": "30-F451454", "explanation": "coordinate geometry reasoning", "confidence": "Medium"}
+{"feat": "30-F451864", "explanation": "mathematical equality notation", "confidence": "Medium"}
+{"feat": "30-F436633", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F452015", "explanation": "algebraic equations", "confidence": "Medium"}
+{"feat": "30-F452927", "explanation": "same arc circle theorem", "confidence": "Medium"}
+{"feat": "30-F425236", "explanation": "Buttocks descriptions", "confidence": "High"}
+{"feat": "30-F429239", "explanation": "Geometric intersections", "confidence": "Medium"}
+{"feat": "30-F430521", "explanation": "Geometric segment division", "confidence": "High"}
+{"feat": "30-F454302", "explanation": "vector parallelism reasoning", "confidence": "Medium"}
+{"feat": "30-F452701", "explanation": "anatomical body locations", "confidence": "Medium"}
+{"feat": "30-F454017", "explanation": "Cartesian coordinate notation", "confidence": "Medium"}
+{"feat": "30-F454203", "explanation": "Say flip", "confidence": "High"}
+{"feat": "30-F447091", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F454356", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F456403", "explanation": "regular polygons", "confidence": "Medium"}
+{"feat": "30-F455939", "explanation": "circle intersection formula", "confidence": "Medium"}
+{"feat": "30-F424162", "explanation": "Don't Say coordinates", "confidence": "Medium"}
+{"feat": "30-F461278", "explanation": "point geometry terminology", "confidence": "Medium"}
+{"feat": "30-F460184", "explanation": "law of reflection", "confidence": "High"}
+{"feat": "30-F457938", "explanation": "Central geometric transformations", "confidence": "Medium"}
+{"feat": "30-F456012", "explanation": "geometry side labels", "confidence": "Medium"}
+{"feat": "30-F460806", "explanation": "Right circular solids", "confidence": "High"}
+{"feat": "30-F461595", "explanation": "Elliptical orbit focus", "confidence": "High"}
+{"feat": "30-F430329", "explanation": "diagonals bisect each other", "confidence": "Medium"}
+{"feat": "30-F459230", "explanation": "graphics drawing code", "confidence": "Medium"}
+{"feat": "30-F438501", "explanation": "Horizontal projectile motion", "confidence": "High"}
+{"feat": "30-F463655", "explanation": "Image spatial positions", "confidence": "High"}
+{"feat": "30-F456392", "explanation": "segment extension geometry", "confidence": "Medium"}
+{"feat": "30-F442971", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F463692", "explanation": "opposite sides geometry", "confidence": "Medium"}
+{"feat": "30-F463141", "explanation": "parallelogram vector equality", "confidence": "High"}
+{"feat": "30-F469506", "explanation": "Image quadrants", "confidence": "High"}
+{"feat": "30-F463648", "explanation": "Cevian geometry term", "confidence": "Medium"}
+{"feat": "30-F467219", "explanation": "regular hexagon properties", "confidence": "Medium"}
+{"feat": "30-F471872", "explanation": "midpoint formula", "confidence": "High"}
+{"feat": "30-F473714", "explanation": "Say thickness", "confidence": "High"}
+{"feat": "30-F462502", "explanation": "coordinate pair comma", "confidence": "Medium"}
+{"feat": "30-F466705", "explanation": "geometric intersection point", "confidence": "Medium"}
+{"feat": "30-F448219", "explanation": "coordinate geometry projections", "confidence": "Medium"}
+{"feat": "30-F474044", "explanation": "Triangle heights in geometry", "confidence": "Medium"}
+{"feat": "30-F476358", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F448251", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F466280", "explanation": "geometry problem notation", "confidence": "Medium"}
+{"feat": "30-F470011", "explanation": "numeric coordinate separators", "confidence": "Medium"}
+{"feat": "30-F474853", "explanation": "Equal side lengths", "confidence": "Medium"}
+{"feat": "30-F450436", "explanation": "graphics center coordinates", "confidence": "Medium"}
+{"feat": "30-F477470", "explanation": "isosceles triangle angles", "confidence": "High"}
+{"feat": "30-F477839", "explanation": "circle arc midpoints", "confidence": "Medium"}
+{"feat": "30-F478449", "explanation": "right column traversal", "confidence": "High"}
+{"feat": "30-F482226", "explanation": "symmetry in geometry", "confidence": "High"}
+{"feat": "30-F480701", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F475299", "explanation": "triangle geometry problems", "confidence": "Medium"}
+{"feat": "30-F481695", "explanation": "diagram coordinate syntax", "confidence": "High"}
+{"feat": "30-F476162", "explanation": "coordinate geometry problems", "confidence": "Medium"}
+{"feat": "30-F449115", "explanation": "geometry volume calculations", "confidence": "Medium"}
+{"feat": "30-F489790", "explanation": "Geometric coordinate setup", "confidence": "medium"}
+{"feat": "30-F479063", "explanation": "spatial geometry descriptions", "confidence": "Medium"}
+{"feat": "30-F480513", "explanation": "rectangle side lengths", "confidence": "Medium"}
+{"feat": "30-F453955", "explanation": "Triangle side labels", "confidence": "Medium"}
+{"feat": "30-F482435", "explanation": "Geometric segment labels", "confidence": "Medium"}
+{"feat": "30-F484309", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F479172", "explanation": "coordinate distance calculation", "confidence": "Medium"}
+{"feat": "30-F483346", "explanation": "Say shape descriptions", "confidence": "High"}
+{"feat": "30-F485627", "explanation": "tangent geometry", "confidence": "High"}
+{"feat": "30-F483154", "explanation": "Say coordinate opening parenthesis", "confidence": "Medium"}
+{"feat": "30-F486877", "explanation": "geometry measurement problems", "confidence": "Medium"}
+{"feat": "30-F485704", "explanation": "rectangle dimension calculation", "confidence": "Medium"}
+{"feat": "30-F487131", "explanation": "Triangles formed by vertices", "confidence": "High"}
+{"feat": "30-F487968", "explanation": "circular arc locus geometry", "confidence": "High"}
+{"feat": "30-F487849", "explanation": "Don't Say width", "confidence": "Medium"}
+{"feat": "30-F484582", "explanation": "Diels-Alder reaction geometry", "confidence": "Medium"}
+{"feat": "30-F486921", "explanation": "Polygon vertex traversal", "confidence": "Medium"}
+{"feat": "30-F486670", "explanation": "3D geometry coordinates", "confidence": "Medium"}
+{"feat": "30-F455163", "explanation": "looking downward perspective", "confidence": "Medium"}
+{"feat": "30-F492025", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F490935", "explanation": "optimization condition statements", "confidence": "Medium"}
+{"feat": "30-F489537", "explanation": "dimension separator x", "confidence": "Medium"}
+{"feat": "30-F491778", "explanation": "spatial location", "confidence": "Low"}
+{"feat": "30-F491721", "explanation": "Geometry side variable assignments", "confidence": "Medium"}
+{"feat": "30-F494386", "explanation": "Geometric region exclusion", "confidence": "Medium"}
+{"feat": "30-F458423", "explanation": "3D unit vectors", "confidence": "Medium"}
+{"feat": "30-F469930", "explanation": "CSS width and height", "confidence": "High"}
+{"feat": "30-F493743", "explanation": "normal force mechanics", "confidence": "Medium"}
+{"feat": "30-F493230", "explanation": "hexagon mentions", "confidence": "Medium"}
+{"feat": "30-F497434", "explanation": "circular sectors", "confidence": "High"}
+{"feat": "30-F496279", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F503989", "explanation": "Linear programming constraints", "confidence": "Medium"}
+{"feat": "30-F503090", "explanation": "lane line detection", "confidence": "Medium"}
+{"feat": "30-F494991", "explanation": "coordinate tuple notation", "confidence": "Medium"}
+{"feat": "30-F504981", "explanation": "Altitude foot in geometry", "confidence": "High"}
+{"feat": "30-F500483", "explanation": "Asymptote unitsize syntax", "confidence": "Medium"}
+{"feat": "30-F474131", "explanation": "Wavelength definition", "confidence": "High"}
+{"feat": "30-F403078", "explanation": "map projection distortion", "confidence": "Medium"}
+{"feat": "30-F474697", "explanation": "geometric line drawing", "confidence": "Medium"}
+{"feat": "30-F509417", "explanation": "Square geometry problems", "confidence": "High"}
+{"feat": "30-F505200", "explanation": "Cross product of plane normals", "confidence": "High"}
+{"feat": "30-F507977", "explanation": "Minimum bend radius", "confidence": "High"}
+{"feat": "30-F507485", "explanation": "Zero coordinate values", "confidence": "Medium"}
+{"feat": "30-F482180", "explanation": "LaTeX grid dimensions", "confidence": "Medium"}
+{"feat": "30-F505327", "explanation": "Single-letter variable names", "confidence": "Low"}
+{"feat": "30-F509820", "explanation": "ellipse focal points", "confidence": "High"}
+{"feat": "30-F506510", "explanation": "Sphere placement geometry", "confidence": "Medium"}
+{"feat": "30-F481601", "explanation": "Cantilever beam mechanics", "confidence": "Medium"}
+{"feat": "30-F509999", "explanation": "dungeon generation code", "confidence": "Medium"}
+{"feat": "30-F512233", "explanation": "coordinate tuple notation", "confidence": "Medium"}
+{"feat": "30-F507350", "explanation": "technical numeric notation", "confidence": "Low"}
+{"feat": "30-F509609", "explanation": "geometry problem solving", "confidence": "Medium"}
+{"feat": "30-F513760", "explanation": "Inscribed geometry shapes", "confidence": "Medium"}
+{"feat": "30-F511321", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F510816", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F513013", "explanation": "geometric symmetry axes", "confidence": "Medium"}
+{"feat": "30-F509465", "explanation": "zero coordinate values", "confidence": "Medium"}
+{"feat": "30-F512251", "explanation": "Say extend", "confidence": "Medium"}
+{"feat": "30-F513817", "explanation": "vertical line x-coordinate", "confidence": "Medium"}
+{"feat": "30-F514459", "explanation": "Geometry segment BD", "confidence": "High"}
+{"feat": "30-F515845", "explanation": "x-axis references", "confidence": "Medium"}
+{"feat": "30-F517363", "explanation": "total measurement quantities", "confidence": "Medium"}
+{"feat": "30-F516046", "explanation": "Plane-polyhedron edge intersections", "confidence": "Medium"}
+{"feat": "30-F520628", "explanation": "geometric volume problems", "confidence": "Medium"}
+{"feat": "30-F490461", "explanation": "geometric construction terminology", "confidence": "Medium"}
+{"feat": "30-F517868", "explanation": "Geometric distance from-to", "confidence": "Medium"}
+{"feat": "30-F530590", "explanation": "Coordinate geometry point placement", "confidence": "medium"}
+{"feat": "30-F492832", "explanation": "Geometry vertex C", "confidence": "High"}
+{"feat": "30-F488526", "explanation": "coordinate origin (0,0)", "confidence": "Medium"}
+{"feat": "30-F521090", "explanation": "Square diagonal division", "confidence": "Medium"}
+{"feat": "30-F493133", "explanation": "Trapezoid base setup", "confidence": "Medium"}
+{"feat": "30-F516678", "explanation": "Quadrilateral geometry", "confidence": "High"}
+{"feat": "30-F522134", "explanation": "Geometry side labels", "confidence": "Medium"}
+{"feat": "30-F522590", "explanation": "sphere equation geometry", "confidence": "Medium"}
+{"feat": "30-F520335", "explanation": "rectangular prism optimization", "confidence": "Medium"}
+{"feat": "30-F491958", "explanation": "Geometric diagrams", "confidence": "Medium"}
+{"feat": "30-F522043", "explanation": "grid dimension notation", "confidence": "Medium"}
+{"feat": "30-F526344", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F503025", "explanation": "center of mass", "confidence": "High"}
+{"feat": "30-F497082", "explanation": "Triangle center alignment", "confidence": "Medium"}
+{"feat": "30-F501239", "explanation": "Medical anatomy", "confidence": "Medium"}
+{"feat": "30-F522779", "explanation": "LaTeX math notation", "confidence": "Medium"}
+{"feat": "30-F525932", "explanation": "In a parallelogram", "confidence": "Medium"}
+{"feat": "30-F525398", "explanation": "Geometric diagonals", "confidence": "High"}
+{"feat": "30-F520107", "explanation": "numeric technical notation", "confidence": "Low"}
+{"feat": "30-F532036", "explanation": "Trapezoid side BC", "confidence": "Medium"}
+{"feat": "30-F531355", "explanation": "Grid collinear triples", "confidence": "Medium"}
+{"feat": "30-F532969", "explanation": "geometry point definition", "confidence": "High"}
+{"feat": "30-F530267", "explanation": "2D geometry notation", "confidence": "Medium"}
+{"feat": "30-F533404", "explanation": "Venn diagram geometry", "confidence": "Medium"}
+{"feat": "30-F530671", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F530688", "explanation": "right-angled triangles", "confidence": "High"}
+{"feat": "30-F530929", "explanation": "geometric mean theorem", "confidence": "Medium"}
+{"feat": "30-F532340", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F525934", "explanation": "Mathematical reasoning", "confidence": "Medium"}
+{"feat": "30-F533323", "explanation": "Inside geometric figures", "confidence": "Medium"}
+{"feat": "30-F533296", "explanation": "LaTeX indexed vertices", "confidence": "Medium"}
+{"feat": "30-F532318", "explanation": "Cartoon facial appearance", "confidence": "Medium"}
+{"feat": "30-F536065", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F537096", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F536791", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F537150", "explanation": "geometry volume formulas", "confidence": "Medium"}
+{"feat": "30-F540217", "explanation": "Vector geometry setup", "confidence": "Medium"}
+{"feat": "30-F536066", "explanation": "LaTeX geometry notation", "confidence": "Medium"}
+{"feat": "30-F535489", "explanation": "directional alternatives", "confidence": "Medium"}
+{"feat": "30-F540405", "explanation": "Opposite side in triangles", "confidence": "Medium"}
+{"feat": "30-F537740", "explanation": "geometric faces", "confidence": "Medium"}
+{"feat": "30-F540161", "explanation": "geometry point coordinates", "confidence": "Medium"}
+{"feat": "30-F548324", "explanation": "Defining coordinate variables", "confidence": "medium"}
+{"feat": "30-F511627", "explanation": "polygon turning angles", "confidence": "Medium"}
+{"feat": "30-F512385", "explanation": "Coordinate tuple notation", "confidence": "Medium"}
+{"feat": "30-F539871", "explanation": "Separating into parts", "confidence": "High"}
+{"feat": "30-F538727", "explanation": "perpendicular to relation", "confidence": "Medium"}
+{"feat": "30-F544585", "explanation": "point-in-polygon ray casting", "confidence": "Medium"}
+{"feat": "30-F543467", "explanation": "Coordinate geometry placement", "confidence": "Medium"}
+{"feat": "30-F544004", "explanation": "coordinate geometry setup", "confidence": "Medium"}
+{"feat": "30-F516824", "explanation": "Right-triangle altitude", "confidence": "Medium"}
+{"feat": "30-F544716", "explanation": "Coordinate geometry segments", "confidence": "Medium"}
+{"feat": "30-F546806", "explanation": "Trapezoid geometry problems", "confidence": "Medium"}
+{"feat": "30-F543285", "explanation": "convex polygon geometry", "confidence": "Medium"}
+{"feat": "30-F548948", "explanation": "Anatomical body planes", "confidence": "High"}
+{"feat": "30-F545127", "explanation": "Thales theorem geometry", "confidence": "Medium"}
+{"feat": "30-F516608", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F546438", "explanation": "geometric point distances", "confidence": "Medium"}
+{"feat": "30-F546655", "explanation": "Say inside column", "confidence": "Medium"}
+{"feat": "30-F526091", "explanation": "paper folding geometry", "confidence": "Medium"}
+{"feat": "30-F544857", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F520026", "explanation": "aircraft balance aerodynamics", "confidence": "Medium"}
+{"feat": "30-F550112", "explanation": "cube rotation counting", "confidence": "Medium"}
+{"feat": "30-F549758", "explanation": "coordinate geometry notation", "confidence": "Medium"}
+{"feat": "30-F549081", "explanation": "spatial geometry descriptions", "confidence": "Low"}
+{"feat": "30-F548764", "explanation": "Coordinate assignment statements", "confidence": "Medium"}
+{"feat": "30-F555981", "explanation": "Asymptote draw segments", "confidence": "High"}
+{"feat": "30-F525809", "explanation": "point-set geometry problems", "confidence": "Medium"}
+{"feat": "30-F542653", "explanation": "unit circle trigonometry", "confidence": "Medium"}
+{"feat": "30-F558362", "explanation": "3D coordinate tuples", "confidence": "High"}
+{"feat": "30-F530186", "explanation": "Say space", "confidence": "Low"}
+{"feat": "30-F559313", "explanation": "Triangle centers three cevians", "confidence": "Medium"}
+{"feat": "30-F554605", "explanation": "diagram label directions", "confidence": "High"}
+{"feat": "30-F525068", "explanation": "Say double", "confidence": "Medium"}
+{"feat": "30-F558155", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F550829", "explanation": "transversal geometry term", "confidence": "Medium"}
+{"feat": "30-F550218", "explanation": "geometric angles", "confidence": "Medium"}
+{"feat": "30-F551883", "explanation": "points on a line", "confidence": "Medium"}
+{"feat": "30-F552656", "explanation": "helical wheel plots", "confidence": "High"}
+{"feat": "30-F556468", "explanation": "Don't Say width", "confidence": "Medium"}
+{"feat": "30-F558308", "explanation": "Tangent single intersection point", "confidence": "Medium"}
+{"feat": "30-F558289", "explanation": "Three points define circle", "confidence": "High"}
+{"feat": "30-F558875", "explanation": "Inscribed in a circle", "confidence": "Medium"}
+{"feat": "30-F561909", "explanation": "triangle area geometry", "confidence": "Medium"}
+{"feat": "30-F533810", "explanation": "geometry definition recall", "confidence": "Medium"}
+{"feat": "30-F561812", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F534599", "explanation": "geometry area problems", "confidence": "Medium"}
+{"feat": "30-F567398", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F537044", "explanation": "right angle notation", "confidence": "Medium"}
+{"feat": "30-F540633", "explanation": "Boundaries and edges", "confidence": "High"}
+{"feat": "30-F565194", "explanation": "cyclic quadrilaterals", "confidence": "High"}
+{"feat": "30-F562941", "explanation": "convex hull algorithms", "confidence": "High"}
+{"feat": "30-F542881", "explanation": "Geometric extension along axes", "confidence": "Medium"}
+{"feat": "30-F564150", "explanation": "folding carton assembly", "confidence": "Medium"}
+{"feat": "30-F542687", "explanation": "Don't Say angle", "confidence": "Medium"}
+{"feat": "30-F565120", "explanation": "tube cross-sectional geometry", "confidence": "Medium"}
+{"feat": "30-F563739", "explanation": "Don't Say visual", "confidence": "Medium"}
+{"feat": "30-F566138", "explanation": "geometry word problems", "confidence": "Medium"}
+{"feat": "30-F568693", "explanation": "Grid and array indexing", "confidence": "Medium"}
+{"feat": "30-F571042", "explanation": "right-hand rule gestures", "confidence": "High"}
+{"feat": "30-F569496", "explanation": "coordinate point placement", "confidence": "Medium"}
+{"feat": "30-F550021", "explanation": "paraboloid geometry problems", "confidence": "Medium"}
+{"feat": "30-F570576", "explanation": "third eyelid anatomy", "confidence": "Medium"}
+{"feat": "30-F551467", "explanation": "3D grid dimensions", "confidence": "Medium"}
+{"feat": "30-F565519", "explanation": "length/width dimensions", "confidence": "Medium"}
+{"feat": "30-F571821", "explanation": "drag resize handles", "confidence": "High"}
+{"feat": "30-F573583", "explanation": "Geometric midpoints", "confidence": "High"}
+{"feat": "30-F573103", "explanation": "physical geometry descriptions", "confidence": "Medium"}
+{"feat": "30-F573722", "explanation": "polyhedron face-edge-vertex counts", "confidence": "Medium"}
+{"feat": "30-F557781", "explanation": "right triangle inradius", "confidence": "Medium"}
+{"feat": "30-F574107", "explanation": "geometry diagram construction", "confidence": "Medium"}
+{"feat": "30-F559774", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F575527", "explanation": "Fermat point construction", "confidence": "High"}
+{"feat": "30-F562442", "explanation": "triangle coordinate setup", "confidence": "High"}
+{"feat": "30-F572589", "explanation": "smallest enclosing circle task", "confidence": "Medium"}
+{"feat": "30-F575353", "explanation": "without clauses", "confidence": "High"}
+{"feat": "30-F577658", "explanation": "Same y-coordinate horizontal", "confidence": "High"}
+{"feat": "30-F577643", "explanation": "Cyclic polygon geometry", "confidence": "Medium"}
+{"feat": "30-F564260", "explanation": "Triangle side BC", "confidence": "Medium"}
+{"feat": "30-F564315", "explanation": "Circle centered at", "confidence": "High"}
+{"feat": "30-F579121", "explanation": "geometry width dimension", "confidence": "Medium"}
+{"feat": "30-F566980", "explanation": "Asymptote graph drawing code", "confidence": "Medium"}
+{"feat": "30-F580552", "explanation": "Geometric vertex definition", "confidence": "High"}
+{"feat": "30-F563208", "explanation": "Cartesian coordinate comma", "confidence": "Medium"}
+{"feat": "30-F570573", "explanation": "Line segments", "confidence": "High"}
+{"feat": "30-F579901", "explanation": "Angle vector sides", "confidence": "High"}
+{"feat": "30-F572349", "explanation": "Intersecting chords theorem", "confidence": "High"}
+{"feat": "30-F580410", "explanation": "polygon side length", "confidence": "High"}
+{"feat": "30-F580159", "explanation": "mathematical notation", "confidence": "Low"}
+{"feat": "30-F579643", "explanation": "geometric coordinate reasoning", "confidence": "Medium"}
+{"feat": "30-F543150", "explanation": "eye pupil anatomy", "confidence": "High"}
+{"feat": "30-F582002", "explanation": "General circle equation", "confidence": "High"}
+{"feat": "30-F580690", "explanation": "Rectangle perimeter formula", "confidence": "High"}
+{"feat": "30-F580669", "explanation": "line segment intersection", "confidence": "High"}
+{"feat": "30-F578729", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F581699", "explanation": "geometric distance between", "confidence": "Medium"}
+{"feat": "30-F582836", "explanation": "geometric area calculations", "confidence": "Medium"}
+{"feat": "30-F584659", "explanation": "Point A at origin", "confidence": "Medium"}
+{"feat": "30-F583588", "explanation": "coordinate location prepositions", "confidence": "Medium"}
+{"feat": "30-F585965", "explanation": "Geometric points and vertices", "confidence": "Medium"}
+{"feat": "30-F568468", "explanation": "cylinder-plane intersections", "confidence": "Low"}
+{"feat": "30-F581808", "explanation": "Code block formatting", "confidence": "Medium"}
+{"feat": "30-F583849", "explanation": "Don't Say holes", "confidence": "Medium"}
+{"feat": "30-F580789", "explanation": "mechanics and fluid dynamics", "confidence": "Medium"}
+{"feat": "30-F585801", "explanation": "part-whole relations", "confidence": "Medium"}
+{"feat": "30-F591084", "explanation": "Triangle geometry problems", "confidence": "High"}
+{"feat": "30-F586402", "explanation": "Term “space”", "confidence": "High"}
+{"feat": "30-F593620", "explanation": "triangle circumcenter geometry", "confidence": "Medium"}
+{"feat": "30-F587470", "explanation": "Flat Earth horizon arguments", "confidence": "High"}
+{"feat": "30-F594347", "explanation": "coordinate transformations", "confidence": "Medium"}
+{"feat": "30-F592062", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F592632", "explanation": "In diameter measurements", "confidence": "High"}
+{"feat": "30-F584933", "explanation": "Geometric puzzle constraints", "confidence": "Medium"}
+{"feat": "30-F594621", "explanation": "taxonomic morphology descriptions", "confidence": "Medium"}
+{"feat": "30-F597283", "explanation": "coordinate system setup", "confidence": "Medium"}
+{"feat": "30-F594965", "explanation": "origin coordinate zero", "confidence": "Medium"}
+{"feat": "30-F600022", "explanation": "360 degree angle sums", "confidence": "Medium"}
+{"feat": "30-F598269", "explanation": "Coordinate index 2", "confidence": "Medium"}
+{"feat": "30-F599398", "explanation": "3D point-line distance", "confidence": "High"}
+{"feat": "30-F576578", "explanation": "Physical dimension measurements", "confidence": "High"}
+{"feat": "30-F600015", "explanation": "coordinate geometry setup", "confidence": "Medium"}
+{"feat": "30-F598193", "explanation": "Plot layout spacing", "confidence": "Medium"}
+{"feat": "30-F599735", "explanation": "Woodworking assembly instructions", "confidence": "Medium"}
+{"feat": "30-F559685", "explanation": "2D rectangle rendering", "confidence": "Medium"}
+{"feat": "30-F600615", "explanation": "analytic geometry solutions", "confidence": "Medium"}
+{"feat": "30-F578063", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F601658", "explanation": "geometry word problem setup", "confidence": "Medium"}
+{"feat": "30-F604146", "explanation": "geometric reference points", "confidence": "Medium"}
+{"feat": "30-F601706", "explanation": "hypotenuse opposite right angle", "confidence": "Medium"}
+{"feat": "30-F577100", "explanation": "geometric distance plus radius", "confidence": "Medium"}
+{"feat": "30-F605254", "explanation": "regular polygon angles", "confidence": "Medium"}
+{"feat": "30-F608816", "explanation": "Geometric shapes reasoning", "confidence": "Medium"}
+{"feat": "30-F606993", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F607446", "explanation": "coordinate list integers", "confidence": "Medium"}
+{"feat": "30-F605903", "explanation": "negation / exclusion", "confidence": "Medium"}
+{"feat": "30-F605138", "explanation": "coordinates of objects", "confidence": "Medium"}
+{"feat": "30-F610741", "explanation": "Coordinate zero", "confidence": "Medium"}
+{"feat": "30-F578466", "explanation": "technical academic prose", "confidence": "Medium"}
+{"feat": "30-F611420", "explanation": "Both sides phrasing", "confidence": "High"}
+{"feat": "30-F607767", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F610521", "explanation": "trapezoid geometry", "confidence": "Medium"}
+{"feat": "30-F605433", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F612454", "explanation": "geometric parallelism", "confidence": "High"}
+{"feat": "30-F577013", "explanation": "spatial on relation", "confidence": "Medium"}
+{"feat": "30-F585535", "explanation": "Rectangle geometry problems", "confidence": "High"}
+{"feat": "30-F587186", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F555925", "explanation": "Triangle side points", "confidence": "Medium"}
+{"feat": "30-F611635", "explanation": "Say a circle", "confidence": "High"}
+{"feat": "30-F615132", "explanation": "numeric literals in code", "confidence": "Medium"}
+{"feat": "30-F566139", "explanation": "hexagon vertex enumeration", "confidence": "Medium"}
+{"feat": "30-F616523", "explanation": "Trapezoid diagonal ratios", "confidence": "Medium"}
+{"feat": "30-F613998", "explanation": "Voronoi diagram regions", "confidence": "Medium"}
+{"feat": "30-F617321", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F591429", "explanation": "geometry word problems", "confidence": "Medium"}
+{"feat": "30-F619826", "explanation": "integer geometry constraints", "confidence": "High"}
+{"feat": "30-F618908", "explanation": "Hypothetical geometry test case", "confidence": "Medium"}
+{"feat": "30-F618585", "explanation": "Cartesian coordinate commas", "confidence": "Medium"}
+{"feat": "30-F618230", "explanation": "comma-separated drawing arguments", "confidence": "Medium"}
+{"feat": "30-F619885", "explanation": "2D coordinate notation", "confidence": "Medium"}
+{"feat": "30-F591703", "explanation": "Geometric “Since it's” inference", "confidence": "Medium"}
+{"feat": "30-F622607", "explanation": "Asymptote label directions", "confidence": "High"}
+{"feat": "30-F625330", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F619648", "explanation": "coordinate geometry setup", "confidence": "Medium"}
+{"feat": "30-F598310", "explanation": "wrapped rope geometry", "confidence": "Medium"}
+{"feat": "30-F625277", "explanation": "Technical passive construction", "confidence": "Medium"}
+{"feat": "30-F620184", "explanation": "Graph symmetry reflected points", "confidence": "Medium"}
+{"feat": "30-F629446", "explanation": "Cardinal direction alignment", "confidence": "High"}
+{"feat": "30-F628200", "explanation": "Triangle altitude definition", "confidence": "High"}
+{"feat": "30-F625528", "explanation": "Asymptote path connectors", "confidence": "High"}
+{"feat": "30-F598174", "explanation": "opposing sides of cuts", "confidence": "High"}
+{"feat": "30-F626601", "explanation": "90-degree rotation", "confidence": "High"}
+{"feat": "30-F623937", "explanation": "Cone geometry problems", "confidence": "Medium"}
+{"feat": "30-F631009", "explanation": "Polygon names", "confidence": "High"}
+{"feat": "30-F630096", "explanation": "physical length quantities", "confidence": "Medium"}
+{"feat": "30-F631004", "explanation": "Say shape", "confidence": "Medium"}
+{"feat": "30-F629610", "explanation": "geometry angles at vertices", "confidence": "Medium"}
+{"feat": "30-F630213", "explanation": "diagram compass directions", "confidence": "High"}
+{"feat": "30-F630325", "explanation": "Digit four in calculations", "confidence": "Medium"}
+{"feat": "30-F632843", "explanation": "Catenary sag curves", "confidence": "High"}
+{"feat": "30-F640665", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F610242", "explanation": "Shoelace coordinate tables", "confidence": "High"}
+{"feat": "30-F633029", "explanation": "linear equation plus sign", "confidence": "Medium"}
+{"feat": "30-F633062", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F634262", "explanation": "Symmetric coordinate setup", "confidence": "Medium"}
+{"feat": "30-F641853", "explanation": "At height z", "confidence": "medium"}
+{"feat": "30-F605891", "explanation": "triangulating positions", "confidence": "Medium"}
+{"feat": "30-F611136", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F634747", "explanation": "Geometric line intersections", "confidence": "Medium"}
+{"feat": "30-F612245", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F635774", "explanation": "Line intersection computations", "confidence": "High"}
+{"feat": "30-F638916", "explanation": "caudal fins and tails", "confidence": "High"}
+{"feat": "30-F634156", "explanation": "Definite article in math", "confidence": "Medium"}
+{"feat": "30-F635294", "explanation": "grid diagonals", "confidence": "Medium"}
+{"feat": "30-F640582", "explanation": "Trigonometric angle coordinates", "confidence": "Medium"}
+{"feat": "30-F637118", "explanation": "Geometric equality equations", "confidence": "Medium"}
+{"feat": "30-F613494", "explanation": "Cartesian coordinate zero", "confidence": "Medium"}
+{"feat": "30-F637925", "explanation": "geometry problem statements", "confidence": "Medium"}
+{"feat": "30-F617335", "explanation": "Inscribed geometry", "confidence": "High"}
+{"feat": "30-F640764", "explanation": "bottom position", "confidence": "Medium"}
+{"feat": "30-F618498", "explanation": "from-to geometry vectors", "confidence": "Medium"}
+{"feat": "30-F616680", "explanation": "LaTeX overline geometry", "confidence": "High"}
+{"feat": "30-F640408", "explanation": "technical notation", "confidence": "Low"}
+{"feat": "30-F642007", "explanation": "Geometric diagonal variable", "confidence": "Medium"}
+{"feat": "30-F643539", "explanation": "Say pixel", "confidence": "Medium"}
+{"feat": "30-F644791", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F641539", "explanation": "numeric dimension separator x", "confidence": "High"}
+{"feat": "30-F644089", "explanation": "Bunion foot deformity", "confidence": "High"}
+{"feat": "30-F621062", "explanation": "Oxford comma in lists", "confidence": "Medium"}
+{"feat": "30-F626235", "explanation": "Repeat first coordinate", "confidence": "High"}
+{"feat": "30-F628047", "explanation": "coordinate geometry setup", "confidence": "High"}
+{"feat": "30-F644107", "explanation": "Geometry from-to endpoints", "confidence": "Medium"}
+{"feat": "30-F646197", "explanation": "geometric shapes", "confidence": "Medium"}
+{"feat": "30-F652457", "explanation": "lattice constants", "confidence": "High"}
+{"feat": "30-F655134", "explanation": "ASCII art indentation", "confidence": "High"}
+{"feat": "30-F622172", "explanation": "geometric alignment", "confidence": "Low"}
+{"feat": "30-F654030", "explanation": null, "confidence": null}
+{"feat": "30-F655755", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F631234", "explanation": "Square diagonal geometry", "confidence": "High"}
+{"feat": "30-F655224", "explanation": "Fixed point definition", "confidence": "High"}
+{"feat": "30-F653195", "explanation": "center-to-center spacing", "confidence": "High"}
+{"feat": "30-F650983", "explanation": "billiard reflection problems", "confidence": "Medium"}
+{"feat": "30-F649675", "explanation": "Device camera position", "confidence": "High"}
+{"feat": "30-F649328", "explanation": "numeric math calculations", "confidence": "Medium"}
+{"feat": "30-F644300", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F656295", "explanation": "folding along lines", "confidence": "Medium"}
+{"feat": "30-F656782", "explanation": "tesseract geometry", "confidence": "High"}
+{"feat": "30-F659209", "explanation": "Say full", "confidence": "Medium"}
+{"feat": "30-F658818", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F649297", "explanation": "Don't Say each", "confidence": "Medium"}
+{"feat": "30-F646272", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F665867", "explanation": "cutting solids into parts", "confidence": "medium"}
+{"feat": "30-F658930", "explanation": "Say body", "confidence": "Medium"}
+{"feat": "30-F633455", "explanation": "Circle angle placement", "confidence": "High"}
+{"feat": "30-F642908", "explanation": "Triangle medians to sides", "confidence": "medium"}
+{"feat": "30-F638199", "explanation": "Square vertices ABCD", "confidence": "High"}
+{"feat": "30-F659267", "explanation": "prism lateral edges", "confidence": "Medium"}
+{"feat": "30-F660141", "explanation": "Incisor teeth", "confidence": "High"}
+{"feat": "30-F659238", "explanation": "geometry angle notation", "confidence": "Medium"}
+{"feat": "30-F659409", "explanation": "angle bisectors", "confidence": "High"}
+{"feat": "30-F660496", "explanation": "Flat Earth curvature calculations", "confidence": "Medium"}
+{"feat": "30-F659936", "explanation": "Rotation center geometry", "confidence": "Medium"}
+{"feat": "30-F636881", "explanation": "distance from point", "confidence": "Medium"}
+{"feat": "30-F661006", "explanation": "Parabola focus-directrix distance", "confidence": "Medium"}
+{"feat": "30-F660513", "explanation": "common angle geometry", "confidence": "Medium"}
+{"feat": "30-F639540", "explanation": "parabolic mirror reflection", "confidence": "High"}
+{"feat": "30-F663849", "explanation": "Geometric angle vertex descriptions", "confidence": "Medium"}
+{"feat": "30-F658908", "explanation": "equal tangent segments", "confidence": "Medium"}
+{"feat": "30-F661186", "explanation": "geometry point labels", "confidence": "Medium"}
+{"feat": "30-F661926", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F667696", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F667256", "explanation": "anatomical region definitions", "confidence": "Medium"}
+{"feat": "30-F667594", "explanation": "Hexagon diameter distances", "confidence": "High"}
+{"feat": "30-F662595", "explanation": "Say equals sign", "confidence": "Medium"}
+{"feat": "30-F666824", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F666732", "explanation": "sides forming angles", "confidence": "Medium"}
+{"feat": "30-F643484", "explanation": "half the sum", "confidence": "Medium"}
+{"feat": "30-F676849", "explanation": "geometric height dimension", "confidence": "High"}
+{"feat": "30-F680309", "explanation": "square pyramid geometry", "confidence": "Medium"}
+{"feat": "30-F667081", "explanation": "geometry vertex labels", "confidence": "Medium"}
+{"feat": "30-F661527", "explanation": "Say horizontal", "confidence": "Medium"}
+{"feat": "30-F664104", "explanation": "quad/quadr prefix", "confidence": "Medium"}
+{"feat": "30-F675071", "explanation": "Don't Say boundary", "confidence": "Medium"}
+{"feat": "30-F680314", "explanation": "turning direction changes", "confidence": "High"}
+{"feat": "30-F671673", "explanation": "zero coordinate in geometry", "confidence": "Medium"}
+{"feat": "30-F678158", "explanation": "Thales theorem geometry", "confidence": "Medium"}
+{"feat": "30-F679557", "explanation": "Coordinate origin notation", "confidence": "High"}
+{"feat": "30-F675956", "explanation": "flat Earth curvature arguments", "confidence": "High"}
+{"feat": "30-F646808", "explanation": "tree diameter longest path", "confidence": "High"}
+{"feat": "30-F674576", "explanation": "Parallelogram parallel sides", "confidence": "Medium"}
+{"feat": "30-F680548", "explanation": "Incircle tangent segment formula", "confidence": "Medium"}
+{"feat": "30-F671766", "explanation": "Say reconstruction", "confidence": "Low"}
+{"feat": "30-F681688", "explanation": "geometric contradiction reasoning", "confidence": "Medium"}
+{"feat": "30-F683177", "explanation": "staggered alkane conformation", "confidence": "Medium"}
+{"feat": "30-F682259", "explanation": "Geometric lines and sides", "confidence": "High"}
+{"feat": "30-F682682", "explanation": "Cartesian coordinate pairs", "confidence": "High"}
+{"feat": "30-F654489", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F686440", "explanation": "wave physics descriptions", "confidence": "Medium"}
+{"feat": "30-F658889", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F684197", "explanation": "Geometric perpendicular projection", "confidence": "Medium"}
+{"feat": "30-F690822", "explanation": "physical measurement units", "confidence": "High"}
+{"feat": "30-F688184", "explanation": "bounded geometric regions", "confidence": "Medium"}
+{"feat": "30-F690651", "explanation": "rounded corners", "confidence": "High"}
+{"feat": "30-F684634", "explanation": "Say depth", "confidence": "High"}
+{"feat": "30-F689486", "explanation": "hypotenuse identification", "confidence": "Medium"}
+{"feat": "30-F689792", "explanation": "geometric locus curves", "confidence": "Medium"}
+{"feat": "30-F691994", "explanation": "Geometric orientation description", "confidence": "Medium"}
+{"feat": "30-F691113", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F692940", "explanation": "opposite geometric points", "confidence": "Medium"}
+{"feat": "30-F689349", "explanation": "geometry concepts", "confidence": "Medium"}
+{"feat": "30-F690618", "explanation": "Prism bases", "confidence": "High"}
+{"feat": "30-F692145", "explanation": "Geometry coordinate commas", "confidence": "Medium"}
+{"feat": "30-F694132", "explanation": "connected or joined objects", "confidence": "Medium"}
+{"feat": "30-F695400", "explanation": "Sphere radius code", "confidence": "Medium"}
+{"feat": "30-F693308", "explanation": "geometry area subtraction", "confidence": "Medium"}
+{"feat": "30-F696065", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F695759", "explanation": "computational geometry problems", "confidence": "Medium"}
+{"feat": "30-F693192", "explanation": "Rectangular dimensions", "confidence": "Medium"}
+{"feat": "30-F665378", "explanation": "Angle at vertex", "confidence": "Medium"}
+{"feat": "30-F694180", "explanation": "Geometric side relations", "confidence": "Medium"}
+{"feat": "30-F699582", "explanation": "diagonals of quadrilaterals", "confidence": "High"}
+{"feat": "30-F698425", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F694374", "explanation": "fluid mechanics terminology", "confidence": "Medium"}
+{"feat": "30-F695134", "explanation": "coordinate geometry centers", "confidence": "Medium"}
+{"feat": "30-F700728", "explanation": "diagonal geometry", "confidence": "Medium"}
+{"feat": "30-F702034", "explanation": "Geometric length quantities", "confidence": "Medium"}
+{"feat": "30-F701712", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F661177", "explanation": "physical dimension measurements", "confidence": "High"}
+{"feat": "30-F696494", "explanation": "Say path", "confidence": "Medium"}
+{"feat": "30-F703136", "explanation": "mutual tangency geometry", "confidence": "Medium"}
+{"feat": "30-F704402", "explanation": "Reflection perpendicular bisector", "confidence": "High"}
+{"feat": "30-F703947", "explanation": "Hex grid geometry code", "confidence": "Medium"}
+{"feat": "30-F669090", "explanation": "triangle ratio equations", "confidence": "Medium"}
+{"feat": "30-F700060", "explanation": "geometric side lengths", "confidence": "Medium"}
+{"feat": "30-F702688", "explanation": "magnetic field lines", "confidence": "High"}
+{"feat": "30-F648992", "explanation": "Board game code", "confidence": "Medium"}
+{"feat": "30-F705565", "explanation": "Distance traveled phrase", "confidence": "High"}
+{"feat": "30-F706322", "explanation": "Geometric paths", "confidence": "High"}
+{"feat": "30-F705038", "explanation": "geometry point labels", "confidence": "Medium"}
+{"feat": "30-F678123", "explanation": "One of construction", "confidence": "Medium"}
+{"feat": "30-F703357", "explanation": "Honeycomb hexagonal cells", "confidence": "High"}
+{"feat": "30-F706915", "explanation": "Right triangle geometry", "confidence": "High"}
+{"feat": "30-F705486", "explanation": "Triangle area formula", "confidence": "High"}
+{"feat": "30-F706125", "explanation": "Cartesian zero coordinates", "confidence": "Medium"}
+{"feat": "30-F707742", "explanation": "y equals x geometry", "confidence": "Medium"}
+{"feat": "30-F681854", "explanation": "Geometric diagram elements", "confidence": "Medium"}
+{"feat": "30-F705840", "explanation": "coordinate geometry calculations", "confidence": "Medium"}
+{"feat": "30-F707097", "explanation": "geometry area quantities", "confidence": "Medium"}
+{"feat": "30-F705709", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F704940", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F706835", "explanation": "Physical span measurements", "confidence": "High"}
+{"feat": "30-F716001", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F686117", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F689230", "explanation": "inscribed angle geometry", "confidence": "Medium"}
+{"feat": "30-F710289", "explanation": "Triangle centroid median ratio", "confidence": "Medium"}
+{"feat": "30-F709660", "explanation": "ratio colon notation", "confidence": "High"}
+{"feat": "30-F709676", "explanation": "quadrilateral geometry", "confidence": "Medium"}
+{"feat": "30-F708191", "explanation": "enclosed grid regions", "confidence": "Medium"}
+{"feat": "30-F709491", "explanation": "coordinate tuple commas", "confidence": "Medium"}
+{"feat": "30-F708181", "explanation": "millimeter dimensions", "confidence": "Medium"}
+{"feat": "30-F707620", "explanation": "Cross-sectional circle geometry", "confidence": "Medium"}
+{"feat": "30-F709973", "explanation": "spatially arranged objects", "confidence": "Medium"}
+{"feat": "30-F689558", "explanation": "technical geometry descriptions", "confidence": "Low"}
+{"feat": "30-F713531", "explanation": "angle bisectors", "confidence": "High"}
+{"feat": "30-F709321", "explanation": "Asymptote point labels", "confidence": "High"}
+{"feat": "30-F708479", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F714651", "explanation": "Say quiet", "confidence": "Low"}
+{"feat": "30-F693021", "explanation": "coordinate tuple comma", "confidence": "Medium"}
+{"feat": "30-F711682", "explanation": "Complete line equation", "confidence": "Medium"}
+{"feat": "30-F714493", "explanation": "frustum bases", "confidence": "Medium"}
+{"feat": "30-F711782", "explanation": "Assigning point coordinates", "confidence": "Medium"}
+{"feat": "30-F718002", "explanation": "Asymptote drawing syntax", "confidence": "Medium"}
+{"feat": "30-F713315", "explanation": "Line segment endpoints", "confidence": "Medium"}
+{"feat": "30-F713637", "explanation": "cone volume calculations", "confidence": "Medium"}
+{"feat": "30-F718427", "explanation": "Mathematical physics formulas", "confidence": "Medium"}
+{"feat": "30-F711346", "explanation": "Say length not height", "confidence": "Medium"}
+{"feat": "30-F695897", "explanation": "isosceles triangles", "confidence": "Medium"}
+{"feat": "30-F720511", "explanation": "y-coordinate geometry", "confidence": "High"}
+{"feat": "30-F721118", "explanation": "Pointing direction", "confidence": "High"}
+{"feat": "30-F717246", "explanation": "OpenGL frustum parameters", "confidence": "High"}
+{"feat": "30-F719583", "explanation": "supplementary angles", "confidence": "High"}
+{"feat": "30-F719989", "explanation": "Above-or-below positions", "confidence": "Medium"}
+{"feat": "30-F720987", "explanation": "tangent line geometry", "confidence": "Medium"}
+{"feat": "30-F713377", "explanation": "OpenGL drawing code", "confidence": "High"}
+{"feat": "30-F712139", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F718938", "explanation": "square grid dimensions", "confidence": "Medium"}
+{"feat": "30-F723501", "explanation": "Polyhedron face counting", "confidence": "High"}
+{"feat": "30-F724901", "explanation": "object length distances", "confidence": "Medium"}
+{"feat": "30-F697648", "explanation": "slanted or angled lines", "confidence": "Medium"}
+{"feat": "30-F723544", "explanation": "Cartesian coordinate notation", "confidence": "Medium"}
+{"feat": "30-F723608", "explanation": "planar point geometry", "confidence": "Medium"}
+{"feat": "30-F724487", "explanation": "computational geometry domains", "confidence": "Medium"}
+{"feat": "30-F732080", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F726010", "explanation": "no two constraint", "confidence": "Medium"}
+{"feat": "30-F727731", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F728586", "explanation": "Opposite triangle side", "confidence": "High"}
+{"feat": "30-F727069", "explanation": "Geometric figures and segments", "confidence": "Medium"}
+{"feat": "30-F728968", "explanation": "Diametrically opposite", "confidence": "High"}
+{"feat": "30-F725919", "explanation": "geometric boundaries", "confidence": "Medium"}
+{"feat": "30-F735298", "explanation": "Set coordinate system", "confidence": "medium"}
+{"feat": "30-F726428", "explanation": "sides and laterality", "confidence": "High"}
+{"feat": "30-F730284", "explanation": "Magnetic north/south poles", "confidence": "High"}
+{"feat": "30-F727273", "explanation": "Diameter implies right angle", "confidence": "Medium"}
+{"feat": "30-F737616", "explanation": "triangle similarity reasoning", "confidence": "medium"}
+{"feat": "30-F729835", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F727302", "explanation": "circle center coordinates", "confidence": "Medium"}
+{"feat": "30-F729698", "explanation": "Points on a line", "confidence": "Medium"}
+{"feat": "30-F728946", "explanation": "zero coordinate bounds", "confidence": "Medium"}
+{"feat": "30-F705809", "explanation": "Origin coordinate (0,0)", "confidence": "High"}
+{"feat": "30-F729242", "explanation": "Triangle altitude geometry", "confidence": "Medium"}
+{"feat": "30-F731003", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F727711", "explanation": "coordinate tuple notation", "confidence": "Medium"}
+{"feat": "30-F732094", "explanation": "3D notation", "confidence": "High"}
+{"feat": "30-F733874", "explanation": "viewing 3D faces", "confidence": "Medium"}
+{"feat": "30-F734426", "explanation": "hydrostatic pressure problems", "confidence": "High"}
+{"feat": "30-F731016", "explanation": "Normal force/stress", "confidence": "Medium"}
+{"feat": "30-F732808", "explanation": "along the x-axis", "confidence": "Medium"}
+{"feat": "30-F734815", "explanation": "spatial relation above", "confidence": "Medium"}
+{"feat": "30-F739733", "explanation": "rotational symmetry", "confidence": "High"}
+{"feat": "30-F737476", "explanation": "Geometric base plane", "confidence": "Medium"}
+{"feat": "30-F736616", "explanation": "discrete geometry", "confidence": "Medium"}
+{"feat": "30-F746833", "explanation": "Coordinate point placement", "confidence": "medium"}
+{"feat": "30-F710548", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F737887", "explanation": "Circle equidistant points definition", "confidence": "High"}
+{"feat": "30-F712701", "explanation": "Grid neighbor coordinates", "confidence": "High"}
+{"feat": "30-F742530", "explanation": "Geometric formula statements", "confidence": "Medium"}
+{"feat": "30-F739353", "explanation": "game object spheres", "confidence": "Medium"}
+{"feat": "30-F742552", "explanation": "uniform random placement", "confidence": "Medium"}
+{"feat": "30-F743653", "explanation": "cylindrical coordinates", "confidence": "High"}
+{"feat": "30-F714072", "explanation": "Don't Say entry", "confidence": "Low"}
+{"feat": "30-F741762", "explanation": "Euclidean geometry propositions", "confidence": "Medium"}
+{"feat": "30-F743405", "explanation": "geometric rotation axes", "confidence": "High"}
+{"feat": "30-F738342", "explanation": "geometric shape construction", "confidence": "Medium"}
+{"feat": "30-F745578", "explanation": "Anti-diagonal matrices", "confidence": "Medium"}
+{"feat": "30-F744759", "explanation": "coordinate pair notation", "confidence": "Medium"}
+{"feat": "30-F724154", "explanation": "smaller similar shapes", "confidence": "Medium"}
+{"feat": "30-F743599", "explanation": "Cartesian coordinate notation", "confidence": "Medium"}
+{"feat": "30-F746183", "explanation": "complete spiral revolution", "confidence": "High"}
+{"feat": "30-F747300", "explanation": "Parabola terminology", "confidence": "High"}
+{"feat": "30-F737623", "explanation": "mathematical exposition", "confidence": "Low"}
+{"feat": "30-F747341", "explanation": "3D geometry normal vectors", "confidence": "Medium"}
+{"feat": "30-F726243", "explanation": "z-axis normal vector", "confidence": "High"}
+{"feat": "30-F742099", "explanation": "Say intersections", "confidence": "High"}
+{"feat": "30-F745847", "explanation": "Millimeter sample dimensions", "confidence": "High"}
+{"feat": "30-F747147", "explanation": "Grid rectangle formation", "confidence": "Medium"}
+{"feat": "30-F749946", "explanation": "rectangular prism faces", "confidence": "Medium"}
+{"feat": "30-F750567", "explanation": "small coordinate numerals", "confidence": "Medium"}
+{"feat": "30-F753316", "explanation": "Isosceles triangle base angles", "confidence": "Medium"}
+{"feat": "30-F751033", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F725966", "explanation": "geometry side identification", "confidence": "Medium"}
+{"feat": "30-F752909", "explanation": "eyeball elongation in myopia", "confidence": "Medium"}
+{"feat": "30-F740593", "explanation": "coordinate geometry setup", "confidence": "medium"}
+{"feat": "30-F750201", "explanation": "Rectangular prism dimensions", "confidence": "Medium"}
+{"feat": "30-F748496", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F731254", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F730386", "explanation": "prism volume formula", "confidence": "Medium"}
+{"feat": "30-F756108", "explanation": "parallel geometry segments", "confidence": "Medium"}
+{"feat": "30-F752676", "explanation": "triangle area calculations", "confidence": "Medium"}
+{"feat": "30-F756472", "explanation": "coordinate pair comma", "confidence": "Medium"}
+{"feat": "30-F757271", "explanation": "Tic-tac-toe win lines", "confidence": "High"}
+{"feat": "30-F765455", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F757352", "explanation": "Grid line crossing formula", "confidence": "Medium"}
+{"feat": "30-F736614", "explanation": "orthogonal adjacency constraints", "confidence": "Medium"}
+{"feat": "30-F759724", "explanation": "Geometry perimeter problems", "confidence": "Medium"}
+{"feat": "30-F759526", "explanation": "centroid 2:1 ratio", "confidence": "Medium"}
+{"feat": "30-F746956", "explanation": "Calculus coordinate variables", "confidence": "medium"}
+{"feat": "30-F739755", "explanation": "geometry segment labels", "confidence": "Medium"}
+{"feat": "30-F763165", "explanation": "brain gyrus anatomy", "confidence": "High"}
+{"feat": "30-F763773", "explanation": "regular polygon area formulas", "confidence": "High"}
+{"feat": "30-F720903", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F763212", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F762972", "explanation": "the other", "confidence": "Medium"}
+{"feat": "30-F765151", "explanation": "opposite side in geometry", "confidence": "Medium"}
+{"feat": "30-F761690", "explanation": "Say path or measurement", "confidence": "Medium"}
+{"feat": "30-F763030", "explanation": "Circle center midpoint", "confidence": "High"}
+{"feat": "30-F744175", "explanation": "Labeled geometry circles", "confidence": "Medium"}
+{"feat": "30-F766149", "explanation": "Physical dimensions", "confidence": "Medium"}
+{"feat": "30-F722612", "explanation": "Rectangles in geometry", "confidence": "High"}
+{"feat": "30-F769084", "explanation": "comparative size measurements", "confidence": "Medium"}
+{"feat": "30-F740286", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F770002", "explanation": "angle bisector equations", "confidence": "High"}
+{"feat": "30-F769277", "explanation": "hexagonal lattice structures", "confidence": "Medium"}
+{"feat": "30-F769280", "explanation": "geometric incidence statements", "confidence": "Medium"}
+{"feat": "30-F768361", "explanation": "geometric spatial references", "confidence": "Medium"}
+{"feat": "30-F746456", "explanation": "polygon convexity test", "confidence": "Medium"}
+{"feat": "30-F769938", "explanation": "Diagonals form four triangles", "confidence": "Medium"}
+{"feat": "30-F770000", "explanation": "surface normal computation", "confidence": "Medium"}
+{"feat": "30-F762148", "explanation": "Don't Say surround", "confidence": "Medium"}
+{"feat": "30-F770653", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F770605", "explanation": "Say volume", "confidence": "Medium"}
+{"feat": "30-F770993", "explanation": "Say drawing", "confidence": "High"}
+{"feat": "30-F773050", "explanation": "multilingual direction terms", "confidence": "High"}
+{"feat": "30-F770469", "explanation": "y-coordinate notation", "confidence": "Medium"}
+{"feat": "30-F775016", "explanation": "coordinate geometry setup", "confidence": "High"}
+{"feat": "30-F753897", "explanation": "tangent circle geometry", "confidence": "Medium"}
+{"feat": "30-F779322", "explanation": null, "confidence": null}
+{"feat": "30-F778361", "explanation": "perpendicular orientation", "confidence": "High"}
+{"feat": "30-F753206", "explanation": "code coordinate centering", "confidence": "Medium"}
+{"feat": "30-F779548", "explanation": "airplane flight dynamics", "confidence": "Medium"}
+{"feat": "30-F773270", "explanation": "no three collinear", "confidence": "Medium"}
+{"feat": "30-F778016", "explanation": "3D vertex coordinates", "confidence": "Medium"}
+{"feat": "30-F776377", "explanation": "Coordinate point syntax", "confidence": "High"}
+{"feat": "30-F775204", "explanation": "Math equals sign", "confidence": "Medium"}
+{"feat": "30-F777869", "explanation": "coordinate geometry notation", "confidence": "Medium"}
+{"feat": "30-F776383", "explanation": "Coordinate geometry numbers", "confidence": "Medium"}
+{"feat": "30-F781073", "explanation": "geometry point labels", "confidence": "High"}
+{"feat": "30-F759970", "explanation": "Coordinate geometry vertices", "confidence": "Medium"}
+{"feat": "30-F756928", "explanation": "Animal feet and legs", "confidence": "Medium"}
+{"feat": "30-F781684", "explanation": "Graph edge lists", "confidence": "Medium"}
+{"feat": "30-F780976", "explanation": "Melanoma irregular borders", "confidence": "High"}
+{"feat": "30-F782217", "explanation": "polygon circumradius definition", "confidence": "Medium"}
+{"feat": "30-F757393", "explanation": "Convex geometry support functions", "confidence": "High"}
+{"feat": "30-F781868", "explanation": "Perpendicular angle contradiction", "confidence": "Medium"}
+{"feat": "30-F791660", "explanation": "triangle side length givens", "confidence": "medium"}
+{"feat": "30-F784209", "explanation": "rolling geometry problems", "confidence": "Medium"}
+{"feat": "30-F775077", "explanation": "Say dispersion", "confidence": "Low"}
+{"feat": "30-F783274", "explanation": "Geometric segment labels", "confidence": "Medium"}
+{"feat": "30-F759075", "explanation": "geometry base side", "confidence": "Medium"}
+{"feat": "30-F782619", "explanation": "coordinate geometry setup", "confidence": "High"}
+{"feat": "30-F785324", "explanation": "X coordinate in code", "confidence": "Medium"}
+{"feat": "30-F763608", "explanation": "geometry problem shapes", "confidence": "Medium"}
+{"feat": "30-F785788", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F786521", "explanation": "geometry distance phrasing", "confidence": "Medium"}
+{"feat": "30-F786776", "explanation": "Geometry angle terms", "confidence": "Medium"}
+{"feat": "30-F784379", "explanation": "numeric calculation results", "confidence": "Medium"}
+{"feat": "30-F788396", "explanation": "directional displacement problems", "confidence": "Medium"}
+{"feat": "30-F788164", "explanation": "Domino covers two squares", "confidence": "High"}
+{"feat": "30-F788039", "explanation": "Locative at preposition", "confidence": "Medium"}
+{"feat": "30-F791047", "explanation": "Coordinate pair closing parenthesis", "confidence": "Medium"}
+{"feat": "30-F791039", "explanation": "Triangle angle notation", "confidence": "Medium"}
+{"feat": "30-F788412", "explanation": "Say quick", "confidence": "Medium"}
+{"feat": "30-F792252", "explanation": "Geographic length and width", "confidence": "High"}
+{"feat": "30-F793465", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F794373", "explanation": "convex hull geometry", "confidence": "High"}
+{"feat": "30-F794654", "explanation": "geometric point designation", "confidence": "Medium"}
+{"feat": "30-F763667", "explanation": "grid/matrix formatting", "confidence": "Medium"}
+{"feat": "30-F748809", "explanation": "infrastructure dimension measurements", "confidence": "Medium"}
+{"feat": "30-F791832", "explanation": "geometric line segments", "confidence": "Medium"}
+{"feat": "30-F793095", "explanation": "Geometry segment labels", "confidence": "High"}
+{"feat": "30-F795817", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F793007", "explanation": "Function graph analysis", "confidence": "Medium"}
+{"feat": "30-F779261", "explanation": "one pair of sides", "confidence": "High"}
+{"feat": "30-F752544", "explanation": "Zero coordinate values", "confidence": "Medium"}
+{"feat": "30-F796135", "explanation": "Vertical hyperbola orientation", "confidence": "High"}
+{"feat": "30-F795921", "explanation": "geometric dimensions", "confidence": "Medium"}
+{"feat": "30-F793875", "explanation": "Leading 2 in formulas", "confidence": "Medium"}
+{"feat": "30-F797353", "explanation": "Shoelace formula y-coordinates", "confidence": "Medium"}
+{"feat": "30-F800947", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F798012", "explanation": "coordinate geometry setup", "confidence": "Medium"}
+{"feat": "30-F797555", "explanation": "Pyramid geometry dimensions", "confidence": "Medium"}
+{"feat": "30-F800691", "explanation": "Pappus's centroid theorem", "confidence": "High"}
+{"feat": "30-F799059", "explanation": "cycloalkane ring descriptions", "confidence": "Medium"}
+{"feat": "30-F781309", "explanation": "Say identify", "confidence": "Medium"}
+{"feat": "30-F803655", "explanation": "geometric path directions", "confidence": "Medium"}
+{"feat": "30-F802734", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F804550", "explanation": "rotated geometric squares", "confidence": "High"}
+{"feat": "30-F810110", "explanation": "Quadrilateral vertex D", "confidence": "Medium"}
+{"feat": "30-F806508", "explanation": "geometry primitives in code", "confidence": "High"}
+{"feat": "30-F805275", "explanation": "circle area calculation", "confidence": "High"}
+{"feat": "30-F809019", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F811968", "explanation": null, "confidence": null}
+{"feat": "30-F811796", "explanation": null, "confidence": null}
+{"feat": "30-F807987", "explanation": "sphere in geometry", "confidence": "High"}
+{"feat": "30-F809508", "explanation": "Speculative geometry approach", "confidence": "Medium"}
+{"feat": "30-F809685", "explanation": "vehicle steering angles", "confidence": "Medium"}
+{"feat": "30-F787558", "explanation": "3D geometry vertex labels", "confidence": "Medium"}
+{"feat": "30-F801783", "explanation": "diagonals bisect each other", "confidence": "Medium"}
+{"feat": "30-F812158", "explanation": "circular region geometry", "confidence": "Medium"}
+{"feat": "30-F813632", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F787110", "explanation": "apical cell surface", "confidence": "Medium"}
+{"feat": "30-F813519", "explanation": "LaTeX geometry notation", "confidence": "Medium"}
+{"feat": "30-F766017", "explanation": "circumscribed geometry term", "confidence": "High"}
+{"feat": "30-F790746", "explanation": "Polyhedron geometry problems", "confidence": "Medium"}
+{"feat": "30-F813349", "explanation": "Apollonius theorem statement", "confidence": "Medium"}
+{"feat": "30-F815858", "explanation": "Right triangle hypotenuse", "confidence": "High"}
+{"feat": "30-F820602", "explanation": "ABCD quadrilateral ordering", "confidence": "medium"}
+{"feat": "30-F790401", "explanation": "geometry segment equations", "confidence": "Medium"}
+{"feat": "30-F792991", "explanation": "geometry problem text", "confidence": "Medium"}
+{"feat": "30-F794508", "explanation": "spatial orientation descriptions", "confidence": "Medium"}
+{"feat": "30-F817558", "explanation": "Continental drift coastline fit", "confidence": "High"}
+{"feat": "30-F815173", "explanation": "picture frame geometry", "confidence": "Medium"}
+{"feat": "30-F818147", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F815309", "explanation": "geospatial coordinate code", "confidence": "Medium"}
+{"feat": "30-F817138", "explanation": "procedural crafting creation", "confidence": "Medium"}
+{"feat": "30-F812927", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F798320", "explanation": "upper/lower jaw anatomy", "confidence": "High"}
+{"feat": "30-F817286", "explanation": "Cartesian coordinate zeros", "confidence": "Medium"}
+{"feat": "30-F815358", "explanation": "polygon vertex coordinates", "confidence": "Medium"}
+{"feat": "30-F814067", "explanation": "total whole quantity", "confidence": "Low"}
+{"feat": "30-F820982", "explanation": "Internuclear bond axis", "confidence": "High"}
+{"feat": "30-F821280", "explanation": "Going through geometric points", "confidence": "High"}
+{"feat": "30-F820333", "explanation": "right angle location", "confidence": "Medium"}
+{"feat": "30-F800591", "explanation": "Subtended angles geometry", "confidence": "High"}
+{"feat": "30-F818321", "explanation": "Square distance criteria", "confidence": "High"}
+{"feat": "30-F818735", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F821381", "explanation": "Cone volume formula", "confidence": "High"}
+{"feat": "30-F821234", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F803999", "explanation": "Palindrome center expansion", "confidence": "High"}
+{"feat": "30-F821294", "explanation": "spacing between plants", "confidence": "Medium"}
+{"feat": "30-F823744", "explanation": "Don't Say plan", "confidence": "High"}
+{"feat": "30-F800208", "explanation": "geometric vertex points", "confidence": "Medium"}
+{"feat": "30-F825451", "explanation": "geometric side lengths", "confidence": "Medium"}
+{"feat": "30-F828280", "explanation": "Say metrics", "confidence": "Medium"}
+{"feat": "30-F821754", "explanation": "Conic section foci", "confidence": "High"}
+{"feat": "30-F801082", "explanation": "coordinate geometry zeros", "confidence": "Medium"}
+{"feat": "30-F825341", "explanation": "Circle equation identification", "confidence": "Medium"}
+{"feat": "30-F829756", "explanation": "triangle inradius formulas", "confidence": "Medium"}
+{"feat": "30-F831366", "explanation": "remaining leftover portion", "confidence": "High"}
+{"feat": "30-F828394", "explanation": "Say circulation", "confidence": "Medium"}
+{"feat": "30-F826055", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F811213", "explanation": "semicircle geometry", "confidence": "High"}
+{"feat": "30-F829362", "explanation": "Asymptote geometry syntax", "confidence": "Medium"}
+{"feat": "30-F831739", "explanation": "British flag theorem", "confidence": "High"}
+{"feat": "30-F810654", "explanation": "C++ 3D mesh vertices", "confidence": "High"}
+{"feat": "30-F810025", "explanation": "circle tangency distances", "confidence": "Medium"}
+{"feat": "30-F831905", "explanation": "Reflection axes through vertices", "confidence": "High"}
+{"feat": "30-F805702", "explanation": "Screen coordinate y-down", "confidence": "High"}
+{"feat": "30-F833287", "explanation": "geometry angle measures", "confidence": "Medium"}
+{"feat": "30-F832567", "explanation": "opposite cube vertices", "confidence": "Medium"}
+{"feat": "30-F832288", "explanation": "coordinate geometry problems", "confidence": "Medium"}
+{"feat": "30-F789641", "explanation": null, "confidence": null}
+{"feat": "30-F825570", "explanation": "negated geometric object", "confidence": "Medium"}
+{"feat": "30-F812441", "explanation": "polar coordinate conversion", "confidence": "Medium"}
+{"feat": "30-F833307", "explanation": "LaTeX geometry notation", "confidence": "Medium"}
+{"feat": "30-F835369", "explanation": "Then reasoning transition", "confidence": "Medium"}
+{"feat": "30-F830503", "explanation": "analytic geometry calculations", "confidence": "Low"}
+{"feat": "30-F832473", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F815062", "explanation": "Coordinate pair notation", "confidence": "Medium"}
+{"feat": "30-F837216", "explanation": "Dental upper/lower anatomy", "confidence": "Medium"}
+{"feat": "30-F843760", "explanation": "Geometric points", "confidence": "Medium"}
+{"feat": "30-F841493", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F839753", "explanation": "geometric counting elements", "confidence": "Medium"}
+{"feat": "30-F837953", "explanation": "Coordinate pair comma", "confidence": "Medium"}
+{"feat": "30-F841345", "explanation": "geometric spatial dimensions", "confidence": "High"}
+{"feat": "30-F836011", "explanation": "geometry problem explanations", "confidence": "Medium"}
+{"feat": "30-F836809", "explanation": "Don't Say vertical/horizontal", "confidence": "Medium"}
+{"feat": "30-F845038", "explanation": "Product dimension separators", "confidence": "High"}
+{"feat": "30-F843642", "explanation": "arc length problems", "confidence": "High"}
+{"feat": "30-F819034", "explanation": "Rectangles in geometry problems", "confidence": "High"}
+{"feat": "30-F842176", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F838949", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F818416", "explanation": "Digit 2 in formulas", "confidence": "Medium"}
+{"feat": "30-F845795", "explanation": "Geometric points on objects", "confidence": "Medium"}
+{"feat": "30-F842225", "explanation": "universal quantifier all", "confidence": "Medium"}
+{"feat": "30-F846674", "explanation": "tangent to both circles", "confidence": "Medium"}
+{"feat": "30-F849223", "explanation": "Coordinate zero values", "confidence": "Medium"}
+{"feat": "30-F847122", "explanation": "optics coplanar rays", "confidence": "Medium"}
+{"feat": "30-F846973", "explanation": "symmetrical geometry", "confidence": "High"}
+{"feat": "30-F844750", "explanation": "Don't Say corner", "confidence": "Medium"}
+{"feat": "30-F847636", "explanation": "rectangle overlap calculation", "confidence": "High"}
+{"feat": "30-F851416", "explanation": "Coordinate midpoint formulas", "confidence": "Medium"}
+{"feat": "30-F852307", "explanation": "comparative body measurements", "confidence": "High"}
+{"feat": "30-F849446", "explanation": "number three in geometry", "confidence": "Medium"}
+{"feat": "30-F849700", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F851902", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F850056", "explanation": "geometric shape subdivision", "confidence": "Medium"}
+{"feat": "30-F850204", "explanation": "Southeast abbreviation", "confidence": "Medium"}
+{"feat": "30-F821746", "explanation": "graphics path move commands", "confidence": "High"}
+{"feat": "30-F854881", "explanation": "trapezoid top base", "confidence": "Medium"}
+{"feat": "30-F831624", "explanation": "solid angle geometry", "confidence": "High"}
+{"feat": "30-F855001", "explanation": "Geometry segment AB", "confidence": "Medium"}
+{"feat": "30-F854486", "explanation": "geometry code commas", "confidence": "Medium"}
+{"feat": "30-F852990", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F856280", "explanation": "circle center point", "confidence": "Medium"}
+{"feat": "30-F835686", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F855769", "explanation": "cube geometry", "confidence": "Medium"}
+{"feat": "30-F856350", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F857263", "explanation": "centroid six equal triangles", "confidence": "High"}
+{"feat": "30-F835003", "explanation": "surface area geometry", "confidence": "High"}
+{"feat": "30-F856844", "explanation": "Cardinal directions", "confidence": "Medium"}
+{"feat": "30-F835041", "explanation": "3D graphics geometry code", "confidence": "Medium"}
+{"feat": "30-F835167", "explanation": "shared same base", "confidence": "High"}
+{"feat": "30-F856653", "explanation": "Coordinate origin (0,0)", "confidence": "Medium"}
+{"feat": "30-F858201", "explanation": "triangle vertex notation", "confidence": "Medium"}
+{"feat": "30-F846402", "explanation": "geometry explanations", "confidence": "Medium"}
+{"feat": "30-F858650", "explanation": "Opposite geometric elements", "confidence": "High"}
+{"feat": "30-F860688", "explanation": "Top side geometry", "confidence": "Medium"}
+{"feat": "30-F860450", "explanation": "directional vector components", "confidence": "Medium"}
+{"feat": "30-F840429", "explanation": "flat geometric surfaces", "confidence": "High"}
+{"feat": "30-F858505", "explanation": "center at origin", "confidence": "Medium"}
+{"feat": "30-F862839", "explanation": "triangle geometry problems", "confidence": "Medium"}
+{"feat": "30-F840730", "explanation": "cyclic geometry arcs", "confidence": "Medium"}
+{"feat": "30-F862770", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F862165", "explanation": "Math problem quantities", "confidence": "Medium"}
+{"feat": "30-F864231", "explanation": "U/V-shaped descriptions", "confidence": "High"}
+{"feat": "30-F863086", "explanation": "curved design forms", "confidence": "Medium"}
+{"feat": "30-F864660", "explanation": "Separated geometric objects", "confidence": "Medium"}
+{"feat": "30-F864899", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F864492", "explanation": "Geometry dimension numbers", "confidence": "Medium"}
+{"feat": "30-F869747", "explanation": "Say outline boundaries", "confidence": "High"}
+{"feat": "30-F845362", "explanation": "Parabolic dish antennas", "confidence": "Medium"}
+{"feat": "30-F866337", "explanation": "Don't Say vertical", "confidence": "High"}
+{"feat": "30-F866863", "explanation": "Nodal planes in orbitals", "confidence": "High"}
+{"feat": "30-F864401", "explanation": "calculus region boundaries", "confidence": "Low"}
+{"feat": "30-F870439", "explanation": "circle geometry calculations", "confidence": "Medium"}
+{"feat": "30-F865127", "explanation": "Rhombus angle bisection", "confidence": "High"}
+{"feat": "30-F866658", "explanation": "regular tetrahedron geometry", "confidence": "Medium"}
+{"feat": "30-F872417", "explanation": "Polygon side labels", "confidence": "Medium"}
+{"feat": "30-F849394", "explanation": "arranged symmetrically", "confidence": "Medium"}
+{"feat": "30-F864216", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F851478", "explanation": "Angle bisectors", "confidence": "High"}
+{"feat": "30-F867051", "explanation": "grid size specification", "confidence": "Medium"}
+{"feat": "30-F870965", "explanation": "triangle geometry problems", "confidence": "Medium"}
+{"feat": "30-F870691", "explanation": "Geometric coordinate values", "confidence": "Medium"}
+{"feat": "30-F874707", "explanation": "wing area measurements", "confidence": "Medium"}
+{"feat": "30-F872096", "explanation": "circle chord geometry", "confidence": "Medium"}
+{"feat": "30-F874029", "explanation": "x-axis zero coordinates", "confidence": "Medium"}
+{"feat": "30-F874057", "explanation": "volume in geometry", "confidence": "High"}
+{"feat": "30-F876139", "explanation": "Physical dimensions", "confidence": "High"}
+{"feat": "30-F885933", "explanation": "geometry angle reasoning", "confidence": "high"}
+{"feat": "30-F850115", "explanation": "Coordinate pair notation", "confidence": "Medium"}
+{"feat": "30-F869253", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F878693", "explanation": "Distance from center", "confidence": "High"}
+{"feat": "30-F877026", "explanation": "coordinate system setup", "confidence": "Medium"}
+{"feat": "30-F878768", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F880478", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F855272", "explanation": "Geometric point A", "confidence": "Medium"}
+{"feat": "30-F883200", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F884471", "explanation": "Tongue surface anatomy", "confidence": "High"}
+{"feat": "30-F878994", "explanation": "singular quantity one", "confidence": "Medium"}
+{"feat": "30-F883006", "explanation": "Triangle side length notation", "confidence": "Medium"}
+{"feat": "30-F856135", "explanation": "rhombus geometry problems", "confidence": "Medium"}
+{"feat": "30-F882784", "explanation": "mathematical quantities", "confidence": "Medium"}
+{"feat": "30-F883164", "explanation": "Digit 1 in calculations", "confidence": "Low"}
+{"feat": "30-F880539", "explanation": "diagram geometry code", "confidence": "Medium"}
+{"feat": "30-F886412", "explanation": "Gaussian surface selection", "confidence": "Medium"}
+{"feat": "30-F886837", "explanation": "n by n grids", "confidence": "Medium"}
+{"feat": "30-F857703", "explanation": "3D geometry ambiguity", "confidence": "Medium"}
+{"feat": "30-F886510", "explanation": "geometric line segments", "confidence": "Medium"}
+{"feat": "30-F887589", "explanation": "conic standard form", "confidence": "Medium"}
+{"feat": "30-F887567", "explanation": "Geometric triangle constructions", "confidence": "Medium"}
+{"feat": "30-F888448", "explanation": "coordinate distance calculations", "confidence": "Medium"}
+{"feat": "30-F857517", "explanation": "paired-item conjunction", "confidence": "Medium"}
+{"feat": "30-F890167", "explanation": "farthest distance", "confidence": "Medium"}
+{"feat": "30-F892471", "explanation": "law of reflection", "confidence": "Medium"}
+{"feat": "30-F863792", "explanation": "coordinate tuple syntax", "confidence": "Medium"}
+{"feat": "30-F888751", "explanation": "circle geometry", "confidence": "Medium"}
+{"feat": "30-F892420", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F893833", "explanation": "vertical angle geometry", "confidence": "High"}
+{"feat": "30-F893919", "explanation": "Computational geometry polygons", "confidence": "Medium"}
+{"feat": "30-F894726", "explanation": "Coordinate pair comma", "confidence": "Medium"}
+{"feat": "30-F896819", "explanation": "Geometric reflection paths", "confidence": "Medium"}
+{"feat": "30-F904225", "explanation": "Triangle vertex labels", "confidence": "medium"}
+{"feat": "30-F896355", "explanation": "geometric triangle labels", "confidence": "Medium"}
+{"feat": "30-F893469", "explanation": "Geometric angles", "confidence": "Medium"}
+{"feat": "30-F867411", "explanation": "Euclidean distance calculation", "confidence": "High"}
+{"feat": "30-F897972", "explanation": "triangle incenter", "confidence": "Medium"}
+{"feat": "30-F901472", "explanation": "Grid rows", "confidence": "Medium"}
+{"feat": "30-F902050", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F901801", "explanation": "Skyline problem statements", "confidence": "High"}
+{"feat": "30-F897251", "explanation": "geometry construction descriptions", "confidence": "Medium"}
+{"feat": "30-F906870", "explanation": "mathematical such that", "confidence": "medium"}
+{"feat": "30-F899691", "explanation": "fluid boundary layers", "confidence": "Medium"}
+{"feat": "30-F847403", "explanation": "quadrilateral vertex ordering", "confidence": "Medium"}
+{"feat": "30-F898147", "explanation": "Interior-side spatial relations", "confidence": "Medium"}
+{"feat": "30-F902674", "explanation": "Stewart's theorem geometry", "confidence": "Medium"}
+{"feat": "30-F875686", "explanation": "rhinoplasty nose reshaping", "confidence": "High"}
+{"feat": "30-F913375", "explanation": "Math reasoning exposition", "confidence": "medium"}
+{"feat": "30-F903358", "explanation": "Inscribed geometric figures", "confidence": "Medium"}
+{"feat": "30-F875124", "explanation": "hyperplanes in geometry", "confidence": "Medium"}
+{"feat": "30-F902579", "explanation": "top-left grid position", "confidence": "High"}
+{"feat": "30-F905451", "explanation": "circumcircle geometry", "confidence": "Medium"}
+{"feat": "30-F899255", "explanation": "Don't Say three", "confidence": "Medium"}
+{"feat": "30-F906213", "explanation": "Circle geometry theorem", "confidence": "Medium"}
+{"feat": "30-F904128", "explanation": "Multiple disconnected components", "confidence": "Medium"}
+{"feat": "30-F872069", "explanation": "Asymptote coordinate labels", "confidence": "Medium"}
+{"feat": "30-F904249", "explanation": "Distance in units", "confidence": "Medium"}
+{"feat": "30-F904747", "explanation": "Cartesian coordinate comma", "confidence": "High"}
+{"feat": "30-F907142", "explanation": "Letter-shaped grid patterns", "confidence": "Medium"}
+{"feat": "30-F909474", "explanation": "extrude / extrusion geometry", "confidence": "High"}
+{"feat": "30-F912299", "explanation": "Say divide into regions", "confidence": "High"}
+{"feat": "30-F879837", "explanation": "Forearm-to-finger measurement", "confidence": "High"}
+{"feat": "30-F906131", "explanation": "inscribed figures", "confidence": "High"}
+{"feat": "30-F906809", "explanation": "Area formula introduction", "confidence": "Medium"}
+{"feat": "30-F909547", "explanation": "semi-major axis", "confidence": "High"}
+{"feat": "30-F912498", "explanation": "hexagon cell count formula", "confidence": "Medium"}
+{"feat": "30-F885019", "explanation": "tangent geometry", "confidence": "High"}
+{"feat": "30-F913865", "explanation": "Geometric containment condition", "confidence": "Medium"}
+{"feat": "30-F913223", "explanation": "staggered rows pattern", "confidence": "High"}
+{"feat": "30-F883132", "explanation": "map marker dimensions", "confidence": "High"}
+{"feat": "30-F885008", "explanation": "square pyramid geometry", "confidence": "Medium"}
+{"feat": "30-F924701", "explanation": "geometry length measurements", "confidence": "high"}
+{"feat": "30-F886062", "explanation": "2D cross product formulas", "confidence": "Medium"}
+{"feat": "30-F910986", "explanation": "width parameter", "confidence": "Medium"}
+{"feat": "30-F912363", "explanation": "Coordinate geometry setup", "confidence": "Medium"}
+{"feat": "30-F913840", "explanation": "technical notation labels", "confidence": "Low"}
+{"feat": "30-F921795", "explanation": "3D object transforms", "confidence": "High"}
+{"feat": "30-F919240", "explanation": "Geometric sides", "confidence": "Medium"}
+{"feat": "30-F918588", "explanation": "Quadrilateral geometry", "confidence": "High"}
+{"feat": "30-F915510", "explanation": "circumcenter geometry", "confidence": "High"}
+{"feat": "30-F919172", "explanation": "incircle tangency point", "confidence": "Medium"}
+{"feat": "30-F919456", "explanation": "Geometric closeness comparison", "confidence": "Medium"}
+{"feat": "30-F915319", "explanation": "intersecting chords theorem", "confidence": "High"}
+{"feat": "30-F887227", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F918801", "explanation": "screen aspect ratios", "confidence": "Medium"}
+{"feat": "30-F922423", "explanation": "Perpendicular or parallel orientation", "confidence": "Medium"}
+{"feat": "30-F925273", "explanation": "cylindrical hole geometry", "confidence": "High"}
+{"feat": "30-F893393", "explanation": "Circle geometry problems", "confidence": "Medium"}
+{"feat": "30-F917496", "explanation": "square geometry", "confidence": "Medium"}
+{"feat": "30-F922981", "explanation": "sum of squares geometry", "confidence": "Medium"}
+{"feat": "30-F923404", "explanation": "geometry points and segments", "confidence": "Medium"}
+{"feat": "30-F923487", "explanation": "twice the sum", "confidence": "Medium"}
+{"feat": "30-F926109", "explanation": "Asymptote graph setup", "confidence": "High"}
+{"feat": "30-F923730", "explanation": "distance measurement descriptions", "confidence": "Medium"}
+{"feat": "30-F927459", "explanation": "Coordinate from-to endpoints", "confidence": "Medium"}
+{"feat": "30-F930505", "explanation": "port-starboard directions", "confidence": "High"}
+{"feat": "30-F927265", "explanation": "Unity raycast ground checks", "confidence": "Medium"}
+{"feat": "30-F926436", "explanation": "Turtle graphics code", "confidence": "High"}
+{"feat": "30-F930331", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F929021", "explanation": "triangle coordinate setup", "confidence": "Medium"}
+{"feat": "30-F931873", "explanation": "parametric surface area", "confidence": "High"}
+{"feat": "30-F843054", "explanation": "vertical line orientation", "confidence": "High"}
+{"feat": "30-F897192", "explanation": "borders and margins", "confidence": "High"}
+{"feat": "30-F930429", "explanation": "Python turtle coordinates", "confidence": "Medium"}
+{"feat": "30-F931776", "explanation": "Right triangle inradius formula", "confidence": "Medium"}
+{"feat": "30-F932891", "explanation": "Say angle", "confidence": "Medium"}
+{"feat": "30-F931701", "explanation": "CSS border-radius values", "confidence": "High"}
+{"feat": "30-F934971", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F934967", "explanation": "Cube vertex face count", "confidence": "Medium"}
+{"feat": "30-F938298", "explanation": "Vertical motion", "confidence": "Medium"}
+{"feat": "30-F931365", "explanation": "Origin coordinate zero", "confidence": "Medium"}
+{"feat": "30-F903899", "explanation": "Perpendicular bisector geometry", "confidence": "High"}
+{"feat": "30-F934528", "explanation": "Indefinite article a", "confidence": "Medium"}
+{"feat": "30-F935274", "explanation": "ray tracing intersection code", "confidence": "Medium"}
+{"feat": "30-F936202", "explanation": "geometric diagram manipulation", "confidence": "Medium"}
+{"feat": "30-F938264", "explanation": "taxonomic anatomy descriptions", "confidence": "Medium"}
+{"feat": "30-F936261", "explanation": "Geometric graph descriptions", "confidence": "Low"}
+{"feat": "30-F940469", "explanation": "Coordinate zero entries", "confidence": "Medium"}
+{"feat": "30-F937303", "explanation": "parallelogram properties", "confidence": "Medium"}
+{"feat": "30-F937789", "explanation": "zero coordinates in geometry", "confidence": "High"}
+{"feat": "30-F935770", "explanation": "Say point", "confidence": "Medium"}
+{"feat": "30-F942807", "explanation": "Isosceles triangle base", "confidence": "High"}
+{"feat": "30-F940236", "explanation": "Say span", "confidence": "Low"}
+{"feat": "30-F934111", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F941850", "explanation": "angle bisector length formula", "confidence": "High"}
+{"feat": "30-F939553", "explanation": "largest rectangle histogram", "confidence": "Medium"}
+{"feat": "30-F940741", "explanation": "mathematics and CS terminology", "confidence": "Medium"}
+{"feat": "30-F946065", "explanation": "Angle to surface normal", "confidence": "High"}
+{"feat": "30-F945068", "explanation": "Collinear points and circles", "confidence": "Medium"}
+{"feat": "30-F942313", "explanation": "Triangle center definitions", "confidence": "Medium"}
+{"feat": "30-F919178", "explanation": "geospatial geometry operations", "confidence": "Medium"}
+{"feat": "30-F944862", "explanation": "conic section equations", "confidence": "Medium"}
+{"feat": "30-F943143", "explanation": "Cartesian coordinate notation", "confidence": "Medium"}
+{"feat": "30-F948948", "explanation": "Protruding beyond boundary", "confidence": "High"}
+{"feat": "30-F947362", "explanation": "is called terminology", "confidence": "Medium"}
+{"feat": "30-F949101", "explanation": "Incircle tangent segments", "confidence": "Medium"}
+{"feat": "30-F951360", "explanation": "Triangle side lengths", "confidence": "Medium"}
+{"feat": "30-F945416", "explanation": "circle centers", "confidence": "High"}
+{"feat": "30-F950963", "explanation": "Geometric side lengths", "confidence": "Medium"}
+{"feat": "30-F919254", "explanation": "conical shapes", "confidence": "High"}
+{"feat": "30-F950081", "explanation": "collider overlap detection", "confidence": "High"}
+{"feat": "30-F923238", "explanation": "Cartesian coordinate positions", "confidence": "Medium"}
+{"feat": "30-F926040", "explanation": "coordinate geometry axes", "confidence": "Medium"}
+{"feat": "30-F950531", "explanation": "mathematical addition operator", "confidence": "Medium"}
+{"feat": "30-F948147", "explanation": "equipotential conductor surfaces", "confidence": "Medium"}
+{"feat": "30-F951876", "explanation": "not necessarily parenthetical", "confidence": "Medium"}
+{"feat": "30-F929811", "explanation": "geometric midpoints", "confidence": "Medium"}
+{"feat": "30-F949834", "explanation": "geographic dimensions and shape", "confidence": "Medium"}
+{"feat": "30-F957613", "explanation": "Geometric reflection construction", "confidence": "High"}
+{"feat": "30-F957191", "explanation": "Division into two parts", "confidence": "Medium"}
+{"feat": "30-F954803", "explanation": "All three triangle sides", "confidence": "Medium"}
+{"feat": "30-F959316", "explanation": "Cylinder surface area formula", "confidence": "Medium"}
+{"feat": "30-F958957", "explanation": "rotation angle theta", "confidence": "Medium"}
+{"feat": "30-F935070", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F961152", "explanation": "Say flag", "confidence": "Medium"}
+{"feat": "30-F962259", "explanation": "geometry angles", "confidence": "Medium"}
+{"feat": "30-F961988", "explanation": "small apertures and holes", "confidence": "High"}
+{"feat": "30-F962519", "explanation": "2D coordinate plane", "confidence": "Medium"}
+{"feat": "30-F960907", "explanation": "ray tracing camera code", "confidence": "Medium"}
+{"feat": "30-F928971", "explanation": "Spatial orientation descriptors", "confidence": "Medium"}
+{"feat": "30-F966284", "explanation": "Don't Say half", "confidence": "High"}
+{"feat": "30-F965066", "explanation": "Rectangular prism dimensions", "confidence": "Medium"}
+{"feat": "30-F963872", "explanation": "geometry problem text", "confidence": "Medium"}
+{"feat": "30-F973236", "explanation": "coordinate axes", "confidence": "high"}
+{"feat": "30-F967628", "explanation": "x-axis in geometry", "confidence": "Medium"}
+{"feat": "30-F964757", "explanation": "polyhedron geometry descriptions", "confidence": "Medium"}
+{"feat": "30-F964237", "explanation": "Don't Say kite", "confidence": "Medium"}
+{"feat": "30-F938706", "explanation": "trajectory distance reasoning", "confidence": "Medium"}
+{"feat": "30-F966968", "explanation": "60/120 degree angles", "confidence": "Medium"}
+{"feat": "30-F911401", "explanation": "angle at vertex", "confidence": "Medium"}
+{"feat": "30-F935613", "explanation": "ABCD vertex order", "confidence": "Medium"}
+{"feat": "30-F943794", "explanation": "geometry perimeter", "confidence": "Medium"}
+{"feat": "30-F971464", "explanation": "Base of geometry figure", "confidence": "Medium"}
+{"feat": "30-F939981", "explanation": "geometry education", "confidence": "Medium"}
+{"feat": "30-F969657", "explanation": "Upward coordinate movement", "confidence": "Medium"}
+{"feat": "30-F967713", "explanation": "Say end", "confidence": "Medium"}
+{"feat": "30-F971883", "explanation": "radical axis geometry", "confidence": "Medium"}
+{"feat": "30-F971788", "explanation": "square geometry", "confidence": "Medium"}
+{"feat": "30-F972934", "explanation": "vertical tier relationships", "confidence": "Medium"}
+{"feat": "30-F969009", "explanation": "Objects on surfaces", "confidence": "Medium"}
+{"feat": "30-F975451", "explanation": "ladder against wall problems", "confidence": "Medium"}
+{"feat": "30-F972526", "explanation": "analytic geometry equations", "confidence": "Medium"}
+{"feat": "30-F969023", "explanation": "Geometry problem setup", "confidence": "Medium"}
+{"feat": "30-F972960", "explanation": "isosceles triangle exception", "confidence": "Medium"}
+{"feat": "30-F974593", "explanation": "trapezoid side CD", "confidence": "Medium"}
+{"feat": "30-F976087", "explanation": "Geometry intersection point", "confidence": "High"}
+{"feat": "30-F976047", "explanation": "geometric side length variable", "confidence": "Medium"}
+{"feat": "30-F974821", "explanation": "angle between diagonals", "confidence": "Medium"}
+{"feat": "30-F973602", "explanation": "Conjunction and", "confidence": "Low"}
+{"feat": "30-F979331", "explanation": "Hyperbola asymptotes", "confidence": "Medium"}
+{"feat": "30-F978131", "explanation": "circle chord distance", "confidence": "Medium"}
+{"feat": "30-F979660", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F980295", "explanation": "Geometric volume problems", "confidence": "High"}
+{"feat": "30-F978245", "explanation": "Coordinate geometry values", "confidence": "Medium"}
+{"feat": "30-F948181", "explanation": "trapezoid diagonal ratios", "confidence": "Medium"}
+{"feat": "30-F980585", "explanation": "Shadows from light", "confidence": "High"}
+{"feat": "30-F952293", "explanation": "Say suspension", "confidence": "Medium"}
+{"feat": "30-F980067", "explanation": "Cartesian coordinate zero", "confidence": "Medium"}
+{"feat": "30-F979396", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F994642", "explanation": "Visualize or draw diagram", "confidence": "high"}
+{"feat": "30-F980471", "explanation": "Along spatial dimensions", "confidence": "Medium"}
+{"feat": "30-F986639", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F983567", "explanation": "same row/column", "confidence": "Medium"}
+{"feat": "30-F987250", "explanation": "perpendicular geometry", "confidence": "High"}
+{"feat": "30-F978966", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F983672", "explanation": "All vertices on circle", "confidence": "High"}
+{"feat": "30-F986177", "explanation": "Three.js geometry constructors", "confidence": "High"}
+{"feat": "30-F961595", "explanation": "coordinate geometry plane", "confidence": "Medium"}
+{"feat": "30-F982446", "explanation": "geometry diagonals AC/BD", "confidence": "Medium"}
+{"feat": "30-F989809", "explanation": "Euclidean distance calculations", "confidence": "High"}
+{"feat": "30-F980792", "explanation": "sub prefix", "confidence": "Medium"}
+{"feat": "30-F991961", "explanation": "Triangle inequality check", "confidence": "High"}
+{"feat": "30-F990957", "explanation": "Comma-separated tuples", "confidence": "Medium"}
+{"feat": "30-F966356", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F992360", "explanation": "Angles in degrees", "confidence": "Medium"}
+{"feat": "30-F993766", "explanation": "Unit circle geometry", "confidence": "High"}
+{"feat": "30-F994075", "explanation": "polar coordinates", "confidence": "High"}
+{"feat": "30-F995894", "explanation": "geometric shapes", "confidence": "Medium"}
+{"feat": "30-F993214", "explanation": "solids of revolution", "confidence": "High"}
+{"feat": "30-F998587", "explanation": "physical edges and walls", "confidence": "Medium"}
+{"feat": "30-F996527", "explanation": "symmetry about x-axis", "confidence": "Medium"}
+{"feat": "30-F994947", "explanation": "coordinate geometry vertices", "confidence": "Medium"}
+{"feat": "30-F999613", "explanation": "2D physics libraries", "confidence": "Medium"}
+{"feat": "30-F1001259", "explanation": "Angle bisector theorem", "confidence": "High"}
+{"feat": "30-F998624", "explanation": "coordinate point notation", "confidence": "Medium"}
+{"feat": "30-F963065", "explanation": "word-internal subwords", "confidence": "Medium"}
+{"feat": "30-F999292", "explanation": "geometric angle formulas", "confidence": "Medium"}
+{"feat": "30-F976860", "explanation": "perpendicular to both", "confidence": "High"}
+{"feat": "30-F947029", "explanation": "geometry measurement phrases", "confidence": "Medium"}
+{"feat": "30-F999493", "explanation": "Cartesian coordinate comma", "confidence": "High"}
+{"feat": "30-F998098", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F999375", "explanation": "coordinate plotting code", "confidence": "Medium"}
+{"feat": "30-F1005984", "explanation": "On geometric boundary", "confidence": "Medium"}
+{"feat": "30-F999601", "explanation": "triangle median definition", "confidence": "Medium"}
+{"feat": "30-F1007610", "explanation": "distance units", "confidence": "High"}
+{"feat": "30-F1006969", "explanation": "Triangle geometry", "confidence": "High"}
+{"feat": "30-F1004145", "explanation": "Hypotenuse in geometry", "confidence": "High"}
+{"feat": "30-F1006910", "explanation": "Compass directions in diagrams", "confidence": "High"}
+{"feat": "30-F1001037", "explanation": "visible line portions", "confidence": "Medium"}
+{"feat": "30-F1019039", "explanation": "x/y-axis intercepts", "confidence": "high"}
+{"feat": "30-F1009966", "explanation": "Centered at origin", "confidence": "Medium"}
+{"feat": "30-F955385", "explanation": "C++ const references", "confidence": "High"}
+{"feat": "30-F949589", "explanation": "coordinate geometry setup", "confidence": "Low"}
+{"feat": "30-F1008340", "explanation": "nearest-neighbor relationships", "confidence": "Medium"}
+{"feat": "30-F1012684", "explanation": "geometric segment notation", "confidence": "Medium"}
+{"feat": "30-F1012530", "explanation": "circle/sphere tangency problems", "confidence": "Medium"}
+{"feat": "30-F1012274", "explanation": "geometric spatial positions", "confidence": "Medium"}
+{"feat": "30-F1019803", "explanation": null, "confidence": null}
+{"feat": "30-F1007942", "explanation": "grid coordinate notation", "confidence": "Medium"}
+{"feat": "30-F1013454", "explanation": "Bird nest dimensions", "confidence": "High"}
+{"feat": "30-F1011828", "explanation": "equilateral triangle side length", "confidence": "Medium"}
+{"feat": "30-F1009340", "explanation": "geometric cross-section plane", "confidence": "Medium"}
+{"feat": "30-F1011990", "explanation": "Shoelace point ordering", "confidence": "High"}
+{"feat": "30-F1012940", "explanation": "coordinate numeric notation", "confidence": "Medium"}
+{"feat": "30-F990524", "explanation": "diametrically opposite positions", "confidence": "Medium"}
+{"feat": "30-F1018383", "explanation": "Angle bisectors", "confidence": "High"}
+{"feat": "30-F1022593", "explanation": "3D geometry parameters", "confidence": "Medium"}
+{"feat": "30-F1014005", "explanation": "Triangle ABC coordinate setup", "confidence": "High"}
+{"feat": "30-F1021472", "explanation": "spatial directions", "confidence": "Medium"}
+{"feat": "30-F989824", "explanation": "Geometric dimensions", "confidence": "Medium"}
+{"feat": "30-F994431", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1016197", "explanation": "3D geometric solids", "confidence": "Medium"}
+{"feat": "30-F1014333", "explanation": "mathematical notation contexts", "confidence": "Medium"}
+{"feat": "30-F1026272", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F998830", "explanation": "Turbomachinery flow mechanics", "confidence": "High"}
+{"feat": "30-F1024131", "explanation": "quadrilateral geometry problems", "confidence": "Medium"}
+{"feat": "30-F1027458", "explanation": "line-of-sight trigonometry", "confidence": "High"}
+{"feat": "30-F995739", "explanation": "Surface indentations", "confidence": "Medium"}
+{"feat": "30-F1031277", "explanation": "Say closing parenthesis", "confidence": "Medium"}
+{"feat": "30-F1028226", "explanation": "data visualization code", "confidence": "Medium"}
+{"feat": "30-F972022", "explanation": "pyramid base geometry", "confidence": "Medium"}
+{"feat": "30-F1033914", "explanation": "Circle overlap formula", "confidence": "High"}
+{"feat": "30-F1005105", "explanation": "Clockwise direction", "confidence": "High"}
+{"feat": "30-F1033100", "explanation": "sports court geometry", "confidence": "Medium"}
+{"feat": "30-F1003120", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1034756", "explanation": "lying on its side", "confidence": "High"}
+{"feat": "30-F1037748", "explanation": "geometry word problems", "confidence": "Medium"}
+{"feat": "30-F1028137", "explanation": "technical exposition", "confidence": "Medium"}
+{"feat": "30-F1038020", "explanation": null, "confidence": null}
+{"feat": "30-F1033436", "explanation": "solid geometry problems", "confidence": "Medium"}
+{"feat": "30-F1035671", "explanation": "coordinate inequality constraints", "confidence": "Medium"}
+{"feat": "30-F1037807", "explanation": "tangent circles condition", "confidence": "Medium"}
+{"feat": "30-F1005570", "explanation": "geometry optimization problems", "confidence": "Medium"}
+{"feat": "30-F1035198", "explanation": "rectangle geometry tasks", "confidence": "Medium"}
+{"feat": "30-F1040550", "explanation": "Geometry correspondence arrows", "confidence": "High"}
+{"feat": "30-F1032944", "explanation": "physical surface positions", "confidence": "Medium"}
+{"feat": "30-F1038001", "explanation": "distance from X to Y", "confidence": "Medium"}
+{"feat": "30-F1041109", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1037795", "explanation": "triangle height ratios", "confidence": "Medium"}
+{"feat": "30-F1039984", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1041788", "explanation": "rectangle drawing code", "confidence": "Medium"}
+{"feat": "30-F1041301", "explanation": "Geometry diagram path syntax", "confidence": "High"}
+{"feat": "30-F1043376", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1042997", "explanation": "2D graphics drawing code", "confidence": "Medium"}
+{"feat": "30-F1045503", "explanation": "angle bisectors", "confidence": "High"}
+{"feat": "30-F1043500", "explanation": "vector mathematics", "confidence": "Medium"}
+{"feat": "30-F1041911", "explanation": "geometric figure descriptions", "confidence": "Medium"}
+{"feat": "30-F1046276", "explanation": "orthocenter in right triangles", "confidence": "High"}
+{"feat": "30-F1046434", "explanation": "coordinate origin zero", "confidence": "Medium"}
+{"feat": "30-F1021478", "explanation": "Geometry vertex labels ABCD", "confidence": "High"}
+{"feat": "30-F994890", "explanation": "straight lines", "confidence": "High"}
+{"feat": "30-F1046929", "explanation": "geometry terminology", "confidence": "Low"}
+{"feat": "30-F1047308", "explanation": "Vertex D coordinates", "confidence": "Medium"}
+{"feat": "30-F1022742", "explanation": "edges between vertices", "confidence": "Medium"}
+{"feat": "30-F1023108", "explanation": "Coordinate geometry zeros", "confidence": "Medium"}
+{"feat": "30-F1024397", "explanation": "geometric internal elements", "confidence": "Medium"}
+{"feat": "30-F1033058", "explanation": "Divide quadrilateral into triangles", "confidence": "High"}
+{"feat": "30-F1024378", "explanation": "labeled structures", "confidence": "Medium"}
+{"feat": "30-F1032620", "explanation": "Triangles formed in geometry", "confidence": "High"}
+{"feat": "30-F1035384", "explanation": "aircraft structural features", "confidence": "Medium"}
+{"feat": "30-F1013028", "explanation": "smallest/largest superlatives", "confidence": "Medium"}
+{"feat": "30-F995119", "explanation": "zygomatic cheekbone anatomy", "confidence": "High"}
+{"feat": "30-F1014403", "explanation": null, "confidence": null}
+{"feat": "30-F1045716", "explanation": "Tangent to all sides", "confidence": "Medium"}

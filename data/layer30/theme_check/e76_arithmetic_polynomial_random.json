@@ -1,0 +1,10062 @@
+{
+  "theme": "Arithmetic and polynomial",
+  "expert": 76,
+  "random": true,
+  "seed": 0,
+  "n_checked": 1999,
+  "n_positive": 134,
+  "share": 0.0670335167583792,
+  "results": [
+    {
+      "feat": "30-F1018434",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1025224",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F12776",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F130532",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F146608",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F163405",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F165246",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F340759",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F34874",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F354075",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F35497",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F443857",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F462154",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F488135",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F536852",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F558291",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F635610",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F839689",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F907124",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F910049",
+      "expert": 0,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1033436",
+      "explanation": "solid geometry problems",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F189433",
+      "explanation": "Auxiliary geometry points",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F253104",
+      "explanation": "squared variable equations",
+      "expert": 1,
+      "belongs": true
+    },
+    {
+      "feat": "30-F296855",
+      "explanation": "geometry problem reasoning",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F305133",
+      "explanation": "Ellipse major axis",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F349921",
+      "explanation": "Grid coordinate notation",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F380229",
+      "explanation": "pipe heat transfer calculations",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F419122",
+      "explanation": "Inequality constraints",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F433425",
+      "explanation": "triangle altitude length",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F571821",
+      "explanation": "drag resize handles",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F69283",
+      "explanation": "Geometry area ratios",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F763608",
+      "explanation": "geometry problem shapes",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F786521",
+      "explanation": "geometry distance phrasing",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F81362",
+      "explanation": "garment pattern drafting",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F815309",
+      "explanation": "geospatial coordinate code",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F89370",
+      "explanation": "circle equation coordinates",
+      "expert": 1,
+      "belongs": true
+    },
+    {
+      "feat": "30-F898147",
+      "explanation": "Interior-side spatial relations",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F963872",
+      "explanation": "geometry problem text",
+      "expert": 1,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1014064",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F105007",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F188436",
+      "expert": 2,
+      "belongs": true
+    },
+    {
+      "feat": "30-F219814",
+      "expert": 2,
+      "belongs": true
+    },
+    {
+      "feat": "30-F22115",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F255555",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F340650",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F400594",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F466015",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F725370",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F730650",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F821487",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F98450",
+      "expert": 2,
+      "belongs": false
+    },
+    {
+      "feat": "30-F12299",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F13480",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F153588",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F169588",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F202773",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F206969",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F216357",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F323284",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F331087",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F3490",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F469315",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F606072",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F622217",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F719804",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F740292",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F766539",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F834207",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F854688",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F933256",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F992573",
+      "expert": 3,
+      "belongs": false
+    },
+    {
+      "feat": "30-F15693",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F191957",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F277752",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F387053",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F476115",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F53392",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F608283",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F744134",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F813774",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F862544",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F917956",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F947865",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F986070",
+      "expert": 4,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1038565",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F104723",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F108187",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F170315",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F206718",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F261597",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F273184",
+      "expert": 5,
+      "belongs": true
+    },
+    {
+      "feat": "30-F276513",
+      "expert": 5,
+      "belongs": true
+    },
+    {
+      "feat": "30-F491123",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F519794",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F549906",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F565052",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F567606",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F613396",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F618661",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F647583",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F669634",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F688511",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F70988",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F727666",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F808650",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F812654",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F843465",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F876017",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F877694",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F885104",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F95272",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F972916",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F980648",
+      "expert": 5,
+      "belongs": false
+    },
+    {
+      "feat": "30-F193518",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F246996",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F267261",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F29952",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F305710",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F391790",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F39316",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F417147",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F438751",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F477413",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F47827",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F509626",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F568214",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F657908",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F69187",
+      "expert": 6,
+      "belongs": true
+    },
+    {
+      "feat": "30-F713770",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F719613",
+      "expert": 6,
+      "belongs": true
+    },
+    {
+      "feat": "30-F74624",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F763392",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F832726",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F939899",
+      "expert": 6,
+      "belongs": false
+    },
+    {
+      "feat": "30-F116234",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F120219",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F135175",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F316372",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F335526",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F491762",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F515658",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F728509",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F950611",
+      "expert": 7,
+      "belongs": false
+    },
+    {
+      "feat": "30-F105891",
+      "expert": 8,
+      "belongs": true
+    },
+    {
+      "feat": "30-F132390",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F259271",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F284937",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F311906",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F471585",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F563056",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F618005",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F630347",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F753545",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F771096",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F788431",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F816890",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F912253",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F950367",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F957279",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F958147",
+      "expert": 8,
+      "belongs": false
+    },
+    {
+      "feat": "30-F113917",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F145491",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F150151",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F18060",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F29608",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F334189",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F405967",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F479273",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F501835",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F570531",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F602470",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F604420",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F652474",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F70432",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F937020",
+      "expert": 9,
+      "belongs": false
+    },
+    {
+      "feat": "30-F103751",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1037969",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F227886",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F245707",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F259649",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F274008",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F330593",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F463002",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F49924",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F504588",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F556023",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F705952",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F789826",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F825262",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F99260",
+      "expert": 10,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1010408",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F166657",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F183966",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F296755",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F425901",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F428497",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F511185",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F517619",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F559792",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F603597",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F657062",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F684268",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F730891",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F754343",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F814619",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F844918",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F861184",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F868893",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F884338",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F968510",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F987173",
+      "expert": 11,
+      "belongs": true
+    },
+    {
+      "feat": "30-F989845",
+      "expert": 11,
+      "belongs": false
+    },
+    {
+      "feat": "30-F102038",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F164327",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F282468",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F315912",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F368245",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F455442",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F470235",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F474129",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F477141",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F521702",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F565528",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F626173",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F751263",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F763800",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F810811",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F96383",
+      "expert": 12,
+      "belongs": false
+    },
+    {
+      "feat": "30-F202261",
+      "expert": 13,
+      "belongs": true
+    },
+    {
+      "feat": "30-F381334",
+      "expert": 13,
+      "belongs": false
+    },
+    {
+      "feat": "30-F3831",
+      "expert": 13,
+      "belongs": false
+    },
+    {
+      "feat": "30-F388838",
+      "expert": 13,
+      "belongs": false
+    },
+    {
+      "feat": "30-F449258",
+      "expert": 13,
+      "belongs": false
+    },
+    {
+      "feat": "30-F480187",
+      "expert": 13,
+      "belongs": false
+    },
+    {
+      "feat": "30-F539010",
+      "expert": 13,
+      "belongs": true
+    },
+    {
+      "feat": "30-F555757",
+      "expert": 13,
+      "belongs": false
+    },
+    {
+      "feat": "30-F706956",
+      "expert": 13,
+      "belongs": true
+    },
+    {
+      "feat": "30-F820542",
+      "expert": 13,
+      "belongs": false
+    },
+    {
+      "feat": "30-F859147",
+      "expert": 13,
+      "belongs": true
+    },
+    {
+      "feat": "30-F896425",
+      "expert": 13,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1001342",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F26049",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F446111",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F505156",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F597896",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F603568",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F621315",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F665461",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F695706",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F811104",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F839963",
+      "expert": 14,
+      "belongs": true
+    },
+    {
+      "feat": "30-F868548",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F879940",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F908290",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F997838",
+      "expert": 14,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1015932",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F115549",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F266042",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F319346",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F40707",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F410675",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F417955",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F429824",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F492230",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F514163",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F535066",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F78707",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F831505",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F926010",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F945842",
+      "expert": 15,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1006884",
+      "expert": 16,
+      "belongs": false
+    },
+    {
+      "feat": "30-F162100",
+      "expert": 16,
+      "belongs": false
+    },
+    {
+      "feat": "30-F24107",
+      "expert": 16,
+      "belongs": true
+    },
+    {
+      "feat": "30-F287318",
+      "expert": 16,
+      "belongs": true
+    },
+    {
+      "feat": "30-F303731",
+      "expert": 16,
+      "belongs": true
+    },
+    {
+      "feat": "30-F510647",
+      "expert": 16,
+      "belongs": true
+    },
+    {
+      "feat": "30-F551509",
+      "expert": 16,
+      "belongs": false
+    },
+    {
+      "feat": "30-F710834",
+      "expert": 16,
+      "belongs": false
+    },
+    {
+      "feat": "30-F883929",
+      "expert": 16,
+      "belongs": false
+    },
+    {
+      "feat": "30-F952696",
+      "expert": 16,
+      "belongs": false
+    },
+    {
+      "feat": "30-F974850",
+      "expert": 16,
+      "belongs": false
+    },
+    {
+      "feat": "30-F987774",
+      "expert": 16,
+      "belongs": false
+    },
+    {
+      "feat": "30-F108597",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F266294",
+      "expert": 17,
+      "belongs": true
+    },
+    {
+      "feat": "30-F278682",
+      "expert": 17,
+      "belongs": true
+    },
+    {
+      "feat": "30-F415505",
+      "expert": 17,
+      "belongs": true
+    },
+    {
+      "feat": "30-F422287",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F430404",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F501193",
+      "expert": 17,
+      "belongs": true
+    },
+    {
+      "feat": "30-F516310",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F523682",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F524825",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F59774",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F647720",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F697433",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F772635",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F815709",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F88319",
+      "expert": 17,
+      "belongs": true
+    },
+    {
+      "feat": "30-F888809",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F915736",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F92894",
+      "expert": 17,
+      "belongs": false
+    },
+    {
+      "feat": "30-F955152",
+      "expert": 17,
+      "belongs": true
+    },
+    {
+      "feat": "30-F98954",
+      "expert": 17,
+      "belongs": true
+    },
+    {
+      "feat": "30-F132044",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F141311",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F21432",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F224898",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F306461",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F312941",
+      "expert": 18,
+      "belongs": true
+    },
+    {
+      "feat": "30-F348741",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F411762",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F432819",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F486906",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F490042",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F500259",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F585005",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F723528",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F806308",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F848059",
+      "expert": 18,
+      "belongs": false
+    },
+    {
+      "feat": "30-F995612",
+      "expert": 18,
+      "belongs": true
+    },
+    {
+      "feat": "30-F1027594",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1032882",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F124493",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F135757",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F229843",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F289489",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F299423",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F341655",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F346170",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F482955",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F604526",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F619884",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F640903",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F672785",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F697947",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F815294",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F904636",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F970327",
+      "expert": 19,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1009712",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1040871",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F117652",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F149203",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F322966",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F340774",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F384491",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F428312",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F459857",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F49625",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F579145",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F627674",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F672480",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F764245",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F79721",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F810434",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F819219",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F841167",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F945579",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F972763",
+      "expert": 20,
+      "belongs": true
+    },
+    {
+      "feat": "30-F998842",
+      "expert": 20,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1016159",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F122106",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F22813",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F29241",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F483350",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F53768",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F578888",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F579459",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F657039",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F665787",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F746089",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F758218",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F829107",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F849418",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F884725",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F888383",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F926450",
+      "expert": 21,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1001988",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F202717",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F210",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F231918",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F257206",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F275091",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F279109",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F279341",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F492102",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F531241",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F566493",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F636478",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F646662",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F730799",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F836098",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F841248",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F856432",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F902185",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F934989",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F94277",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F979099",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F980690",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F989889",
+      "expert": 22,
+      "belongs": false
+    },
+    {
+      "feat": "30-F119316",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F230065",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F284136",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F419028",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F525963",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F602135",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F67651",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F811003",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F85511",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F872123",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F876712",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F904136",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F947250",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F953232",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F976713",
+      "expert": 23,
+      "belongs": false
+    },
+    {
+      "feat": "30-F161610",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F340309",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F46288",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F472309",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F476909",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F50904",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F736123",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F7365",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F744499",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F814224",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F896366",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F961477",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F987346",
+      "expert": 24,
+      "belongs": false
+    },
+    {
+      "feat": "30-F126839",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F143586",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F2405",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F321495",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F414815",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F490766",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F564873",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F588170",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F628907",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F809788",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F907032",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F911653",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F935071",
+      "expert": 25,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1033576",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F237386",
+      "expert": 26,
+      "belongs": true
+    },
+    {
+      "feat": "30-F29185",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F353071",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F362573",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F380503",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F606925",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F645472",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F693422",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F851544",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F86639",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F869360",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F899754",
+      "expert": 26,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1023788",
+      "expert": 27,
+      "belongs": true
+    },
+    {
+      "feat": "30-F143294",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F245850",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F256360",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F289910",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F373261",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F395842",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F40760",
+      "expert": 27,
+      "belongs": true
+    },
+    {
+      "feat": "30-F430614",
+      "expert": 27,
+      "belongs": true
+    },
+    {
+      "feat": "30-F464699",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F48209",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F497254",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F5073",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F597943",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F628000",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F648114",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F720163",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F745499",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F787868",
+      "expert": 27,
+      "belongs": true
+    },
+    {
+      "feat": "30-F803133",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F853768",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F895728",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F896177",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F916218",
+      "expert": 27,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1027504",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F108832",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F115385",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F14329",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F344242",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F352755",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F402824",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F551537",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F573689",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F807162",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F826554",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F837015",
+      "expert": 28,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1008047",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F233918",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F293289",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F294283",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F304144",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F346018",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F455952",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F520503",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F547794",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F580442",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F627212",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F669889",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F707467",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F747995",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F889808",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F954646",
+      "expert": 29,
+      "belongs": false
+    },
+    {
+      "feat": "30-F190908",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F215620",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F233375",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F292723",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F364346",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F383935",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F484815",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F591192",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F621589",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F63842",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F91954",
+      "expert": 30,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1038769",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1045196",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F111723",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F364192",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F393101",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F431967",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F456539",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F467562",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F553107",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F660624",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F692445",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F703049",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F830863",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F862002",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F882083",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F943341",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F958564",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F96598",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F98306",
+      "expert": 31,
+      "belongs": false
+    },
+    {
+      "feat": "30-F123181",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F135950",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F232521",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F251509",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F332068",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F431725",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F46285",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F473190",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F789391",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F80778",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F878805",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F903272",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F996051",
+      "expert": 32,
+      "belongs": false
+    },
+    {
+      "feat": "30-F209700",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F395527",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F395918",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F525638",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F641454",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F795531",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F862620",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F888709",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F934055",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F948389",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F951751",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F958073",
+      "expert": 33,
+      "belongs": false
+    },
+    {
+      "feat": "30-F157944",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F159889",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F293788",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F377222",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F392421",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F484818",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F675172",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F694205",
+      "expert": 34,
+      "belongs": true
+    },
+    {
+      "feat": "30-F722346",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F793677",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F849498",
+      "expert": 34,
+      "belongs": true
+    },
+    {
+      "feat": "30-F866159",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F908896",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F917542",
+      "expert": 34,
+      "belongs": false
+    },
+    {
+      "feat": "30-F175393",
+      "expert": 35,
+      "belongs": false
+    },
+    {
+      "feat": "30-F184504",
+      "expert": 35,
+      "belongs": true
+    },
+    {
+      "feat": "30-F266069",
+      "expert": 35,
+      "belongs": false
+    },
+    {
+      "feat": "30-F298499",
+      "expert": 35,
+      "belongs": false
+    },
+    {
+      "feat": "30-F31978",
+      "expert": 35,
+      "belongs": false
+    },
+    {
+      "feat": "30-F331094",
+      "expert": 35,
+      "belongs": false
+    },
+    {
+      "feat": "30-F365744",
+      "expert": 35,
+      "belongs": false
+    },
+    {
+      "feat": "30-F892549",
+      "expert": 35,
+      "belongs": false
+    },
+    {
+      "feat": "30-F92176",
+      "expert": 35,
+      "belongs": false
+    },
+    {
+      "feat": "30-F11392",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F233279",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F309452",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F354489",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F41716",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F466722",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F493969",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F730320",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F745138",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F764016",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F778105",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F849746",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F945779",
+      "expert": 36,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1018591",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F128969",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F133065",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F147374",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F279401",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F302495",
+      "expert": 37,
+      "belongs": true
+    },
+    {
+      "feat": "30-F389574",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F410024",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F424247",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F501601",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F540429",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F656891",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F668744",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F675140",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F725703",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F840962",
+      "expert": 37,
+      "belongs": true
+    },
+    {
+      "feat": "30-F90620",
+      "expert": 37,
+      "belongs": true
+    },
+    {
+      "feat": "30-F914810",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F942129",
+      "expert": 37,
+      "belongs": false
+    },
+    {
+      "feat": "30-F130617",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F132414",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F13828",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F148822",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F163619",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F213803",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F24064",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F26655",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F268614",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F278211",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F280768",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F419524",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F467415",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F482283",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F670920",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F946869",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F965428",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F969259",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F97660",
+      "expert": 38,
+      "belongs": false
+    },
+    {
+      "feat": "30-F479493",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F507574",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F547639",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F587968",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F690371",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F732529",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F814756",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F903904",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F908906",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F980085",
+      "expert": 39,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1022847",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F135964",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F171574",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F233691",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F252752",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F308841",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F507796",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F716671",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F726288",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F762350",
+      "expert": 40,
+      "belongs": true
+    },
+    {
+      "feat": "30-F778907",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F826380",
+      "expert": 40,
+      "belongs": true
+    },
+    {
+      "feat": "30-F960279",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F963435",
+      "expert": 40,
+      "belongs": false
+    },
+    {
+      "feat": "30-F189721",
+      "expert": 41,
+      "belongs": false
+    },
+    {
+      "feat": "30-F228292",
+      "expert": 41,
+      "belongs": true
+    },
+    {
+      "feat": "30-F317332",
+      "expert": 41,
+      "belongs": false
+    },
+    {
+      "feat": "30-F36079",
+      "expert": 41,
+      "belongs": false
+    },
+    {
+      "feat": "30-F418871",
+      "expert": 41,
+      "belongs": false
+    },
+    {
+      "feat": "30-F581437",
+      "expert": 41,
+      "belongs": false
+    },
+    {
+      "feat": "30-F607312",
+      "expert": 41,
+      "belongs": true
+    },
+    {
+      "feat": "30-F656756",
+      "expert": 41,
+      "belongs": true
+    },
+    {
+      "feat": "30-F734200",
+      "expert": 41,
+      "belongs": true
+    },
+    {
+      "feat": "30-F938413",
+      "expert": 41,
+      "belongs": false
+    },
+    {
+      "feat": "30-F984488",
+      "expert": 41,
+      "belongs": true
+    },
+    {
+      "feat": "30-F1028871",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1043418",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1044322",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F30061",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F31110",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F388118",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F410238",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F415742",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F438871",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F444299",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F444920",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F519299",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F634192",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F635472",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F639741",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F657183",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F729141",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F749282",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F75090",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F82893",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F899339",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F917119",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F937262",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F974740",
+      "expert": 42,
+      "belongs": false
+    },
+    {
+      "feat": "30-F161143",
+      "expert": 43,
+      "belongs": false
+    },
+    {
+      "feat": "30-F219679",
+      "expert": 43,
+      "belongs": false
+    },
+    {
+      "feat": "30-F463139",
+      "expert": 43,
+      "belongs": true
+    },
+    {
+      "feat": "30-F463650",
+      "expert": 43,
+      "belongs": false
+    },
+    {
+      "feat": "30-F495290",
+      "expert": 43,
+      "belongs": true
+    },
+    {
+      "feat": "30-F61602",
+      "expert": 43,
+      "belongs": true
+    },
+    {
+      "feat": "30-F635377",
+      "expert": 43,
+      "belongs": false
+    },
+    {
+      "feat": "30-F720615",
+      "expert": 43,
+      "belongs": false
+    },
+    {
+      "feat": "30-F805393",
+      "expert": 43,
+      "belongs": true
+    },
+    {
+      "feat": "30-F863688",
+      "expert": 43,
+      "belongs": false
+    },
+    {
+      "feat": "30-F914676",
+      "expert": 43,
+      "belongs": true
+    },
+    {
+      "feat": "30-F932235",
+      "expert": 43,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1033949",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F11704",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F144483",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F146133",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F190521",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F263942",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F339722",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F342031",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F382650",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F400854",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F44739",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F474482",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F714121",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F74245",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F758556",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F815635",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F850443",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F884191",
+      "expert": 44,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1032087",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F107013",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F120098",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F426981",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F458727",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F48254",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F523094",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F608036",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F615393",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F694799",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F706625",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F730475",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F84882",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F965796",
+      "expert": 45,
+      "belongs": false
+    },
+    {
+      "feat": "30-F122380",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F215176",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F226691",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F241787",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F244584",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F276186",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F30416",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F348288",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F374707",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F39979",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F498774",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F536619",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F543486",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F656340",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F749162",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F808102",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F809535",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F92463",
+      "expert": 46,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1043430",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F122395",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F175528",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F202790",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F335162",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F395133",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F420145",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F507327",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F528316",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F633286",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F739210",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F782251",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F838041",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F901199",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F919084",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F928970",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F9445",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F954773",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F999219",
+      "expert": 47,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1006851",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F139118",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F242623",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F281235",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F281350",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F388773",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F399682",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F415898",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F661064",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F852600",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F865930",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F951105",
+      "expert": 48,
+      "belongs": false
+    },
+    {
+      "feat": "30-F123745",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F212543",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F213742",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F249337",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F322153",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F330760",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F3414",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F35110",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F374400",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F488427",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F505811",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F542604",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F597183",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F601718",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F652910",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F835327",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F891044",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F891584",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F935273",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F942843",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F960592",
+      "expert": 49,
+      "belongs": false
+    },
+    {
+      "feat": "30-F166496",
+      "explanation": "Java programming tutorials",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F170505",
+      "explanation": "Java JSON imports",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F285948",
+      "explanation": "Java equals(Object) boilerplate",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F322031",
+      "explanation": "Test data providers",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F32631",
+      "explanation": "Android LayoutParams sizing",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F359184",
+      "explanation": "JavaDoc annotation tags",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F400320",
+      "explanation": "Java FileNotFoundException imports",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F425424",
+      "explanation": "PascalCase code identifiers",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F462989",
+      "explanation": "Java Swing menus",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F481314",
+      "explanation": "Java bytecode version header",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F500632",
+      "explanation": "Hibernate GenericGenerator annotations",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F531549",
+      "explanation": "Apache JIRA issue comments",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F605921",
+      "explanation": "Java getter-setter fields",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F648826",
+      "explanation": "Java HashMap imports",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F754989",
+      "explanation": "Java code context",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F772564",
+      "explanation": "Java getter/setter fields",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F835733",
+      "explanation": "Java catch exception variable",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F873974",
+      "explanation": "Java GUI startup template",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F945784",
+      "explanation": "Spring web.bind imports",
+      "expert": 50,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1034232",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F164448",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F221979",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F488913",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F506623",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F519839",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F546877",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F580079",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F627412",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F667832",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F683472",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F690811",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F71149",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F736931",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F744900",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F764315",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F839516",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F848890",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F852303",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F969913",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F975453",
+      "expert": 51,
+      "belongs": false
+    },
+    {
+      "feat": "30-F119530",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F208065",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F235880",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F319815",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F328807",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F387901",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F412727",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F420845",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F433506",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F47572",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F487834",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F531989",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F537844",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F77281",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F795039",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F797750",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F809309",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F845284",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F907862",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F975267",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F998117",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F999713",
+      "expert": 52,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1047593",
+      "expert": 53,
+      "belongs": false
+    },
+    {
+      "feat": "30-F136950",
+      "expert": 53,
+      "belongs": false
+    },
+    {
+      "feat": "30-F218727",
+      "expert": 53,
+      "belongs": false
+    },
+    {
+      "feat": "30-F699791",
+      "expert": 53,
+      "belongs": true
+    },
+    {
+      "feat": "30-F839324",
+      "expert": 53,
+      "belongs": false
+    },
+    {
+      "feat": "30-F995237",
+      "expert": 53,
+      "belongs": false
+    },
+    {
+      "feat": "30-F158312",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F213823",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F271451",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F288328",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F413185",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F597780",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F627465",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F631326",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F668969",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F705114",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F765795",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F769584",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F873247",
+      "expert": 54,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1011247",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F156938",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F158455",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F295723",
+      "expert": 55,
+      "belongs": true
+    },
+    {
+      "feat": "30-F311687",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F319325",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F524025",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F530982",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F623065",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F666147",
+      "expert": 55,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1006190",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1012498",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F113865",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F208430",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F312867",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F404715",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F460288",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F489338",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F497795",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F501935",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F572467",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F584388",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F607334",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F608553",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F613579",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F652963",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F683197",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F878424",
+      "expert": 56,
+      "belongs": false
+    },
+    {
+      "feat": "30-F109699",
+      "explanation": "Dash callback syntax",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F162391",
+      "explanation": "HTML class attributes",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F204164",
+      "explanation": "CSS background-image property",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F239995",
+      "explanation": "sustainable agriculture",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F248957",
+      "explanation": "HTML id selectors",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F280887",
+      "explanation": "technical computing text",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F332350",
+      "explanation": "Gender equality",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F376870",
+      "explanation": "JavaScript import from",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F491163",
+      "explanation": "web loading indicators",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F50330",
+      "explanation": "Plotly visualization code",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F585222",
+      "explanation": "HTML attribute syntax",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F621543",
+      "explanation": "Laravel view compact",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F629626",
+      "explanation": "CSS vendor prefixes",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F633073",
+      "explanation": "Sustainable Development Goals",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F726134",
+      "explanation": "HTML table structure",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F810166",
+      "explanation": "JavaScript click handlers",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F815869",
+      "explanation": "HTML download link creation",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F987413",
+      "explanation": "React import quote",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F989537",
+      "explanation": "frontend route configuration",
+      "expert": 57,
+      "belongs": false
+    },
+    {
+      "feat": "30-F126790",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F135451",
+      "expert": 58,
+      "belongs": true
+    },
+    {
+      "feat": "30-F192599",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F288918",
+      "expert": 58,
+      "belongs": true
+    },
+    {
+      "feat": "30-F328749",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F353519",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F38346",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F529348",
+      "expert": 58,
+      "belongs": true
+    },
+    {
+      "feat": "30-F536999",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F552730",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F598913",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F646784",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F652338",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F79231",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F87726",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F985596",
+      "expert": 58,
+      "belongs": false
+    },
+    {
+      "feat": "30-F212691",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F24780",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F254793",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F26827",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F295174",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F315491",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F378707",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F394980",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F486712",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F562807",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F650044",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F719733",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F95976",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F966571",
+      "expert": 59,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1014823",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1017710",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F1018956",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F120173",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F219637",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F357084",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F412606",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F451602",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F484502",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F553045",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F63760",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F7795",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F835325",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F8926",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F903752",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F906831",
+      "expert": 60,
+      "belongs": true
+    },
+    {
+      "feat": "30-F952672",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F960722",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F972405",
+      "expert": 60,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1047415",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F188591",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F195485",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F22578",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F240673",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F296307",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F322032",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F345081",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F394995",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F556798",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F592176",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F632927",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F650941",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F664208",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F721061",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F905122",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F906295",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F940825",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F983223",
+      "expert": 61,
+      "belongs": false
+    },
+    {
+      "feat": "30-F170598",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F216136",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F423298",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F470705",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F48090",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F491501",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F525169",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F551753",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F581541",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F609551",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F637585",
+      "expert": 62,
+      "belongs": true
+    },
+    {
+      "feat": "30-F657638",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F67214",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F725512",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F726341",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F788153",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F850530",
+      "expert": 62,
+      "belongs": false
+    },
+    {
+      "feat": "30-F125009",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F133872",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F190128",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F256178",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F256819",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F610926",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F650072",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F715111",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F733467",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F787764",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F796998",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F825599",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F854735",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F87202",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F914286",
+      "expert": 63,
+      "belongs": false
+    },
+    {
+      "feat": "30-F206384",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F358575",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F473905",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F50243",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F524767",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F545585",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F624177",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F634795",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F679012",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F712278",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F713117",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F803371",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F858176",
+      "expert": 64,
+      "belongs": false
+    },
+    {
+      "feat": "30-F11008",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F126972",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F153795",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F194963",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F28993",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F321705",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F348290",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F398814",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F489608",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F588595",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F613145",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F622909",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F671155",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F673866",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F708713",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F728213",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F750900",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F844110",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F92329",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F95314",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F975994",
+      "expert": 65,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1039888",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F297502",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F373016",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F407614",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F458171",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F534913",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F647486",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F656474",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F667597",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F694849",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F781403",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F808613",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F81623",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F81974",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F943857",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F990680",
+      "expert": 66,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1047573",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F107744",
+      "expert": 67,
+      "belongs": true
+    },
+    {
+      "feat": "30-F19510",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F318700",
+      "expert": 67,
+      "belongs": true
+    },
+    {
+      "feat": "30-F356230",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F382833",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F397656",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F4819",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F555221",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F571794",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F620709",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F64217",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F655461",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F69599",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F887350",
+      "expert": 67,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1045370",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F133956",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F202852",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F246648",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F264897",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F366798",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F483706",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F712000",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F733441",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F802281",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F827534",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F876927",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F889309",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F905280",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F958121",
+      "expert": 68,
+      "belongs": false
+    },
+    {
+      "feat": "30-F142414",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F182847",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F367127",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F438250",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F522874",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F558418",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F559868",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F580403",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F581838",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F625114",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F758532",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F872221",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F89074",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F928968",
+      "expert": 69,
+      "belongs": false
+    },
+    {
+      "feat": "30-F102503",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F106242",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F141769",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F169250",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F197359",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F297318",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F30203",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F314991",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F37448",
+      "expert": 70,
+      "belongs": true
+    },
+    {
+      "feat": "30-F478780",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F849985",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F915499",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F944590",
+      "expert": 70,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1009445",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F22393",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F248983",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F260135",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F341530",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F357274",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F484361",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F499023",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F510694",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F628266",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F734516",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F754727",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F805824",
+      "expert": 71,
+      "belongs": true
+    },
+    {
+      "feat": "30-F836924",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F858597",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F870971",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F97738",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F980386",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F987754",
+      "expert": 71,
+      "belongs": false
+    },
+    {
+      "feat": "30-F103057",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F120743",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F136475",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F156908",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F222523",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F226802",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F253433",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F322956",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F370844",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F407683",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F423313",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F464620",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F465876",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F483820",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F574669",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F669280",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F672772",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F702084",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F953955",
+      "expert": 72,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1001803",
+      "expert": 73,
+      "belongs": false
+    },
+    {
+      "feat": "30-F193404",
+      "expert": 73,
+      "belongs": false
+    },
+    {
+      "feat": "30-F197240",
+      "expert": 73,
+      "belongs": false
+    },
+    {
+      "feat": "30-F372480",
+      "expert": 73,
+      "belongs": false
+    },
+    {
+      "feat": "30-F416442",
+      "expert": 73,
+      "belongs": false
+    },
+    {
+      "feat": "30-F534330",
+      "expert": 73,
+      "belongs": false
+    },
+    {
+      "feat": "30-F550239",
+      "expert": 73,
+      "belongs": true
+    },
+    {
+      "feat": "30-F565868",
+      "expert": 73,
+      "belongs": false
+    },
+    {
+      "feat": "30-F59494",
+      "expert": 73,
+      "belongs": false
+    },
+    {
+      "feat": "30-F828008",
+      "expert": 73,
+      "belongs": true
+    },
+    {
+      "feat": "30-F893663",
+      "expert": 73,
+      "belongs": true
+    },
+    {
+      "feat": "30-F926800",
+      "expert": 73,
+      "belongs": true
+    },
+    {
+      "feat": "30-F27978",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F325269",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F444205",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F453548",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F478647",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F570427",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F585367",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F611911",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F61585",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F7065",
+      "expert": 74,
+      "belongs": true
+    },
+    {
+      "feat": "30-F816857",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F835283",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F980104",
+      "expert": 74,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1003007",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F115104",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F167473",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F275732",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F314985",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F339585",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F394364",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F517445",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F521547",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F588306",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F606868",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F673654",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F73035",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F75801",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F785346",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F835654",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F844077",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F897788",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F930707",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F957667",
+      "expert": 75,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1034743",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F134525",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F208527",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F279496",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F309610",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F322337",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F412955",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F528385",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F559099",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F622164",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F698546",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F772385",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F817126",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F86014",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F88360",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F929786",
+      "expert": 77,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1004612",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1029487",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F109165",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1401",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F170624",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F192029",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F357010",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F364140",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F436701",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F51105",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F550694",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F585242",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F644717",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F716514",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F735182",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F74761",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F816515",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F9614",
+      "expert": 78,
+      "belongs": false
+    },
+    {
+      "feat": "30-F360189",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F365296",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F46051",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F623460",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F697500",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F770887",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F794320",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F860284",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F91084",
+      "expert": 79,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1032718",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F164174",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F178106",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F198990",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F223255",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F315382",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F335598",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F478037",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F584201",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F672636",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F705691",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F768483",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F78126",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F790504",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F832108",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F96830",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F988668",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F990881",
+      "expert": 80,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1003818",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F216291",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F235185",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F341767",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F42224",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F425824",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F451753",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F514521",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F545221",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F592481",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F5928",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F599906",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F820215",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F820889",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F953799",
+      "expert": 81,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1014314",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F133653",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F230357",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F296999",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F31146",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F329186",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F392578",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F511570",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F518039",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F541211",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F622538",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F662632",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F738607",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F744267",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F790410",
+      "expert": 82,
+      "belongs": false
+    },
+    {
+      "feat": "30-F180080",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F216797",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F274046",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F285379",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F328836",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F587195",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F592603",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F616195",
+      "expert": 83,
+      "belongs": true
+    },
+    {
+      "feat": "30-F62143",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F936920",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F937904",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F943182",
+      "expert": 83,
+      "belongs": false
+    },
+    {
+      "feat": "30-F109853",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F147804",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F152545",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F209061",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F22214",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F259995",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F322231",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F325549",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F358544",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F512987",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F535804",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F697416",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F741221",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F81026",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F812259",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F846903",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F848722",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F853487",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F8835",
+      "expert": 84,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1037099",
+      "expert": 85,
+      "belongs": false
+    },
+    {
+      "feat": "30-F54776",
+      "expert": 85,
+      "belongs": false
+    },
+    {
+      "feat": "30-F685962",
+      "expert": 85,
+      "belongs": false
+    },
+    {
+      "feat": "30-F690458",
+      "expert": 85,
+      "belongs": false
+    },
+    {
+      "feat": "30-F851195",
+      "expert": 85,
+      "belongs": false
+    },
+    {
+      "feat": "30-F868278",
+      "expert": 85,
+      "belongs": false
+    },
+    {
+      "feat": "30-F90439",
+      "expert": 85,
+      "belongs": false
+    },
+    {
+      "feat": "30-F982072",
+      "expert": 85,
+      "belongs": false
+    },
+    {
+      "feat": "30-F120167",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F208091",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F219060",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F455927",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F462543",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F507504",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F525181",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F548408",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F596124",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F648109",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F683062",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F704187",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F748203",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F755826",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F870994",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F88322",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F9895",
+      "expert": 86,
+      "belongs": false
+    },
+    {
+      "feat": "30-F141105",
+      "expert": 87,
+      "belongs": false
+    },
+    {
+      "feat": "30-F207765",
+      "expert": 87,
+      "belongs": true
+    },
+    {
+      "feat": "30-F367924",
+      "expert": 87,
+      "belongs": false
+    },
+    {
+      "feat": "30-F375611",
+      "expert": 87,
+      "belongs": false
+    },
+    {
+      "feat": "30-F376159",
+      "expert": 87,
+      "belongs": false
+    },
+    {
+      "feat": "30-F645986",
+      "expert": 87,
+      "belongs": false
+    },
+    {
+      "feat": "30-F938954",
+      "expert": 87,
+      "belongs": false
+    },
+    {
+      "feat": "30-F147242",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F163559",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1719",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F176228",
+      "expert": 88,
+      "belongs": true
+    },
+    {
+      "feat": "30-F201285",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F206117",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F248220",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F429318",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F474706",
+      "expert": 88,
+      "belongs": true
+    },
+    {
+      "feat": "30-F563849",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F75989",
+      "expert": 88,
+      "belongs": true
+    },
+    {
+      "feat": "30-F829965",
+      "expert": 88,
+      "belongs": true
+    },
+    {
+      "feat": "30-F940471",
+      "expert": 88,
+      "belongs": true
+    },
+    {
+      "feat": "30-F992042",
+      "expert": 88,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1003778",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1016168",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F104129",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F152857",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F252260",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F365215",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F410162",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F475518",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F496801",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F502824",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F560074",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F581400",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F66262",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F696326",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F703337",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F75294",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F76558",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F826992",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F856411",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F881101",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F980483",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F983273",
+      "expert": 89,
+      "belongs": false
+    },
+    {
+      "feat": "30-F143310",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F154256",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F197016",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F204252",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F206730",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F309732",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F320116",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F323190",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F43884",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F452112",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F465331",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F483573",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F509108",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F546985",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F563719",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F584210",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F588846",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F799444",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F825337",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F876023",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F888723",
+      "expert": 90,
+      "belongs": false
+    },
+    {
+      "feat": "30-F256922",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F365647",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F438481",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F61198",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F700651",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F701330",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F711464",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F750909",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F778358",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F786596",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F882886",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F886960",
+      "expert": 91,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1035184",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F298768",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F337203",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F370932",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F387086",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F42369",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F527793",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F577536",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F623433",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F663680",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F676733",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F677024",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F747769",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F771504",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F809465",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F815108",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F833779",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F963721",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F999619",
+      "expert": 92,
+      "belongs": false
+    },
+    {
+      "feat": "30-F104050",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F131649",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F147327",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F187989",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F207977",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F214211",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F214954",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F274901",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F314583",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F353422",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F363080",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F435777",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F505851",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F527079",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F53097",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F566583",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F588552",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F599924",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F619889",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F635380",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F675739",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F708313",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F746314",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F833579",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F850437",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F88491",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F893301",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F903953",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F941392",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F955077",
+      "expert": 93,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1035404",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F10718",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F117608",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F175822",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F283324",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F312616",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F324598",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F369484",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F412632",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F445785",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F47254",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F498858",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F547232",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F879672",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F997594",
+      "expert": 94,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1012342",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F237115",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F395201",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F462091",
+      "expert": 95,
+      "belongs": true
+    },
+    {
+      "feat": "30-F481349",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F534663",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F541191",
+      "expert": 95,
+      "belongs": true
+    },
+    {
+      "feat": "30-F552502",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F582469",
+      "expert": 95,
+      "belongs": true
+    },
+    {
+      "feat": "30-F766216",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F817282",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F821228",
+      "expert": 95,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1035531",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F16338",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F187296",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F221750",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F300337",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F418937",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F436574",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F536272",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F671376",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F744578",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F795775",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F937197",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F957301",
+      "expert": 96,
+      "belongs": false
+    },
+    {
+      "feat": "30-F129810",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F168740",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F212946",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F3146",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F333618",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F337971",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F455280",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F500847",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F602380",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F642193",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F860871",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F861969",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F88972",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F928994",
+      "expert": 97,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1018012",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1041511",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F180537",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F220544",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F234672",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F256087",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F342531",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F491052",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F618470",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F702171",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F728799",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F738535",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F873113",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F882875",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F887081",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F957954",
+      "expert": 98,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1002621",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1018094",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F120240",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F14541",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F145616",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F28607",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F292977",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F375628",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F42071",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F488283",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F561365",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F657648",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F703123",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F707701",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F726004",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F771357",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F804025",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F807146",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F828238",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F883766",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F952217",
+      "expert": 99,
+      "belongs": true
+    },
+    {
+      "feat": "30-F972430",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F981949",
+      "expert": 99,
+      "belongs": false
+    },
+    {
+      "feat": "30-F255905",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F386883",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F412699",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F461415",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F53915",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F62255",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F773570",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F800938",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F817447",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F845006",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F8480",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F876254",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F880709",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F916047",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F9396",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F976673",
+      "expert": 100,
+      "belongs": false
+    },
+    {
+      "feat": "30-F16387",
+      "expert": 101,
+      "belongs": false
+    },
+    {
+      "feat": "30-F192514",
+      "expert": 101,
+      "belongs": false
+    },
+    {
+      "feat": "30-F398890",
+      "expert": 101,
+      "belongs": false
+    },
+    {
+      "feat": "30-F452859",
+      "expert": 101,
+      "belongs": false
+    },
+    {
+      "feat": "30-F523908",
+      "expert": 101,
+      "belongs": false
+    },
+    {
+      "feat": "30-F66235",
+      "expert": 101,
+      "belongs": false
+    },
+    {
+      "feat": "30-F940264",
+      "expert": 101,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1035453",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1040707",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F194461",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F223120",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F233392",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F239047",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F311747",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F330788",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F40445",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F453080",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F460323",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F480005",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F523482",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F568194",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F597303",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F598108",
+      "expert": 102,
+      "belongs": true
+    },
+    {
+      "feat": "30-F621306",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F688278",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F691290",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F697437",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F728622",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F790375",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F815634",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F865958",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F871505",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F928099",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F959865",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F982068",
+      "expert": 102,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1009855",
+      "expert": 103,
+      "belongs": true
+    },
+    {
+      "feat": "30-F111784",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F126084",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F148570",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F222020",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F237291",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F341868",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F342420",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F344113",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F373075",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F386628",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F391372",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F394337",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F431451",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F433494",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F532899",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F547339",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F572583",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F703273",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F881053",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F910700",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F940027",
+      "expert": 103,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1040489",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1042136",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1075",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F113159",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F221455",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F341769",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F38448",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F409332",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F433995",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F48957",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F52209",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F617567",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F648925",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F743037",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F91640",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F941642",
+      "expert": 104,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1024856",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F157063",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F177645",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F177924",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F185560",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F303769",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F334266",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F342382",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F417517",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F44255",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F653841",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F727924",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F983618",
+      "expert": 105,
+      "belongs": false
+    },
+    {
+      "feat": "30-F151523",
+      "expert": 106,
+      "belongs": true
+    },
+    {
+      "feat": "30-F320754",
+      "expert": 106,
+      "belongs": false
+    },
+    {
+      "feat": "30-F506698",
+      "expert": 106,
+      "belongs": false
+    },
+    {
+      "feat": "30-F662516",
+      "expert": 106,
+      "belongs": false
+    },
+    {
+      "feat": "30-F678926",
+      "expert": 106,
+      "belongs": false
+    },
+    {
+      "feat": "30-F817603",
+      "expert": 106,
+      "belongs": false
+    },
+    {
+      "feat": "30-F905228",
+      "expert": 106,
+      "belongs": false
+    },
+    {
+      "feat": "30-F912012",
+      "expert": 106,
+      "belongs": true
+    },
+    {
+      "feat": "30-F1035654",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F128172",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F190905",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F243909",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F30683",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F321205",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F326527",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F333901",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F409919",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F427628",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F534338",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F625007",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F663043",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F745938",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F7770",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F785460",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F819546",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F835937",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F837461",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F900801",
+      "expert": 107,
+      "belongs": false
+    },
+    {
+      "feat": "30-F102626",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1027648",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F157809",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F231533",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F238174",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F262829",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F274846",
+      "expert": 108,
+      "belongs": true
+    },
+    {
+      "feat": "30-F346619",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F545041",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F548606",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F637749",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F791586",
+      "expert": 108,
+      "belongs": true
+    },
+    {
+      "feat": "30-F882147",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F89253",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F936881",
+      "expert": 108,
+      "belongs": false
+    },
+    {
+      "feat": "30-F102880",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F107130",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F16469",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F175209",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F185405",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F196515",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F304611",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F369754",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F501527",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F525565",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F649827",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F760338",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F845825",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F917293",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F926823",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F929716",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F959149",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F964766",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F974844",
+      "expert": 109,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1026921",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F203268",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F218248",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F334270",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F529668",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F554853",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F574958",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F668380",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F7338",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F751541",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F83576",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F953751",
+      "expert": 110,
+      "belongs": false
+    },
+    {
+      "feat": "30-F115495",
+      "expert": 111,
+      "belongs": true
+    },
+    {
+      "feat": "30-F16451",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F171223",
+      "expert": 111,
+      "belongs": true
+    },
+    {
+      "feat": "30-F315724",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F330965",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F42465",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F459085",
+      "expert": 111,
+      "belongs": true
+    },
+    {
+      "feat": "30-F479180",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F490863",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F499553",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F509280",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F550428",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F678145",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F711382",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F71763",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F859099",
+      "expert": 111,
+      "belongs": true
+    },
+    {
+      "feat": "30-F879821",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F886318",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F8884",
+      "expert": 111,
+      "belongs": false
+    },
+    {
+      "feat": "30-F192732",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F201871",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F215778",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F232773",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F271994",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F295654",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F313763",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F608396",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F754467",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F820256",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F882029",
+      "expert": 112,
+      "belongs": false
+    },
+    {
+      "feat": "30-F160834",
+      "expert": 113,
+      "belongs": false
+    },
+    {
+      "feat": "30-F169785",
+      "expert": 113,
+      "belongs": false
+    },
+    {
+      "feat": "30-F207687",
+      "expert": 113,
+      "belongs": false
+    },
+    {
+      "feat": "30-F351316",
+      "expert": 113,
+      "belongs": false
+    },
+    {
+      "feat": "30-F773399",
+      "expert": 113,
+      "belongs": false
+    },
+    {
+      "feat": "30-F785172",
+      "expert": 113,
+      "belongs": false
+    },
+    {
+      "feat": "30-F886694",
+      "expert": 113,
+      "belongs": true
+    },
+    {
+      "feat": "30-F933492",
+      "expert": 113,
+      "belongs": false
+    },
+    {
+      "feat": "30-F997402",
+      "expert": 113,
+      "belongs": false
+    },
+    {
+      "feat": "30-F188666",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F19773",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F225054",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F291849",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F381370",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F444740",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F454631",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F541453",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F591784",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F593814",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F688203",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F70540",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F734508",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F761886",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F775495",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F845361",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F863695",
+      "expert": 114,
+      "belongs": false
+    },
+    {
+      "feat": "30-F134416",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F147417",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F220599",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F250154",
+      "expert": 115,
+      "belongs": true
+    },
+    {
+      "feat": "30-F277408",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F302649",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F350076",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F384112",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F395128",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F444497",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F496966",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F566550",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F621912",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F651429",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F665594",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F684417",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F862661",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F998538",
+      "expert": 115,
+      "belongs": false
+    },
+    {
+      "feat": "30-F104046",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F152752",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F200191",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F229275",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F240968",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F33063",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F42375",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F427490",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F430636",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F473729",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F498835",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F51680",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F599668",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F618794",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F778245",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F90133",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F901879",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F969036",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F995263",
+      "expert": 116,
+      "belongs": false
+    },
+    {
+      "feat": "30-F125586",
+      "expert": 117,
+      "belongs": false
+    },
+    {
+      "feat": "30-F672322",
+      "expert": 117,
+      "belongs": false
+    },
+    {
+      "feat": "30-F120158",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F123897",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F257150",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F352985",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F365892",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F371743",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F430621",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F595491",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F621131",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F626472",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F690911",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F709725",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F734165",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F760016",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F838044",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F855375",
+      "expert": 118,
+      "belongs": false
+    },
+    {
+      "feat": "30-F167973",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F184523",
+      "expert": 119,
+      "belongs": false
+    },
+    {
+      "feat": "30-F192351",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F308501",
+      "expert": 119,
+      "belongs": false
+    },
+    {
+      "feat": "30-F317155",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F373540",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F385831",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F397371",
+      "expert": 119,
+      "belongs": false
+    },
+    {
+      "feat": "30-F446799",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F561127",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F592821",
+      "expert": 119,
+      "belongs": false
+    },
+    {
+      "feat": "30-F653320",
+      "expert": 119,
+      "belongs": false
+    },
+    {
+      "feat": "30-F680900",
+      "expert": 119,
+      "belongs": false
+    },
+    {
+      "feat": "30-F706284",
+      "expert": 119,
+      "belongs": false
+    },
+    {
+      "feat": "30-F741630",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F855157",
+      "expert": 119,
+      "belongs": true
+    },
+    {
+      "feat": "30-F1018579",
+      "expert": 120,
+      "belongs": true
+    },
+    {
+      "feat": "30-F14642",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F185529",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F259373",
+      "expert": 120,
+      "belongs": true
+    },
+    {
+      "feat": "30-F27178",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F308354",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F313320",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F327444",
+      "expert": 120,
+      "belongs": true
+    },
+    {
+      "feat": "30-F328087",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F614409",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F68713",
+      "expert": 120,
+      "belongs": true
+    },
+    {
+      "feat": "30-F688228",
+      "expert": 120,
+      "belongs": true
+    },
+    {
+      "feat": "30-F787122",
+      "expert": 120,
+      "belongs": true
+    },
+    {
+      "feat": "30-F798232",
+      "expert": 120,
+      "belongs": true
+    },
+    {
+      "feat": "30-F815245",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F945494",
+      "expert": 120,
+      "belongs": true
+    },
+    {
+      "feat": "30-F947029",
+      "expert": 120,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1024492",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F159341",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F351323",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F382841",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F390303",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F490169",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F541422",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F635880",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F671554",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F689196",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F731597",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F799163",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F867041",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F904171",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F949437",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F969989",
+      "expert": 121,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1013717",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F135358",
+      "expert": 122,
+      "belongs": true
+    },
+    {
+      "feat": "30-F204882",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F241917",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F255678",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F338333",
+      "expert": 122,
+      "belongs": true
+    },
+    {
+      "feat": "30-F380832",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F386223",
+      "expert": 122,
+      "belongs": true
+    },
+    {
+      "feat": "30-F506326",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F544716",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F720791",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F72608",
+      "expert": 122,
+      "belongs": true
+    },
+    {
+      "feat": "30-F743298",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F797725",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F896482",
+      "expert": 122,
+      "belongs": false
+    },
+    {
+      "feat": "30-F276113",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F305157",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F417012",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F490376",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F491716",
+      "expert": 123,
+      "belongs": true
+    },
+    {
+      "feat": "30-F522131",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F569201",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F579858",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F603871",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F611361",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F611694",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F634180",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F90320",
+      "expert": 123,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1003206",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1005074",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1020680",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F115471",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F146830",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F205922",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F228394",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F331438",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F578597",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F653787",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F909487",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F960738",
+      "expert": 124,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1020252",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F1023646",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F312929",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F315485",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F321317",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F363431",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F414151",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F480566",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F482554",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F635378",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F646451",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F70134",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F70169",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F875969",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F936247",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F969097",
+      "expert": 125,
+      "belongs": false
+    },
+    {
+      "feat": "30-F150004",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F150782",
+      "expert": 126,
+      "belongs": true
+    },
+    {
+      "feat": "30-F163188",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F33730",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F374417",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F4385",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F597645",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F660128",
+      "expert": 126,
+      "belongs": true
+    },
+    {
+      "feat": "30-F675242",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F822341",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F946107",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F955821",
+      "expert": 126,
+      "belongs": false
+    },
+    {
+      "feat": "30-F139902",
+      "expert": 127,
+      "belongs": false
+    },
+    {
+      "feat": "30-F264856",
+      "expert": 127,
+      "belongs": false
+    },
+    {
+      "feat": "30-F311645",
+      "expert": 127,
+      "belongs": false
+    },
+    {
+      "feat": "30-F526882",
+      "expert": 127,
+      "belongs": false
+    },
+    {
+      "feat": "30-F805735",
+      "expert": 127,
+      "belongs": false
+    }
+  ]
+}

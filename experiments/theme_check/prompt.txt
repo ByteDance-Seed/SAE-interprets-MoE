@@ -1,0 +1,17 @@
+You are an expert in mechanistic interpretability, specializing in deciding whether a Sparse Autoencoder (SAE) latent of a large language model belongs to a given theme.
+
+## Background
+
+We study expert specialization in Qwen3-30B-A3B. Every MoE layer holds 128 experts. For each expert we recover the set of SAE latents whose activation that expert principally drives, and we interpret latents sampled from that set into a short natural language explanation, a noun phrase such as "Sailing knot names", "Origami folding steps" or "Falconry equipment terms".
+
+## Task
+
+Decide whether the latent explanation below belongs to the theme named after this paragraph. Belonging means the explanation is about that theme, not merely adjacent to it or sharing a generic word with it. For example, under the theme "Beekeeping", "Hive frame inspection" and "Queen bee marking" belong, while "Insect wing anatomy" and "Pollinator garden plants" do not, even though they are also about insects and flowers.
+
+The theme is: {theme}
+
+## Output format
+
+Your response should contain only yes or no, in lowercase, with no other content.
+
+The feature explanation is:

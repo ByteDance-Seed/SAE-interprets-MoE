@@ -1,0 +1,2000 @@
+{"feat": "30-F12233", "explanation": "polynomial passes through points", "confidence": "medium"}
+{"feat": "30-F3932", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F8297", "explanation": "Quadratic becomes linear contradiction", "confidence": "High"}
+{"feat": "30-F9039", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F11405", "explanation": "Base numeral systems", "confidence": "Medium"}
+{"feat": "30-F3977", "explanation": "real polynomial roots", "confidence": "High"}
+{"feat": "30-F20998", "explanation": "system of equations setup", "confidence": "medium"}
+{"feat": "30-F10742", "explanation": "quadratic vertex formula", "confidence": "High"}
+{"feat": "30-F16544", "explanation": "math worksheet pages", "confidence": "Medium"}
+{"feat": "30-F17400", "explanation": "math curriculum standards", "confidence": "Medium"}
+{"feat": "30-F7390", "explanation": "modular inverse problems", "confidence": "High"}
+{"feat": "30-F17374", "explanation": "Matrix multiplication dimensions", "confidence": "High"}
+{"feat": "30-F11015", "explanation": "treated as construction", "confidence": "Medium"}
+{"feat": "30-F16149", "explanation": "Find all values", "confidence": "Medium"}
+{"feat": "30-F9517", "explanation": "polynomial equation solving", "confidence": "Medium"}
+{"feat": "30-F12361", "explanation": "Fibonacci sequence", "confidence": "High"}
+{"feat": "30-F791", "explanation": "Don't Say fraction", "confidence": "Medium"}
+{"feat": "30-F6985", "explanation": "mathematical technical text", "confidence": "Low"}
+{"feat": "30-F731", "explanation": "paragraph-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F10140", "explanation": "mathematical computation contexts", "confidence": "Medium"}
+{"feat": "30-F546", "explanation": "not as negation", "confidence": "Low"}
+{"feat": "30-F12440", "explanation": "large-number multiplication prompts", "confidence": "Medium"}
+{"feat": "30-F19604", "explanation": "step-by-step reasoning", "confidence": "Medium"}
+{"feat": "30-F5849", "explanation": "fraction notation", "confidence": "Medium"}
+{"feat": "30-F20777", "explanation": "factorial calculation", "confidence": "High"}
+{"feat": "30-F27903", "explanation": "LaTeX math delimiters", "confidence": "medium"}
+{"feat": "30-F21473", "explanation": "matrix diagonalization formula", "confidence": "High"}
+{"feat": "30-F22783", "explanation": "integer division quotient", "confidence": "High"}
+{"feat": "30-F3419", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F23593", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F26259", "explanation": "Python import math", "confidence": "High"}
+{"feat": "30-F22376", "explanation": "inequality sign chart testing", "confidence": "Medium"}
+{"feat": "30-F25707", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F23180", "explanation": "Matrix algebra terminology", "confidence": "High"}
+{"feat": "30-F27013", "explanation": "Arithmetic/geometric sequences", "confidence": "High"}
+{"feat": "30-F21773", "explanation": "mathematics instruction", "confidence": "Medium"}
+{"feat": "30-F26358", "explanation": "linear algebra dependence", "confidence": "Medium"}
+{"feat": "30-F21238", "explanation": "Least significant digit order", "confidence": "High"}
+{"feat": "30-F26362", "explanation": "review rating fractions", "confidence": "High"}
+{"feat": "30-F28634", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F27943", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F27888", "explanation": "LaTeX matrix notation", "confidence": "Medium"}
+{"feat": "30-F29332", "explanation": "Polynomial long division step", "confidence": "High"}
+{"feat": "30-F29271", "explanation": "numerical linear algebra", "confidence": "Medium"}
+{"feat": "30-F30213", "explanation": "Euclidean algorithm", "confidence": "High"}
+{"feat": "30-F31486", "explanation": "partial mathematics term", "confidence": "High"}
+{"feat": "30-F8461", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F32056", "explanation": "triangular/tridiagonal matrices", "confidence": "High"}
+{"feat": "30-F30845", "explanation": "LaTeX bmod expressions", "confidence": "Medium"}
+{"feat": "30-F32315", "explanation": "Fractions as division", "confidence": "High"}
+{"feat": "30-F29571", "explanation": "unrestricted any quantifier", "confidence": "Medium"}
+{"feat": "30-F31560", "explanation": "Rated review metadata", "confidence": "High"}
+{"feat": "30-F33796", "explanation": "synthetic division root", "confidence": "High"}
+{"feat": "30-F17218", "explanation": "Least common multiple", "confidence": "High"}
+{"feat": "30-F16386", "explanation": "possessive pronoun their", "confidence": "Low"}
+{"feat": "30-F12527", "explanation": "Array assignment syntax", "confidence": "Medium"}
+{"feat": "30-F34381", "explanation": "rank-nullity theorem", "confidence": "High"}
+{"feat": "30-F15462", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F33568", "explanation": "1-th root calculation", "confidence": "Medium"}
+{"feat": "30-F5567", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F34880", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F37795", "explanation": "Eigenvalue terminology", "confidence": "High"}
+{"feat": "30-F14199", "explanation": "quadratic extrema", "confidence": "Medium"}
+{"feat": "30-F34376", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F35081", "explanation": "Dependent linear equations", "confidence": "High"}
+{"feat": "30-F46122", "explanation": "Next term in division", "confidence": "High"}
+{"feat": "30-F44757", "explanation": "Multi-digit arithmetic procedures", "confidence": "Medium"}
+{"feat": "30-F41597", "explanation": "digit constraint problems", "confidence": "Medium"}
+{"feat": "30-F38661", "explanation": "What Is question titles", "confidence": "High"}
+{"feat": "30-F61685", "explanation": "horizontal asymptote rules", "confidence": "high"}
+{"feat": "30-F21490", "explanation": "John Napier inventions", "confidence": "Medium"}
+{"feat": "30-F36019", "explanation": "Say worksheets", "confidence": "Medium"}
+{"feat": "30-F41884", "explanation": "Say bullet list marker", "confidence": "High"}
+{"feat": "30-F61806", "explanation": "mathematical negative sign", "confidence": "medium"}
+{"feat": "30-F23277", "explanation": "Very large or small numbers", "confidence": "High"}
+{"feat": "30-F51405", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F42610", "explanation": "polynomial coefficients", "confidence": "High"}
+{"feat": "30-F48742", "explanation": "Mojibake date separator", "confidence": "High"}
+{"feat": "30-F48795", "explanation": "minuend and dividend", "confidence": "High"}
+{"feat": "30-F55012", "explanation": "Matrix indexing syntax", "confidence": "Medium"}
+{"feat": "30-F37122", "explanation": "mathematical programming content", "confidence": "Low"}
+{"feat": "30-F48775", "explanation": "numerical quadrature methods", "confidence": "Medium"}
+{"feat": "30-F55055", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F56289", "explanation": "modular arithmetic calculations", "confidence": "Medium"}
+{"feat": "30-F51615", "explanation": "Equations in variables", "confidence": "Medium"}
+{"feat": "30-F51506", "explanation": "scraped web snippets", "confidence": "Medium"}
+{"feat": "30-F54241", "explanation": "base conversion remainders", "confidence": "Medium"}
+{"feat": "30-F25305", "explanation": "calculus variable t", "confidence": "Medium"}
+{"feat": "30-F57805", "explanation": "simple technical explanation", "confidence": "Medium"}
+{"feat": "30-F59265", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F64800", "explanation": "Say division terminology", "confidence": "High"}
+{"feat": "30-F27129", "explanation": "mathematical explanations", "confidence": "Medium"}
+{"feat": "30-F62370", "explanation": "math homework problems", "confidence": "Medium"}
+{"feat": "30-F58229", "explanation": "horizontal asymptote rule", "confidence": "Medium"}
+{"feat": "30-F61178", "explanation": "Say error", "confidence": "High"}
+{"feat": "30-F62427", "explanation": "Rational root theorem statement", "confidence": "Medium"}
+{"feat": "30-F67619", "explanation": "Polynomial variable x", "confidence": "Medium"}
+{"feat": "30-F63457", "explanation": "factoring polynomial numerator", "confidence": "Medium"}
+{"feat": "30-F63895", "explanation": "Compute instruction", "confidence": "High"}
+{"feat": "30-F62725", "explanation": "paragraph-ending period", "confidence": "Medium"}
+{"feat": "30-F78302", "explanation": "Numerical Recipes references", "confidence": "high"}
+{"feat": "30-F67244", "explanation": "linear algebra equations", "confidence": "Medium"}
+{"feat": "30-F66393", "explanation": "control systems diagrams", "confidence": "Medium"}
+{"feat": "30-F81573", "explanation": "real numbers", "confidence": "high"}
+{"feat": "30-F30220", "explanation": "Synthetic division setup", "confidence": "Medium"}
+{"feat": "30-F67915", "explanation": "zero polynomial degree undefined", "confidence": "High"}
+{"feat": "30-F67104", "explanation": "Math textbook chapter headings", "confidence": "Medium"}
+{"feat": "30-F69764", "explanation": "polynomial degree", "confidence": "High"}
+{"feat": "30-F76848", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F68490", "explanation": "Matrix B identifier", "confidence": "Medium"}
+{"feat": "30-F77740", "explanation": "perfect square", "confidence": "High"}
+{"feat": "30-F77658", "explanation": "Sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F75605", "explanation": "unit conversion number input", "confidence": "Medium"}
+{"feat": "30-F68337", "explanation": "mathematical exposition", "confidence": "Low"}
+{"feat": "30-F80813", "explanation": "Polynomial root bounds", "confidence": "High"}
+{"feat": "30-F80215", "explanation": "Factor each number", "confidence": "Medium"}
+{"feat": "30-F78005", "explanation": "rounding numbers", "confidence": "Medium"}
+{"feat": "30-F83713", "explanation": "C calculate examples", "confidence": "Medium"}
+{"feat": "30-F73763", "explanation": "blank line separators", "confidence": "Medium"}
+{"feat": "30-F79943", "explanation": "math educational worksheets", "confidence": "Medium"}
+{"feat": "30-F78253", "explanation": "Highest polynomial degree", "confidence": "High"}
+{"feat": "30-F92341", "explanation": "Arithmetic operations", "confidence": "medium"}
+{"feat": "30-F74388", "explanation": "algebraic multiplicity", "confidence": "High"}
+{"feat": "30-F86302", "explanation": "Decimal answer format", "confidence": "High"}
+{"feat": "30-F32667", "explanation": "alternative math education", "confidence": "Medium"}
+{"feat": "30-F86295", "explanation": "LaTeX matrix delimiters", "confidence": "High"}
+{"feat": "30-F86530", "explanation": "No real solutions", "confidence": "High"}
+{"feat": "30-F86266", "explanation": "vector space definitions", "confidence": "High"}
+{"feat": "30-F82683", "explanation": "math education content", "confidence": "Medium"}
+{"feat": "30-F82038", "explanation": "Python complex notation", "confidence": "High"}
+{"feat": "30-F88019", "explanation": "Arithmetic calculation steps", "confidence": "Medium"}
+{"feat": "30-F87140", "explanation": "mental multiplication decomposition", "confidence": "Medium"}
+{"feat": "30-F88759", "explanation": "fast doubling Fibonacci", "confidence": "High"}
+{"feat": "30-F87770", "explanation": "Mathematical variable notation", "confidence": "Medium"}
+{"feat": "30-F89734", "explanation": "Polynomial long division", "confidence": "Medium"}
+{"feat": "30-F46550", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F93897", "explanation": "Polynomial remainder statements", "confidence": "Medium"}
+{"feat": "30-F52835", "explanation": "Long division decimals", "confidence": "Medium"}
+{"feat": "30-F94267", "explanation": "Parenthetical percent conversion", "confidence": "Medium"}
+{"feat": "30-F89972", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F93400", "explanation": "Polynomial quotient Q(x)", "confidence": "High"}
+{"feat": "30-F93078", "explanation": "math Q&A pages", "confidence": "Medium"}
+{"feat": "30-F95050", "explanation": "array index brackets", "confidence": "Medium"}
+{"feat": "30-F100258", "explanation": "Moving decimal point", "confidence": "High"}
+{"feat": "30-F52003", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F65536", "explanation": "Mojibake encoding artifacts", "confidence": "Medium"}
+{"feat": "30-F100304", "explanation": "Base notation arithmetic", "confidence": "Medium"}
+{"feat": "30-F91694", "explanation": "Abrupt document transitions", "confidence": "Medium"}
+{"feat": "30-F94986", "explanation": "educational worksheet content", "confidence": "Medium"}
+{"feat": "30-F104418", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F64721", "explanation": "Grade 6 math curriculum", "confidence": "Medium"}
+{"feat": "30-F97255", "explanation": "basic arithmetic solving", "confidence": "Medium"}
+{"feat": "30-F94567", "explanation": "Say closing parenthesis", "confidence": "Medium"}
+{"feat": "30-F96518", "explanation": "Small numerals", "confidence": "Medium"}
+{"feat": "30-F105103", "explanation": "Using numerical methods", "confidence": "medium"}
+{"feat": "30-F101634", "explanation": "Matrix zero entries", "confidence": "Medium"}
+{"feat": "30-F73829", "explanation": "even number definition", "confidence": "Medium"}
+{"feat": "30-F97108", "explanation": "mojibake replacement characters", "confidence": "Medium"}
+{"feat": "30-F101785", "explanation": "Matrix rows and columns", "confidence": "High"}
+{"feat": "30-F102135", "explanation": "complex number operations", "confidence": "Medium"}
+{"feat": "30-F103715", "explanation": "quadratic discriminant classification", "confidence": "High"}
+{"feat": "30-F103262", "explanation": "article title headings", "confidence": "Medium"}
+{"feat": "30-F77405", "explanation": "base-b arithmetic", "confidence": "Medium"}
+{"feat": "30-F104446", "explanation": "Say chemistry terminology", "confidence": "Medium"}
+{"feat": "30-F104848", "explanation": "three-digit numbers", "confidence": "Medium"}
+{"feat": "30-F105594", "explanation": "Arithmetic answer question", "confidence": "Medium"}
+{"feat": "30-F84287", "explanation": "numeric range expressions", "confidence": "Medium"}
+{"feat": "30-F108169", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F104180", "explanation": "polynomial multiplication steps", "confidence": "Medium"}
+{"feat": "30-F87592", "explanation": "LaTeX matrix notation", "confidence": "High"}
+{"feat": "30-F108909", "explanation": "LaTeX matrix notation", "confidence": "Medium"}
+{"feat": "30-F107498", "explanation": "fraction slash", "confidence": "Medium"}
+{"feat": "30-F88981", "explanation": "LaTeX matrix environments", "confidence": "High"}
+{"feat": "30-F108033", "explanation": "math educational questions", "confidence": "Medium"}
+{"feat": "30-F90776", "explanation": "matrix dimension specification", "confidence": "Medium"}
+{"feat": "30-F112585", "explanation": "mathematical vectors", "confidence": "High"}
+{"feat": "30-F113790", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F108383", "explanation": "preschool math activities", "confidence": "Medium"}
+{"feat": "30-F114102", "explanation": "exponentiation by squaring", "confidence": "High"}
+{"feat": "30-F110511", "explanation": "Powers of ten arithmetic", "confidence": "High"}
+{"feat": "30-F113231", "explanation": "arithmetic computation steps", "confidence": "Medium"}
+{"feat": "30-F113706", "explanation": "math tutorial pages", "confidence": "Medium"}
+{"feat": "30-F91494", "explanation": "decimal zero in floats", "confidence": "Medium"}
+{"feat": "30-F95046", "explanation": "Math equation solutions", "confidence": "Medium"}
+{"feat": "30-F116011", "explanation": "arithmetic self-correction", "confidence": "Medium"}
+{"feat": "30-F115277", "explanation": "extended Euclidean algorithm", "confidence": "High"}
+{"feat": "30-F114356", "explanation": "programming solution planning", "confidence": "Medium"}
+{"feat": "30-F115558", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F116992", "explanation": "Long division calculation", "confidence": "Medium"}
+{"feat": "30-F114272", "explanation": "function invertibility conditions", "confidence": "Medium"}
+{"feat": "30-F95622", "explanation": "academic technical formatting", "confidence": "Medium"}
+{"feat": "30-F117536", "explanation": "algebra inequality problems", "confidence": "Medium"}
+{"feat": "30-F116865", "explanation": "solving polynomial equations", "confidence": "Medium"}
+{"feat": "30-F121389", "explanation": "Quadratic equation notation", "confidence": "Medium"}
+{"feat": "30-F116286", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F116270", "explanation": "Use Euclidean algorithm", "confidence": "Medium"}
+{"feat": "30-F120397", "explanation": "vector calculus determinants", "confidence": "Medium"}
+{"feat": "30-F123941", "explanation": "Say opening parentheses", "confidence": "High"}
+{"feat": "30-F123384", "explanation": "linear programming steps", "confidence": "Medium"}
+{"feat": "30-F124298", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F121535", "explanation": "Mathematical “general”", "confidence": "Medium"}
+{"feat": "30-F102948", "explanation": "Division in formulas", "confidence": "Medium"}
+{"feat": "30-F126938", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F127441", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F117630", "explanation": "LaTeX math delimiters", "confidence": "Medium"}
+{"feat": "30-F130275", "explanation": "Mathematical non-prefix terms", "confidence": "high"}
+{"feat": "30-F121865", "explanation": "digit 1", "confidence": "Medium"}
+{"feat": "30-F127396", "explanation": "change-of-basis matrices", "confidence": "High"}
+{"feat": "30-F106158", "explanation": "Algorithmic computation", "confidence": "Medium"}
+{"feat": "30-F122140", "explanation": "floating-point decimal notation", "confidence": "High"}
+{"feat": "30-F128486", "explanation": "quadratic function wording", "confidence": "High"}
+{"feat": "30-F126729", "explanation": "PowerPoint presentation pages", "confidence": "High"}
+{"feat": "30-F106060", "explanation": "divisibility checking arithmetic", "confidence": "Medium"}
+{"feat": "30-F132060", "explanation": "Function evaluation inputs", "confidence": "Medium"}
+{"feat": "30-F128510", "explanation": "Decimal/fractional numbers", "confidence": "Medium"}
+{"feat": "30-F108620", "explanation": "Don't Say MATLAB commands", "confidence": "Medium"}
+{"feat": "30-F129871", "explanation": "Decimal section numbering", "confidence": "High"}
+{"feat": "30-F108826", "explanation": "review rating fractions", "confidence": "Medium"}
+{"feat": "30-F132676", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F130929", "explanation": "lowercase letter e", "confidence": "High"}
+{"feat": "30-F130930", "explanation": "arithmetic divisibility checks", "confidence": "Medium"}
+{"feat": "30-F110605", "explanation": "quadratic function formula", "confidence": "Medium"}
+{"feat": "30-F136427", "explanation": "step-by-step math derivation", "confidence": "medium"}
+{"feat": "30-F132550", "explanation": "rational function asymptotes", "confidence": "High"}
+{"feat": "30-F134184", "explanation": "prime factorization steps", "confidence": "Medium"}
+{"feat": "30-F128897", "explanation": "STEM problem-solving explanations", "confidence": "Medium"}
+{"feat": "30-F130369", "explanation": "paragraph-ending period", "confidence": "Medium"}
+{"feat": "30-F100109", "explanation": "Horizontal asymptotes", "confidence": "High"}
+{"feat": "30-F93578", "explanation": "student coursework excerpts", "confidence": "Medium"}
+{"feat": "30-F134885", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F134190", "explanation": "orthogonal matrix definitions", "confidence": "Medium"}
+{"feat": "30-F135638", "explanation": "interval terminology", "confidence": "Medium"}
+{"feat": "30-F134285", "explanation": "mathematical symbol definitions", "confidence": "High"}
+{"feat": "30-F138178", "explanation": "Truncation operation", "confidence": "High"}
+{"feat": "30-F118999", "explanation": "stepwise addition", "confidence": "Medium"}
+{"feat": "30-F140820", "explanation": "base conversion problems", "confidence": "Medium"}
+{"feat": "30-F135423", "explanation": "quadratic optimization word problems", "confidence": "Medium"}
+{"feat": "30-F139639", "explanation": "2x2 matrix inverse formula", "confidence": "High"}
+{"feat": "30-F136294", "explanation": "Decimal fractions to binary", "confidence": "High"}
+{"feat": "30-F140826", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F117369", "explanation": "quadratic vertex problems", "confidence": "Medium"}
+{"feat": "30-F123022", "explanation": "magic squares", "confidence": "High"}
+{"feat": "30-F138140", "explanation": "repeating decimal digits", "confidence": "Medium"}
+{"feat": "30-F142065", "explanation": "last digit arithmetic", "confidence": "Medium"}
+{"feat": "30-F143825", "explanation": "homogeneous solution decomposition", "confidence": "High"}
+{"feat": "30-F140102", "explanation": "Algebra word problem conditions", "confidence": "Medium"}
+{"feat": "30-F147237", "explanation": "LaTeX matrix alignment", "confidence": "High"}
+{"feat": "30-F145125", "explanation": "Binet Fibonacci formula", "confidence": "Medium"}
+{"feat": "30-F145526", "explanation": "negative-base conversion", "confidence": "Medium"}
+{"feat": "30-F152078", "explanation": "Code indentation", "confidence": "high"}
+{"feat": "30-F142775", "explanation": "sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F138380", "explanation": "multiplication problem solving", "confidence": "Medium"}
+{"feat": "30-F147989", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F145135", "explanation": "mathematical subscript underscores", "confidence": "Medium"}
+{"feat": "30-F126421", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F151137", "explanation": "Cube root calculations", "confidence": "Medium"}
+{"feat": "30-F148164", "explanation": "Polynomial long division", "confidence": "High"}
+{"feat": "30-F150889", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F127397", "explanation": "floating-point numeric ranges", "confidence": "High"}
+{"feat": "30-F129304", "explanation": "scientific notation", "confidence": "High"}
+{"feat": "30-F153580", "explanation": "integer division quotient", "confidence": "High"}
+{"feat": "30-F148568", "explanation": "blank line separator", "confidence": "Medium"}
+{"feat": "30-F151821", "explanation": "3x3 determinant formula", "confidence": "High"}
+{"feat": "30-F151988", "explanation": "gcd computation", "confidence": "High"}
+{"feat": "30-F152804", "explanation": "LaTeX eigenvalue determinants", "confidence": "High"}
+{"feat": "30-F133076", "explanation": "Base-N number notation", "confidence": "Medium"}
+{"feat": "30-F156247", "explanation": "geometric sequences", "confidence": "High"}
+{"feat": "30-F93230", "explanation": "mathematical equation discussion", "confidence": "Medium"}
+{"feat": "30-F156761", "explanation": "Say vector terminology", "confidence": "High"}
+{"feat": "30-F157338", "explanation": "one decimal place formatting", "confidence": "High"}
+{"feat": "30-F155746", "explanation": "polynomial evaluation formulas", "confidence": "Medium"}
+{"feat": "30-F156605", "explanation": "x-coordinate geometry", "confidence": "Medium"}
+{"feat": "30-F158295", "explanation": "square root", "confidence": "High"}
+{"feat": "30-F154769", "explanation": "Python float validation", "confidence": "Medium"}
+{"feat": "30-F167151", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F158722", "explanation": "Real numbers", "confidence": "High"}
+{"feat": "30-F151577", "explanation": "Mojibake math notation", "confidence": "Medium"}
+{"feat": "30-F154094", "explanation": "mathematical computation", "confidence": "Medium"}
+{"feat": "30-F156099", "explanation": "repeated division algorithm", "confidence": "Medium"}
+{"feat": "30-F158456", "explanation": "real numbers", "confidence": "High"}
+{"feat": "30-F154124", "explanation": "Polynomial plus separators", "confidence": "Medium"}
+{"feat": "30-F161379", "explanation": "Linear equation prompts", "confidence": "High"}
+{"feat": "30-F157528", "explanation": "LaTeX polynomial equations", "confidence": "Medium"}
+{"feat": "30-F117424", "explanation": "Matrix puzzle prompts", "confidence": "Medium"}
+{"feat": "30-F134546", "explanation": "numerical ODE methods", "confidence": "Medium"}
+{"feat": "30-F160933", "explanation": "2D array indexing", "confidence": "Medium"}
+{"feat": "30-F165336", "explanation": "matrix multiplication columns", "confidence": "High"}
+{"feat": "30-F171911", "explanation": "floating-point division", "confidence": "High"}
+{"feat": "30-F170460", "explanation": "Real numbers in math", "confidence": "Medium"}
+{"feat": "30-F169323", "explanation": "Indented math workings", "confidence": "Medium"}
+{"feat": "30-F161666", "explanation": "arithmetic multiplication steps", "confidence": "Medium"}
+{"feat": "30-F165345", "explanation": "matrix dimension notation", "confidence": "High"}
+{"feat": "30-F173083", "explanation": "math calculation tasks", "confidence": "Medium"}
+{"feat": "30-F165155", "explanation": "step-by-step addition", "confidence": "Medium"}
+{"feat": "30-F168101", "explanation": "leading digit nonzero", "confidence": "High"}
+{"feat": "30-F173488", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F172248", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F162649", "explanation": "parenthetical may include clauses", "confidence": "Medium"}
+{"feat": "30-F175584", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F173810", "explanation": "verification / checking", "confidence": "Medium"}
+{"feat": "30-F173242", "explanation": "contradiction detection", "confidence": "Medium"}
+{"feat": "30-F175724", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F143947", "explanation": "article author metadata", "confidence": "Medium"}
+{"feat": "30-F175497", "explanation": "matrix entry separators", "confidence": "Medium"}
+{"feat": "30-F178172", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F141606", "explanation": "linear algebra matrices", "confidence": "Medium"}
+{"feat": "30-F124505", "explanation": "number conversion pages", "confidence": "Medium"}
+{"feat": "30-F175475", "explanation": "divisibility by 11", "confidence": "Medium"}
+{"feat": "30-F176465", "explanation": "Numbers in math contexts", "confidence": "Medium"}
+{"feat": "30-F180124", "explanation": "synthetic division layout", "confidence": "High"}
+{"feat": "30-F182720", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F177060", "explanation": "multiplication operation", "confidence": "Medium"}
+{"feat": "30-F178048", "explanation": "Solve for x prompt", "confidence": "High"}
+{"feat": "30-F151687", "explanation": "fraction decimal equality", "confidence": "Medium"}
+{"feat": "30-F184379", "explanation": "base digit validity", "confidence": "High"}
+{"feat": "30-F183504", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F183090", "explanation": "exponentiation arithmetic", "confidence": "Medium"}
+{"feat": "30-F184714", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F184671", "explanation": "math namespace/library", "confidence": "High"}
+{"feat": "30-F183260", "explanation": "given following conditions", "confidence": "Medium"}
+{"feat": "30-F183242", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F187418", "explanation": "Gaussian elimination steps", "confidence": "High"}
+{"feat": "30-F185446", "explanation": "simplifying square roots", "confidence": "Medium"}
+{"feat": "30-F153558", "explanation": "cubic real-root problems", "confidence": "Medium"}
+{"feat": "30-F188310", "explanation": "finite mathematical constructs", "confidence": "Medium"}
+{"feat": "30-F188652", "explanation": "Don't Say modular arithmetic", "confidence": "Medium"}
+{"feat": "30-F181049", "explanation": "a_i sequence notation", "confidence": "Low"}
+{"feat": "30-F193083", "explanation": "Huge Fibonacci numbers", "confidence": "High"}
+{"feat": "30-F186225", "explanation": "rearrange instruction", "confidence": "Medium"}
+{"feat": "30-F193589", "explanation": "Linear Diophantine variables", "confidence": "Medium"}
+{"feat": "30-F189384", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F189365", "explanation": "derivative computation prompt", "confidence": "Medium"}
+{"feat": "30-F191748", "explanation": "math worksheet content", "confidence": "Medium"}
+{"feat": "30-F192621", "explanation": "elementary algebra equations", "confidence": "Medium"}
+{"feat": "30-F193614", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F159251", "explanation": "Hessian determinant", "confidence": "High"}
+{"feat": "30-F193049", "explanation": "round to nearest", "confidence": "Medium"}
+{"feat": "30-F191796", "explanation": "online algebra resources", "confidence": "Medium"}
+{"feat": "30-F194410", "explanation": "Coefficient list separator", "confidence": "Medium"}
+{"feat": "30-F170116", "explanation": "number base notation", "confidence": "Medium"}
+{"feat": "30-F194899", "explanation": "Khan Academy math lessons", "confidence": "High"}
+{"feat": "30-F197050", "explanation": "Negative exponent examples", "confidence": "Medium"}
+{"feat": "30-F196243", "explanation": "Negating quadratic to simplify", "confidence": "Medium"}
+{"feat": "30-F197425", "explanation": "Don't Say division terms", "confidence": "Medium"}
+{"feat": "30-F199355", "explanation": "Don't Say tables", "confidence": "High"}
+{"feat": "30-F174996", "explanation": "Vieta sign correction", "confidence": "Medium"}
+{"feat": "30-F198466", "explanation": "Arithmetic range limits", "confidence": "Medium"}
+{"feat": "30-F176505", "explanation": "Scientific notation parsing", "confidence": "High"}
+{"feat": "30-F206926", "explanation": "PDF download pages", "confidence": "High"}
+{"feat": "30-F200953", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F206925", "explanation": "correctness confirmation", "confidence": "Low"}
+{"feat": "30-F200622", "explanation": "Sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F215328", "explanation": "comment section formatting", "confidence": "medium"}
+{"feat": "30-F150168", "explanation": "Literal “times”", "confidence": "High"}
+{"feat": "30-F177209", "explanation": "Euclidean algorithm division", "confidence": "Medium"}
+{"feat": "30-F199544", "explanation": "Graph function math", "confidence": "Medium"}
+{"feat": "30-F209290", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F181115", "explanation": "round to two decimals", "confidence": "High"}
+{"feat": "30-F208852", "explanation": "Single digit numerals", "confidence": "Medium"}
+{"feat": "30-F207258", "explanation": "greater-than inequality", "confidence": "Medium"}
+{"feat": "30-F180172", "explanation": "by theorem justification", "confidence": "Medium"}
+{"feat": "30-F202945", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F181409", "explanation": "LaTeX matrix notation", "confidence": "High"}
+{"feat": "30-F202701", "explanation": "Line-initial numbers", "confidence": "Medium"}
+{"feat": "30-F208200", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F210776", "explanation": "Python 3 float division", "confidence": "High"}
+{"feat": "30-F208835", "explanation": "Indented division code", "confidence": "Medium"}
+{"feat": "30-F210311", "explanation": "place value concept", "confidence": "High"}
+{"feat": "30-F201540", "explanation": "Say punctuation newline", "confidence": "Medium"}
+{"feat": "30-F219601", "explanation": "Parenthesized arithmetic calculation", "confidence": "medium"}
+{"feat": "30-F215392", "explanation": "asymptotes in rational functions", "confidence": "Medium"}
+{"feat": "30-F178783", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F215032", "explanation": "long division instructions", "confidence": "Medium"}
+{"feat": "30-F212930", "explanation": "mathematical expression", "confidence": "Medium"}
+{"feat": "30-F208169", "explanation": "Mojibake date separator", "confidence": "Medium"}
+{"feat": "30-F217108", "explanation": "large quantities", "confidence": "Medium"}
+{"feat": "30-F217216", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F216176", "explanation": "Transfer functions", "confidence": "High"}
+{"feat": "30-F218762", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F217594", "explanation": "square root input variable", "confidence": "Medium"}
+{"feat": "30-F187315", "explanation": "division approximation calculations", "confidence": "Low"}
+{"feat": "30-F224682", "explanation": "Cartesian coordinate geometry", "confidence": "High"}
+{"feat": "30-F215938", "explanation": "linear algebra eigenvalues", "confidence": "Medium"}
+{"feat": "30-F218186", "explanation": "modular inverse congruences", "confidence": "Medium"}
+{"feat": "30-F219529", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F217681", "explanation": "mathematical textbook exposition", "confidence": "Medium"}
+{"feat": "30-F217859", "explanation": "decimal numeric literals", "confidence": "Medium"}
+{"feat": "30-F225241", "explanation": "decimal digits precision", "confidence": "High"}
+{"feat": "30-F219380", "explanation": "degree limits roots", "confidence": "Medium"}
+{"feat": "30-F227353", "explanation": "recurrence characteristic equations", "confidence": "Medium"}
+{"feat": "30-F220276", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F226703", "explanation": "Solving matrix equations", "confidence": "High"}
+{"feat": "30-F225175", "explanation": "post-thinking answer start", "confidence": "Medium"}
+{"feat": "30-F227991", "explanation": "arithmetic sequence term counting", "confidence": "High"}
+{"feat": "30-F229809", "explanation": "Polynomial exponent notation", "confidence": "Medium"}
+{"feat": "30-F219398", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F231475", "explanation": "Say geometry terminology", "confidence": "High"}
+{"feat": "30-F228916", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F197042", "explanation": "rational root factoring strategy", "confidence": "Medium"}
+{"feat": "30-F235334", "explanation": "Using approximate logarithm values", "confidence": "Medium"}
+{"feat": "30-F195917", "explanation": "engineering unit calculators", "confidence": "Medium"}
+{"feat": "30-F233903", "explanation": "product of list elements", "confidence": "High"}
+{"feat": "30-F231300", "explanation": "Let me calculate", "confidence": "Medium"}
+{"feat": "30-F226542", "explanation": "mathematical exposition", "confidence": "Medium"}
+{"feat": "30-F232220", "explanation": "code block indentation", "confidence": "Medium"}
+{"feat": "30-F232977", "explanation": "Gaussian elimination code", "confidence": "Medium"}
+{"feat": "30-F228998", "explanation": "math solver SEO pages", "confidence": "Medium"}
+{"feat": "30-F233940", "explanation": "Polynomial constant term", "confidence": "Medium"}
+{"feat": "30-F236735", "explanation": "quadratic functions", "confidence": "Medium"}
+{"feat": "30-F203865", "explanation": "Newton-Raphson method", "confidence": "High"}
+{"feat": "30-F238167", "explanation": "Find a phrase", "confidence": "High"}
+{"feat": "30-F237575", "explanation": "polynomial long division", "confidence": "Medium"}
+{"feat": "30-F238532", "explanation": "Polynomial exponent notation", "confidence": "Medium"}
+{"feat": "30-F239843", "explanation": "recursive algorithms", "confidence": "Medium"}
+{"feat": "30-F237016", "explanation": "Posted by date header", "confidence": "High"}
+{"feat": "30-F243830", "explanation": "Systems of linear equations", "confidence": "high"}
+{"feat": "30-F242729", "explanation": "Modular arithmetic modulo", "confidence": "High"}
+{"feat": "30-F245297", "explanation": "Arithmetic step colon", "confidence": "medium"}
+{"feat": "30-F242140", "explanation": "quartic equations", "confidence": "High"}
+{"feat": "30-F240168", "explanation": "speculative error hypothesis", "confidence": "Medium"}
+{"feat": "30-F241671", "explanation": "Now, math transition", "confidence": "Medium"}
+{"feat": "30-F244405", "explanation": "Say period", "confidence": "Medium"}
+{"feat": "30-F243294", "explanation": "Don't Say numerator", "confidence": "Low"}
+{"feat": "30-F238707", "explanation": "as possible comparison", "confidence": "Low"}
+{"feat": "30-F244410", "explanation": "Quadratic equation roots", "confidence": "High"}
+{"feat": "30-F243699", "explanation": "caret exponent notation", "confidence": "Medium"}
+{"feat": "30-F237912", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F248369", "explanation": "polynomial term annotations", "confidence": "Medium"}
+{"feat": "30-F211260", "explanation": "least squares linear algebra", "confidence": "Medium"}
+{"feat": "30-F248775", "explanation": "blog comment sections", "confidence": "Medium"}
+{"feat": "30-F248131", "explanation": "Say Let me compute", "confidence": "Medium"}
+{"feat": "30-F216203", "explanation": "Say opening parenthesis", "confidence": "Medium"}
+{"feat": "30-F248913", "explanation": "number of digits formula", "confidence": "High"}
+{"feat": "30-F249681", "explanation": "diagonal matrices", "confidence": "Medium"}
+{"feat": "30-F243006", "explanation": "garbled medical spam", "confidence": "Medium"}
+{"feat": "30-F258710", "explanation": "Decimal expansion of fractions", "confidence": "medium"}
+{"feat": "30-F224477", "explanation": "math worksheet instructions", "confidence": "High"}
+{"feat": "30-F249041", "explanation": "Algorithm feasibility reasoning", "confidence": "Medium"}
+{"feat": "30-F216991", "explanation": "dated PDF spam pages", "confidence": "Medium"}
+{"feat": "30-F251170", "explanation": "math imperative Use", "confidence": "Medium"}
+{"feat": "30-F251847", "explanation": "numerical computation", "confidence": "Medium"}
+{"feat": "30-F254013", "explanation": "2D matrix variable", "confidence": "Medium"}
+{"feat": "30-F253438", "explanation": "Graphing numerical roots", "confidence": "High"}
+{"feat": "30-F254390", "explanation": "multiplication algorithms", "confidence": "High"}
+{"feat": "30-F252052", "explanation": "calculus derivative analysis", "confidence": "Medium"}
+{"feat": "30-F229056", "explanation": "Digit 9", "confidence": "Medium"}
+{"feat": "30-F253097", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F256155", "explanation": "calculus textbook exposition", "confidence": "Medium"}
+{"feat": "30-F259115", "explanation": "floating-point numbers", "confidence": "High"}
+{"feat": "30-F257369", "explanation": "absolute value", "confidence": "Medium"}
+{"feat": "30-F260297", "explanation": "Polynomial factoring", "confidence": "High"}
+{"feat": "30-F259140", "explanation": "2x2 matrix multiplication", "confidence": "Medium"}
+{"feat": "30-F259841", "explanation": "Repeating decimal conversion", "confidence": "Medium"}
+{"feat": "30-F261436", "explanation": "Calculus optimization steps", "confidence": "Medium"}
+{"feat": "30-F262280", "explanation": "digits after decimal point", "confidence": "Medium"}
+{"feat": "30-F241279", "explanation": "Arithmetic digit 5", "confidence": "Medium"}
+{"feat": "30-F241318", "explanation": "number is prime", "confidence": "Medium"}
+{"feat": "30-F262064", "explanation": "matrix diagonal operations", "confidence": "Medium"}
+{"feat": "30-F238892", "explanation": "negative-base exponent notation", "confidence": "Medium"}
+{"feat": "30-F269753", "explanation": "Phrase “of the”", "confidence": "medium"}
+{"feat": "30-F265094", "explanation": "worked arithmetic steps", "confidence": "Medium"}
+{"feat": "30-F267588", "explanation": "Sentence-ending period", "confidence": "Medium"}
+{"feat": "30-F261113", "explanation": "SEO spam formatting", "confidence": "Medium"}
+{"feat": "30-F266890", "explanation": "Matrix notation", "confidence": "High"}
+{"feat": "30-F265319", "explanation": "Fibonacci sequence", "confidence": "Medium"}
+{"feat": "30-F267729", "explanation": "quadratic equation solving", "confidence": "Medium"}
+{"feat": "30-F268396", "explanation": "LaTeX matrix begin brace", "confidence": "High"}
+{"feat": "30-F249641", "explanation": "Divisibility test separators", "confidence": "Medium"}
+{"feat": "30-F269713", "explanation": "Polynomial equation statements", "confidence": "Medium"}
+{"feat": "30-F269818", "explanation": "function derivative task", "confidence": "Medium"}
+{"feat": "30-F268731", "explanation": "Testing with example values", "confidence": "Medium"}
+{"feat": "30-F256995", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F271378", "explanation": "alternative solution methods", "confidence": "Medium"}
+{"feat": "30-F254447", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F271013", "explanation": "Matrix multiplication dot product", "confidence": "High"}
+{"feat": "30-F272632", "explanation": "digit-count numbers", "confidence": "High"}
+{"feat": "30-F276163", "explanation": "advanced mathematical modeling", "confidence": "High"}
+{"feat": "30-F231669", "explanation": "decimal place adjustment", "confidence": "High"}
+{"feat": "30-F272275", "explanation": "Statistics and variance", "confidence": "Medium"}
+{"feat": "30-F278187", "explanation": "math worksheet instructions", "confidence": "High"}
+{"feat": "30-F254901", "explanation": "Rated based on reviews", "confidence": "High"}
+{"feat": "30-F282793", "explanation": "Python division returns float", "confidence": "medium"}
+{"feat": "30-F277507", "explanation": "SEO content farm text", "confidence": "Medium"}
+{"feat": "30-F280485", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F235296", "explanation": "mathematical inverses", "confidence": "Medium"}
+{"feat": "30-F280528", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F259079", "explanation": "sentence-ending periods", "confidence": "Medium"}
+{"feat": "30-F274406", "explanation": "PDF/webpage formatting artifacts", "confidence": "Medium"}
+{"feat": "30-F263151", "explanation": "Say normal cdf table", "confidence": "High"}
+{"feat": "30-F279592", "explanation": "XOR equals zero condition", "confidence": "Medium"}
+{"feat": "30-F281902", "explanation": "calculator arithmetic operations", "confidence": "Medium"}
+{"feat": "30-F281303", "explanation": "elementary math problems", "confidence": "Medium"}
+{"feat": "30-F282010", "explanation": "function graph comparisons", "confidence": "Medium"}
+{"feat": "30-F282258", "explanation": "mathematical pattern recognition", "confidence": "Medium"}
+{"feat": "30-F282405", "explanation": "LCM problem solving", "confidence": "Medium"}
+{"feat": "30-F283567", "explanation": "two decimal places", "confidence": "High"}
+{"feat": "30-F284099", "explanation": "Elementary number concepts", "confidence": "Medium"}
+{"feat": "30-F267482", "explanation": "factorial trailing zeros", "confidence": "Medium"}
+{"feat": "30-F243515", "explanation": "quadratic vertex solution setup", "confidence": "Medium"}
+{"feat": "30-F243313", "explanation": "rounding up decimals", "confidence": "Medium"}
+{"feat": "30-F284615", "explanation": "modular inverse justification", "confidence": "Medium"}
+{"feat": "30-F284528", "explanation": "Base conversion remainders", "confidence": "High"}
+{"feat": "30-F284874", "explanation": "Exponentiation phrasing", "confidence": "High"}
+{"feat": "30-F284299", "explanation": "recalling learned methods", "confidence": "Medium"}
+{"feat": "30-F282325", "explanation": "Jordan block eigenvalues", "confidence": "High"}
+{"feat": "30-F284908", "explanation": "Multiplication operator in code", "confidence": "High"}
+{"feat": "30-F284414", "explanation": "circulant matrix definition", "confidence": "High"}
+{"feat": "30-F288796", "explanation": "Python modulo operator", "confidence": "High"}
+{"feat": "30-F289417", "explanation": "odd and even numbers", "confidence": "Medium"}
+{"feat": "30-F268945", "explanation": "power series ODE solutions", "confidence": "High"}
+{"feat": "30-F288898", "explanation": "Say ellipsis", "confidence": "Medium"}
+{"feat": "30-F283355", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F285364", "explanation": "answer should be template", "confidence": "Low"}
+{"feat": "30-F250338", "explanation": "exhaustive quantifier all", "confidence": "High"}
+{"feat": "30-F290574", "explanation": "multi-digit arithmetic worksheets", "confidence": "High"}
+{"feat": "30-F286324", "explanation": "Causal since reasoning", "confidence": "Medium"}
+{"feat": "30-F293031", "explanation": "numeric input validation", "confidence": "Medium"}
+{"feat": "30-F291901", "explanation": "Say sum", "confidence": "High"}
+{"feat": "30-F288417", "explanation": "square matrix dimensions", "confidence": "Medium"}
+{"feat": "30-F288441", "explanation": "mathematical number domains", "confidence": "Medium"}
+{"feat": "30-F293428", "explanation": "synthetic division with root", "confidence": "Medium"}
+{"feat": "30-F289687", "explanation": "causal explanation marker", "confidence": "Medium"}
+{"feat": "30-F296346", "explanation": "Don't Say units", "confidence": "Medium"}
+{"feat": "30-F250865", "explanation": "base conversion division steps", "confidence": "High"}
+{"feat": "30-F293590", "explanation": "polynomial coefficient notation", "confidence": "Medium"}
+{"feat": "30-F294705", "explanation": "worksheet SEO pages", "confidence": "Medium"}
+{"feat": "30-F294953", "explanation": "NumPy/PyTorch matrix code", "confidence": "Medium"}
+{"feat": "30-F295311", "explanation": "Digit 1 in examples", "confidence": "Medium"}
+{"feat": "30-F295998", "explanation": "optimization verification alternatives", "confidence": "Medium"}
+{"feat": "30-F273451", "explanation": "powers of 2 and 5", "confidence": "Medium"}
+{"feat": "30-F298525", "explanation": "concatenation operation", "confidence": "Medium"}
+{"feat": "30-F293942", "explanation": "Say replacement character", "confidence": "High"}
+{"feat": "30-F293630", "explanation": "Mathematical calculation formatting", "confidence": "Low"}
+{"feat": "30-F296765", "explanation": "complex numbers unordered", "confidence": "High"}
+{"feat": "30-F297459", "explanation": "approximate decimal result caveat", "confidence": "Medium"}
+{"feat": "30-F299571", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F308671", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F299096", "explanation": "Please determine instruction", "confidence": "Medium"}
+{"feat": "30-F303829", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F303517", "explanation": "mathematical range notation", "confidence": "Medium"}
+{"feat": "30-F303695", "explanation": "Expressed as a fraction", "confidence": "Medium"}
+{"feat": "30-F302995", "explanation": "mathematical number explanations", "confidence": "Medium"}
+{"feat": "30-F281769", "explanation": "Python int base argument", "confidence": "High"}
+{"feat": "30-F303815", "explanation": "floating point precision issues", "confidence": "High"}
+{"feat": "30-F304046", "explanation": "introducing worked examples", "confidence": "Medium"}
+{"feat": "30-F305426", "explanation": "critical point solving", "confidence": "Medium"}
+{"feat": "30-F306423", "explanation": "matrix exponentiation", "confidence": "High"}
+{"feat": "30-F281268", "explanation": "opening square bracket", "confidence": "Medium"}
+{"feat": "30-F306301", "explanation": "online math calculators", "confidence": "Medium"}
+{"feat": "30-F308895", "explanation": "Floating-point overflow", "confidence": "High"}
+{"feat": "30-F302826", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F307081", "explanation": "Vietnamese arithmetic problems", "confidence": "High"}
+{"feat": "30-F308426", "explanation": "constant-time matrix multiplication", "confidence": "Medium"}
+{"feat": "30-F268199", "explanation": "Rounding to two decimals", "confidence": "Medium"}
+{"feat": "30-F306530", "explanation": "LaTeX math syntax", "confidence": "Medium"}
+{"feat": "30-F304466", "explanation": "infinite geometric series", "confidence": "High"}
+{"feat": "30-F311640", "explanation": "purely repeating base expansions", "confidence": "Medium"}
+{"feat": "30-F309364", "explanation": "quadratic root conditions", "confidence": "Medium"}
+{"feat": "30-F317521", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F310501", "explanation": "division operator slash", "confidence": "High"}
+{"feat": "30-F311755", "explanation": "math tutorial instructions", "confidence": "Medium"}
+{"feat": "30-F286689", "explanation": "decimal point in floats", "confidence": "High"}
+{"feat": "30-F315106", "explanation": "math calculator keyword lists", "confidence": "Medium"}
+{"feat": "30-F318597", "explanation": "Add two partial products", "confidence": "Medium"}
+{"feat": "30-F320554", "explanation": "Single-letter algebra variables", "confidence": "Medium"}
+{"feat": "30-F320119", "explanation": "rounding numerical values", "confidence": "High"}
+{"feat": "30-F319837", "explanation": "No fractional part", "confidence": "High"}
+{"feat": "30-F319421", "explanation": "Rational Root Theorem", "confidence": "Medium"}
+{"feat": "30-F252875", "explanation": "long division steps", "confidence": "High"}
+{"feat": "30-F323072", "explanation": "linear approximation", "confidence": "High"}
+{"feat": "30-F319750", "explanation": "Arithmetic justification because", "confidence": "Medium"}
+{"feat": "30-F318794", "explanation": "Digit 1 numerals", "confidence": "Medium"}
+{"feat": "30-F300042", "explanation": "Least/greatest common factors", "confidence": "High"}
+{"feat": "30-F321948", "explanation": "descending polynomial order", "confidence": "High"}
+{"feat": "30-F322845", "explanation": "partial differential equations", "confidence": "Medium"}
+{"feat": "30-F300117", "explanation": "Quadratic inequality solutions", "confidence": "Medium"}
+{"feat": "30-F299228", "explanation": "fraction arithmetic", "confidence": "Medium"}
+{"feat": "30-F278752", "explanation": "binary search algorithms", "confidence": "High"}
+{"feat": "30-F322117", "explanation": "calculus / precalculus topics", "confidence": "Medium"}
+{"feat": "30-F325051", "explanation": "Python float division", "confidence": "High"}
+{"feat": "30-F326822", "explanation": "2x2 matrix multiplication code", "confidence": "High"}
+{"feat": "30-F329968", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F327483", "explanation": "Base conversion division algorithm", "confidence": "Medium"}
+{"feat": "30-F327054", "explanation": "Bilinear z-transform mapping", "confidence": "High"}
+{"feat": "30-F330236", "explanation": "common denominators", "confidence": "Medium"}
+{"feat": "30-F327647", "explanation": "arithmetic operators", "confidence": "Medium"}
+{"feat": "30-F328865", "explanation": "division word problems", "confidence": "Medium"}
+{"feat": "30-F331766", "explanation": "Decimal values", "confidence": "Medium"}
+{"feat": "30-F328309", "explanation": "calculus word problems", "confidence": "Medium"}
+{"feat": "30-F331352", "explanation": "quartic/quintic polynomials", "confidence": "Medium"}
+{"feat": "30-F333153", "explanation": "Say since", "confidence": "Medium"}
+{"feat": "30-F332915", "explanation": "Fundamental Theorem of Calculus", "confidence": "High"}
+{"feat": "30-F308678", "explanation": "Math word problem questions", "confidence": "Medium"}
+{"feat": "30-F310416", "explanation": "number definitions", "confidence": "Medium"}
+{"feat": "30-F332568", "explanation": "invalid single-digit values", "confidence": "Medium"}
+{"feat": "30-F314699", "explanation": "decimal places", "confidence": "Medium"}
+{"feat": "30-F335483", "explanation": "Eliminate variables", "confidence": "High"}
+{"feat": "30-F329282", "explanation": "diagonal matrices", "confidence": "High"}
+{"feat": "30-F315290", "explanation": "digit notation", "confidence": "High"}
+{"feat": "30-F334530", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F332324", "explanation": "Rating and reviews format", "confidence": "High"}
+{"feat": "30-F334316", "explanation": "control systems theory", "confidence": "Medium"}
+{"feat": "30-F335230", "explanation": "Keep as fraction", "confidence": "Medium"}
+{"feat": "30-F333186", "explanation": "generalized eigenvalue problems", "confidence": "High"}
+{"feat": "30-F312249", "explanation": "speculative reinterpretation", "confidence": "Medium"}
+{"feat": "30-F318267", "explanation": "online math calculators", "confidence": "High"}
+{"feat": "30-F338285", "explanation": "Left-hand side abbreviation", "confidence": "High"}
+{"feat": "30-F318703", "explanation": "Calculation convenience rationale", "confidence": "Medium"}
+{"feat": "30-F339156", "explanation": "scientific education content", "confidence": "Medium"}
+{"feat": "30-F339187", "explanation": "algebra lesson terminology", "confidence": "Medium"}
+{"feat": "30-F339704", "explanation": "addition/subtraction instructions", "confidence": "Medium"}
+{"feat": "30-F321018", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F307430", "explanation": "garbled web text", "confidence": "Medium"}
+{"feat": "30-F341794", "explanation": "complex-number plus sign", "confidence": "Medium"}
+{"feat": "30-F341129", "explanation": "Forex spam pages", "confidence": "Medium"}
+{"feat": "30-F342202", "explanation": "Malformed download pages", "confidence": "Medium"}
+{"feat": "30-F343030", "explanation": "Polynomial degree comparisons", "confidence": "Medium"}
+{"feat": "30-F342390", "explanation": "multiplication expressions", "confidence": "High"}
+{"feat": "30-F342673", "explanation": "mathematical division by", "confidence": "Medium"}
+{"feat": "30-F346583", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F343164", "explanation": "Comma after dates", "confidence": "Medium"}
+{"feat": "30-F345649", "explanation": "float decimal equivalence", "confidence": "Medium"}
+{"feat": "30-F347098", "explanation": "blog comment formatting", "confidence": "High"}
+{"feat": "30-F346366", "explanation": "Title-content newline", "confidence": "Medium"}
+{"feat": "30-F345283", "explanation": "sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F327600", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F350027", "explanation": "Repeating decimal notation", "confidence": "High"}
+{"feat": "30-F349009", "explanation": "zero polynomial coefficients", "confidence": "Medium"}
+{"feat": "30-F347858", "explanation": "multiplication symbol", "confidence": "Medium"}
+{"feat": "30-F349448", "explanation": "conditional If", "confidence": "Low"}
+{"feat": "30-F348926", "explanation": "worksheet webpage headings", "confidence": "Medium"}
+{"feat": "30-F352976", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F351554", "explanation": "Can be written as", "confidence": "Medium"}
+{"feat": "30-F353599", "explanation": "Adding decimal point", "confidence": "High"}
+{"feat": "30-F353245", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F350421", "explanation": "Binary notation parenthesis", "confidence": "Medium"}
+{"feat": "30-F350319", "explanation": "manageable computation estimates", "confidence": "Medium"}
+{"feat": "30-F353044", "explanation": "division operator in code", "confidence": "High"}
+{"feat": "30-F334214", "explanation": "Expression under square root", "confidence": "High"}
+{"feat": "30-F353915", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F354582", "explanation": "Arithmetic equality is", "confidence": "Medium"}
+{"feat": "30-F360597", "explanation": "Division by two", "confidence": "medium"}
+{"feat": "30-F349911", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F337564", "explanation": "polynomial division remainder", "confidence": "High"}
+{"feat": "30-F354692", "explanation": "Simpson's rule", "confidence": "High"}
+{"feat": "30-F336240", "explanation": "Floating-point real numbers", "confidence": "Medium"}
+{"feat": "30-F337320", "explanation": "modulo remainder calculation", "confidence": "Medium"}
+{"feat": "30-F355196", "explanation": "matrix exponentiation code", "confidence": "High"}
+{"feat": "30-F355558", "explanation": "Equivalent fraction conversion", "confidence": "Medium"}
+{"feat": "30-F360238", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F344480", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F342044", "explanation": "Polynomial GCD computation", "confidence": "Medium"}
+{"feat": "30-F353340", "explanation": "math worksheet content", "confidence": "Medium"}
+{"feat": "30-F357240", "explanation": "European date timestamps", "confidence": "Medium"}
+{"feat": "30-F360940", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F360500", "explanation": "units digit problems", "confidence": "High"}
+{"feat": "30-F369529", "explanation": "place value math", "confidence": "high"}
+{"feat": "30-F360114", "explanation": "Don't Say remainder", "confidence": "Medium"}
+{"feat": "30-F362409", "explanation": "like algebraic terms", "confidence": "High"}
+{"feat": "30-F345407", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F362318", "explanation": "repeating decimal periods", "confidence": "Medium"}
+{"feat": "30-F360865", "explanation": "elementary math instruction", "confidence": "Medium"}
+{"feat": "30-F364410", "explanation": "standard form coefficients", "confidence": "High"}
+{"feat": "30-F343296", "explanation": "numeric notation", "confidence": "Medium"}
+{"feat": "30-F363294", "explanation": "mental arithmetic", "confidence": "High"}
+{"feat": "30-F357827", "explanation": "number two", "confidence": "Medium"}
+{"feat": "30-F365703", "explanation": "Recall definition setup", "confidence": "Medium"}
+{"feat": "30-F366551", "explanation": "Number base notation", "confidence": "Medium"}
+{"feat": "30-F367742", "explanation": "average calculation by division", "confidence": "Medium"}
+{"feat": "30-F366882", "explanation": "mathematical mappings", "confidence": "High"}
+{"feat": "30-F369106", "explanation": "URL protocol prefixes", "confidence": "High"}
+{"feat": "30-F347973", "explanation": "Fibonacci transformation matrix", "confidence": "Medium"}
+{"feat": "30-F365951", "explanation": "Linear algebra eigenvalues", "confidence": "Medium"}
+{"feat": "30-F376733", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F372506", "explanation": "Say step-by-step", "confidence": "High"}
+{"feat": "30-F376933", "explanation": "Leading zeros not counted", "confidence": "high"}
+{"feat": "30-F369830", "explanation": "LAPACK routine names", "confidence": "High"}
+{"feat": "30-F352225", "explanation": "numerical linear algebra", "confidence": "High"}
+{"feat": "30-F372928", "explanation": "Download metadata fields", "confidence": "High"}
+{"feat": "30-F370881", "explanation": "Comma punctuation", "confidence": "Medium"}
+{"feat": "30-F372563", "explanation": "mathematical analogies", "confidence": "Medium"}
+{"feat": "30-F372670", "explanation": "bibliographic metadata fields", "confidence": "Medium"}
+{"feat": "30-F349613", "explanation": "math tutorial questions", "confidence": "Medium"}
+{"feat": "30-F373431", "explanation": "Polynomial notation P(x)", "confidence": "High"}
+{"feat": "30-F333612", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F373322", "explanation": "Babbage Difference Engine", "confidence": "High"}
+{"feat": "30-F371868", "explanation": "closing square bracket", "confidence": "Medium"}
+{"feat": "30-F374352", "explanation": "Leading decimal zeros", "confidence": "Medium"}
+{"feat": "30-F374615", "explanation": "Quadratic with no real roots", "confidence": "Medium"}
+{"feat": "30-F377134", "explanation": "arithmetic equals sign", "confidence": "Medium"}
+{"feat": "30-F374951", "explanation": "Forum timestamp separator", "confidence": "High"}
+{"feat": "30-F378594", "explanation": "Mixed number remainder", "confidence": "Medium"}
+{"feat": "30-F373136", "explanation": "Copular predicate statements", "confidence": "Low"}
+{"feat": "30-F380644", "explanation": "Big number in Python", "confidence": "Medium"}
+{"feat": "30-F379212", "explanation": "floating point precision errors", "confidence": "High"}
+{"feat": "30-F379056", "explanation": "integer part phrase", "confidence": "Medium"}
+{"feat": "30-F360285", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F383520", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F382501", "explanation": "polynomial equations", "confidence": "High"}
+{"feat": "30-F380969", "explanation": "Complex conjugate pairs", "confidence": "Medium"}
+{"feat": "30-F355350", "explanation": "integer exponent sequences", "confidence": "High"}
+{"feat": "30-F386044", "explanation": "C integer utility code", "confidence": "Medium"}
+{"feat": "30-F383117", "explanation": "Integer division result", "confidence": "Medium"}
+{"feat": "30-F383335", "explanation": "LaTeX exponent notation", "confidence": "Medium"}
+{"feat": "30-F386771", "explanation": "polynomial equation solving", "confidence": "Medium"}
+{"feat": "30-F382291", "explanation": "newline separators", "confidence": "Medium"}
+{"feat": "30-F379570", "explanation": "numerical cognition deficits", "confidence": "High"}
+{"feat": "30-F387730", "explanation": "matrix integer entries", "confidence": "High"}
+{"feat": "30-F387973", "explanation": "consecutive sequence interpretation", "confidence": "Medium"}
+{"feat": "30-F382859", "explanation": "arithmetic divided by", "confidence": "Medium"}
+{"feat": "30-F364549", "explanation": "iterative numerical convergence", "confidence": "Medium"}
+{"feat": "30-F395935", "explanation": "Binary bit positions", "confidence": "medium"}
+{"feat": "30-F387477", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F389823", "explanation": "Mathematical left/right direction", "confidence": "Medium"}
+{"feat": "30-F388331", "explanation": "math textbook references", "confidence": "Medium"}
+{"feat": "30-F390618", "explanation": "Markdown bold delimiter", "confidence": "Medium"}
+{"feat": "30-F391354", "explanation": "Blank line after query", "confidence": "Medium"}
+{"feat": "30-F365202", "explanation": "linear combinations", "confidence": "High"}
+{"feat": "30-F389979", "explanation": "LaTeX polynomial exponents", "confidence": "Medium"}
+{"feat": "30-F393609", "explanation": "greatest common divisor", "confidence": "Medium"}
+{"feat": "30-F350005", "explanation": "Euclidean norm formula", "confidence": "High"}
+{"feat": "30-F389808", "explanation": "quantitative math reasoning", "confidence": "Medium"}
+{"feat": "30-F371279", "explanation": "parabola given by", "confidence": "Medium"}
+{"feat": "30-F392058", "explanation": "adjugate matrix", "confidence": "High"}
+{"feat": "30-F393185", "explanation": "numerical methods code", "confidence": "Medium"}
+{"feat": "30-F395547", "explanation": "quadratic equation coefficients", "confidence": "Medium"}
+{"feat": "30-F398874", "explanation": "polynomial degree comparisons", "confidence": "High"}
+{"feat": "30-F397087", "explanation": "Say final answer", "confidence": "Medium"}
+{"feat": "30-F397629", "explanation": "quadratic factoring", "confidence": "Medium"}
+{"feat": "30-F378529", "explanation": "Say behavior", "confidence": "Medium"}
+{"feat": "30-F398848", "explanation": "subscript notation underscores", "confidence": "Medium"}
+{"feat": "30-F402588", "explanation": "Like/unlike fraction denominators", "confidence": "High"}
+{"feat": "30-F378856", "explanation": "string multiplication problem", "confidence": "Medium"}
+{"feat": "30-F402960", "explanation": "Digit-count number problems", "confidence": "Medium"}
+{"feat": "30-F399436", "explanation": "Month day, year dates", "confidence": "High"}
+{"feat": "30-F403253", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F379916", "explanation": "linear equations", "confidence": "High"}
+{"feat": "30-F409275", "explanation": "Say multiplication steps", "confidence": "high"}
+{"feat": "30-F399479", "explanation": "European date timestamps", "confidence": "Medium"}
+{"feat": "30-F399816", "explanation": "factorial definition prompts", "confidence": "Medium"}
+{"feat": "30-F403061", "explanation": "Floating-point precision errors", "confidence": "High"}
+{"feat": "30-F355060", "explanation": "Say base", "confidence": "High"}
+{"feat": "30-F403497", "explanation": "Base digit constraints", "confidence": "High"}
+{"feat": "30-F407560", "explanation": "natural logarithms", "confidence": "High"}
+{"feat": "30-F407633", "explanation": "LaTeX math delimiters", "confidence": "Medium"}
+{"feat": "30-F405847", "explanation": "Write and solve equations", "confidence": "High"}
+{"feat": "30-F408552", "explanation": "Modulo integer check", "confidence": "High"}
+{"feat": "30-F356278", "explanation": "sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F403710", "explanation": "rational roots are integers", "confidence": "Medium"}
+{"feat": "30-F411879", "explanation": "Fractions terminology", "confidence": "High"}
+{"feat": "30-F411251", "explanation": "columnar addition", "confidence": "Medium"}
+{"feat": "30-F406828", "explanation": "paragraph-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F403027", "explanation": "numeric markers in essays", "confidence": "Low"}
+{"feat": "30-F387105", "explanation": "educational math explanations", "confidence": "Medium"}
+{"feat": "30-F411549", "explanation": "Decimal square calculations", "confidence": "Medium"}
+{"feat": "30-F413074", "explanation": "product initialized to one", "confidence": "Medium"}
+{"feat": "30-F413071", "explanation": "polynomial multiplication operator", "confidence": "Medium"}
+{"feat": "30-F413125", "explanation": "the following", "confidence": "High"}
+{"feat": "30-F414306", "explanation": "uniqueness / sole instance", "confidence": "Medium"}
+{"feat": "30-F413498", "explanation": "Say closing parenthesis ellipsis", "confidence": "Medium"}
+{"feat": "30-F413692", "explanation": "integer property listings", "confidence": "Medium"}
+{"feat": "30-F418084", "explanation": "Problem-solving do step", "confidence": "Medium"}
+{"feat": "30-F414466", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F397151", "explanation": "two decimal places", "confidence": "Medium"}
+{"feat": "30-F390193", "explanation": "Say negative one", "confidence": "Medium"}
+{"feat": "30-F417615", "explanation": "matrix prompts", "confidence": "Medium"}
+{"feat": "30-F417915", "explanation": "matrix minor row removal", "confidence": "High"}
+{"feat": "30-F392547", "explanation": "STEM educational exposition", "confidence": "Medium"}
+{"feat": "30-F420403", "explanation": "Say Divide", "confidence": "High"}
+{"feat": "30-F418537", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F420165", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F397469", "explanation": "matrix eigenvalues", "confidence": "Medium"}
+{"feat": "30-F426236", "explanation": "Real matrix eigenvalues", "confidence": "medium"}
+{"feat": "30-F428576", "explanation": "Euclidean division variables", "confidence": "high"}
+{"feat": "30-F428532", "explanation": "Arithmetic sequence notation", "confidence": "medium"}
+{"feat": "30-F397512", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F420654", "explanation": "repeating decimal nines", "confidence": "High"}
+{"feat": "30-F389348", "explanation": "mathematical explanations", "confidence": "Low"}
+{"feat": "30-F423652", "explanation": "Decimal division leading zero", "confidence": "High"}
+{"feat": "30-F421204", "explanation": "Say approximately", "confidence": "High"}
+{"feat": "30-F401804", "explanation": "decimal notation", "confidence": "Medium"}
+{"feat": "30-F424309", "explanation": "Exactly one solution", "confidence": "High"}
+{"feat": "30-F420817", "explanation": "computed using method", "confidence": "Medium"}
+{"feat": "30-F423317", "explanation": "Say period", "confidence": "Medium"}
+{"feat": "30-F424612", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F424188", "explanation": "symbolic computation", "confidence": "High"}
+{"feat": "30-F379978", "explanation": "Decimal places formatting", "confidence": "Medium"}
+{"feat": "30-F430943", "explanation": "Numerical intervals between values", "confidence": "Medium"}
+{"feat": "30-F422827", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F431815", "explanation": "differential equations", "confidence": "High"}
+{"feat": "30-F428106", "explanation": "mathematical answer references", "confidence": "Medium"}
+{"feat": "30-F428597", "explanation": "long division method", "confidence": "High"}
+{"feat": "30-F434705", "explanation": "subtraction borrowing place", "confidence": "Medium"}
+{"feat": "30-F438077", "explanation": "Definite article “the”", "confidence": "medium"}
+{"feat": "30-F424961", "explanation": "Add item instruction", "confidence": "Medium"}
+{"feat": "30-F435038", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F407957", "explanation": "arithmetic calculation", "confidence": "Medium"}
+{"feat": "30-F429849", "explanation": "floating-point decimal numbers", "confidence": "Medium"}
+{"feat": "30-F432487", "explanation": "LaTeX matrix calculations", "confidence": "Medium"}
+{"feat": "30-F435198", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F429380", "explanation": "Generic numeric type casts", "confidence": "High"}
+{"feat": "30-F436155", "explanation": "binary conversion", "confidence": "High"}
+{"feat": "30-F436093", "explanation": "Let me calculate", "confidence": "High"}
+{"feat": "30-F442832", "explanation": "matrix multiplication rows", "confidence": "medium"}
+{"feat": "30-F409834", "explanation": "math question prompts", "confidence": "Medium"}
+{"feat": "30-F430994", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F433006", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F362831", "explanation": "integer floor division", "confidence": "High"}
+{"feat": "30-F438396", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F436730", "explanation": "vertex form of quadratics", "confidence": "High"}
+{"feat": "30-F444137", "explanation": "Say closing parenthesis", "confidence": "medium"}
+{"feat": "30-F437137", "explanation": "nullspace RREF solutions", "confidence": "Medium"}
+{"feat": "30-F437372", "explanation": "Inline math closing parenthesis", "confidence": "Medium"}
+{"feat": "30-F439707", "explanation": "Sign mistake checking", "confidence": "High"}
+{"feat": "30-F440513", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F417446", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F414964", "explanation": "Simplify arithmetic", "confidence": "Medium"}
+{"feat": "30-F416109", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F451556", "explanation": "Rounding precision phrases", "confidence": "high"}
+{"feat": "30-F438752", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F441176", "explanation": "modular congruences", "confidence": "High"}
+{"feat": "30-F438156", "explanation": "LaTeX matrix display opening", "confidence": "High"}
+{"feat": "30-F441002", "explanation": "math tutorial explanations", "confidence": "Medium"}
+{"feat": "30-F438905", "explanation": "Arithmetic number concepts", "confidence": "Medium"}
+{"feat": "30-F449015", "explanation": "Derivative task prompts", "confidence": "Medium"}
+{"feat": "30-F444093", "explanation": "QR eigenvalue algorithms", "confidence": "High"}
+{"feat": "30-F441299", "explanation": "Find result of", "confidence": "Medium"}
+{"feat": "30-F417677", "explanation": "SEO spam pages", "confidence": "Medium"}
+{"feat": "30-F452292", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F448641", "explanation": "Say paragraph-ending period", "confidence": "Medium"}
+{"feat": "30-F444345", "explanation": "paragraph-ending period", "confidence": "Medium"}
+{"feat": "30-F449578", "explanation": "target number math task", "confidence": "Medium"}
+{"feat": "30-F452311", "explanation": "Don't Say domain", "confidence": "Medium"}
+{"feat": "30-F424294", "explanation": "negative square root error", "confidence": "Medium"}
+{"feat": "30-F457041", "explanation": "non-negative integers", "confidence": "High"}
+{"feat": "30-F450418", "explanation": "low-quality spam text", "confidence": "Medium"}
+{"feat": "30-F452242", "explanation": "polynomial evaluation steps", "confidence": "Medium"}
+{"feat": "30-F456795", "explanation": "mathematical problem explanations", "confidence": "Medium"}
+{"feat": "30-F457333", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F457782", "explanation": "Prime factorization steps", "confidence": "Medium"}
+{"feat": "30-F457554", "explanation": "linear equation systems", "confidence": "Medium"}
+{"feat": "30-F454689", "explanation": "polynomial power reduction", "confidence": "High"}
+{"feat": "30-F461666", "explanation": "Polynomial interpolation point lists", "confidence": "high"}
+{"feat": "30-F454454", "explanation": "Python float division", "confidence": "High"}
+{"feat": "30-F459107", "explanation": "math education explanations", "confidence": "Medium"}
+{"feat": "30-F458476", "explanation": "Say movement", "confidence": "Low"}
+{"feat": "30-F460743", "explanation": "polynomial variable x", "confidence": "Medium"}
+{"feat": "30-F463346", "explanation": "decimal precision counts", "confidence": "Medium"}
+{"feat": "30-F462167", "explanation": "algebraic expression terms", "confidence": "High"}
+{"feat": "30-F459210", "explanation": "numeric conversion examples", "confidence": "Low"}
+{"feat": "30-F461360", "explanation": "Polynomial coefficient indexing", "confidence": "High"}
+{"feat": "30-F465415", "explanation": "Rated based on review", "confidence": "High"}
+{"feat": "30-F440597", "explanation": "Rational Root Theorem", "confidence": "High"}
+{"feat": "30-F438173", "explanation": "Writing values as notation", "confidence": "High"}
+{"feat": "30-F464871", "explanation": "single real number", "confidence": "Medium"}
+{"feat": "30-F411942", "explanation": "algebra function equations", "confidence": "Medium"}
+{"feat": "30-F445212", "explanation": "checking subtraction signs", "confidence": "Medium"}
+{"feat": "30-F443652", "explanation": "quadratic intercept form", "confidence": "Medium"}
+{"feat": "30-F462363", "explanation": "polynomial interpolation problems", "confidence": "Medium"}
+{"feat": "30-F452040", "explanation": "Nearest hundredth rounding", "confidence": "High"}
+{"feat": "30-F467298", "explanation": "implement exponentiation function", "confidence": "Medium"}
+{"feat": "30-F453450", "explanation": "Euclidean algorithm", "confidence": "High"}
+{"feat": "30-F468289", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F469222", "explanation": "Refer to these numbers", "confidence": "Medium"}
+{"feat": "30-F438524", "explanation": "Noisy scraped text", "confidence": "Medium"}
+{"feat": "30-F468808", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F469123", "explanation": "casino SEO spam", "confidence": "Medium"}
+{"feat": "30-F470879", "explanation": "Algebra elimination method", "confidence": "High"}
+{"feat": "30-F469252", "explanation": "mathematical technical text", "confidence": "Medium"}
+{"feat": "30-F472923", "explanation": "Passive “can be written as”", "confidence": "Medium"}
+{"feat": "30-F470544", "explanation": "Italian subtraction operator", "confidence": "Medium"}
+{"feat": "30-F471712", "explanation": "Splitting numbers into parts", "confidence": "Medium"}
+{"feat": "30-F455057", "explanation": "power/exponentiation terminology", "confidence": "High"}
+{"feat": "30-F459340", "explanation": "Python math module", "confidence": "High"}
+{"feat": "30-F469391", "explanation": "math summation problems", "confidence": "Medium"}
+{"feat": "30-F472956", "explanation": "binary representation", "confidence": "High"}
+{"feat": "30-F461056", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F473558", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F475144", "explanation": "Say period", "confidence": "Medium"}
+{"feat": "30-F436143", "explanation": "Math number terminology", "confidence": "Medium"}
+{"feat": "30-F435486", "explanation": "quantities represented by variables", "confidence": "Medium"}
+{"feat": "30-F472983", "explanation": "letter P", "confidence": "Medium"}
+{"feat": "30-F462524", "explanation": "Say bullet point", "confidence": "High"}
+{"feat": "30-F476020", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F479894", "explanation": "Mathematical modeling prompts", "confidence": "high"}
+{"feat": "30-F476854", "explanation": "Say units", "confidence": "High"}
+{"feat": "30-F477823", "explanation": "Approximate numerical values", "confidence": "Medium"}
+{"feat": "30-F474939", "explanation": "Search result dates", "confidence": "Medium"}
+{"feat": "30-F462405", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F475939", "explanation": "Closing square bracket", "confidence": "Medium"}
+{"feat": "30-F477826", "explanation": "matrix dimensions", "confidence": "High"}
+{"feat": "30-F478709", "explanation": "simple arithmetic CAPTCHA", "confidence": "High"}
+{"feat": "30-F478715", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F468080", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F467303", "explanation": "LaTeX matrix notation", "confidence": "Medium"}
+{"feat": "30-F479140", "explanation": "Non-negativity constraints", "confidence": "High"}
+{"feat": "30-F479757", "explanation": "Polynomial P(x) notation", "confidence": "Medium"}
+{"feat": "30-F479790", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F449183", "explanation": "rounding instruction", "confidence": "High"}
+{"feat": "30-F468424", "explanation": "positional numeral bases", "confidence": "High"}
+{"feat": "30-F481420", "explanation": "Don't Say arithmetic operations", "confidence": "Medium"}
+{"feat": "30-F481898", "explanation": "multiplication symbol x", "confidence": "Medium"}
+{"feat": "30-F469856", "explanation": "polynomial division steps", "confidence": "High"}
+{"feat": "30-F482409", "explanation": "methods and ways", "confidence": "Medium"}
+{"feat": "30-F485113", "explanation": "eigenvector calculation", "confidence": "Medium"}
+{"feat": "30-F483965", "explanation": "nonhomogeneous differential equations", "confidence": "Medium"}
+{"feat": "30-F480845", "explanation": "comma before so", "confidence": "Medium"}
+{"feat": "30-F486309", "explanation": "multiply 2x2 matrices", "confidence": "High"}
+{"feat": "30-F485986", "explanation": "rational inequality critical points", "confidence": "High"}
+{"feat": "30-F486787", "explanation": "positive integers", "confidence": "High"}
+{"feat": "30-F484903", "explanation": "mathematical calculation explanation", "confidence": "Low"}
+{"feat": "30-F484623", "explanation": "descriptive statistics calculations", "confidence": "High"}
+{"feat": "30-F485883", "explanation": "set up equations", "confidence": "Medium"}
+{"feat": "30-F483146", "explanation": "division how many times", "confidence": "Medium"}
+{"feat": "30-F486732", "explanation": "elementary math worksheets", "confidence": "Medium"}
+{"feat": "30-F487265", "explanation": "quadratic vertex explanation", "confidence": "Medium"}
+{"feat": "30-F489308", "explanation": "polynomial division result", "confidence": "Medium"}
+{"feat": "30-F487266", "explanation": "Euclidean algorithm division step", "confidence": "High"}
+{"feat": "30-F486677", "explanation": "Divide numerator and denominator", "confidence": "Medium"}
+{"feat": "30-F487396", "explanation": "square root function", "confidence": "High"}
+{"feat": "30-F490713", "explanation": "Say include", "confidence": "Medium"}
+{"feat": "30-F477951", "explanation": "Base-2 notation", "confidence": "Medium"}
+{"feat": "30-F461756", "explanation": "Recalculate more precisely", "confidence": "High"}
+{"feat": "30-F477316", "explanation": "solving cubic equations", "confidence": "Medium"}
+{"feat": "30-F490897", "explanation": "matrix terminology", "confidence": "High"}
+{"feat": "30-F489630", "explanation": "Upward-opening quadratic functions", "confidence": "Medium"}
+{"feat": "30-F500883", "explanation": "algebra worksheet content", "confidence": "medium"}
+{"feat": "30-F489293", "explanation": "worked arithmetic examples", "confidence": "Medium"}
+{"feat": "30-F503989", "explanation": "Linear programming constraints", "confidence": "medium"}
+{"feat": "30-F491224", "explanation": "Fibonacci verification reasoning", "confidence": "Medium"}
+{"feat": "30-F475961", "explanation": "Code indentation", "confidence": "Medium"}
+{"feat": "30-F491378", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F479730", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F478403", "explanation": "review rating format", "confidence": "High"}
+{"feat": "30-F507628", "explanation": "Numbered gcd solution", "confidence": "medium"}
+{"feat": "30-F494730", "explanation": "floating-point numbers", "confidence": "High"}
+{"feat": "30-F490841", "explanation": "matrix multiplication code", "confidence": "Medium"}
+{"feat": "30-F492771", "explanation": "Multiplication arithmetic", "confidence": "High"}
+{"feat": "30-F447523", "explanation": "SymPy expression output", "confidence": "Medium"}
+{"feat": "30-F497697", "explanation": "COMPLEX array declarations", "confidence": "High"}
+{"feat": "30-F491505", "explanation": "Need to use method", "confidence": "Medium"}
+{"feat": "30-F495433", "explanation": "mathematical sequence formulas", "confidence": "High"}
+{"feat": "30-F495331", "explanation": "Polynomial division remainder", "confidence": "High"}
+{"feat": "30-F498449", "explanation": "rounding decimal places", "confidence": "High"}
+{"feat": "30-F491650", "explanation": "base number representation", "confidence": "Medium"}
+{"feat": "30-F506781", "explanation": "linear programming", "confidence": "High"}
+{"feat": "30-F507370", "explanation": "decimal number conversion", "confidence": "Medium"}
+{"feat": "30-F504385", "explanation": "Least common multiple problems", "confidence": "Medium"}
+{"feat": "30-F507160", "explanation": "complex roots/eigenvalues", "confidence": "Medium"}
+{"feat": "30-F509265", "explanation": "Spam comment timestamps", "confidence": "Medium"}
+{"feat": "30-F508872", "explanation": "Division by zero undefined", "confidence": "High"}
+{"feat": "30-F504100", "explanation": "Corrupted multiplication symbol", "confidence": "Medium"}
+{"feat": "30-F515613", "explanation": "decimal place enumeration", "confidence": "medium"}
+{"feat": "30-F498568", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F509862", "explanation": "Assignment operators in code", "confidence": "Medium"}
+{"feat": "30-F511194", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F485580", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F507689", "explanation": "remainder when divided", "confidence": "High"}
+{"feat": "30-F513457", "explanation": "Sentence-ending period", "confidence": "Medium"}
+{"feat": "30-F511270", "explanation": "mathematical exposition", "confidence": "Medium"}
+{"feat": "30-F485075", "explanation": "Fibonacci Q-matrix", "confidence": "Medium"}
+{"feat": "30-F511990", "explanation": "C++ Complex class", "confidence": "High"}
+{"feat": "30-F514082", "explanation": "Decimal expansions", "confidence": "High"}
+{"feat": "30-F510199", "explanation": "Say be", "confidence": "Medium"}
+{"feat": "30-F512689", "explanation": "sorting order instructions", "confidence": "High"}
+{"feat": "30-F514646", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F512622", "explanation": "Polynomial root factorization", "confidence": "Medium"}
+{"feat": "30-F517706", "explanation": "Quadratic equations", "confidence": "Medium"}
+{"feat": "30-F513929", "explanation": "Say First", "confidence": "Medium"}
+{"feat": "30-F516882", "explanation": "exceeds target in arithmetic", "confidence": "Medium"}
+{"feat": "30-F473856", "explanation": "quadratic polynomials", "confidence": "Medium"}
+{"feat": "30-F515874", "explanation": "matrix determinant computation", "confidence": "Medium"}
+{"feat": "30-F517160", "explanation": "graphing equations", "confidence": "High"}
+{"feat": "30-F516189", "explanation": "Polynomial coefficients a_i", "confidence": "Medium"}
+{"feat": "30-F519350", "explanation": "LaTeX matrix syntax", "confidence": "High"}
+{"feat": "30-F518828", "explanation": "system of equations", "confidence": "Medium"}
+{"feat": "30-F517588", "explanation": "write remainders backwards", "confidence": "High"}
+{"feat": "30-F519026", "explanation": "Let's see calculation", "confidence": "Medium"}
+{"feat": "30-F513339", "explanation": "STEM instructional explanations", "confidence": "Low"}
+{"feat": "30-F520793", "explanation": "Universal polynomial identity", "confidence": "High"}
+{"feat": "30-F520018", "explanation": "Division by zero errors", "confidence": "High"}
+{"feat": "30-F520317", "explanation": "Say register", "confidence": "Medium"}
+{"feat": "30-F521388", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F520870", "explanation": "similarity analogy phrasing", "confidence": "Medium"}
+{"feat": "30-F521413", "explanation": "Euclidean algorithm", "confidence": "High"}
+{"feat": "30-F491712", "explanation": "repeating decimal conversion", "confidence": "High"}
+{"feat": "30-F524321", "explanation": "Square root interval estimation", "confidence": "High"}
+{"feat": "30-F526277", "explanation": "Significant figures rounding", "confidence": "High"}
+{"feat": "30-F493148", "explanation": "Vector math operator code", "confidence": "Medium"}
+{"feat": "30-F480307", "explanation": "matrix notation", "confidence": "High"}
+{"feat": "30-F526159", "explanation": "equation equality definition", "confidence": "High"}
+{"feat": "30-F523386", "explanation": "mathematical exposition", "confidence": "Medium"}
+{"feat": "30-F521810", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F496823", "explanation": "indexed variable underscore", "confidence": "Medium"}
+{"feat": "30-F526007", "explanation": "LaTeX numeric fractions", "confidence": "Low"}
+{"feat": "30-F530168", "explanation": "Polynomial equation degree", "confidence": "Medium"}
+{"feat": "30-F527657", "explanation": "RPG Hit Die stat", "confidence": "Medium"}
+{"feat": "30-F522723", "explanation": "matrix row references", "confidence": "Medium"}
+{"feat": "30-F530878", "explanation": "linear algebra notation", "confidence": "Medium"}
+{"feat": "30-F503442", "explanation": "iterative eigenvalue methods", "confidence": "Medium"}
+{"feat": "30-F507952", "explanation": "Laplace and Fourier transforms", "confidence": "Medium"}
+{"feat": "30-F543945", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F535039", "explanation": "no real solutions", "confidence": "High"}
+{"feat": "30-F510875", "explanation": "array index notation", "confidence": "Medium"}
+{"feat": "30-F527714", "explanation": "sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F540406", "explanation": "elementary arithmetic curriculum", "confidence": "Medium"}
+{"feat": "30-F541917", "explanation": "Algebra equation solving", "confidence": "High"}
+{"feat": "30-F542285", "explanation": "2D cross product scalar", "confidence": "High"}
+{"feat": "30-F517451", "explanation": "cube root approximation", "confidence": "High"}
+{"feat": "30-F542705", "explanation": "arithmetic expression operators", "confidence": "Medium"}
+{"feat": "30-F536771", "explanation": "matrix dimension four", "confidence": "Medium"}
+{"feat": "30-F543442", "explanation": "Column arithmetic from right", "confidence": "Medium"}
+{"feat": "30-F542059", "explanation": "floating-point decimal point", "confidence": "High"}
+{"feat": "30-F518731", "explanation": "Newton's method equations", "confidence": "High"}
+{"feat": "30-F544902", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F542039", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F520332", "explanation": "modular inverse solving", "confidence": "Medium"}
+{"feat": "30-F545361", "explanation": "complex numbers", "confidence": "High"}
+{"feat": "30-F545367", "explanation": "Decimal place formatting", "confidence": "Medium"}
+{"feat": "30-F544650", "explanation": "division slash notation", "confidence": "Medium"}
+{"feat": "30-F546906", "explanation": "Polynomial exponent caret", "confidence": "Medium"}
+{"feat": "30-F522623", "explanation": "matrix notation", "confidence": "High"}
+{"feat": "30-F548216", "explanation": "linear algebra reasoning", "confidence": "Medium"}
+{"feat": "30-F523887", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F549835", "explanation": "Say letters", "confidence": "High"}
+{"feat": "30-F523668", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F548866", "explanation": "Leading coefficient 2", "confidence": "Medium"}
+{"feat": "30-F551172", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F523352", "explanation": "Don't Say multi", "confidence": "High"}
+{"feat": "30-F549497", "explanation": "Euclidean back-substitution", "confidence": "High"}
+{"feat": "30-F550249", "explanation": "matrix computation code", "confidence": "Medium"}
+{"feat": "30-F548804", "explanation": "Scraped webpage boilerplate", "confidence": "Medium"}
+{"feat": "30-F548969", "explanation": "opening parenthesis", "confidence": "Medium"}
+{"feat": "30-F528531", "explanation": "mathematical function names", "confidence": "Medium"}
+{"feat": "30-F553954", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F535750", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F549570", "explanation": "math problem instructions", "confidence": "Medium"}
+{"feat": "30-F556795", "explanation": "polynomial root solving", "confidence": "Medium"}
+{"feat": "30-F555351", "explanation": "linear algebra systems", "confidence": "Medium"}
+{"feat": "30-F559551", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F560442", "explanation": "singular value decomposition", "confidence": "High"}
+{"feat": "30-F560081", "explanation": "Garbled Indic script", "confidence": "Medium"}
+{"feat": "30-F555132", "explanation": "percent-decimal conversion", "confidence": "Medium"}
+{"feat": "30-F532139", "explanation": "Don't Say decimal", "confidence": "Medium"}
+{"feat": "30-F532889", "explanation": "Python numerical regression", "confidence": "Medium"}
+{"feat": "30-F560586", "explanation": "terminating decimal fractions", "confidence": "Medium"}
+{"feat": "30-F512572", "explanation": "floor division instruction", "confidence": "High"}
+{"feat": "30-F560897", "explanation": "row echelon matrices", "confidence": "High"}
+{"feat": "30-F561454", "explanation": "Simple arithmetic equations", "confidence": "Medium"}
+{"feat": "30-F561117", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F561582", "explanation": "Numerical software tools", "confidence": "High"}
+{"feat": "30-F541818", "explanation": "quadratic vertex formula", "confidence": "Medium"}
+{"feat": "30-F538417", "explanation": "Month-day-year dates", "confidence": "Medium"}
+{"feat": "30-F559218", "explanation": "ordered sequence positions", "confidence": "Medium"}
+{"feat": "30-F561983", "explanation": "bibliographic metadata fields", "confidence": "High"}
+{"feat": "30-F561658", "explanation": "mathematical equations", "confidence": "Medium"}
+{"feat": "30-F528914", "explanation": "webpage section boundary", "confidence": "Medium"}
+{"feat": "30-F566029", "explanation": "similar geometric figures", "confidence": "Medium"}
+{"feat": "30-F561998", "explanation": "GCD test cases", "confidence": "Medium"}
+{"feat": "30-F567035", "explanation": "function tends to infinity", "confidence": "Medium"}
+{"feat": "30-F572088", "explanation": "Exponentiation and powers", "confidence": "High"}
+{"feat": "30-F567691", "explanation": "math computation requests", "confidence": "Medium"}
+{"feat": "30-F563807", "explanation": "single-line output format", "confidence": "Medium"}
+{"feat": "30-F566834", "explanation": "integer division semantics", "confidence": "Medium"}
+{"feat": "30-F567666", "explanation": "hyphenated numeric suffixes", "confidence": "Medium"}
+{"feat": "30-F546191", "explanation": "2x2 matrix multiplication", "confidence": "High"}
+{"feat": "30-F573807", "explanation": "avoidance of computation issues", "confidence": "Medium"}
+{"feat": "30-F567306", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F571663", "explanation": "Python negative zero", "confidence": "Medium"}
+{"feat": "30-F574058", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F574023", "explanation": "scientific notation exponents", "confidence": "Medium"}
+{"feat": "30-F566653", "explanation": "technical notation formatting", "confidence": "Medium"}
+{"feat": "30-F568929", "explanation": "graphing calculators", "confidence": "High"}
+{"feat": "30-F569096", "explanation": "natural logarithm base", "confidence": "High"}
+{"feat": "30-F580581", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F572232", "explanation": "Matrix4 linear algebra code", "confidence": "Medium"}
+{"feat": "30-F573375", "explanation": "repeating decimal periods", "confidence": "Medium"}
+{"feat": "30-F574636", "explanation": "mathematical roots", "confidence": "High"}
+{"feat": "30-F575609", "explanation": "Quadratic word problems", "confidence": "Medium"}
+{"feat": "30-F577502", "explanation": "Say quotient is", "confidence": "High"}
+{"feat": "30-F554637", "explanation": "3x3 matrix puzzles", "confidence": "Medium"}
+{"feat": "30-F581314", "explanation": "Euclidean GCD steps", "confidence": "Medium"}
+{"feat": "30-F577822", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F578501", "explanation": "actual mathematical value", "confidence": "Medium"}
+{"feat": "30-F546377", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F577840", "explanation": "GCD computations", "confidence": "Medium"}
+{"feat": "30-F582241", "explanation": "Long division times", "confidence": "Medium"}
+{"feat": "30-F580326", "explanation": "NumPy library descriptions", "confidence": "High"}
+{"feat": "30-F575782", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F574248", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F583114", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F581446", "explanation": "negative number sign", "confidence": "Medium"}
+{"feat": "30-F582642", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F580685", "explanation": "numerical rounding caveats", "confidence": "Medium"}
+{"feat": "30-F581876", "explanation": "consecutive integer products", "confidence": "Medium"}
+{"feat": "30-F577543", "explanation": "What about edge cases", "confidence": "Low"}
+{"feat": "30-F554990", "explanation": "numerical analysis methods", "confidence": "Medium"}
+{"feat": "30-F580282", "explanation": "Algebraic equation derivations", "confidence": "Medium"}
+{"feat": "30-F588773", "explanation": "Free worksheet pages", "confidence": "high"}
+{"feat": "30-F577768", "explanation": "technical math/programming content", "confidence": "Medium"}
+{"feat": "30-F583648", "explanation": "Say period", "confidence": "Medium"}
+{"feat": "30-F584883", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F583118", "explanation": "atan2 argument order", "confidence": "High"}
+{"feat": "30-F590895", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F585415", "explanation": "LaTeX math fractions", "confidence": "Medium"}
+{"feat": "30-F561227", "explanation": "digit place-value listing", "confidence": "Medium"}
+{"feat": "30-F586764", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F586017", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F585018", "explanation": "Say Green", "confidence": "Medium"}
+{"feat": "30-F587405", "explanation": "C++ output statements", "confidence": "Medium"}
+{"feat": "30-F585986", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F587909", "explanation": "Convert instruction", "confidence": "High"}
+{"feat": "30-F589739", "explanation": "Say linear", "confidence": "High"}
+{"feat": "30-F587004", "explanation": "Say ratios", "confidence": "High"}
+{"feat": "30-F544491", "explanation": "Euclidean algorithm", "confidence": "High"}
+{"feat": "30-F591765", "explanation": "matrix summation by axis", "confidence": "Medium"}
+{"feat": "30-F591879", "explanation": "Common denominator arithmetic", "confidence": "High"}
+{"feat": "30-F588866", "explanation": "ASCII maze grids", "confidence": "Medium"}
+{"feat": "30-F589167", "explanation": "Quartic degree parenthetical", "confidence": "Medium"}
+{"feat": "30-F589995", "explanation": "LaTeX math notation", "confidence": "Medium"}
+{"feat": "30-F570697", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F597248", "explanation": "Matrix multiplication", "confidence": "High"}
+{"feat": "30-F595394", "explanation": "Say polynomial", "confidence": "High"}
+{"feat": "30-F590160", "explanation": "polynomial long division steps", "confidence": "Medium"}
+{"feat": "30-F594209", "explanation": "control systems mathematics", "confidence": "Medium"}
+{"feat": "30-F593774", "explanation": "linear equation questions", "confidence": "Medium"}
+{"feat": "30-F598470", "explanation": "Say symmetric", "confidence": "Medium"}
+{"feat": "30-F592773", "explanation": "mixed/improper fractions", "confidence": "High"}
+{"feat": "30-F603965", "explanation": "followed by zeros", "confidence": "medium"}
+{"feat": "30-F596459", "explanation": "quadratic equations/functions", "confidence": "High"}
+{"feat": "30-F598900", "explanation": "decimal notation zeros", "confidence": "Medium"}
+{"feat": "30-F602145", "explanation": "Multiplication tables memorization", "confidence": "High"}
+{"feat": "30-F599529", "explanation": "polynomial root analysis", "confidence": "Medium"}
+{"feat": "30-F600485", "explanation": "algebra function types", "confidence": "Medium"}
+{"feat": "30-F579128", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F599780", "explanation": "Homework question titles", "confidence": "Medium"}
+{"feat": "30-F575785", "explanation": "grid dimension notation", "confidence": "Medium"}
+{"feat": "30-F606030", "explanation": "Say missing blank", "confidence": "High"}
+{"feat": "30-F603685", "explanation": "single-digit arithmetic operands", "confidence": "Medium"}
+{"feat": "30-F606300", "explanation": "polynomial interpolation setup", "confidence": "Medium"}
+{"feat": "30-F603711", "explanation": "linear equation solution request", "confidence": "Medium"}
+{"feat": "30-F607349", "explanation": "Spam comment timestamps", "confidence": "Medium"}
+{"feat": "30-F607090", "explanation": "Polynomial long division", "confidence": "Medium"}
+{"feat": "30-F609459", "explanation": "linear search prompts", "confidence": "High"}
+{"feat": "30-F608145", "explanation": "Gaussian elimination pivoting", "confidence": "Medium"}
+{"feat": "30-F606833", "explanation": "Rational function holes", "confidence": "High"}
+{"feat": "30-F608923", "explanation": "Title-initial capital letter", "confidence": "Medium"}
+{"feat": "30-F588281", "explanation": "metric base-ten conversions", "confidence": "High"}
+{"feat": "30-F585970", "explanation": "modular arithmetic punctuation", "confidence": "Medium"}
+{"feat": "30-F609699", "explanation": "math education activities", "confidence": "Medium"}
+{"feat": "30-F587720", "explanation": "mathematics instructional exposition", "confidence": "Medium"}
+{"feat": "30-F589707", "explanation": "factorial programming problems", "confidence": "Medium"}
+{"feat": "30-F610456", "explanation": "Division by zero checks", "confidence": "Medium"}
+{"feat": "30-F609800", "explanation": "Eigenvalue characteristic equation", "confidence": "High"}
+{"feat": "30-F612518", "explanation": "Complex conjugate eigenvalues", "confidence": "High"}
+{"feat": "30-F586255", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F611414", "explanation": "rational equation domain restrictions", "confidence": "High"}
+{"feat": "30-F591435", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F614324", "explanation": "News article timestamps", "confidence": "High"}
+{"feat": "30-F614693", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F611340", "explanation": "Say period double newline", "confidence": "High"}
+{"feat": "30-F613664", "explanation": "Say result", "confidence": "Medium"}
+{"feat": "30-F613687", "explanation": "Math let-be definitions", "confidence": "Medium"}
+{"feat": "30-F594691", "explanation": "file size metadata", "confidence": "High"}
+{"feat": "30-F613029", "explanation": "derivative as rate of change", "confidence": "High"}
+{"feat": "30-F598711", "explanation": "Use each number once", "confidence": "Medium"}
+{"feat": "30-F599209", "explanation": "Mathematical statement copula", "confidence": "Medium"}
+{"feat": "30-F615650", "explanation": "base divisibility reasoning", "confidence": "Medium"}
+{"feat": "30-F597280", "explanation": "Converting to int", "confidence": "High"}
+{"feat": "30-F601607", "explanation": "polynomial division stopping", "confidence": "High"}
+{"feat": "30-F613435", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F615965", "explanation": "subtraction word problems", "confidence": "Medium"}
+{"feat": "30-F617823", "explanation": "critical points in calculus", "confidence": "High"}
+{"feat": "30-F620793", "explanation": "step-by-step reasoning", "confidence": "Medium"}
+{"feat": "30-F615459", "explanation": "SEO spam pages", "confidence": "Medium"}
+{"feat": "30-F620431", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F626479", "explanation": "matrix transpose notation", "confidence": "high"}
+{"feat": "30-F617729", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F619175", "explanation": "Compute / calculate", "confidence": "Medium"}
+{"feat": "30-F617310", "explanation": "polynomial degree bound", "confidence": "Medium"}
+{"feat": "30-F603447", "explanation": "Ito's lemma", "confidence": "High"}
+{"feat": "30-F616648", "explanation": "Say comma before so", "confidence": "Medium"}
+{"feat": "30-F601002", "explanation": "Don't Say matrix", "confidence": "Medium"}
+{"feat": "30-F622250", "explanation": "Polynomial exponent notation", "confidence": "High"}
+{"feat": "30-F602599", "explanation": "Say opening parenthesis", "confidence": "Medium"}
+{"feat": "30-F622708", "explanation": "Hungarian algorithm steps", "confidence": "Medium"}
+{"feat": "30-F619291", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F623105", "explanation": "Fractions to decimals", "confidence": "High"}
+{"feat": "30-F628983", "explanation": "3x3 determinant calculation", "confidence": "High"}
+{"feat": "30-F627377", "explanation": "Say quotient", "confidence": "High"}
+{"feat": "30-F625617", "explanation": "Say Function", "confidence": "High"}
+{"feat": "30-F623463", "explanation": "arithmetic rule lists", "confidence": "Medium"}
+{"feat": "30-F623342", "explanation": "paragraph-ending period", "confidence": "Medium"}
+{"feat": "30-F629693", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F624962", "explanation": "Factors and multiples", "confidence": "High"}
+{"feat": "30-F625849", "explanation": "Say equal", "confidence": "High"}
+{"feat": "30-F637494", "explanation": "Equating polynomial coefficients", "confidence": "high"}
+{"feat": "30-F630918", "explanation": "integer overflow concern", "confidence": "Medium"}
+{"feat": "30-F634574", "explanation": "numeric values", "confidence": "Medium"}
+{"feat": "30-F633950", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F633337", "explanation": "calculus rate of change", "confidence": "Medium"}
+{"feat": "30-F626438", "explanation": "matrices and determinants", "confidence": "Medium"}
+{"feat": "30-F627876", "explanation": "array index brackets", "confidence": "Medium"}
+{"feat": "30-F626424", "explanation": "technical notation syntax", "confidence": "Low"}
+{"feat": "30-F629521", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F633751", "explanation": "polynomial exponents", "confidence": "Medium"}
+{"feat": "30-F635353", "explanation": "Omission prohibition", "confidence": "Medium"}
+{"feat": "30-F632060", "explanation": "modal permission may", "confidence": "Medium"}
+{"feat": "30-F635811", "explanation": "Polynomial remainder definition", "confidence": "Medium"}
+{"feat": "30-F642117", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F635357", "explanation": "base digit place values", "confidence": "High"}
+{"feat": "30-F641271", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F637111", "explanation": "multiplication arithmetic", "confidence": "High"}
+{"feat": "30-F638185", "explanation": "Unique words constraint", "confidence": "High"}
+{"feat": "30-F638509", "explanation": "LCM formula notation", "confidence": "High"}
+{"feat": "30-F636360", "explanation": "Matrix coordinate notation", "confidence": "Medium"}
+{"feat": "30-F614198", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F637031", "explanation": "number base notation", "confidence": "High"}
+{"feat": "30-F640056", "explanation": "linear algebra matrices", "confidence": "Medium"}
+{"feat": "30-F639978", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F639060", "explanation": "horizontal asymptotes", "confidence": "High"}
+{"feat": "30-F641149", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F616673", "explanation": "mathematical definitions", "confidence": "Medium"}
+{"feat": "30-F636470", "explanation": "division word problems", "confidence": "Medium"}
+{"feat": "30-F641968", "explanation": "rational function asymptotes", "confidence": "Medium"}
+{"feat": "30-F642722", "explanation": "Quadratic vertex formula", "confidence": "High"}
+{"feat": "30-F642008", "explanation": "Say Here’s a concise solution", "confidence": "High"}
+{"feat": "30-F643262", "explanation": "floating point precision", "confidence": "High"}
+{"feat": "30-F643508", "explanation": "Say opening bracket", "confidence": "Medium"}
+{"feat": "30-F622029", "explanation": "quadratic equations", "confidence": "High"}
+{"feat": "30-F643660", "explanation": "quaternion mathematics", "confidence": "Medium"}
+{"feat": "30-F641130", "explanation": "base-N digit equations", "confidence": "Low"}
+{"feat": "30-F644605", "explanation": "integer coefficients", "confidence": "Medium"}
+{"feat": "30-F642348", "explanation": "Numerators and denominators", "confidence": "Medium"}
+{"feat": "30-F620795", "explanation": "Grid cardinal directions", "confidence": "Medium"}
+{"feat": "30-F547428", "explanation": null, "confidence": null}
+{"feat": "30-F650307", "explanation": "Equation left side", "confidence": "medium"}
+{"feat": "30-F645793", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F644344", "explanation": "system of equations", "confidence": "Medium"}
+{"feat": "30-F647384", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F645962", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F602654", "explanation": "LAPACK linear algebra", "confidence": "Medium"}
+{"feat": "30-F645881", "explanation": "GCD and LCM", "confidence": "High"}
+{"feat": "30-F645543", "explanation": "algebra exercise template", "confidence": "Medium"}
+{"feat": "30-F647408", "explanation": "round square root", "confidence": "Medium"}
+{"feat": "30-F655313", "explanation": "Quadratic equation solutions", "confidence": "medium"}
+{"feat": "30-F647651", "explanation": "Degree-six polynomial prompt", "confidence": "Medium"}
+{"feat": "30-F605007", "explanation": "last digit position", "confidence": "Medium"}
+{"feat": "30-F656984", "explanation": "vector projection", "confidence": "high"}
+{"feat": "30-F644184", "explanation": "Say triangle", "confidence": "Low"}
+{"feat": "30-F649390", "explanation": "calculator unit tests", "confidence": "Medium"}
+{"feat": "30-F647886", "explanation": "zero remainder result", "confidence": "Medium"}
+{"feat": "30-F651575", "explanation": "Quadratic equation roots", "confidence": "Medium"}
+{"feat": "30-F651792", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F650365", "explanation": "Rational expected value", "confidence": "Medium"}
+{"feat": "30-F653232", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F649313", "explanation": "four-digit numbers", "confidence": "Medium"}
+{"feat": "30-F655131", "explanation": "Polynomial division remainder", "confidence": "High"}
+{"feat": "30-F656454", "explanation": "Say multiply", "confidence": "Medium"}
+{"feat": "30-F657695", "explanation": "Math expression creation task", "confidence": "Medium"}
+{"feat": "30-F649300", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F649509", "explanation": "mathematics exposition", "confidence": "Medium"}
+{"feat": "30-F659233", "explanation": "Arithmetic digit manipulation", "confidence": "Medium"}
+{"feat": "30-F656371", "explanation": "polynomial expression operators", "confidence": "Medium"}
+{"feat": "30-F661154", "explanation": "decimal point notation", "confidence": "High"}
+{"feat": "30-F658284", "explanation": "numerical value", "confidence": "Medium"}
+{"feat": "30-F664638", "explanation": "cube exponentiation", "confidence": "High"}
+{"feat": "30-F663856", "explanation": "up to 20 constraint", "confidence": "Medium"}
+{"feat": "30-F641756", "explanation": "maximum value of quadratic", "confidence": "High"}
+{"feat": "30-F640954", "explanation": "Star rating out of five", "confidence": "High"}
+{"feat": "30-F657026", "explanation": "object-oriented code", "confidence": "Medium"}
+{"feat": "30-F665473", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F665131", "explanation": "decimal rounding precision", "confidence": "Medium"}
+{"feat": "30-F663928", "explanation": "Say Newton/Babylonian method", "confidence": "High"}
+{"feat": "30-F659328", "explanation": "Low-quality scraped text", "confidence": "Medium"}
+{"feat": "30-F642701", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F641602", "explanation": "polynomial equation solving", "confidence": "Medium"}
+{"feat": "30-F667545", "explanation": "Unicode replacement character", "confidence": "Medium"}
+{"feat": "30-F668713", "explanation": "binary bit subset condition", "confidence": "Medium"}
+{"feat": "30-F643628", "explanation": "modular arithmetic", "confidence": "High"}
+{"feat": "30-F667797", "explanation": "integer divisors", "confidence": "Medium"}
+{"feat": "30-F619358", "explanation": "particular integer solution", "confidence": "Medium"}
+{"feat": "30-F643687", "explanation": "division by zero error", "confidence": "Medium"}
+{"feat": "30-F668788", "explanation": "function evaluation notation", "confidence": "Medium"}
+{"feat": "30-F667693", "explanation": "SEO spam pages", "confidence": "Medium"}
+{"feat": "30-F670368", "explanation": "numerical methods", "confidence": "High"}
+{"feat": "30-F672148", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F671340", "explanation": "LaTeX matrix notation", "confidence": "Medium"}
+{"feat": "30-F647425", "explanation": "Eigenvalues and stability", "confidence": "High"}
+{"feat": "30-F672153", "explanation": "LaTeX matrix formatting", "confidence": "Medium"}
+{"feat": "30-F672879", "explanation": "primality divisibility checks", "confidence": "Medium"}
+{"feat": "30-F678040", "explanation": "the number three", "confidence": "High"}
+{"feat": "30-F673982", "explanation": "nth root degree", "confidence": "Medium"}
+{"feat": "30-F675151", "explanation": "existential “there’s an”", "confidence": "Medium"}
+{"feat": "30-F670293", "explanation": "paragraph-ending period", "confidence": "Medium"}
+{"feat": "30-F680006", "explanation": "Higher math terminology", "confidence": "Low"}
+{"feat": "30-F676908", "explanation": "Python exponentiation syntax", "confidence": "High"}
+{"feat": "30-F680517", "explanation": "decimal place formatting", "confidence": "Medium"}
+{"feat": "30-F678799", "explanation": "Base notation underscore", "confidence": "High"}
+{"feat": "30-F679349", "explanation": "integer equation solving", "confidence": "Medium"}
+{"feat": "30-F682090", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F681547", "explanation": "educational how-to queries", "confidence": "Medium"}
+{"feat": "30-F658452", "explanation": "decimal point arithmetic", "confidence": "Medium"}
+{"feat": "30-F661657", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F682656", "explanation": "polynomial degree", "confidence": "Medium"}
+{"feat": "30-F680689", "explanation": "Polynomial remainder form", "confidence": "High"}
+{"feat": "30-F684110", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F659323", "explanation": "Real roots condition", "confidence": "High"}
+{"feat": "30-F656374", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F687759", "explanation": "floating point numbers", "confidence": "High"}
+{"feat": "30-F664654", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F684558", "explanation": "LaTeX matrix notation", "confidence": "High"}
+{"feat": "30-F686039", "explanation": "linear programming slack variables", "confidence": "High"}
+{"feat": "30-F681586", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F688414", "explanation": "number sequence analysis", "confidence": "Medium"}
+{"feat": "30-F688666", "explanation": "Arithmetic division slash", "confidence": "High"}
+{"feat": "30-F683192", "explanation": "Markdown code backticks", "confidence": "Medium"}
+{"feat": "30-F689458", "explanation": "LaTeX math macros", "confidence": "High"}
+{"feat": "30-F689395", "explanation": "equal sign in equations", "confidence": "High"}
+{"feat": "30-F668422", "explanation": "exactly once constraints", "confidence": "Medium"}
+{"feat": "30-F685416", "explanation": "Don't Say graphs", "confidence": "Medium"}
+{"feat": "30-F669908", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F690836", "explanation": "arithmetic sequences", "confidence": "High"}
+{"feat": "30-F618033", "explanation": "hypothetical conditionals", "confidence": "Medium"}
+{"feat": "30-F696391", "explanation": "Mathematical representation statements", "confidence": "medium"}
+{"feat": "30-F689562", "explanation": "long multiplication explanation", "confidence": "Medium"}
+{"feat": "30-F690629", "explanation": "Say period", "confidence": "Medium"}
+{"feat": "30-F690044", "explanation": "floating-point decimal point", "confidence": "High"}
+{"feat": "30-F695218", "explanation": "Mathematical expressions", "confidence": "Medium"}
+{"feat": "30-F675721", "explanation": "double precision decimal digits", "confidence": "High"}
+{"feat": "30-F673374", "explanation": "matrix computation steps", "confidence": "Medium"}
+{"feat": "30-F694785", "explanation": "Numbered array input", "confidence": "Medium"}
+{"feat": "30-F692752", "explanation": "decimal place rounding", "confidence": "Medium"}
+{"feat": "30-F695464", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F696251", "explanation": "single solution", "confidence": "Medium"}
+{"feat": "30-F691958", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F697852", "explanation": "mathematical inequality setup", "confidence": "High"}
+{"feat": "30-F695923", "explanation": "Don't Say arrangement", "confidence": "Medium"}
+{"feat": "30-F699130", "explanation": "Zero discriminant double root", "confidence": "High"}
+{"feat": "30-F696338", "explanation": "addition / adding", "confidence": "Medium"}
+{"feat": "30-F695938", "explanation": "mathematics coursework text", "confidence": "Medium"}
+{"feat": "30-F710726", "explanation": "multiplication expressions", "confidence": "medium"}
+{"feat": "30-F703684", "explanation": "Say tables and graphs", "confidence": "High"}
+{"feat": "30-F711910", "explanation": "Digit 5", "confidence": "medium"}
+{"feat": "30-F701626", "explanation": "LaTeX vector notation", "confidence": "High"}
+{"feat": "30-F704347", "explanation": "gcd computation steps", "confidence": "Medium"}
+{"feat": "30-F679540", "explanation": "perfect square checking", "confidence": "Medium"}
+{"feat": "30-F697140", "explanation": "minimum value problems", "confidence": "Medium"}
+{"feat": "30-F701987", "explanation": "positive integer answer", "confidence": "Medium"}
+{"feat": "30-F715680", "explanation": "mathematical with clauses", "confidence": "medium"}
+{"feat": "30-F702490", "explanation": "mathematics tutorial exposition", "confidence": "Medium"}
+{"feat": "30-F703858", "explanation": "divided by arithmetic", "confidence": "Medium"}
+{"feat": "30-F708569", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F708047", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F684700", "explanation": "Say plot", "confidence": "High"}
+{"feat": "30-F681736", "explanation": "invalid binary input", "confidence": "Medium"}
+{"feat": "30-F712514", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F687683", "explanation": "history of mathematics", "confidence": "Medium"}
+{"feat": "30-F707932", "explanation": "recurrence coefficient digits", "confidence": "Medium"}
+{"feat": "30-F708649", "explanation": "LaTeX number base subscripts", "confidence": "High"}
+{"feat": "30-F721353", "explanation": "Three-point polynomial interpolation", "confidence": "medium"}
+{"feat": "30-F715698", "explanation": "arithmetic result statements", "confidence": "Medium"}
+{"feat": "30-F688809", "explanation": "Let me compute that", "confidence": "Medium"}
+{"feat": "30-F689239", "explanation": "big integer multiplication", "confidence": "Medium"}
+{"feat": "30-F717150", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F710808", "explanation": "coprime condition statements", "confidence": "Low"}
+{"feat": "30-F690154", "explanation": "Back-substitute step", "confidence": "High"}
+{"feat": "30-F718124", "explanation": "factorials and combinations", "confidence": "High"}
+{"feat": "30-F716162", "explanation": "rounding digit identification", "confidence": "Medium"}
+{"feat": "30-F715122", "explanation": "polynomial function notation", "confidence": "Medium"}
+{"feat": "30-F690736", "explanation": "Factorial magnitude concerns", "confidence": "Medium"}
+{"feat": "30-F715943", "explanation": "Polynomial bullet hyphen", "confidence": "Medium"}
+{"feat": "30-F720793", "explanation": "matrix dimensions notation", "confidence": "High"}
+{"feat": "30-F727199", "explanation": "decimal number format", "confidence": "medium"}
+{"feat": "30-F692933", "explanation": "infinity float values", "confidence": "High"}
+{"feat": "30-F692532", "explanation": "dot-separated dates", "confidence": "High"}
+{"feat": "30-F712773", "explanation": "quadratic parabola explanations", "confidence": "Medium"}
+{"feat": "30-F720454", "explanation": "ebook metadata fields", "confidence": "High"}
+{"feat": "30-F695230", "explanation": "Say factor", "confidence": "Medium"}
+{"feat": "30-F721380", "explanation": "linear ODE matrix methods", "confidence": "High"}
+{"feat": "30-F713366", "explanation": "speaker label colon", "confidence": "Low"}
+{"feat": "30-F722013", "explanation": "high-precision numerical computation", "confidence": "Medium"}
+{"feat": "30-F724448", "explanation": "multiplication operation", "confidence": "High"}
+{"feat": "30-F719063", "explanation": "less than comparisons", "confidence": "Medium"}
+{"feat": "30-F694465", "explanation": "Mathematical notation", "confidence": "Medium"}
+{"feat": "30-F723707", "explanation": "slant asymptote condition", "confidence": "High"}
+{"feat": "30-F722729", "explanation": "Say square powers", "confidence": "High"}
+{"feat": "30-F734230", "explanation": "Let me write that", "confidence": "high"}
+{"feat": "30-F725612", "explanation": "Rational root theorem", "confidence": "High"}
+{"feat": "30-F726569", "explanation": "Essay writing spam", "confidence": "Medium"}
+{"feat": "30-F725520", "explanation": "rational function degrees", "confidence": "High"}
+{"feat": "30-F714256", "explanation": "numerical computing code", "confidence": "Medium"}
+{"feat": "30-F725812", "explanation": "Mathematical linear algebra", "confidence": "Medium"}
+{"feat": "30-F728284", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F726860", "explanation": "copyright footer dates", "confidence": "High"}
+{"feat": "30-F725199", "explanation": "publication year listings", "confidence": "Medium"}
+{"feat": "30-F726587", "explanation": "Decimal zero literals", "confidence": "Medium"}
+{"feat": "30-F699719", "explanation": "polynomial variable x", "confidence": "Medium"}
+{"feat": "30-F731356", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F728538", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F729234", "explanation": "trigonometric range reduction", "confidence": "Medium"}
+{"feat": "30-F731442", "explanation": "approximate positive root", "confidence": "Medium"}
+{"feat": "30-F736683", "explanation": "leading coefficient", "confidence": "High"}
+{"feat": "30-F729110", "explanation": "integer median formatting", "confidence": "Medium"}
+{"feat": "30-F735222", "explanation": "matrix polynomial degree constraints", "confidence": "Medium"}
+{"feat": "30-F702789", "explanation": "conjugate root theorem", "confidence": "Medium"}
+{"feat": "30-F740408", "explanation": "review rating metadata", "confidence": "High"}
+{"feat": "30-F737416", "explanation": "non-integer decimal results", "confidence": "Medium"}
+{"feat": "30-F740551", "explanation": "iterative linear solvers", "confidence": "Medium"}
+{"feat": "30-F745135", "explanation": "algebra term collection steps", "confidence": "Medium"}
+{"feat": "30-F741138", "explanation": "congruence equations", "confidence": "Medium"}
+{"feat": "30-F746537", "explanation": "square matrix problems", "confidence": "High"}
+{"feat": "30-F735958", "explanation": "Polynomial degree descriptions", "confidence": "Medium"}
+{"feat": "30-F746895", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F746637", "explanation": "calculator specifications", "confidence": "Medium"}
+{"feat": "30-F746796", "explanation": "Greatest common divisor", "confidence": "High"}
+{"feat": "30-F742105", "explanation": "Say perform", "confidence": "Medium"}
+{"feat": "30-F747771", "explanation": "mathematical symbol origins", "confidence": "High"}
+{"feat": "30-F750804", "explanation": "Say interval bounds", "confidence": "High"}
+{"feat": "30-F716608", "explanation": "Say matrix terminology", "confidence": "High"}
+{"feat": "30-F751255", "explanation": "fast algorithms", "confidence": "High"}
+{"feat": "30-F749474", "explanation": "Let's compute transition", "confidence": "Medium"}
+{"feat": "30-F751740", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F718829", "explanation": "Repeating decimal notation", "confidence": "High"}
+{"feat": "30-F750475", "explanation": "polynomial long division", "confidence": "Medium"}
+{"feat": "30-F752092", "explanation": "Quadratic equations equal zero", "confidence": "High"}
+{"feat": "30-F753938", "explanation": "Fibonacci sequence", "confidence": "High"}
+{"feat": "30-F751795", "explanation": "Greatest value math problems", "confidence": "High"}
+{"feat": "30-F750853", "explanation": "sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F753448", "explanation": "Square root simplification", "confidence": "Medium"}
+{"feat": "30-F750885", "explanation": "whitespace formatting", "confidence": "Low"}
+{"feat": "30-F751551", "explanation": "numeric date timestamps", "confidence": "Medium"}
+{"feat": "30-F754677", "explanation": "Quadratic inequality solving step", "confidence": "Medium"}
+{"feat": "30-F753874", "explanation": "Order of operations acronyms", "confidence": "High"}
+{"feat": "30-F754299", "explanation": "Prime numbers", "confidence": "High"}
+{"feat": "30-F736033", "explanation": "Sum formulas", "confidence": "medium"}
+{"feat": "30-F754691", "explanation": "two decimal places", "confidence": "High"}
+{"feat": "30-F752245", "explanation": "multiset integer problems", "confidence": "Medium"}
+{"feat": "30-F727365", "explanation": "matrix main diagonal", "confidence": "High"}
+{"feat": "30-F728465", "explanation": "Math expression notation", "confidence": "Medium"}
+{"feat": "30-F757857", "explanation": "algebra equations", "confidence": "Medium"}
+{"feat": "30-F761605", "explanation": "Polynomial variable x", "confidence": "Medium"}
+{"feat": "30-F762256", "explanation": "Average value formula", "confidence": "High"}
+{"feat": "30-F732003", "explanation": "Review rating boilerplate", "confidence": "High"}
+{"feat": "30-F760451", "explanation": "Say Deploy", "confidence": "Medium"}
+{"feat": "30-F761474", "explanation": "greatest number math problems", "confidence": "High"}
+{"feat": "30-F762513", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F762019", "explanation": "math worksheet queries", "confidence": "Medium"}
+{"feat": "30-F735823", "explanation": "greatest common divisor reduction", "confidence": "High"}
+{"feat": "30-F758899", "explanation": "mathematical problem statements", "confidence": "Medium"}
+{"feat": "30-F756714", "explanation": "integer division caveat", "confidence": "Medium"}
+{"feat": "30-F762993", "explanation": "Bullet list markers", "confidence": "High"}
+{"feat": "30-F735370", "explanation": "webpage footer boilerplate", "confidence": "Medium"}
+{"feat": "30-F764047", "explanation": "algebraic equation forms", "confidence": "High"}
+{"feat": "30-F765408", "explanation": "square function computations", "confidence": "High"}
+{"feat": "30-F744011", "explanation": "decimal number notation", "confidence": "High"}
+{"feat": "30-F764557", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F764862", "explanation": "math homework task prompts", "confidence": "Medium"}
+{"feat": "30-F767705", "explanation": "Extremely large quantities", "confidence": "High"}
+{"feat": "30-F762514", "explanation": "technical exposition", "confidence": "Low"}
+{"feat": "30-F767167", "explanation": "Infinite solutions", "confidence": "High"}
+{"feat": "30-F764667", "explanation": "mathematical function definitions", "confidence": "Medium"}
+{"feat": "30-F746830", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F766627", "explanation": "Underdetermined math problems", "confidence": "Medium"}
+{"feat": "30-F767922", "explanation": "can be written phrase", "confidence": "Medium"}
+{"feat": "30-F713837", "explanation": "number 13", "confidence": "Medium"}
+{"feat": "30-F770762", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F765963", "explanation": "Logistic differential equations", "confidence": "Medium"}
+{"feat": "30-F769606", "explanation": "decimal-to-fraction conversion", "confidence": "Medium"}
+{"feat": "30-F764321", "explanation": "Search result snippet dates", "confidence": "Medium"}
+{"feat": "30-F767995", "explanation": "Remainder theorem statements", "confidence": "Medium"}
+{"feat": "30-F774643", "explanation": "polynomial variable x", "confidence": "Medium"}
+{"feat": "30-F746886", "explanation": "Say record", "confidence": "Medium"}
+{"feat": "30-F775451", "explanation": "Don't Say digit", "confidence": "Medium"}
+{"feat": "30-F769015", "explanation": "algebra solution steps", "confidence": "Medium"}
+{"feat": "30-F775358", "explanation": "Decimal point in numbers", "confidence": "High"}
+{"feat": "30-F777754", "explanation": "Say token", "confidence": "Medium"}
+{"feat": "30-F775397", "explanation": "decimal fraction conversion", "confidence": "Medium"}
+{"feat": "30-F770338", "explanation": "educational document text", "confidence": "Low"}
+{"feat": "30-F779273", "explanation": "round to five decimals", "confidence": "Medium"}
+{"feat": "30-F784168", "explanation": "Code punctuation and variables", "confidence": "Medium"}
+{"feat": "30-F754682", "explanation": "modular arithmetic", "confidence": "Medium"}
+{"feat": "30-F783909", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F785098", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F784013", "explanation": "Modulo evenness check", "confidence": "Medium"}
+{"feat": "30-F784876", "explanation": "Euclidean distance calculation", "confidence": "High"}
+{"feat": "30-F786711", "explanation": "floating-point numbers", "confidence": "High"}
+{"feat": "30-F781058", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F777981", "explanation": "mathematical inverse of", "confidence": "Medium"}
+{"feat": "30-F784082", "explanation": "Containment relation", "confidence": "Medium"}
+{"feat": "30-F786482", "explanation": "algebraic property terminology", "confidence": "High"}
+{"feat": "30-F759678", "explanation": "algebra instruction", "confidence": "Medium"}
+{"feat": "30-F786993", "explanation": "large-number multiplication", "confidence": "Medium"}
+{"feat": "30-F784807", "explanation": "C/C++ array declarations", "confidence": "Medium"}
+{"feat": "30-F792284", "explanation": "modular exponentiation cycles", "confidence": "High"}
+{"feat": "30-F794196", "explanation": "factor over field", "confidence": "Medium"}
+{"feat": "30-F785932", "explanation": "quadratic standard form", "confidence": "Medium"}
+{"feat": "30-F802312", "explanation": "Polynomial roots and coefficients", "confidence": "medium"}
+{"feat": "30-F796492", "explanation": "Pascal's triangle", "confidence": "High"}
+{"feat": "30-F791889", "explanation": "verify with examples", "confidence": "High"}
+{"feat": "30-F796365", "explanation": "harmonic number fractions", "confidence": "Medium"}
+{"feat": "30-F794419", "explanation": "LaTeX matrix notation", "confidence": "Medium"}
+{"feat": "30-F799520", "explanation": "Markdown code block formatting", "confidence": "Medium"}
+{"feat": "30-F763689", "explanation": "arithmetic computation setup", "confidence": "Medium"}
+{"feat": "30-F799714", "explanation": "logarithm domain constraints", "confidence": "Medium"}
+{"feat": "30-F799504", "explanation": "arithmetic calculation prompts", "confidence": "Medium"}
+{"feat": "30-F801289", "explanation": "Polynomial expressions", "confidence": "Medium"}
+{"feat": "30-F799728", "explanation": "math study documents", "confidence": "Medium"}
+{"feat": "30-F802268", "explanation": "Python integer division", "confidence": "High"}
+{"feat": "30-F802578", "explanation": "Real numbers", "confidence": "Medium"}
+{"feat": "30-F802308", "explanation": "digit manipulation code", "confidence": "High"}
+{"feat": "30-F802948", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F775257", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F802716", "explanation": "quadratic forms", "confidence": "High"}
+{"feat": "30-F803073", "explanation": "Linear approximation calculations", "confidence": "High"}
+{"feat": "30-F801103", "explanation": "GF(2) arithmetic", "confidence": "High"}
+{"feat": "30-F776474", "explanation": "Say operators", "confidence": "High"}
+{"feat": "30-F805222", "explanation": "Decimal number notation", "confidence": "Medium"}
+{"feat": "30-F778875", "explanation": "control systems engineering", "confidence": "High"}
+{"feat": "30-F804244", "explanation": "Vieta's formulas", "confidence": "Medium"}
+{"feat": "30-F806370", "explanation": "Handle edge cases", "confidence": "Medium"}
+{"feat": "30-F805881", "explanation": "Reversing digits", "confidence": "High"}
+{"feat": "30-F760773", "explanation": "Repeated division conversion", "confidence": "Medium"}
+{"feat": "30-F806770", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F806626", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F761069", "explanation": "fraction-to-decimal conversion", "confidence": "High"}
+{"feat": "30-F806456", "explanation": "elementary mathematics explanations", "confidence": "Medium"}
+{"feat": "30-F787228", "explanation": "Large number digit count", "confidence": "Medium"}
+{"feat": "30-F811224", "explanation": "Zero is even assertion", "confidence": "medium"}
+{"feat": "30-F804043", "explanation": "Scraped webpage formatting", "confidence": "Medium"}
+{"feat": "30-F807151", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F806523", "explanation": "linked-list number addition", "confidence": "Medium"}
+{"feat": "30-F807354", "explanation": "occurs at phrase", "confidence": "Medium"}
+{"feat": "30-F792096", "explanation": "Decimal expansion fractions", "confidence": "High"}
+{"feat": "30-F808756", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F808863", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F806758", "explanation": "divisible by phrase", "confidence": "Medium"}
+{"feat": "30-F789767", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F794804", "explanation": "Don't Say group", "confidence": "Medium"}
+{"feat": "30-F799275", "explanation": "No real solutions", "confidence": "High"}
+{"feat": "30-F811294", "explanation": "floating-point avoidance", "confidence": "High"}
+{"feat": "30-F809344", "explanation": "numbered list periods", "confidence": "Medium"}
+{"feat": "30-F811007", "explanation": "3x3 determinant expansion", "confidence": "High"}
+{"feat": "30-F766180", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F810757", "explanation": "2x2 matrices", "confidence": "Medium"}
+{"feat": "30-F812907", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F818941", "explanation": "Polynomial coefficients", "confidence": "High"}
+{"feat": "30-F818980", "explanation": "Columnar addition", "confidence": "High"}
+{"feat": "30-F802493", "explanation": "Mathematical property statements", "confidence": "Medium"}
+{"feat": "30-F820764", "explanation": "Testing possible roots", "confidence": "High"}
+{"feat": "30-F820242", "explanation": "Eigenvalue equations", "confidence": "High"}
+{"feat": "30-F814929", "explanation": "Output as float", "confidence": "Medium"}
+{"feat": "30-F821646", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F815106", "explanation": "Fibonacci matrix exponentiation", "confidence": "High"}
+{"feat": "30-F821386", "explanation": "Prefix pre", "confidence": "Medium"}
+{"feat": "30-F804868", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F820507", "explanation": "numbers written in decimal", "confidence": "Medium"}
+{"feat": "30-F825123", "explanation": "Markdown bold marker", "confidence": "Medium"}
+{"feat": "30-F815340", "explanation": "MATLAB technical documentation", "confidence": "Low"}
+{"feat": "30-F781369", "explanation": "decimal arithmetic explanations", "confidence": "Medium"}
+{"feat": "30-F825035", "explanation": "Polynomial coefficient notation", "confidence": "Medium"}
+{"feat": "30-F805909", "explanation": "Find the value prompts", "confidence": "Medium"}
+{"feat": "30-F825896", "explanation": "SVD orthogonal matrices", "confidence": "Medium"}
+{"feat": "30-F826226", "explanation": "multiplication tables", "confidence": "High"}
+{"feat": "30-F826530", "explanation": "Base numeral systems", "confidence": "Medium"}
+{"feat": "30-F829004", "explanation": "3D geometry dimensions", "confidence": "Medium"}
+{"feat": "30-F830144", "explanation": "Laplace transfer functions", "confidence": "Medium"}
+{"feat": "30-F826037", "explanation": "pharmaceutical web spam", "confidence": "Medium"}
+{"feat": "30-F832779", "explanation": "Decimal number formatting", "confidence": "Medium"}
+{"feat": "30-F805997", "explanation": "polynomial degree statements", "confidence": "Medium"}
+{"feat": "30-F827973", "explanation": "base notation explanation", "confidence": "Medium"}
+{"feat": "30-F832809", "explanation": "educational worksheet pages", "confidence": "Medium"}
+{"feat": "30-F838660", "explanation": "LaTeX vector equations", "confidence": "medium"}
+{"feat": "30-F789312", "explanation": "division calculation step", "confidence": "Medium"}
+{"feat": "30-F807349", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F762209", "explanation": "math curriculum content", "confidence": "Medium"}
+{"feat": "30-F831256", "explanation": "mathematical “a number” phrasing", "confidence": "Medium"}
+{"feat": "30-F810560", "explanation": "digit constraint reasoning", "confidence": "Medium"}
+{"feat": "30-F835146", "explanation": "logarithm calculations", "confidence": "High"}
+{"feat": "30-F834692", "explanation": "failed zero check", "confidence": "Medium"}
+{"feat": "30-F841246", "explanation": "arithmetic progression", "confidence": "high"}
+{"feat": "30-F836756", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F833838", "explanation": "LCM smallest multiple prompt", "confidence": "Medium"}
+{"feat": "30-F836675", "explanation": "Code and mathematical notation", "confidence": "Medium"}
+{"feat": "30-F841691", "explanation": "cubic discriminant formula", "confidence": "low"}
+{"feat": "30-F837832", "explanation": "Least common multiple", "confidence": "High"}
+{"feat": "30-F836923", "explanation": "Division by zero", "confidence": "High"}
+{"feat": "30-F839832", "explanation": "Say convert", "confidence": "Low"}
+{"feat": "30-F839982", "explanation": "LaTeX pmatrix syntax", "confidence": "High"}
+{"feat": "30-F839879", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F838929", "explanation": "Matrix entry indices", "confidence": "Medium"}
+{"feat": "30-F817770", "explanation": "polynomial long division", "confidence": "High"}
+{"feat": "30-F838100", "explanation": "Area model math problems", "confidence": "Medium"}
+{"feat": "30-F821510", "explanation": "initial conditions in recurrences", "confidence": "Medium"}
+{"feat": "30-F840690", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F844042", "explanation": "Factorial big integer handling", "confidence": "Medium"}
+{"feat": "30-F841257", "explanation": "division expression grouping", "confidence": "Medium"}
+{"feat": "30-F822837", "explanation": "Polynomial division steps", "confidence": "Medium"}
+{"feat": "30-F845313", "explanation": "LaTeX matrix syntax", "confidence": "High"}
+{"feat": "30-F851533", "explanation": "arithmetic operators", "confidence": "high"}
+{"feat": "30-F846136", "explanation": "Programming input prompts", "confidence": "High"}
+{"feat": "30-F822751", "explanation": "self-verification reasoning", "confidence": "High"}
+{"feat": "30-F811980", "explanation": "STEM terminology", "confidence": "Low"}
+{"feat": "30-F840115", "explanation": "Mojibake encoding artifacts", "confidence": "Medium"}
+{"feat": "30-F846814", "explanation": "C math header includes", "confidence": "High"}
+{"feat": "30-F844628", "explanation": "Continue Reading links", "confidence": "High"}
+{"feat": "30-F845449", "explanation": "Python division of integers", "confidence": "Medium"}
+{"feat": "30-F849371", "explanation": "Euclidean distance formula", "confidence": "High"}
+{"feat": "30-F845509", "explanation": "Equal rational function degrees", "confidence": "High"}
+{"feat": "30-F847025", "explanation": "Polynomial coefficient notation", "confidence": "Medium"}
+{"feat": "30-F826247", "explanation": "Arithmetic calculation result", "confidence": "Medium"}
+{"feat": "30-F849864", "explanation": "negative-base remainder adjustment", "confidence": "High"}
+{"feat": "30-F852582", "explanation": "polynomial math problems", "confidence": "High"}
+{"feat": "30-F851009", "explanation": "Alternative problem setting", "confidence": "Medium"}
+{"feat": "30-F850678", "explanation": "pharmaceutical spam", "confidence": "Medium"}
+{"feat": "30-F850944", "explanation": "Post-think answer transition", "confidence": "Medium"}
+{"feat": "30-F852685", "explanation": "divisibility reasoning", "confidence": "Medium"}
+{"feat": "30-F851776", "explanation": "linear equation solving", "confidence": "Medium"}
+{"feat": "30-F855344", "explanation": "Say multiplication", "confidence": "High"}
+{"feat": "30-F864730", "explanation": "Matrix row calculations", "confidence": "high"}
+{"feat": "30-F856000", "explanation": "Exponents in math", "confidence": "High"}
+{"feat": "30-F807306", "explanation": "scientific notation", "confidence": "High"}
+{"feat": "30-F850200", "explanation": "Corrupted multiplication symbol", "confidence": "High"}
+{"feat": "30-F856571", "explanation": "percentage calculation steps", "confidence": "Medium"}
+{"feat": "30-F834509", "explanation": "Testing candidate roots", "confidence": "Medium"}
+{"feat": "30-F832864", "explanation": "multiplication carry handling", "confidence": "Medium"}
+{"feat": "30-F855460", "explanation": "Polynomial equation equals sign", "confidence": "High"}
+{"feat": "30-F855529", "explanation": "number system properties", "confidence": "Medium"}
+{"feat": "30-F863018", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F854114", "explanation": "Need to use method", "confidence": "Medium"}
+{"feat": "30-F856608", "explanation": "floating-point output formatting", "confidence": "High"}
+{"feat": "30-F836188", "explanation": "Remainders in arithmetic", "confidence": "High"}
+{"feat": "30-F859122", "explanation": "numeric inequality comparisons", "confidence": "Medium"}
+{"feat": "30-F854318", "explanation": "technical numeric identifiers", "confidence": "Medium"}
+{"feat": "30-F868374", "explanation": "Say floating-point rounding", "confidence": "Medium"}
+{"feat": "30-F862542", "explanation": "LaTeX matrix closing brace", "confidence": "High"}
+{"feat": "30-F863494", "explanation": "base number systems", "confidence": "Medium"}
+{"feat": "30-F869534", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F861524", "explanation": "Polynomial degree/order", "confidence": "High"}
+{"feat": "30-F863273", "explanation": "trying possible roots", "confidence": "Medium"}
+{"feat": "30-F866407", "explanation": "base arithmetic reasoning", "confidence": "Medium"}
+{"feat": "30-F868537", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F871913", "explanation": "coordinate plane geometry", "confidence": "High"}
+{"feat": "30-F860914", "explanation": "sentence-ending punctuation", "confidence": "Low"}
+{"feat": "30-F871513", "explanation": "Say Let me solve", "confidence": "Medium"}
+{"feat": "30-F876233", "explanation": "polynomial long division", "confidence": "High"}
+{"feat": "30-F869831", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F872107", "explanation": "Don't Say ratio", "confidence": "Medium"}
+{"feat": "30-F847613", "explanation": "multiplying two quantities", "confidence": "Medium"}
+{"feat": "30-F872349", "explanation": "suspected equation typo", "confidence": "Medium"}
+{"feat": "30-F872362", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F876735", "explanation": "inverse function notation", "confidence": "High"}
+{"feat": "30-F846520", "explanation": "factorial trailing zeros", "confidence": "Medium"}
+{"feat": "30-F873848", "explanation": "multiplication partial products", "confidence": "Medium"}
+{"feat": "30-F873539", "explanation": "integer result as float", "confidence": "Medium"}
+{"feat": "30-F877042", "explanation": "math curriculum topics", "confidence": "Medium"}
+{"feat": "30-F878992", "explanation": "Say colon", "confidence": "Medium"}
+{"feat": "30-F880462", "explanation": "divisibility simplification", "confidence": "High"}
+{"feat": "30-F857117", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F855899", "explanation": "webpage formatting artifacts", "confidence": "Medium"}
+{"feat": "30-F880191", "explanation": "matrix diagonals", "confidence": "High"}
+{"feat": "30-F852935", "explanation": "absolute value comparisons", "confidence": "Medium"}
+{"feat": "30-F881846", "explanation": "polynomial Euclidean algorithm", "confidence": "Medium"}
+{"feat": "30-F881161", "explanation": "comma punctuation", "confidence": "Medium"}
+{"feat": "30-F883367", "explanation": "determinant cofactor expansion", "confidence": "High"}
+{"feat": "30-F880364", "explanation": "Say calculator", "confidence": "Medium"}
+{"feat": "30-F882587", "explanation": "Derivative computation prompts", "confidence": "Medium"}
+{"feat": "30-F884473", "explanation": "Say quotient", "confidence": "High"}
+{"feat": "30-F865997", "explanation": "integer division quotient", "confidence": "High"}
+{"feat": "30-F884646", "explanation": "Vieta's formulas", "confidence": "Medium"}
+{"feat": "30-F883774", "explanation": "integer coefficients", "confidence": "Medium"}
+{"feat": "30-F838212", "explanation": "corrupted scraped web text", "confidence": "Medium"}
+{"feat": "30-F885093", "explanation": "Floating-point number", "confidence": "High"}
+{"feat": "30-F866173", "explanation": "Modulo remainder division", "confidence": "Medium"}
+{"feat": "30-F885988", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F884614", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F885434", "explanation": "One decimal place", "confidence": "High"}
+{"feat": "30-F872057", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F886935", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F884583", "explanation": "polynomial exponent notation", "confidence": "Medium"}
+{"feat": "30-F884374", "explanation": "numbered list periods", "confidence": "Medium"}
+{"feat": "30-F887666", "explanation": "Approximate numeric constants", "confidence": "Medium"}
+{"feat": "30-F872323", "explanation": "Proportional variables", "confidence": "High"}
+{"feat": "30-F876487", "explanation": "linear regression coefficients", "confidence": "High"}
+{"feat": "30-F804761", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F890187", "explanation": "Author byline metadata", "confidence": "High"}
+{"feat": "30-F893344", "explanation": "LaTeX bold vector notation", "confidence": "Medium"}
+{"feat": "30-F890398", "explanation": "matrix row operations", "confidence": "Medium"}
+{"feat": "30-F894013", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F892637", "explanation": "square root mathematics", "confidence": "High"}
+{"feat": "30-F846954", "explanation": "Exponentiation programming tasks", "confidence": "High"}
+{"feat": "30-F892015", "explanation": "C/C++ source code", "confidence": "High"}
+{"feat": "30-F894087", "explanation": "half_answer field", "confidence": "High"}
+{"feat": "30-F878558", "explanation": "numerical integration methods", "confidence": "Medium"}
+{"feat": "30-F887582", "explanation": "step-by-step arithmetic reasoning", "confidence": "Medium"}
+{"feat": "30-F893863", "explanation": "SymPy syntax", "confidence": "Medium"}
+{"feat": "30-F895298", "explanation": "Quadratic equation equals zero", "confidence": "Medium"}
+{"feat": "30-F897347", "explanation": "significant figures", "confidence": "High"}
+{"feat": "30-F895207", "explanation": "arithmetic compensation reasoning", "confidence": "Medium"}
+{"feat": "30-F895266", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F896807", "explanation": "characteristic equations", "confidence": "High"}
+{"feat": "30-F880250", "explanation": "Essay rating boilerplate", "confidence": "High"}
+{"feat": "30-F896226", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F899404", "explanation": "Quadratic graphing instructions", "confidence": "Medium"}
+{"feat": "30-F899370", "explanation": "positive definite matrices", "confidence": "Medium"}
+{"feat": "30-F903380", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F903563", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F897599", "explanation": "Year-final date digit", "confidence": "High"}
+{"feat": "30-F899767", "explanation": "floating point precision caveat", "confidence": "Medium"}
+{"feat": "30-F900558", "explanation": "Derivative task prompt", "confidence": "Medium"}
+{"feat": "30-F907017", "explanation": "even number property", "confidence": "High"}
+{"feat": "30-F897266", "explanation": "Say creative arts terms", "confidence": "Low"}
+{"feat": "30-F902612", "explanation": "elementary arithmetic explanations", "confidence": "Medium"}
+{"feat": "30-F907129", "explanation": "Colon after polynomial degree", "confidence": "Medium"}
+{"feat": "30-F908270", "explanation": "Sentence-ending period", "confidence": "Medium"}
+{"feat": "30-F911734", "explanation": "opening square bracket", "confidence": "high"}
+{"feat": "30-F879170", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F907582", "explanation": "vertical asymptote condition", "confidence": "High"}
+{"feat": "30-F908321", "explanation": "Don't Say matrix", "confidence": "Medium"}
+{"feat": "30-F907523", "explanation": "derivative with respect to", "confidence": "Medium"}
+{"feat": "30-F882099", "explanation": "decimal point notation", "confidence": "High"}
+{"feat": "30-F905270", "explanation": "multiplication asterisk", "confidence": "Medium"}
+{"feat": "30-F903970", "explanation": "iterative algorithm steps", "confidence": "Medium"}
+{"feat": "30-F911550", "explanation": "Say scalar multiplication", "confidence": "High"}
+{"feat": "30-F908674", "explanation": "rational root candidates", "confidence": "High"}
+{"feat": "30-F909043", "explanation": "alternating signs", "confidence": "High"}
+{"feat": "30-F911588", "explanation": "substitution or elimination", "confidence": "High"}
+{"feat": "30-F910035", "explanation": "modular exponentiation", "confidence": "Medium"}
+{"feat": "30-F910642", "explanation": "symmetric matrices", "confidence": "Medium"}
+{"feat": "30-F916032", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F914067", "explanation": "Polynomial long division step", "confidence": "Medium"}
+{"feat": "30-F910136", "explanation": "integer arithmetic usage", "confidence": "Medium"}
+{"feat": "30-F913434", "explanation": "Gaussian elimination RREF", "confidence": "Medium"}
+{"feat": "30-F912432", "explanation": "base representation conversion", "confidence": "High"}
+{"feat": "30-F909299", "explanation": "linear inequality syntax", "confidence": "Medium"}
+{"feat": "30-F914559", "explanation": "Rounding to decimal places", "confidence": "High"}
+{"feat": "30-F917739", "explanation": "Mathematical form descriptions", "confidence": "Medium"}
+{"feat": "30-F918322", "explanation": "numerical approximation difference", "confidence": "High"}
+{"feat": "30-F886259", "explanation": "decimal-to-fraction conversion", "confidence": "High"}
+{"feat": "30-F916183", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F917069", "explanation": "counted equation systems", "confidence": "Medium"}
+{"feat": "30-F915633", "explanation": "Polynomial factor division", "confidence": "Medium"}
+{"feat": "30-F911621", "explanation": "quadratic factoring attempts", "confidence": "Medium"}
+{"feat": "30-F871671", "explanation": "LaTeX matrix arrays", "confidence": "High"}
+{"feat": "30-F911370", "explanation": "algebraic equation expansion", "confidence": "Medium"}
+{"feat": "30-F921261", "explanation": "Left-to-right position", "confidence": "High"}
+{"feat": "30-F889666", "explanation": "mathematics number concepts", "confidence": "Medium"}
+{"feat": "30-F921323", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F920948", "explanation": "Find real values satisfying", "confidence": "Medium"}
+{"feat": "30-F921385", "explanation": "rounding final answers", "confidence": "Medium"}
+{"feat": "30-F925554", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F925262", "explanation": "Spammy SEO text", "confidence": "Medium"}
+{"feat": "30-F890126", "explanation": "Say let me", "confidence": "Medium"}
+{"feat": "30-F923065", "explanation": "AC circuit phasors", "confidence": "Medium"}
+{"feat": "30-F928584", "explanation": "Square root notation", "confidence": "High"}
+{"feat": "30-F927203", "explanation": "Don't Say translation", "confidence": "Medium"}
+{"feat": "30-F929320", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F929571", "explanation": "Difference comparisons", "confidence": "Medium"}
+{"feat": "30-F929428", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F928583", "explanation": "history of mathematics", "confidence": "Medium"}
+{"feat": "30-F919742", "explanation": "Say negative numbers", "confidence": "Medium"}
+{"feat": "30-F926334", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F929593", "explanation": "binary digit place values", "confidence": "Medium"}
+{"feat": "30-F925584", "explanation": "arithmetic problem solutions", "confidence": "Medium"}
+{"feat": "30-F898300", "explanation": "SymPy syntax", "confidence": "Medium"}
+{"feat": "30-F929894", "explanation": "single trigonometric function", "confidence": "Medium"}
+{"feat": "30-F933673", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F903865", "explanation": "Matrix row labels", "confidence": "High"}
+{"feat": "30-F932326", "explanation": "quadratic pattern problems", "confidence": "High"}
+{"feat": "30-F925902", "explanation": "recursive problem decomposition", "confidence": "Medium"}
+{"feat": "30-F904226", "explanation": "LaTeX array column specifiers", "confidence": "High"}
+{"feat": "30-F928827", "explanation": "MATLAB numerical computing", "confidence": "Medium"}
+{"feat": "30-F939070", "explanation": "Matrix multiplication", "confidence": "High"}
+{"feat": "30-F931930", "explanation": "LaTeX math delimiter", "confidence": "High"}
+{"feat": "30-F906844", "explanation": "float parsing in code", "confidence": "High"}
+{"feat": "30-F941429", "explanation": "GCF/LCM math notation", "confidence": "Medium"}
+{"feat": "30-F934910", "explanation": "Don't Say tr prefix", "confidence": "High"}
+{"feat": "30-F931745", "explanation": "grid puzzle prompts", "confidence": "Medium"}
+{"feat": "30-F934058", "explanation": "comma before where", "confidence": "Low"}
+{"feat": "30-F934309", "explanation": "numerical computation context", "confidence": "Medium"}
+{"feat": "30-F944361", "explanation": "Decimal point in numeric parsing", "confidence": "High"}
+{"feat": "30-F946225", "explanation": "Python complex numbers", "confidence": "High"}
+{"feat": "30-F941104", "explanation": "matrix/vector notation separators", "confidence": "Medium"}
+{"feat": "30-F943764", "explanation": "Zero simplifies equation", "confidence": "Medium"}
+{"feat": "30-F942121", "explanation": "Euclidean algorithm", "confidence": "High"}
+{"feat": "30-F943431", "explanation": "before mathematical operations", "confidence": "Medium"}
+{"feat": "30-F942944", "explanation": "identity matrix definition", "confidence": "Medium"}
+{"feat": "30-F947025", "explanation": "rounding to two decimals", "confidence": "High"}
+{"feat": "30-F945139", "explanation": "float decimal limitations", "confidence": "High"}
+{"feat": "30-F947607", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F947833", "explanation": "decimal numbers", "confidence": "High"}
+{"feat": "30-F948414", "explanation": "recursive programming explanations", "confidence": "Medium"}
+{"feat": "30-F947317", "explanation": "integer float formatting", "confidence": "Medium"}
+{"feat": "30-F949187", "explanation": "Input numbers", "confidence": "Medium"}
+{"feat": "30-F949265", "explanation": "geometric transformations", "confidence": "Medium"}
+{"feat": "30-F945167", "explanation": "SEO spam formatting", "confidence": "Medium"}
+{"feat": "30-F951801", "explanation": "cofactor sign formula", "confidence": "High"}
+{"feat": "30-F919132", "explanation": "MATLAB programming", "confidence": "High"}
+{"feat": "30-F953125", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F951962", "explanation": "arithmetic operations", "confidence": "High"}
+{"feat": "30-F954075", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F952433", "explanation": "integer result formatting", "confidence": "Medium"}
+{"feat": "30-F958949", "explanation": "low-quality web spam", "confidence": "Medium"}
+{"feat": "30-F953263", "explanation": "positional numeral notation", "confidence": "Medium"}
+{"feat": "30-F924693", "explanation": "Equation roots", "confidence": "Medium"}
+{"feat": "30-F958157", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F959748", "explanation": "Transform instruction", "confidence": "High"}
+{"feat": "30-F934112", "explanation": "Let me compute", "confidence": "Medium"}
+{"feat": "30-F961103", "explanation": "extended Euclidean algorithm", "confidence": "High"}
+{"feat": "30-F931567", "explanation": "numeric input specifications", "confidence": "Medium"}
+{"feat": "30-F964107", "explanation": "trigonometric function graphs", "confidence": "Medium"}
+{"feat": "30-F966243", "explanation": "Inequality interval testing", "confidence": "High"}
+{"feat": "30-F965824", "explanation": "Quadratic formula coefficient b", "confidence": "High"}
+{"feat": "30-F961630", "explanation": "Substituting into formula", "confidence": "Medium"}
+{"feat": "30-F939227", "explanation": "row/column-major order", "confidence": "High"}
+{"feat": "30-F934768", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F967136", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F966695", "explanation": "cofactor expansion determinants", "confidence": "High"}
+{"feat": "30-F942822", "explanation": "Python negative zero equality", "confidence": "High"}
+{"feat": "30-F936273", "explanation": "representational equivalence", "confidence": "Medium"}
+{"feat": "30-F963091", "explanation": "Say outcome/output", "confidence": "Medium"}
+{"feat": "30-F965578", "explanation": "small mathematical integers", "confidence": "Medium"}
+{"feat": "30-F938554", "explanation": "technical computation text", "confidence": "Low"}
+{"feat": "30-F972185", "explanation": "Scientific notation", "confidence": "High"}
+{"feat": "30-F967160", "explanation": "large integer feasibility caveats", "confidence": "Medium"}
+{"feat": "30-F973990", "explanation": "Avoid built-in math functions", "confidence": "Medium"}
+{"feat": "30-F967181", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F974310", "explanation": "nonbreaking space character", "confidence": "High"}
+{"feat": "30-F953575", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F971097", "explanation": "LaTeX math notation", "confidence": "Medium"}
+{"feat": "30-F977107", "explanation": "matrix decomposition algorithms", "confidence": "High"}
+{"feat": "30-F976164", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F975422", "explanation": "Exponentiation notation", "confidence": "High"}
+{"feat": "30-F958203", "explanation": "LaTeX plus-minus notation", "confidence": "High"}
+{"feat": "30-F947580", "explanation": "Asymptote graphing code", "confidence": "Medium"}
+{"feat": "30-F975974", "explanation": "math word problems", "confidence": "Medium"}
+{"feat": "30-F972858", "explanation": "blank line separators", "confidence": "Medium"}
+{"feat": "30-F956485", "explanation": "prime divisibility checking", "confidence": "Medium"}
+{"feat": "30-F958401", "explanation": "reverse digits correct order", "confidence": "Medium"}
+{"feat": "30-F976080", "explanation": "Numerical approximation closeness", "confidence": "Medium"}
+{"feat": "30-F977452", "explanation": "Synthetic division table", "confidence": "High"}
+{"feat": "30-F980624", "explanation": "review rating boilerplate", "confidence": "Medium"}
+{"feat": "30-F981378", "explanation": "Say period", "confidence": "Medium"}
+{"feat": "30-F978037", "explanation": "Numeral seven", "confidence": "Low"}
+{"feat": "30-F958988", "explanation": "multiplication table format", "confidence": "High"}
+{"feat": "30-F978165", "explanation": "floored division calculations", "confidence": "High"}
+{"feat": "30-F983232", "explanation": "elementary math exercises", "confidence": "Medium"}
+{"feat": "30-F975079", "explanation": "dates and version numbers", "confidence": "Low"}
+{"feat": "30-F981307", "explanation": "Gauss summation formula", "confidence": "High"}
+{"feat": "30-F969114", "explanation": "math lesson materials", "confidence": "medium"}
+{"feat": "30-F980878", "explanation": "Exclude backticks or quotes", "confidence": "Medium"}
+{"feat": "30-F958995", "explanation": "large unwieldy expressions", "confidence": "Medium"}
+{"feat": "30-F983947", "explanation": "Don't Say percentage", "confidence": "Medium"}
+{"feat": "30-F986768", "explanation": "control system poles and zeros", "confidence": "Medium"}
+{"feat": "30-F985881", "explanation": "Leftmost most significant digit", "confidence": "High"}
+{"feat": "30-F985022", "explanation": "polynomial functions", "confidence": "Medium"}
+{"feat": "30-F987002", "explanation": "quadratic equation identification", "confidence": "Medium"}
+{"feat": "30-F987415", "explanation": "Roman numerals", "confidence": "High"}
+{"feat": "30-F989883", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F986223", "explanation": "advanced algebraic mathematics", "confidence": "Medium"}
+{"feat": "30-F988734", "explanation": "Sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F970217", "explanation": "division operations", "confidence": "High"}
+{"feat": "30-F991883", "explanation": "has one root", "confidence": "Medium"}
+{"feat": "30-F990837", "explanation": "Matrix dimensions", "confidence": "High"}
+{"feat": "30-F990659", "explanation": "Newton's method setup", "confidence": "Medium"}
+{"feat": "30-F995139", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F989963", "explanation": "matrix rotation examples", "confidence": "Low"}
+{"feat": "30-F991500", "explanation": "Polynomial division steps", "confidence": "High"}
+{"feat": "30-F972326", "explanation": "polynomial algebra notation", "confidence": "Medium"}
+{"feat": "30-F996847", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F958112", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F997580", "explanation": "order of operations", "confidence": "High"}
+{"feat": "30-F978078", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F994498", "explanation": "matrix inverse", "confidence": "High"}
+{"feat": "30-F997585", "explanation": "factor by grouping", "confidence": "High"}
+{"feat": "30-F995358", "explanation": "Trailing decimal zero", "confidence": "Medium"}
+{"feat": "30-F1009216", "explanation": "Binary GCD algorithm", "confidence": "high"}
+{"feat": "30-F969907", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F998784", "explanation": "computational tool alternative", "confidence": "Medium"}
+{"feat": "30-F998728", "explanation": "mathematical sequence problems", "confidence": "Medium"}
+{"feat": "30-F999046", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1003737", "explanation": "integer-valued float check", "confidence": "High"}
+{"feat": "30-F985229", "explanation": "modeled by function", "confidence": "High"}
+{"feat": "30-F983423", "explanation": "rounding numerical answers", "confidence": "Medium"}
+{"feat": "30-F985125", "explanation": "Say opening parenthesis", "confidence": "Medium"}
+{"feat": "30-F1000658", "explanation": "digit count calculations", "confidence": "Medium"}
+{"feat": "30-F1009177", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1001997", "explanation": "decimal point in floats", "confidence": "High"}
+{"feat": "30-F1008080", "explanation": "increase numerical precision", "confidence": "Medium"}
+{"feat": "30-F1016467", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F1009635", "explanation": "Not equal sign", "confidence": "High"}
+{"feat": "30-F985468", "explanation": "Polynomial GCD computation", "confidence": "Medium"}
+{"feat": "30-F1010734", "explanation": "Math comparison worksheets", "confidence": "Medium"}
+{"feat": "30-F1010429", "explanation": "advanced calculus curriculum", "confidence": "Medium"}
+{"feat": "30-F1009714", "explanation": "decimal numbers", "confidence": "Medium"}
+{"feat": "30-F1010729", "explanation": "Download PDF sample boilerplate", "confidence": "High"}
+{"feat": "30-F1011724", "explanation": "Combine like terms", "confidence": "High"}
+{"feat": "30-F1011399", "explanation": "technical terminology", "confidence": "Medium"}
+{"feat": "30-F991364", "explanation": "fraction common denominators", "confidence": "Medium"}
+{"feat": "30-F1014129", "explanation": "three input values", "confidence": "Medium"}
+{"feat": "30-F1012457", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1016705", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1012452", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F994398", "explanation": "Numeric decimal point", "confidence": "High"}
+{"feat": "30-F997234", "explanation": "integrals as area", "confidence": "High"}
+{"feat": "30-F1017112", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1017235", "explanation": "math tutorial content", "confidence": "Medium"}
+{"feat": "30-F1016743", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1018794", "explanation": "recurrence relation classification", "confidence": "Medium"}
+{"feat": "30-F1018120", "explanation": "Numbered step start", "confidence": "Medium"}
+{"feat": "30-F1018594", "explanation": "Sentence-ending punctuation", "confidence": "Medium"}
+{"feat": "30-F1002472", "explanation": "Remainder in base conversion", "confidence": "High"}
+{"feat": "30-F1019328", "explanation": "exponentiation by squaring", "confidence": "High"}
+{"feat": "30-F1019906", "explanation": "complex conjugate", "confidence": "High"}
+{"feat": "30-F1020802", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1019486", "explanation": "negative quadratic discriminant", "confidence": "High"}
+{"feat": "30-F1024892", "explanation": "Eigenvalues roots of unity", "confidence": "high"}
+{"feat": "30-F1019476", "explanation": "Say transparent", "confidence": "Medium"}
+{"feat": "30-F1007259", "explanation": "rounding to nearest place", "confidence": "Medium"}
+{"feat": "30-F1024972", "explanation": "Variable domain assumptions", "confidence": "medium"}
+{"feat": "30-F1021399", "explanation": "Division word problems", "confidence": "High"}
+{"feat": "30-F1004617", "explanation": "coefficient/coordinate prefix", "confidence": "Medium"}
+{"feat": "30-F1022167", "explanation": "Ratios and proportions math", "confidence": "High"}
+{"feat": "30-F1023671", "explanation": "Matrix multiplication result", "confidence": "High"}
+{"feat": "30-F1009628", "explanation": "Blank line after title", "confidence": "Medium"}
+{"feat": "30-F1023017", "explanation": "Website domain suffixes", "confidence": "High"}
+{"feat": "30-F987871", "explanation": "Numerical computing code", "confidence": "Medium"}
+{"feat": "30-F1006809", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1023949", "explanation": "Polynomial division zero remainder", "confidence": "Medium"}
+{"feat": "30-F1013327", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F988735", "explanation": "algebra equation manipulation", "confidence": "Medium"}
+{"feat": "30-F1014764", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1024134", "explanation": "positional number systems", "confidence": "Medium"}
+{"feat": "30-F1025408", "explanation": "Number above fraction line", "confidence": "High"}
+{"feat": "30-F1010982", "explanation": "Matrix descriptions", "confidence": "Medium"}
+{"feat": "30-F1025042", "explanation": "number conversion arithmetic", "confidence": "Medium"}
+{"feat": "30-F1031150", "explanation": "arithmetic sequences", "confidence": "high"}
+{"feat": "30-F1022915", "explanation": "quadratic vertex problems", "confidence": "Medium"}
+{"feat": "30-F1027002", "explanation": "count the number", "confidence": "High"}
+{"feat": "30-F1027239", "explanation": "matrix operations explanation", "confidence": "Medium"}
+{"feat": "30-F1029225", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1024688", "explanation": "LaTeX math formatting", "confidence": "Medium"}
+{"feat": "30-F1026172", "explanation": "Polynomial division divisor", "confidence": "Medium"}
+{"feat": "30-F1027543", "explanation": "polynomial algebra notation", "confidence": "Medium"}
+{"feat": "30-F1028858", "explanation": "complex numbers as vectors", "confidence": "High"}
+{"feat": "30-F1027091", "explanation": "matrix algebra notation", "confidence": "Medium"}
+{"feat": "30-F1030368", "explanation": "Say fraction", "confidence": "High"}
+{"feat": "30-F1029310", "explanation": "Factorials grow rapidly", "confidence": "Medium"}
+{"feat": "30-F1031009", "explanation": "polynomial degree phrase", "confidence": "Medium"}
+{"feat": "30-F1028254", "explanation": "LCM calculations", "confidence": "Medium"}
+{"feat": "30-F1031992", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1027797", "explanation": "Blank line separator", "confidence": "Low"}
+{"feat": "30-F1030401", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1031479", "explanation": "the following list", "confidence": "Medium"}
+{"feat": "30-F1018746", "explanation": "Inline code backticks", "confidence": "Medium"}
+{"feat": "30-F1030691", "explanation": "number base conversion", "confidence": "Medium"}
+{"feat": "30-F1031264", "explanation": "math problem instructions", "confidence": "Medium"}
+{"feat": "30-F1032526", "explanation": "Quadratic vertex maximum", "confidence": "Medium"}
+{"feat": "30-F1033024", "explanation": "Matrix A identifier", "confidence": "Medium"}
+{"feat": "30-F1034518", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1018544", "explanation": "Don't Say three", "confidence": "High"}
+{"feat": "30-F1033073", "explanation": "quadratic vertex location", "confidence": "High"}
+{"feat": "30-F1034856", "explanation": "discrete logarithm search", "confidence": "Medium"}
+{"feat": "30-F1033488", "explanation": "Column arithmetic formatting", "confidence": "High"}
+{"feat": "30-F1032474", "explanation": "fraction simplification reasoning", "confidence": "Medium"}
+{"feat": "30-F1042844", "explanation": "Shoelace formula steps", "confidence": "medium"}
+{"feat": "30-F983891", "explanation": "constant term in polynomials", "confidence": "High"}
+{"feat": "30-F1039392", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1036654", "explanation": "numerical linear algebra", "confidence": "High"}
+{"feat": "30-F1038945", "explanation": "arbitrary-precision integers", "confidence": "High"}
+{"feat": "30-F1035835", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1046167", "explanation": "Arithmetic expressions", "confidence": "medium"}
+{"feat": "30-F1036720", "explanation": "quadratic factorization", "confidence": "Medium"}
+{"feat": "30-F1038543", "explanation": "Explicit multiplication syntax", "confidence": "Medium"}
+{"feat": "30-F1041871", "explanation": "mathematical terminology", "confidence": "High"}
+{"feat": "30-F1040307", "explanation": "Polynomial expansion steps", "confidence": "Medium"}
+{"feat": "30-F1039565", "explanation": "leading digits of numbers", "confidence": "Medium"}
+{"feat": "30-F1041875", "explanation": "Square root domain restrictions", "confidence": "High"}
+{"feat": "30-F1033590", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1021313", "explanation": "decimal long division", "confidence": "High"}
+{"feat": "30-F1040180", "explanation": "Say conditional", "confidence": "Medium"}
+{"feat": "30-F1039455", "explanation": "Say computation", "confidence": "Medium"}
+{"feat": "30-F1040300", "explanation": "Markdown bold step headings", "confidence": "Medium"}
+{"feat": "30-F1041987", "explanation": "Don't Say trigonometry", "confidence": "Medium"}
+{"feat": "30-F1042649", "explanation": "Numerical integration parameters", "confidence": "Medium"}
+{"feat": "30-F1043962", "explanation": "Use a calculator", "confidence": "High"}
+{"feat": "30-F1020696", "explanation": "algebra tutorial content", "confidence": "Medium"}
+{"feat": "30-F1042299", "explanation": "2x2 matrix setup", "confidence": "Medium"}
+{"feat": "30-F1010309", "explanation": "what about reconsideration", "confidence": "Medium"}
+{"feat": "30-F1042766", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1024659", "explanation": "LaTeX matrix arrays", "confidence": "High"}
+{"feat": "30-F1047065", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1048057", "explanation": "division by zero handling", "confidence": "Medium"}
+{"feat": "30-F1045309", "explanation": "Uninterpretable", "confidence": "Low"}
+{"feat": "30-F1047210", "explanation": "Common Core math standards", "confidence": "High"}
+{"feat": "30-F1045253", "explanation": "period before newline", "confidence": "Medium"}
+{"feat": "30-F1027262", "explanation": "algebraic operations", "confidence": "Medium"}
+{"feat": "30-F1034762", "explanation": "summation terminology", "confidence": "High"}
+{"feat": "30-F1044076", "explanation": "numeric palindrome construction", "confidence": "High"}
+{"feat": "30-F1035182", "explanation": "Uninterpretable", "confidence": "Low"}

@@ -1,0 +1,32 @@
+You are an expert in mechanistic interpretability, specializing in describing what an individual expert of a Mixture-of-Experts (MoE) language model is responsible for.
+
+## Background
+
+We study expert specialization in Qwen3-30B-A3B. Every MoE layer holds 128 experts, and a router sends each token to a few of them. To find out what an expert is responsible for we do not look at the tokens routed to it, because a token is selected by the router but the information the expert adds lives in the features of the layer output.
+
+A Sparse Autoencoder (SAE) with 2^20 latents is trained to reconstruct the output of one MoE layer, so each of its latents is one interpretable feature of what that layer computes. The activated part of a latent is an affine function of the layer output, so the activation of a latent decomposes exactly into a sum of per-expert contributions. Averaging the normalized contribution over a large corpus gives, for every expert and latent pair, the fraction of that latent's activation the expert is responsible for. When this fraction is large we say the expert dominates the latent, and the set of all latents an expert dominates is its dominant set. Dominant sets are nearly disjoint across experts, so the dominant set of an expert is a description of that expert alone.
+
+Latents sampled from each dominant set were separately interpreted by a language model from activating contexts and logit effects. The result is a short natural language explanation, a noun phrase such as "Sailing knot names", "Origami folding steps" or "Falconry equipment terms".
+
+## Input
+
+You are given the word cloud of one expert, built from the explanations of latents sampled from its dominant set. Each entry is a word, or a frequent two word collocation, together with a weight. The weight is the frequency of that word among the explanations divided by the frequency of the most common word, so the heaviest entry always has weight 1.000. Common English stopwords have been removed, plural forms have been merged into their singulars, and at most 200 entries are listed in decreasing weight.
+
+This word cloud is the only evidence you have about the expert. You are seeing the vocabulary of the explanations rather than the explanations themselves, so it tells you which concepts recur and how often, but not how they combined inside any single latent.
+
+## Task
+
+Name what this expert is responsible for, using at most nine words.
+
+- Weigh words by their weights and spend your attention on the heaviest ones. A long tail of light words is normal and does not have to be covered.
+- Look for what sets this expert apart from an arbitrary other expert. Words such as code, text, term, terminology, description, name, reference and value are frequent in many experts and are weak evidence on their own. Prefer the words that would be surprising in a random expert.
+- Say what the expert is about instead of concatenating its heaviest words. For an expert whose cloud is led by hive, honey, beeswax and queen, "hive, honey, beeswax, queen" is a bad answer and "beekeeping" is a good one.
+- You are not choosing from a fixed list of topics. An expert may specialize along an axis that is not a subject area at all. Name that axis when that is what the cloud shows.
+- A few experts carry several unrelated themes at once. When the heavy words clearly split into separate groups, name each group and join them with "and", for instance "beekeeping and origami". The nine word limit binds here, so keep every theme to one or two words, and when the groups do not all fit, keep the heaviest ones and drop the rest. Do not force one label onto such an expert, and do not invent a second theme when the cloud only supports one.
+- Be as specific as the evidence allows and no more specific than that. If the cloud is about geometry, say geometry rather than mathematics. If it spreads over several unrelated parts of mathematics, say mathematics.
+
+## Output format
+
+Your response should contain only the label with no other content. Write a noun phrase of at most nine words, with no trailing punctuation and no quotation marks. Keep the capitalization of proper nouns such as Kyoto, UNESCO and Darwin, and leave every other word in lowercase.
+
+The word cloud of this expert is:

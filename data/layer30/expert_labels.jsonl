@@ -1,0 +1,128 @@
+{"expert": 0, "label": "industrial energy and infrastructure sectors"}
+{"expert": 1, "label": "coordinate and Euclidean geometry"}
+{"expert": 2, "label": "formal mathematical notation and problem setup"}
+{"expert": 3, "label": "Christian theology and role-playing game mechanics"}
+{"expert": 4, "label": "food recipes and ingredient descriptions"}
+{"expert": 5, "label": "programming identifier and variable names"}
+{"expert": 6, "label": "chemistry terminology and notation"}
+{"expert": 7, "label": "everyday household, cooking, and safety advice"}
+{"expert": 8, "label": "Markdown answer formatting and Python/math problem solving"}
+{"expert": 9, "label": "competitive programming statements and formal instruction phrasing"}
+{"expert": 10, "label": "refusal constructions and safety request framing"}
+{"expert": 11, "label": "LaTeX math notation and algebraic expressions"}
+{"expert": 12, "label": "academic document structure and formatting"}
+{"expert": 13, "label": "mathematical definitions and corrupted SEO prose"}
+{"expert": 14, "label": "spatial and geographic locations"}
+{"expert": 15, "label": "LaTeX notation for advanced mathematics and physics"}
+{"expert": 16, "label": "quantitative STEM word problems"}
+{"expert": 17, "label": "numeric strings and identifiers"}
+{"expert": 18, "label": "optics, conic sections, and civil engineering"}
+{"expert": 19, "label": "conditional programming logic and edge case handling"}
+{"expert": 20, "label": "embedded multimedia hardware programming and specifications"}
+{"expert": 21, "label": "C and Python programming input/output"}
+{"expert": 22, "label": "official government, military, and corporate entity names"}
+{"expert": 23, "label": "biographical life events and relationships"}
+{"expert": 24, "label": "structured text formatting and delimiters"}
+{"expert": 25, "label": "academic education and job requirements"}
+{"expert": 26, "label": "webpage metadata and academic citation boilerplate"}
+{"expert": 27, "label": "Boolean operators in programming and formal logic"}
+{"expert": 28, "label": "legal documents and proceedings"}
+{"expert": 29, "label": "mathematical physics, geometry, and astronomy"}
+{"expert": 30, "label": "problem-solving reasoning and solution exposition"}
+{"expert": 31, "label": "database-backed web application code"}
+{"expert": 32, "label": "graph algorithms and blockchain protocols"}
+{"expert": 33, "label": "scientific measurement and geoscience laboratory methods"}
+{"expert": 34, "label": "definitions and reference page formatting"}
+{"expert": 35, "label": "punctuation and separators in code and notation"}
+{"expert": 36, "label": "Chinese webnovel translationese and discourse constructions"}
+{"expert": 37, "label": "financial accounting, tax, and investment calculations"}
+{"expert": 38, "label": "polite greetings, thanks, and sign-offs"}
+{"expert": 39, "label": "financial market news and weather forecasts"}
+{"expert": 40, "label": "competitive programming and algorithmic code"}
+{"expert": 41, "label": "unit conversions, sports statistics, and logic puzzles"}
+{"expert": 42, "label": "conditional reasoning and self-correction"}
+{"expert": 43, "label": "mathematical equations, LaTeX, and Python syntax"}
+{"expert": 44, "label": "web forum metadata and boilerplate"}
+{"expert": 45, "label": "source code syntax and declarations"}
+{"expert": 46, "label": "digital device and software usage instructions"}
+{"expert": 47, "label": "Chinese Java source code and technical documentation"}
+{"expert": 48, "label": "education and management theory terminology"}
+{"expert": 49, "label": "biological and biomedical terminology"}
+{"expert": 50, "label": "Java and Android programming"}
+{"expert": 51, "label": "command-line software configuration and system administration"}
+{"expert": 52, "label": "first-person dialogue and narrative discourse markers"}
+{"expert": 53, "label": "multiple-choice math exam questions and solutions"}
+{"expert": 54, "label": "animals and classical arts"}
+{"expert": 55, "label": "adjectival morphology and technical constraints"}
+{"expert": 56, "label": "article prose punctuation and formatting"}
+{"expert": 57, "label": "HTML CSS and JavaScript frontend development"}
+{"expert": 58, "label": "academic citation metadata and bibliography formatting"}
+{"expert": 59, "label": "Python data processing and machine learning code"}
+{"expert": 60, "label": "integer arithmetic and algorithmic code notation"}
+{"expert": 61, "label": "medical symptoms and mind-body wellness"}
+{"expert": 62, "label": "mechanical engineering specifications and botanical morphology"}
+{"expert": 63, "label": "entertainment media metadata and reviews"}
+{"expert": 64, "label": "business software marketing and project management"}
+{"expert": 65, "label": "biblical references, fiction franchises and SVG path coordinates"}
+{"expert": 66, "label": "software configuration command syntax and game modding"}
+{"expert": 67, "label": "statistical analysis and research methods"}
+{"expert": 68, "label": "software development packages and documentation"}
+{"expert": 69, "label": "JavaScript web and Swift iOS programming"}
+{"expert": 70, "label": "programming string manipulation and recipes"}
+{"expert": 71, "label": "educational Q&A and exam page formatting"}
+{"expert": 72, "label": "coding algorithms and musculoskeletal fitness"}
+{"expert": 73, "label": "mathematical formulas and notation"}
+{"expert": 74, "label": "3D CAD engineering and computer vision"}
+{"expert": 75, "label": "definitions and NLI tasks"}
+{"expert": 76, "label": "mathematical notation, arithmetic, and algebra"}
+{"expert": 77, "label": "non-English proper names and Unicode mojibake"}
+{"expert": 78, "label": "newlines and structured text formatting"}
+{"expert": 79, "label": "first and second person instructional dialogue"}
+{"expert": 80, "label": "Python programming solutions and Markdown formatting"}
+{"expert": 81, "label": "code indentation and block syntax formatting"}
+{"expert": 82, "label": "biomedical research terminology and identifiers"}
+{"expert": 83, "label": "sentence endings and punctuation formatting"}
+{"expert": 84, "label": "food chemistry and nutrition"}
+{"expert": 85, "label": "temporal and comparative framing of growth and change"}
+{"expert": 86, "label": "idioms and figurative comparisons"}
+{"expert": 87, "label": "proper names titles identifiers and their fragments"}
+{"expert": 88, "label": "mathematical and programming variables, indices, and lists"}
+{"expert": 89, "label": "history, languages and cultural geography"}
+{"expert": 90, "label": "mathematical optimization and modeling notation"}
+{"expert": 91, "label": "uppercase code identifiers constants and comments"}
+{"expert": 92, "label": "medical anatomy and physiology terminology"}
+{"expert": 93, "label": "physical geography and weather"}
+{"expert": 94, "label": "electrical/audio engineering, probability notation, and grammar terminology"}
+{"expert": 95, "label": "chemical and algebraic notation"}
+{"expert": 96, "label": "calendar events, date-time expressions, and weather"}
+{"expert": 97, "label": "political economy and social policy discourse"}
+{"expert": 98, "label": "web and source code boilerplate notices"}
+{"expert": 99, "label": "monetary amounts and pricing calculations"}
+{"expert": 100, "label": "cybersecurity and safety risk management"}
+{"expert": 101, "label": "automotive and residential building systems"}
+{"expert": 102, "label": "software engineering and computing platforms"}
+{"expert": 103, "label": "STEM and software technical nomenclature"}
+{"expert": 104, "label": "Japanese text, Unicode mojibake, and competitive programming"}
+{"expert": 105, "label": "punctuation and text formatting"}
+{"expert": 106, "label": "mathematical problem solving and proofs"}
+{"expert": 107, "label": "Unicode replacement characters and mojibake"}
+{"expert": 108, "label": "Python code syntax and indentation"}
+{"expert": 109, "label": "physical movement in games, vehicles, and combat"}
+{"expert": 110, "label": "positive evaluative phrasing in advice and marketing"}
+{"expert": 111, "label": "Python competitive programming and Star Wars"}
+{"expert": 112, "label": "code syntax and structured list formatting"}
+{"expert": 113, "label": "Python programming types and API documentation"}
+{"expert": 114, "label": "medical treatment and healthcare advice"}
+{"expert": 115, "label": "date, time, and duration expressions"}
+{"expert": 116, "label": "e-commerce product listings and specifications"}
+{"expert": 117, "label": "government safety and event handler programming"}
+{"expert": 118, "label": "competitive programming problem specifications"}
+{"expert": 119, "label": "sports, games, gambling, and number theory"}
+{"expert": 120, "label": "mathematical equations and problem solving"}
+{"expert": 121, "label": "biomedical genetics and disease terminology"}
+{"expert": 122, "label": "numeric tables and OCR formatting artifacts"}
+{"expert": 123, "label": "scientific causal reasoning about quantitative change"}
+{"expert": 124, "label": "Chinese web boilerplate and contact metadata"}
+{"expert": 125, "label": "legal documents, citations, and American history"}
+{"expert": 126, "label": "comma separated lists and numeric sequences"}
+{"expert": 127, "label": "personal names, roles, and logic puzzle characters"}

@@ -1,0 +1,36 @@
+You are an expert in mechanistic interpretability, working on the division of labor among the experts of a Mixture-of-Experts (MoE) language model.
+
+## Background
+
+We study expert specialization in Qwen3-30B-A3B. One MoE layer holds {n_experts} experts, and a router sends each token to a few of them. For every expert we recovered the set of Sparse Autoencoder latents whose activation that expert is chiefly responsible for, we interpreted latents sampled from that set into short natural language explanations, and we summarized those explanations into one short label naming what the expert is responsible for. Those {n_experts} labels are the input below, one per expert.
+
+The labels were written independently of one another, so their wording is not standardized. Two experts can hold closely related responsibilities while sharing no word, and two labels can share a generic word such as terminology, description or reference while describing responsibilities that have nothing to do with each other. Read for what an expert does rather than for surface overlap.
+
+This grouping asks a coarse question. Group at the coarsest level the labels still support, and leave the internal structure of a group alone.
+
+## Task
+
+Partition the {n_experts} experts into between {min_groups} and {max_groups} groups, aiming for about {target_groups}.
+
+- Every expert belongs to exactly one group and all {n_experts} experts are placed. Nothing may be dropped and nothing may appear twice.
+- A group is good when its name is true of every expert in it. Among the names that stay true, take the most general one rather than the most specific, and prefer one large group under a general name over several small groups under specific ones.
+- There is no upper bound on the size of a group, and group sizes do not need to be balanced. Do not split a group into subfields merely to even out the sizes.
+- Do not cut a small coherent domain apart either, and do not manufacture groups merely to reach the group count.
+- A group may be organized around any responsibility its members share.
+- Many labels name two or three themes at once. Place such an expert by the theme that carries most of its label, preferring a theme that already has a home among the other experts. Do not open a group for a single odd pairing.
+- Keep one axis in one place. Two experts responsible for the same kind of thing belong in the same group even when their labels attach that thing to different subject matter, so do not leave near duplicates of a single theme sitting in two different groups.
+- Avoid a catch-all group. A group is a catch-all whenever some of its members lack the property its name states, and giving that group a specific sounding name does not repair it. Check every group by walking its members one at a time and asking whether the name is true of that member, then move out the ones for which it is not. If a few experts genuinely fit nowhere they may share one residual group, which must stay small and must be named for something its members actually have in common.
+- Name each group as generally and as briefly as you can, one or two words wherever the group allows it. Two closely related things may be joined with and. What is not acceptable is a name that enumerates three or more subject areas, of the shape "A, B, and C", because such a name states no organizing principle at all. When the only name you can find for a candidate group is a list of that shape, either find the more general word that covers the list, or split the group along the very boundaries the list names.
+
+## Output format
+
+Respond with JSON and nothing else. No prose before or after it and no markdown code fence. The JSON is a list of objects ordered from the largest group to the smallest, each object having exactly two fields:
+
+- "group", the name of the group
+- "experts", the ids of the experts in that group, as integers in ascending order
+
+The shape of the response is
+
+[{"group": "<name of the largest group>", "experts": [0, 7, 19]}, {"group": "<name of the next group>", "experts": [3, 12]}]
+
+The {n_experts} expert labels are:

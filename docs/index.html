@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization</title>
+  <meta name="description" content="We use a sparse autoencoder to attribute what each MoE expert contributes to the layer output onto interpretable features, confirming that experts specialize and revealing how fine-grained their division of labor is.">
+  <meta name="keywords" content="Mixture-of-Experts, MoE, sparse autoencoder, SAE, interpretability, expert specialization, Qwen3-30B-A3B">
+  <meta name="author" content="Anyuan Zhuo, Shaohua Zhang, Yuan Lin, Pinyan Lu">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization">
+  <meta property="og:description" content="Expert specialization in MoE models, read from the features each expert principally drives.">
+  <meta property="og:image" content="static/images/teaser.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="citation_title" content="Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization">
+  <meta name="citation_author" content="Zhuo, Anyuan">
+  <meta name="citation_author" content="Zhang, Shaohua">
+  <meta name="citation_author" content="Lin, Yuan">
+  <meta name="citation_author" content="Lu, Pinyan">
+  <meta name="citation_publication_date" content="2026">
+  <meta name="citation_pdf_url" content="static/paper.pdf">
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%232c5bf0'/%3E%3Cstop offset='1' stop-color='%237a4cf3'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='16' fill='url(%23g)'/%3E%3Cg stroke='white' stroke-width='3' opacity='.9'%3E%3Cline x1='18' y1='18' x2='46' y2='22'/%3E%3Cline x1='18' y1='32' x2='46' y2='22'/%3E%3Cline x1='18' y1='32' x2='46' y2='42'/%3E%3Cline x1='18' y1='46' x2='46' y2='42'/%3E%3C/g%3E%3Cg fill='white'%3E%3Ccircle cx='18' cy='18' r='5'/%3E%3Ccircle cx='18' cy='32' r='5'/%3E%3Ccircle cx='18' cy='46' r='5'/%3E%3Ccircle cx='46' cy='22' r='5'/%3E%3Ccircle cx='46' cy='42' r='5'/%3E%3C/g%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <link rel="stylesheet" href="static/css/style.css?v=11">
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<nav class="nav" id="nav">
+  <div class="wrap">
+    <a class="nav-brand" href="#top">MoE Experts <span>×</span> SAE</a>
+    <div class="nav-links" id="nav-links">
+      <a href="#explorer">Explorer</a>
+      <a href="#abstract">Abstract</a>
+      <a href="#method">Method</a>
+      <a href="#concentration">Concentration</a>
+      <a href="#private">Private features</a>
+      <a href="#finegrained">Fine-grained</a>
+      <a href="#tokens">Tokens vs. features</a>
+      <a href="#domains">Domains</a>
+      <a href="#citation">BibTeX</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ================= HERO ================= -->
+<header class="hero" id="top">
+  <canvas id="hero-canvas" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <img class="hero-logo" src="static/images/seed_logo.png" alt="ByteDance Seed">
+    <h1>Sparse AutoEncoders Reveal That <span class="grad">MoE Experts</span> Exhibit Human-Interpretable <span class="grad">Fine&#8209;Grained Specialization</span></h1>
+
+    <div class="authors">
+      <span class="author">Anyuan Zhuo<sup>1,2</sup></span>
+      <span class="author">Shaohua Zhang<sup>1</sup></span>
+      <span class="author">Yuan Lin<sup>1,†</sup></span>
+      <span class="author">Pinyan Lu<sup>2,†</sup></span>
+    </div>
+    <div class="affils">
+      <span><sup>1</sup>ByteDance Seed</span>
+      <span><sup>2</sup>Shanghai University of Finance and Economics</span>
+    </div>
+    <div class="corr">† Corresponding authors: <a href="mailto:linyuan.0@bytedance.com">linyuan.0@bytedance.com</a>, <a href="mailto:lu.pinyan@mail.shufe.edu.cn">lu.pinyan@mail.shufe.edu.cn</a></div>
+
+    <div class="btn-row">
+      <a class="btn" href="static/paper.pdf" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="15" y2="17"/></svg>
+        Paper
+      </a>
+      <a class="btn ghost disabled" href="#" aria-disabled="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/><path d="M8 8l8 8M16 8l-8 8"/></svg>
+        arXiv <small>soon</small>
+      </a>
+      <a class="btn ghost" href="https://github.com/ByteDance-Seed/SAE-interprets-MoE" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.65.5.5 5.65.5 12a11.5 11.5 0 0 0 7.86 10.92c.58.1.79-.25.79-.56v-2c-3.2.7-3.87-1.37-3.87-1.37-.53-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.79 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.7 5.4-5.26 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"/></svg>
+        Code
+      </a>
+      <a class="btn ghost" href="https://huggingface.co/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        SAE weights
+      </a>
+      <a class="btn ghost" href="#citation">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.76-2.02-2-2H4c-1.25 0-2 .75-2 1.97V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .01-1 1.03V20c0 1 0 1 1 1z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.76-2.02-2-2h-4c-1.25 0-2 .75-2 1.97V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"/></svg>
+        BibTeX
+      </a>
+    </div>
+  </div>
+</header>
+
+<main>
+
+<!-- ================= TL;DR ================= -->
+<section class="block tldr-block" id="tldr">
+  <div class="wrap reveal">
+    <div class="explorer-tldr">
+      <span class="tldr-tag">TL;DR</span>
+      <p>We train a <b>2<sup>20</sup>-latent SAE</b> on layer 30 of Qwen3-30B-A3B and attribute each feature to the experts that drive it. Contribution is <b>far more concentrated</b> than routing; most features have only <b>one or two</b> dominating experts; and those experts split coarse domains into <b>readable subfields</b>—Java vs.&nbsp;front-end, geometry vs.&nbsp;arithmetic—while some domains claim far more experts than others. You can click an expert in <a href="#explorer">Interactive</a> below to see its features.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ================= EXPLORER ================= -->
+<section class="block explorer-top" id="explorer">
+  <div class="wrap reveal">
+    <div class="prose" style="max-width:none">
+      <div class="eyebrow"><span class="n">00</span>Interactive</div>
+      <h2 class="title">Explore all 128 experts of layer 30 of Qwen3-30B-A3B</h2>
+    </div>
+    <div class="fgrid" id="ex-featured"></div>
+    <div class="more-row">
+      <button class="more-btn" id="ex-more" aria-expanded="false" aria-controls="ex-all">
+        <span id="ex-more-label">More experts</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+    </div>
+    <div class="ex-all" id="ex-all" hidden>
+    <div class="explorer-bar">
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="ex-search" type="search" placeholder="Search labels or ids, e.g. &quot;Python&quot;, &quot;geometry&quot;, &quot;E93&quot;" autocomplete="off">
+      </label>
+      <div class="tabs" id="ex-sort">
+        <button data-sort="domain" class="on">By domain</button>
+        <button data-sort="id">By id</button>
+        <button data-sort="degree">By set size</button>
+      </div>
+      <span class="count-pill" id="ex-count"></span>
+    </div>
+    <div class="dchips" id="ex-domains"></div>
+    <div class="egrid" id="ex-grid"></div>
+    <div class="empty" id="ex-empty">No expert matches this search.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= OVERVIEW ================= -->
+<section class="block alt" id="overview">
+  <div class="wrap reveal">
+    <div class="prose">
+      <div class="eyebrow"><span class="n">01</span>Overview</div>
+      <h2 class="title">From expert contributions to interpretable features</h2>
+    </div>
+    <figure class="teaser" style="margin-top:18px">
+      <div class="figure-card">
+        <img class="zoomable" src="static/images/teaser.webp" alt="Overview: expert-latent contributions, dominance graph, interpretation of expert-linked latents, and fine-grained specialization" width="2400" height="1421">
+      </div>
+      <figcaption><b>Overview.</b> (a) An MoE layer outputs a router-weighted sum of its active experts, and since the SAE encoder is affine, each latent's activation decomposes exactly over these experts. (b) Keeping the high-contribution links across a corpus gives a dominance graph between experts and latents. (c, d) Auto-interpreting the latents an expert dominates describes its role, e.g. a Java expert (E50) and a front-end web expert (E57) at layer 30 of Qwen3-30B-A3B.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ================= ABSTRACT ================= -->
+<section class="block" id="abstract">
+  <div class="wrap prose reveal">
+    <div class="eyebrow"><span class="n">02</span>Abstract</div>
+    <div class="abstract-card">
+      <p>Mixture-of-Experts (MoE) models route each token to a few of many experts, yet what an individual expert is responsible for remains unsettled. Existing analyses count how often an expert is selected on domain-labeled corpora, an instrument that fixes the taxonomy in advance, stays coarse, and records selection rather than contribution. We instead study specialization in feature space by training a sparse autoencoder (SAE) on the output of an MoE layer. Since this output is a router-weighted sum of expert outputs and the SAE encoder is affine, the pre-activation of every latent decomposes exactly over the experts. Aggregated over a corpus, this gives each expert a dominant set of latents whose activation it principally drives. On layers 4, 30 and 46 of Qwen3-30B-A3B, contribution is far more concentrated than gating, most latents have only one or two dominators, and the overlap between dominant sets concentrates on a few expert pairs. Auto-interpreting these sets reveals a division of labor below coarse domains, with distinct experts for Java and front-end web code, or for geometry and for arithmetic and polynomials, while the coarse domains themselves take very unequal numbers of experts.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ================= METHOD ================= -->
+<section class="block alt" id="method">
+  <div class="wrap reveal">
+    <div class="prose">
+      <div class="eyebrow"><span class="n">03</span>Method</div>
+      <h2 class="title">Trace every feature back to the experts that produced it</h2>
+      <p class="lead">Prior work counts how often an expert is <em>selected</em> on corpora with human-chosen labels such as "code" or "math". We instead measure what each expert actually <em>contributes</em>, in the model's own feature vocabulary.</p>
+
+      <div class="steps">
+        <div class="step">
+          <div class="num">1</div>
+          <div class="body">
+            <h4>Decompose each SAE feature exactly over experts</h4>
+            <p>An MoE layer outputs a router-weighted sum of its active experts, $y=\sum_j g_j u_j$. Because the SAE encoder is affine, the activation of every active latent $i$ splits <strong>exactly</strong> into per-expert terms:</p>
+            <div class="eq">$$f_i \;=\; \sum_{j \in \text{routed}} \underbrace{g_j\, W_{\mathrm{enc},(i)} \cdot u_j}_{\text{contribution of expert } j} \;+\; b_{\mathrm{enc},(i)}$$</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="num">2</div>
+          <div class="body">
+            <h4>Aggregate into a contribution fraction</h4>
+            <p>Normalize the positive contributions on each token, average over a 1.5B-token corpus, and normalize over experts. The result $s(j,i)$ says how much of latent $i$ expert $j$ is responsible for.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="num">3</div>
+          <div class="body">
+            <h4>Read each expert through its dominant set</h4>
+            <p>Expert $j$ <strong>dominates</strong> latent $i$ when $s(j,i)\ge 0.2$. The latents an expert dominates form its <strong>dominant set</strong>; auto-interpreting them with an LLM tells us what the expert does, without fixing any taxonomy in advance.</p>
+          </div>
+        </div>
+      </div>
+      <p class="setup-note"><b>Setup.</b> Qwen3-30B-A3B (48 layers, 128 experts per layer, top-8 routing). We study layers 4, 30 and 46 with one TopK SAE of 2<sup>20</sup> latents per layer; latents are explained by GPT-5.5 from activating contexts and logit effects.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ================= FINDING 1 ================= -->
+<section class="block" id="concentration">
+  <div class="wrap reveal">
+    <div class="prose">
+      <div class="eyebrow"><span class="n">04</span>Finding 1</div>
+      <h2 class="title">A few experts do most of the work on each feature</h2>
+      <div class="text">
+        <p>The router spreads its weight gently over the 8 selected experts. Contribution does not: on a typical (token, active latent) pair, the top expert alone supplies more than half of the latent's activation. We sort both quantities by rank and average them over the corpus.</p>
+      </div>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-row">
+        <div><div class="chart-title">Layer 4</div><div class="chart-box"><canvas id="rank-4"></canvas></div></div>
+        <div><div class="chart-title">Layer 30</div><div class="chart-box"><canvas id="rank-30"></canvas></div></div>
+        <div><div class="chart-title">Layer 46</div><div class="chart-box"><canvas id="rank-46"></canvas></div></div>
+      </div>
+      <div class="legend">
+        <span><i style="border-color:var(--gating)"></i><span>gating weight</span></span>
+        <span><i class="dash" style="border-color:var(--contrib)"></i><span>contribution</span></span>
+      </div>
+      <figcaption><b>Figure 1.</b> Mean share by rank among the 8 activated experts. At layer 30 the top-ranked expert receives 0.231 of the gating weight but 0.512 of the contribution; by rank 7 contribution falls to 0.005 while gating stays at 0.074. Hover for values.</figcaption>
+    </div>
+  </div>
+</section>
+
+<!-- ================= FINDING 2 ================= -->
+<section class="block" id="private">
+  <div class="wrap reveal">
+    <div class="prose">
+      <div class="eyebrow"><span class="n">05</span>Finding 2</div>
+      <h2 class="title">Each expert owns a largely private set of features</h2>
+      <div class="text">
+        <p>Most latents are dominated by just one or two experts, and the dominant sets of two experts rarely overlap. The little overlap that exists sits in a handful of expert <em>pairs</em>, not in large clusters.</p>
+      </div>
+    </div>
+
+    <div class="grid-2 private-grid">
+      <div class="chart-card">
+        <div class="chart-title">How many experts dominate a latent?</div>
+        <div class="chart-box tall"><canvas id="latent-degree"></canvas></div>
+      </div>
+      <div class="callouts stacked">
+        <div class="callout"><div class="big">57–62%</div><div class="sm">of the 2<sup>20</sup> latents have exactly <b>one</b> dominating expert, across the three layers.</div></div>
+        <div class="callout"><div class="big">≈ 10<sup>-4</sup></div><div class="sm">median Jaccard similarity between two experts' dominant sets; about 40% of expert pairs share no latent at all.</div></div>
+        <div class="callout"><div class="big">46–59%</div><div class="sm">of an expert's dominant set, on average, is dominated by that expert <b>alone</b>.</div></div>
+      </div>
+    </div>
+
+    <div class="chart-card">
+      <div class="heat-controls">
+        <div class="tabs" id="heat-layer">
+          <button data-layer="4">Layer 4</button>
+          <button data-layer="30" class="on">Layer 30</button>
+          <button data-layer="46">Layer 46</button>
+        </div>
+        <div class="tabs" id="heat-order">
+          <button data-order="index" class="on">Expert index order</button>
+          <button data-order="domain">Grouped by domain (L30 labels)</button>
+        </div>
+      </div>
+      <div class="heat-layout">
+        <div>
+          <div class="heat-stage" id="heat-stage">
+            <canvas id="heat-canvas" width="768" height="768"></canvas>
+            <div class="tooltip" id="heat-tip"></div>
+          </div>
+          <div class="heat-scale"><span>0</span><div class="bar"></div><span>≥ 0.05</span></div>
+        </div>
+        <div class="pairs" id="heat-pairs"></div>
+      </div>
+      <figcaption><b>Figure 3 (interactive).</b> Pairwise Jaccard similarity of the 128 experts' dominant sets. The matrix is a dark field with a few isolated bright cells. Switch to <b>Grouped by domain</b> at layer 30: the bright cells fall inside the diagonal blocks, as 19 of the 20 most-overlapping pairs join two experts of the same domain.</figcaption>
+    </div>
+  </div>
+</section>
+
+<!-- ================= FINDING 3 ================= -->
+<section class="block alt" id="finegrained">
+  <div class="wrap reveal">
+    <div class="prose">
+      <div class="eyebrow"><span class="n">06</span>Finding 3</div>
+      <h2 class="title">Specialization runs finer than "code" or "math"</h2>
+      <div class="text">
+        <p>Reading the explanations of the latents in each dominant set, we find experts that split a single coarse domain into recognizable subfields. Word size is the frequency of a word among the latent explanations. A GPT-5.5 judge measures how many explanations belong to each expert's theme, against a random baseline drawn from the other 127 experts.</p>
+      </div>
+    </div>
+
+    <div class="grid-2" style="margin-top:12px">
+      <div class="domain-col code">
+        <h4>Code domain</h4>
+        <div class="xcard">
+          <img loading="lazy" class="zoomable" src="static/images/wordcloud/50f.webp" alt="E50 word cloud">
+          <div class="in">
+            <div class="hd"><span class="eid">E50</span><span class="nm">Java development</span></div>
+            <div class="sharebar" data-own="86.7" data-rnd="1.9"></div>
+            <div class="chips"><span>Java import statements</span><span>JDBC generated keys</span><span>ButterKnife Android imports</span></div>
+          </div>
+        </div>
+        <div class="xcard">
+          <img loading="lazy" class="zoomable" src="static/images/wordcloud/57f.webp" alt="E57 word cloud">
+          <div class="in">
+            <div class="hd"><span class="eid">E57</span><span class="nm">Front-end development</span></div>
+            <div class="sharebar" data-own="78.6" data-rnd="3.5"></div>
+            <div class="chips"><span>CSS flexbox layout</span><span>JSX div element</span><span>HTML viewport meta content</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="domain-col math">
+        <h4>Math domain</h4>
+        <div class="xcard">
+          <img loading="lazy" class="zoomable" src="static/images/wordcloud/1f.webp" alt="E1 word cloud">
+          <div class="in">
+            <div class="hd"><span class="eid">E1</span><span class="nm">Geometry</span></div>
+            <div class="sharebar" data-own="78.1" data-rnd="2.0"></div>
+            <div class="chips"><span>Angle bisector theorem</span><span>Triangle ABC coordinate setup</span><span>circle/sphere tangency problems</span></div>
+          </div>
+        </div>
+        <div class="xcard">
+          <img loading="lazy" class="zoomable" src="static/images/wordcloud/76f.webp" alt="E76 word cloud">
+          <div class="in">
+            <div class="hd"><span class="eid">E76</span><span class="nm">Arithmetic and polynomial</span></div>
+            <div class="sharebar" data-own="59.1" data-rnd="6.7"></div>
+            <div class="chips"><span>Polynomial long division</span><span>arbitrary-precision integers</span><span>decimal long division</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="prose">
+      <figcaption><b>Figure 2.</b> Explanation word clouds of four layer-30 experts. <b>Share</b>: fraction of latent explanations in the expert's dominant set judged to belong to its theme. <b>Random</b>: the same judgement on 2,000 latents from the other 127 experts. Chips are example latent explanations.</figcaption>
+    </div>
+  </div>
+</section>
+
+<!-- ================= FINDING 4 ================= -->
+<section class="block" id="tokens">
+  <div class="wrap reveal">
+    <div class="prose">
+      <div class="eyebrow"><span class="n">07</span>Finding 4</div>
+      <h2 class="title">Features see what tokens cannot</h2>
+      <div class="text">
+        <p>Why not just look at the tokens routed to an expert? For expert 72, routed tokens are dominated by function words, and even after reweighting they only show fitness. Its latent explanations reveal <strong>two themes at once</strong>: exercise &amp; health, and algorithms &amp; data structures.</p>
+      </div>
+    </div>
+    <div class="wc-compare">
+      <div class="wc"><img class="zoomable" loading="lazy" src="static/images/wordcloud/72t.webp" alt="E72 routed-token word cloud"><div class="meta"><b><span class="step-l">(a)</span> Routed tokens</b><span>weighted by gating mass</span></div></div>
+      <div class="wc"><img class="zoomable" loading="lazy" src="static/images/wordcloud/72p.webp" alt="E72 MI-reweighted token word cloud"><div class="meta"><b><span class="step-l">(b)</span> Routed tokens, MI reweighted</b><span>top-5 function words removed</span></div></div>
+      <div class="wc best"><img class="zoomable" loading="lazy" src="static/images/wordcloud/72f.webp" alt="E72 latent-explanation word cloud"><div class="meta"><b><span class="step-l">(c)</span> Latent explanations (ours)</b><span>exercise &amp; health + algorithms &amp; data structures</span></div></div>
+    </div>
+    <div class="prose">
+      <div class="latent-callout">
+        <pre>while (lo <span class="hit">&lt;=</span> hi) {
+    int mid = lo + (hi - lo) / 2;
+    ...</pre>
+        <div class="exp"><span class="k">LATENT F97783 · LAYER 30 · CODE IS ILLUSTRATIVE</span>Fires only on the <code>&lt;=</code> of a binary search. Its explanation, <b>"Binary search loop condition"</b>, ties it to algorithms, while a token word cloud could only show the bare symbol <code>&lt;=</code>.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= FINDING 5 ================= -->
+<section class="block" id="domains">
+  <div class="wrap reveal">
+    <div class="prose">
+      <div class="eyebrow"><span class="n">08</span>Finding 5</div>
+      <h2 class="title">Some domains get far more experts than others</h2>
+      <div class="text">
+        <p>GPT-5.5 labels each expert from its word cloud alone, then groups the 128 labels of layer 30 into domains without being told which domains to look for. Eleven domains emerge, of very unequal size.</p>
+      </div>
+    </div>
+
+    <div class="chart-card">
+      <div class="domain-chart-box"><canvas id="domain-chart"></canvas></div>
+      <figcaption><b>Figure 3.</b> Number of experts in each of the eleven domains of layer 30. Click a bar to jump to that domain in the explorer above.</figcaption>
+    </div>
+
+    <div class="insights">
+      <div class="insight"><div class="k">48 <small>/ 128</small></div><p><b>Computing</b> and <b>mathematics &amp; reasoning</b> alone hold 37.5% of the layer, while art appears in just one label. This plausibly mirrors pre-training mixtures rich in code and math.</p></div>
+      <div class="insight"><div class="k">36 <small>experts</small></div><p>Three domains are <b>not subject areas at all</b>: text form, language, and entities &amp; identifiers. A subject taxonomy would never recover them.</p></div>
+      <div class="insight"><div class="k">19 <small>/ 20</small></div><p>of the most-overlapping expert pairs fall <b>inside one domain</b>, e.g. E83 &amp; E105 on punctuation, E77 &amp; E107 on mojibake.</p></div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================= CONCLUSION ================= -->
+<section class="block" id="conclusion">
+  <div class="wrap reveal">
+    <div class="prose">
+      <div class="eyebrow"><span class="n">09</span>Conclusion</div>
+      <h2 class="title">Experts do divide labor, along feature-level lines</h2>
+      <div class="takeaways">
+        <div class="takeaway">Contribution is far more concentrated than gating: a feature is typically driven by one or two experts, not all eight the router selects.</div>
+        <div class="takeaway">Dominant sets barely overlap; about half of each expert's set is its own, and the remaining overlap sits in a few same-domain pairs.</div>
+        <div class="takeaway">Experts specialize below conventional domain labels, e.g. Java vs. front-end web, geometry vs. arithmetic.</div>
+        <div class="takeaway">Experts are allocated very unevenly across domains, with computing and math taking over a third of the layer.</div>
+      </div>
+      <div class="text">
+        <p>The analysis needs only expert outputs and an SAE on the layer output, so it applies to any MoE layer whose output is a weighted sum of its experts. It also suggests a testable hypothesis for expert pruning, merging and steering: editing an expert should chiefly affect the features it dominates.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="citation">
+  <div class="wrap prose reveal">
+    <div class="eyebrow"><span class="n">10</span>Citation</div>
+    <h2 class="title">BibTeX</h2>
+    <div class="bib">
+      <button class="copy" id="copy-bib">Copy</button>
+<pre id="bibtex">@article{zhuo2026sparse,
+  title   = {Sparse AutoEncoders Reveal That MoE Experts Exhibit
+             Human-Interpretable Fine-Grained Specialization},
+  author  = {Zhuo, Anyuan and Zhang, Shaohua and Lin, Yuan and Lu, Pinyan},
+  journal = {arXiv preprint},
+  year    = {2026}
+}</pre>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <img src="static/images/seed_logo.png" alt="ByteDance Seed">
+    <span>© 2026 ByteDance Seed &amp; Shanghai University of Finance and Economics. Page structure inspired by <a href="https://nerfies.github.io" target="_blank" rel="noopener">Nerfies</a>.</span>
+  </div>
+</footer>
+
+<!-- expert modal -->
+<div class="modal" id="ex-modal" role="dialog" aria-modal="true">
+  <div class="backdrop" data-close></div>
+  <div class="panel">
+    <div class="pctrl">
+      <button class="navbtn prev" id="ex-prev" aria-label="Previous expert">‹</button>
+      <button class="navbtn next" id="ex-next" aria-label="Next expert">›</button>
+      <button class="close" data-close aria-label="Close">×</button>
+    </div>
+    <img id="ex-img" alt="">
+    <div class="pbody">
+      <div class="ph"><span class="eid" id="ex-id"></span><span class="dom" id="ex-dom"></span></div>
+      <div class="plabel" id="ex-label"></div>
+      <div class="pfacts">
+        <div>Dominant-set size<b id="ex-deg"></b></div>
+        <div>Rank by set size<b id="ex-rank"></b></div>
+        <div>Nearest partner by Jaccard<b id="ex-partner"></b></div>
+      </div>
+      <div class="pfeats">
+        <div class="pfeats-h">Example features <span>high-confidence explanations · hover an id for related experts</span></div>
+        <ol id="ex-feats"></ol>
+      </div>
+      <div class="hint">Use ← / → to step through experts, Esc to close. Word size is the frequency of a word among the explanations of the latents sampled from this expert's dominant set.</div>
+    </div>
+  </div>
+</div>
+
+<!-- image lightbox -->
+<div class="modal lightbox" id="lightbox">
+  <div class="backdrop" data-close></div>
+  <div class="panel"><div class="pctrl"><button class="close" data-close aria-label="Close">×</button></div><img id="lightbox-img" alt=""></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+<script src="static/js/data.js?v=11"></script>
+<script src="static/js/main.js?v=11"></script>
+</body>
+</html>

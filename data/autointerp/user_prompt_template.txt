@@ -1,0 +1,47 @@
+## Context Activations
+Two complementary sets of examples are provided: the strongest (top) activations and a random sample. Read both -- the random set guards against over-fitting to the most extreme cases.
+
+### Top Activating Contexts
+The 5 examples where this feature fires most strongly.
+
+[Top Context 1]
+[Text]
+{{top_context_1.text}}
+[/Text]
+Top Activations: {{top_context_1.top_activations}}
+[/Top Context 1]
+
+... (Top Context 2-5 in the same format)
+
+### Random Contexts
+5 examples sampled at random from this feature's activating set (a less-biased view of where it fires).
+
+[Random Context 1]
+[Text]
+{{random_context_1.text}}
+[/Text]
+Top Activations: {{random_context_1.top_activations}}
+[/Random Context 1]
+
+... (Random Context 2-5 in the same format)
+
+## Logit Effect
+Source: decoder-vector projection. This feature lives at layer {{layer_idx}} (single decoder; SAE-style).
+Decoder L2 norm = {{decoder_l2_norm}}
+
+Top 10 boosted logits:
+Rank 1: [{{token}}], logit={{logit}}
+... (Rank 2-10)
+
+Top 10 suppressed logits:
+Rank 1: [{{token}}], logit={{logit}}
+... (Rank 2-10)
+
+## Model Information
+Model: {{model_name}} -- {{num_layers}} transformer layers (0-indexed).
+Feature extractor: Sparse Autoencoder (SAE), trained at layer {{layer_idx}}. Each feature has a single decoder vector at its own layer.
+
+## Layer Information
+The model has {{num_layers}} layers in total (0-indexed); the current feature's layer index is {{layer_idx}} (relative depth {{layer_idx / num_layers}}). Use the relative position as a soft prior, but override it with the logit-effect signal whenever the two disagree.
+
+Analyze the context activations, logit effect, and model / layer information, then respond in the exact output format specified in the system prompt above.

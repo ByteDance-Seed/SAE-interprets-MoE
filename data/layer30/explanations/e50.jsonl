@@ -1,0 +1,2000 @@
+{"feat": "30-F1352", "explanation": "Database column constants", "confidence": "medium"}
+{"feat": "30-F521", "explanation": "Java org imports", "confidence": "high"}
+{"feat": "30-F2213", "explanation": "Hibernate session get", "confidence": "high"}
+{"feat": "30-F3061", "explanation": "Java mouse event imports", "confidence": "high"}
+{"feat": "30-F4930", "explanation": "Java package references", "confidence": "high"}
+{"feat": "30-F317", "explanation": "Java Map entry sets", "confidence": "medium"}
+{"feat": "30-F3029", "explanation": "Java exception handling", "confidence": "high"}
+{"feat": "30-F3741", "explanation": "software development documentation", "confidence": "low"}
+{"feat": "30-F260", "explanation": "Java CamelCase APIs", "confidence": "medium"}
+{"feat": "30-F1630", "explanation": "Java Swing GroupLayout size constants", "confidence": "high"}
+{"feat": "30-F5807", "explanation": "Android SD card storage", "confidence": "medium"}
+{"feat": "30-F7271", "explanation": "C# System.Threading import", "confidence": "high"}
+{"feat": "30-F335", "explanation": "JavaFX imports", "confidence": "high"}
+{"feat": "30-F2853", "explanation": "Java @Nullable annotations", "confidence": "medium"}
+{"feat": "30-F8097", "explanation": "keytool keystore commands", "confidence": "high"}
+{"feat": "30-F4477", "explanation": "Android version details", "confidence": "medium"}
+{"feat": "30-F13546", "explanation": "Say setSupportActionBar", "confidence": "high"}
+{"feat": "30-F7531", "explanation": "Tomcat servlet documentation", "confidence": "medium"}
+{"feat": "30-F10399", "explanation": "Java service imports", "confidence": "medium"}
+{"feat": "30-F10659", "explanation": "Android Java method calls", "confidence": "medium"}
+{"feat": "30-F9007", "explanation": "Android layout classes", "confidence": "high"}
+{"feat": "30-F8940", "explanation": "Android XML layout attributes", "confidence": "high"}
+{"feat": "30-F11400", "explanation": "for-loop zero initializer", "confidence": "high"}
+{"feat": "30-F10077", "explanation": "Java game tick updates", "confidence": "medium"}
+{"feat": "30-F15045", "explanation": "Android Java getters", "confidence": "medium"}
+{"feat": "30-F14992", "explanation": "Observer design pattern", "confidence": "high"}
+{"feat": "30-F12633", "explanation": "Java escaped single quote", "confidence": "high"}
+{"feat": "30-F8495", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F11431", "explanation": "Java getter methods", "confidence": "high"}
+{"feat": "30-F12919", "explanation": "Java console output", "confidence": "medium"}
+{"feat": "30-F12969", "explanation": "Java URI/URL imports", "confidence": "high"}
+{"feat": "30-F15320", "explanation": "Java exception imports", "confidence": "high"}
+{"feat": "30-F16230", "explanation": "Java field indentation", "confidence": "medium"}
+{"feat": "30-F16294", "explanation": "Java type-cast assignment", "confidence": "high"}
+{"feat": "30-F17423", "explanation": "Android FileProvider authorities", "confidence": "high"}
+{"feat": "30-F15746", "explanation": "Android Java APIs", "confidence": "medium"}
+{"feat": "30-F17896", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F17697", "explanation": "Java indented assignments", "confidence": "high"}
+{"feat": "30-F17921", "explanation": "Java throws declarations", "confidence": "high"}
+{"feat": "30-F18183", "explanation": "Java demo package paths", "confidence": "high"}
+{"feat": "30-F16844", "explanation": "Selenium WebDriver driver", "confidence": "high"}
+{"feat": "30-F18481", "explanation": "Java build dependencies", "confidence": "medium"}
+{"feat": "30-F18132", "explanation": "Java ViewHolder class", "confidence": "high"}
+{"feat": "30-F21105", "explanation": "Java Number type checks", "confidence": "medium"}
+{"feat": "30-F21455", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F24854", "explanation": "Java Swing JPanel imports", "confidence": "high"}
+{"feat": "30-F21903", "explanation": "Spring RequestMapping method", "confidence": "high"}
+{"feat": "30-F21553", "explanation": "Code register methods", "confidence": "medium"}
+{"feat": "30-F23108", "explanation": "Java public class declarations", "confidence": "high"}
+{"feat": "30-F22973", "explanation": "Java code contexts", "confidence": "high"}
+{"feat": "30-F23470", "explanation": "Java SimpleDateFormat import", "confidence": "high"}
+{"feat": "30-F24254", "explanation": "JavaDoc comment asterisks", "confidence": "high"}
+{"feat": "30-F22733", "explanation": "Java import semicolons", "confidence": "medium"}
+{"feat": "30-F23055", "explanation": "Post-JavaDoc code declaration", "confidence": "high"}
+{"feat": "30-F25149", "explanation": "Java code indentation", "confidence": "medium"}
+{"feat": "30-F24244", "explanation": "Android ArrayAdapter imports", "confidence": "high"}
+{"feat": "30-F26004", "explanation": "Volley RequestQueue addition", "confidence": "medium"}
+{"feat": "30-F30505", "explanation": "Apache POI Java library", "confidence": "high"}
+{"feat": "30-F26207", "explanation": "Java HttpServletRequest", "confidence": "high"}
+{"feat": "30-F26248", "explanation": "Android ListActivity code", "confidence": "high"}
+{"feat": "30-F27174", "explanation": "Android app settings steps", "confidence": "medium"}
+{"feat": "30-F26368", "explanation": "Java servlet response", "confidence": "high"}
+{"feat": "30-F28283", "explanation": "Java class declarations", "confidence": "high"}
+{"feat": "30-F27865", "explanation": "Java programming APIs", "confidence": "medium"}
+{"feat": "30-F29392", "explanation": "Android private file mode", "confidence": "high"}
+{"feat": "30-F30856", "explanation": "Java Android class declarations", "confidence": "medium"}
+{"feat": "30-F30584", "explanation": "Java switch default case", "confidence": "high"}
+{"feat": "30-F30912", "explanation": "Say listener", "confidence": "high"}
+{"feat": "30-F31480", "explanation": "Java string concatenation", "confidence": "high"}
+{"feat": "30-F33358", "explanation": "JavaDoc author annotation", "confidence": "high"}
+{"feat": "30-F31610", "explanation": "smartphone specification tables", "confidence": "medium"}
+{"feat": "30-F31648", "explanation": "Java package names", "confidence": "high"}
+{"feat": "30-F31663", "explanation": "Code if statements", "confidence": "high"}
+{"feat": "30-F32631", "explanation": "Android LayoutParams sizing", "confidence": "high"}
+{"feat": "30-F37210", "explanation": "Java getter setter syntax", "confidence": "high"}
+{"feat": "30-F36549", "explanation": "Code assignment operator", "confidence": "medium"}
+{"feat": "30-F36878", "explanation": "ANTLR parser code", "confidence": "high"}
+{"feat": "30-F37790", "explanation": "Java ClassLoader usage", "confidence": "high"}
+{"feat": "30-F22294", "explanation": "Android platform mentions", "confidence": "high"}
+{"feat": "30-F25318", "explanation": "Java javax imports", "confidence": "high"}
+{"feat": "30-F38156", "explanation": "Android app info APIs", "confidence": "medium"}
+{"feat": "30-F42497", "explanation": "Java JSON imports", "confidence": "high"}
+{"feat": "30-F39214", "explanation": "singleton instance declarations", "confidence": "high"}
+{"feat": "30-F46357", "explanation": "Java implements interfaces", "confidence": "medium"}
+{"feat": "30-F39756", "explanation": "Java SLF4J imports", "confidence": "high"}
+{"feat": "30-F43276", "explanation": "Java singleton accessors", "confidence": "medium"}
+{"feat": "30-F40220", "explanation": "Java import syntax", "confidence": "medium"}
+{"feat": "30-F42214", "explanation": "Android ImageView imports", "confidence": "high"}
+{"feat": "30-F45176", "explanation": "Java charAt method", "confidence": "high"}
+{"feat": "30-F50295", "explanation": "Java indentation blocks", "confidence": "high"}
+{"feat": "30-F44909", "explanation": "JSP file paths", "confidence": "high"}
+{"feat": "30-F42500", "explanation": "Say command", "confidence": "medium"}
+{"feat": "30-F47044", "explanation": "Wi-Fi terminology", "confidence": "high"}
+{"feat": "30-F48254", "explanation": "Java anonymous listener block", "confidence": "high"}
+{"feat": "30-F48522", "explanation": "javac compilation commands", "confidence": "high"}
+{"feat": "30-F50676", "explanation": "in Java phrase", "confidence": "high"}
+{"feat": "30-F48288", "explanation": "Java string argument opening", "confidence": "high"}
+{"feat": "30-F50351", "explanation": "Java false attributes", "confidence": "high"}
+{"feat": "30-F50507", "explanation": "Android menu item ID", "confidence": "high"}
+{"feat": "30-F52099", "explanation": "Apache Commons Collections", "confidence": "high"}
+{"feat": "30-F51857", "explanation": "Java Map generics", "confidence": "high"}
+{"feat": "30-F53558", "explanation": "Java file I/O code", "confidence": "medium"}
+{"feat": "30-F55073", "explanation": "Android asset loading", "confidence": "high"}
+{"feat": "30-F54154", "explanation": "Java implements clause", "confidence": "high"}
+{"feat": "30-F35053", "explanation": "Java annotation properties", "confidence": "high"}
+{"feat": "30-F55850", "explanation": "Selenium wait constructs", "confidence": "high"}
+{"feat": "30-F57101", "explanation": "Java code syntax", "confidence": "low"}
+{"feat": "30-F57116", "explanation": "Android ZXing QR code", "confidence": "medium"}
+{"feat": "30-F57323", "explanation": "Java catch blocks", "confidence": "high"}
+{"feat": "30-F57813", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F62487", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F58994", "explanation": "Code lambda parameters", "confidence": "high"}
+{"feat": "30-F59491", "explanation": "Java assertions", "confidence": "high"}
+{"feat": "30-F60736", "explanation": "Say enum", "confidence": "high"}
+{"feat": "30-F62581", "explanation": "Gradle dependency declarations", "confidence": "high"}
+{"feat": "30-F60181", "explanation": "Android dialog negative button", "confidence": "medium"}
+{"feat": "30-F60815", "explanation": "Java programming code", "confidence": "medium"}
+{"feat": "30-F61955", "explanation": "HTTP content type text/html", "confidence": "high"}
+{"feat": "30-F64727", "explanation": "Spring Security imports", "confidence": "high"}
+{"feat": "30-F63536", "explanation": "NetBeans generated form comment", "confidence": "high"}
+{"feat": "30-F45799", "explanation": "Java equals field comparisons", "confidence": "high"}
+{"feat": "30-F62781", "explanation": "Java JPA Temporal annotation", "confidence": "high"}
+{"feat": "30-F63406", "explanation": "Android ActionBar imports", "confidence": "high"}
+{"feat": "30-F65152", "explanation": "Android Nullable annotation", "confidence": "high"}
+{"feat": "30-F63559", "explanation": "programming source code", "confidence": "medium"}
+{"feat": "30-F65036", "explanation": "Bukkit JavaPlugin code", "confidence": "high"}
+{"feat": "30-F64848", "explanation": "Java indentation tabs", "confidence": "high"}
+{"feat": "30-F67201", "explanation": "Java programming language", "confidence": "high"}
+{"feat": "30-F65107", "explanation": "ResponseEntity argument comma", "confidence": "medium"}
+{"feat": "30-F66240", "explanation": "Single in code identifiers", "confidence": "medium"}
+{"feat": "30-F66940", "explanation": "DbUpdateConcurrencyException handling", "confidence": "high"}
+{"feat": "30-F67895", "explanation": "Java @Override annotation", "confidence": "high"}
+{"feat": "30-F71500", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F68190", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F68773", "explanation": "Java ArrayList usage", "confidence": "high"}
+{"feat": "30-F68863", "explanation": "Java Swing setVerticalGroup", "confidence": "high"}
+{"feat": "30-F70144", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F69036", "explanation": "Java event listeners", "confidence": "high"}
+{"feat": "30-F70474", "explanation": "Android APK reverse engineering", "confidence": "medium"}
+{"feat": "30-F71513", "explanation": "Javadoc author annotations", "confidence": "high"}
+{"feat": "30-F71602", "explanation": "File scanner iteration", "confidence": "high"}
+{"feat": "30-F76688", "explanation": "Java package com imports", "confidence": "high"}
+{"feat": "30-F71891", "explanation": "Android component classes", "confidence": "high"}
+{"feat": "30-F76784", "explanation": "Java PrintWriter streams", "confidence": "high"}
+{"feat": "30-F73620", "explanation": "Android view imports", "confidence": "high"}
+{"feat": "30-F74378", "explanation": "Java Swing event handlers", "confidence": "high"}
+{"feat": "30-F74691", "explanation": "Java URLEncoder imports", "confidence": "high"}
+{"feat": "30-F76228", "explanation": "Android TextView bindings", "confidence": "high"}
+{"feat": "30-F75407", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F80375", "explanation": "Java void methods", "confidence": "high"}
+{"feat": "30-F78633", "explanation": "Android FragmentTransaction code", "confidence": "high"}
+{"feat": "30-F77717", "explanation": "Java InetAddress imports", "confidence": "high"}
+{"feat": "30-F78827", "explanation": "Java bytecode tooling", "confidence": "medium"}
+{"feat": "30-F79175", "explanation": "BCrypt password encoder", "confidence": "high"}
+{"feat": "30-F79694", "explanation": "Android net imports", "confidence": "medium"}
+{"feat": "30-F81200", "explanation": "Java ListIterator usage", "confidence": "high"}
+{"feat": "30-F81299", "explanation": "Java PermGen metaspace", "confidence": "high"}
+{"feat": "30-F83270", "explanation": "code indentation", "confidence": "medium"}
+{"feat": "30-F83604", "explanation": "Java SuppressWarnings annotation", "confidence": "high"}
+{"feat": "30-F83439", "explanation": "Android UI code", "confidence": "medium"}
+{"feat": "30-F84022", "explanation": "Zeros in code constants", "confidence": "medium"}
+{"feat": "30-F85086", "explanation": "Java TODO stubs", "confidence": "high"}
+{"feat": "30-F84910", "explanation": "Java implements clause", "confidence": "high"}
+{"feat": "30-F85972", "explanation": "Java Fragment inheritance", "confidence": "high"}
+{"feat": "30-F87327", "explanation": "Android Java constructors", "confidence": "high"}
+{"feat": "30-F88384", "explanation": "obfuscated Java field numbers", "confidence": "medium"}
+{"feat": "30-F87486", "explanation": "Java setter methods", "confidence": "medium"}
+{"feat": "30-F87779", "explanation": "Java class boilerplate", "confidence": "medium"}
+{"feat": "30-F88936", "explanation": "Java RequestParam defaultValue", "confidence": "high"}
+{"feat": "30-F89159", "explanation": "Preposition in", "confidence": "medium"}
+{"feat": "30-F37341", "explanation": "Android ViewHolder pattern", "confidence": "High"}
+{"feat": "30-F91754", "explanation": "Java void methods", "confidence": "high"}
+{"feat": "30-F92041", "explanation": "Utility class imports", "confidence": "high"}
+{"feat": "30-F93587", "explanation": "Java UnsupportedEncodingException imports", "confidence": "high"}
+{"feat": "30-F91927", "explanation": "Java assertThat assertions", "confidence": "medium"}
+{"feat": "30-F94416", "explanation": "Android Toast.makeText", "confidence": "high"}
+{"feat": "30-F95072", "explanation": "Java EE EJB", "confidence": "medium"}
+{"feat": "30-F95655", "explanation": "Java code punctuation", "confidence": "medium"}
+{"feat": "30-F96259", "explanation": "Java application types", "confidence": "high"}
+{"feat": "30-F97682", "explanation": "Minecraft mob names", "confidence": "high"}
+{"feat": "30-F97805", "explanation": "Android View click listener", "confidence": "high"}
+{"feat": "30-F98301", "explanation": "Java cryptography exceptions", "confidence": "high"}
+{"feat": "30-F99074", "explanation": "Java public class declarations", "confidence": "high"}
+{"feat": "30-F99641", "explanation": "Don't Say water", "confidence": "medium"}
+{"feat": "30-F99948", "explanation": "Java Resource identifiers", "confidence": "medium"}
+{"feat": "30-F99692", "explanation": "CyanogenMod Android ROM", "confidence": "high"}
+{"feat": "30-F89820", "explanation": "Android version numbers", "confidence": "medium"}
+{"feat": "30-F100277", "explanation": "Java private field declarations", "confidence": "high"}
+{"feat": "30-F100567", "explanation": "Java public void methods", "confidence": "high"}
+{"feat": "30-F100691", "explanation": "logger debug enabled checks", "confidence": "high"}
+{"feat": "30-F101997", "explanation": "Spring HandlerInterceptor", "confidence": "high"}
+{"feat": "30-F101727", "explanation": "Java variable assignment", "confidence": "high"}
+{"feat": "30-F102070", "explanation": "Java EE session beans", "confidence": "high"}
+{"feat": "30-F102276", "explanation": "mobile app development", "confidence": "medium"}
+{"feat": "30-F102429", "explanation": "Java/Android development", "confidence": "medium"}
+{"feat": "30-F103069", "explanation": "Java method block endings", "confidence": "high"}
+{"feat": "30-F83700", "explanation": "Tool in code identifiers", "confidence": "medium"}
+{"feat": "30-F103898", "explanation": "Java import dotted paths", "confidence": "high"}
+{"feat": "30-F104323", "explanation": "Android click listener", "confidence": "high"}
+{"feat": "30-F105536", "explanation": "Java code structure", "confidence": "medium"}
+{"feat": "30-F104498", "explanation": "Java checked exceptions", "confidence": "medium"}
+{"feat": "30-F73042", "explanation": "Android layout resource references", "confidence": "High"}
+{"feat": "30-F105823", "explanation": "fluent factory methods", "confidence": "medium"}
+{"feat": "30-F105935", "explanation": "Java class inheritance", "confidence": "high"}
+{"feat": "30-F106023", "explanation": "Java code identifiers", "confidence": "medium"}
+{"feat": "30-F105914", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F106668", "explanation": "Firebase DatabaseReference imports", "confidence": "high"}
+{"feat": "30-F107290", "explanation": "Clear cache instructions", "confidence": "medium"}
+{"feat": "30-F107959", "explanation": "Java generic type parameters", "confidence": "high"}
+{"feat": "30-F108408", "explanation": "Apache License boilerplate", "confidence": "high"}
+{"feat": "30-F108515", "explanation": "Spring Service annotation", "confidence": "high"}
+{"feat": "30-F110666", "explanation": "App/application mentions", "confidence": "high"}
+{"feat": "30-F111157", "explanation": "Java @Override methods", "confidence": "high"}
+{"feat": "30-F111815", "explanation": "Java HttpURLConnection imports", "confidence": "high"}
+{"feat": "30-F102311", "explanation": "Spring REST mapping annotations", "confidence": "high"}
+{"feat": "30-F111903", "explanation": "Java method opening brace", "confidence": "medium"}
+{"feat": "30-F116799", "explanation": "Firebase auth imports", "confidence": "high"}
+{"feat": "30-F113604", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F113206", "explanation": "Java pixel color processing", "confidence": "high"}
+{"feat": "30-F114053", "explanation": "game camera code", "confidence": "high"}
+{"feat": "30-F115814", "explanation": "Java email-sending code", "confidence": "medium"}
+{"feat": "30-F86515", "explanation": "Java util imports", "confidence": "High"}
+{"feat": "30-F115895", "explanation": "Java getter/setter indentation", "confidence": "high"}
+{"feat": "30-F118662", "explanation": "Android widget imports", "confidence": "high"}
+{"feat": "30-F120137", "explanation": "Say Java", "confidence": "high"}
+{"feat": "30-F120486", "explanation": "Java String parameters", "confidence": "high"}
+{"feat": "30-F17780", "explanation": "Android menu item handling", "confidence": "high"}
+{"feat": "30-F120828", "explanation": "Java ternary operator colon", "confidence": "medium"}
+{"feat": "30-F121208", "explanation": "Java Illegal exceptions", "confidence": "high"}
+{"feat": "30-F121570", "explanation": "Spring Boot annotations", "confidence": "high"}
+{"feat": "30-F110699", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F21624", "explanation": "Android app components", "confidence": "high"}
+{"feat": "30-F121728", "explanation": "Java annotation imports", "confidence": "high"}
+{"feat": "30-F123600", "explanation": "Java void method declarations", "confidence": "high"}
+{"feat": "30-F122002", "explanation": "Java double price fields", "confidence": "high"}
+{"feat": "30-F122098", "explanation": "Java package imports", "confidence": "high"}
+{"feat": "30-F122436", "explanation": "Spring WebSecurityConfigurerAdapter", "confidence": "high"}
+{"feat": "30-F124278", "explanation": "Java Swing variables declaration", "confidence": "high"}
+{"feat": "30-F124840", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F125104", "explanation": "Java indexed get calls", "confidence": "high"}
+{"feat": "30-F125319", "explanation": "Java time imports", "confidence": "high"}
+{"feat": "30-F126227", "explanation": "Android source code", "confidence": "medium"}
+{"feat": "30-F126533", "explanation": "Java ZipEntry handling", "confidence": "high"}
+{"feat": "30-F127981", "explanation": "android.text.Html imports", "confidence": "high"}
+{"feat": "30-F120577", "explanation": "Android dessert versions", "confidence": "high"}
+{"feat": "30-F8023", "explanation": "Android TextWatcher API", "confidence": "high"}
+{"feat": "30-F129251", "explanation": "Android ViewHolder itemView", "confidence": "medium"}
+{"feat": "30-F129656", "explanation": "Java Swing GroupLayout gaps", "confidence": "high"}
+{"feat": "30-F130022", "explanation": "Android onSaveInstanceState", "confidence": "high"}
+{"feat": "30-F130237", "explanation": "Java reflection method signatures", "confidence": "high"}
+{"feat": "30-F130267", "explanation": "database update success check", "confidence": "medium"}
+{"feat": "30-F132026", "explanation": "Java regex methods", "confidence": "medium"}
+{"feat": "30-F130547", "explanation": "Java exception variable", "confidence": "high"}
+{"feat": "30-F130299", "explanation": "Android View variables", "confidence": "high"}
+{"feat": "30-F42878", "explanation": "Code indentation", "confidence": "high"}
+{"feat": "30-F131243", "explanation": "Blog timestamp IDs", "confidence": "high"}
+{"feat": "30-F136688", "explanation": "Firebase ValueEventListener", "confidence": "high"}
+{"feat": "30-F132481", "explanation": "Android XML resource namespace", "confidence": "high"}
+{"feat": "30-F133166", "explanation": "Java inner classes", "confidence": "medium"}
+{"feat": "30-F135531", "explanation": "Android Paint API", "confidence": "high"}
+{"feat": "30-F136245", "explanation": "Java Swing histogram GUI", "confidence": "medium"}
+{"feat": "30-F136606", "explanation": "Android Activity API", "confidence": "medium"}
+{"feat": "30-F125420", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F137222", "explanation": "Code API identifiers", "confidence": "medium"}
+{"feat": "30-F137876", "explanation": "Java username authentication", "confidence": "medium"}
+{"feat": "30-F138150", "explanation": "Java package declarations", "confidence": "high"}
+{"feat": "30-F138507", "explanation": "JVM debug options", "confidence": "high"}
+{"feat": "30-F55080", "explanation": "Scala/JVM code", "confidence": "high"}
+{"feat": "30-F139748", "explanation": "Java GUI setText calls", "confidence": "high"}
+{"feat": "30-F140190", "explanation": "Character handling in code", "confidence": "medium"}
+{"feat": "30-F128151", "explanation": "Java main String array", "confidence": "high"}
+{"feat": "30-F140471", "explanation": "Android EditText widgets", "confidence": "medium"}
+{"feat": "30-F139936", "explanation": "Java indentation whitespace", "confidence": "high"}
+{"feat": "30-F58019", "explanation": "RestAssured API tests", "confidence": "high"}
+{"feat": "30-F143690", "explanation": "SQLite database constants", "confidence": "high"}
+{"feat": "30-F140305", "explanation": "Java unit test results", "confidence": "medium"}
+{"feat": "30-F146221", "explanation": "getItemViewType method", "confidence": "high"}
+{"feat": "30-F141173", "explanation": "Java repository/DAO mocks", "confidence": "medium"}
+{"feat": "30-F143505", "explanation": "Parcelable describeContents return", "confidence": "high"}
+{"feat": "30-F144211", "explanation": "Android View visibility", "confidence": "high"}
+{"feat": "30-F145881", "explanation": "game distance radius thresholds", "confidence": "medium"}
+{"feat": "30-F145028", "explanation": "data variables in code", "confidence": "medium"}
+{"feat": "30-F146255", "explanation": "Android getApplicationContext calls", "confidence": "high"}
+{"feat": "30-F147256", "explanation": "Java enterprise class suffixes", "confidence": "high"}
+{"feat": "30-F149492", "explanation": "Java class boilerplate", "confidence": "medium"}
+{"feat": "30-F150000", "explanation": "Java method opening brace", "confidence": "high"}
+{"feat": "30-F149071", "explanation": "code indentation", "confidence": "high"}
+{"feat": "30-F150647", "explanation": "Obfuscated code digits", "confidence": "medium"}
+{"feat": "30-F149956", "explanation": "Java networking code", "confidence": "medium"}
+{"feat": "30-F150870", "explanation": "android.os.Bundle import", "confidence": "high"}
+{"feat": "30-F151762", "explanation": "Android Java imports", "confidence": "medium"}
+{"feat": "30-F151729", "explanation": "Java annotation equals", "confidence": "high"}
+{"feat": "30-F151778", "explanation": "Java concurrency imports", "confidence": "high"}
+{"feat": "30-F152269", "explanation": "Java org imports", "confidence": "high"}
+{"feat": "30-F154185", "explanation": "JOptionPane.ERROR_MESSAGE constant", "confidence": "high"}
+{"feat": "30-F151953", "explanation": "JavaDoc annotation syntax", "confidence": "high"}
+{"feat": "30-F154354", "explanation": "Java Iterator usage", "confidence": "high"}
+{"feat": "30-F155560", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F152499", "explanation": "Java PageFactory initialization", "confidence": "high"}
+{"feat": "30-F154875", "explanation": "Java WebServlet imports", "confidence": "high"}
+{"feat": "30-F159380", "explanation": "JavaFX PropertyValueFactory", "confidence": "high"}
+{"feat": "30-F156013", "explanation": "Java implements clause", "confidence": "high"}
+{"feat": "30-F156500", "explanation": "Java util imports", "confidence": "high"}
+{"feat": "30-F156843", "explanation": "Android UI layout code", "confidence": "medium"}
+{"feat": "30-F158397", "explanation": "Android menu code", "confidence": "high"}
+{"feat": "30-F158501", "explanation": "Selenium testing documentation", "confidence": "medium"}
+{"feat": "30-F157802", "explanation": "code indentation", "confidence": "high"}
+{"feat": "30-F161198", "explanation": "NetBeans Swing variable declarations", "confidence": "high"}
+{"feat": "30-F79613", "explanation": "Code block openings", "confidence": "medium"}
+{"feat": "30-F145919", "explanation": "JavaDoc comment syntax", "confidence": "high"}
+{"feat": "30-F81134", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F161769", "explanation": "Java integer maximum", "confidence": "high"}
+{"feat": "30-F162474", "explanation": "Spring beans imports", "confidence": "high"}
+{"feat": "30-F163269", "explanation": "Oracle Java documentation URLs", "confidence": "high"}
+{"feat": "30-F163346", "explanation": "Java ScheduledExecutorService imports", "confidence": "high"}
+{"feat": "30-F163857", "explanation": "Apache license header", "confidence": "high"}
+{"feat": "30-F163356", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F165920", "explanation": "Java Servlet methods", "confidence": "high"}
+{"feat": "30-F166496", "explanation": "Java programming tutorials", "confidence": "medium"}
+{"feat": "30-F167609", "explanation": "Java JOptionPane dialogs", "confidence": "high"}
+{"feat": "30-F166746", "explanation": "Java compiler diagnostics", "confidence": "medium"}
+{"feat": "30-F85512", "explanation": "Java GUI layout code", "confidence": "medium"}
+{"feat": "30-F167021", "explanation": "Return statement in code", "confidence": "high"}
+{"feat": "30-F168404", "explanation": "Android Java imports", "confidence": "medium"}
+{"feat": "30-F168268", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F168417", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F167876", "explanation": "Spring PageRequest pagination", "confidence": "medium"}
+{"feat": "30-F171273", "explanation": "SQLite database method calls", "confidence": "high"}
+{"feat": "30-F169953", "explanation": "Java model package", "confidence": "high"}
+{"feat": "30-F170162", "explanation": "Android setCanceledOnTouchOutside", "confidence": "high"}
+{"feat": "30-F170210", "explanation": "Don't Say Java", "confidence": "medium"}
+{"feat": "30-F170505", "explanation": "Java JSON imports", "confidence": "high"}
+{"feat": "30-F170986", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F171670", "explanation": "Java print statements", "confidence": "high"}
+{"feat": "30-F171572", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F173910", "explanation": "Game mod documentation", "confidence": "medium"}
+{"feat": "30-F172691", "explanation": "Java JDBC getConnection", "confidence": "high"}
+{"feat": "30-F173574", "explanation": "Android adapter mappings", "confidence": "medium"}
+{"feat": "30-F174575", "explanation": "Java GWT UI code", "confidence": "high"}
+{"feat": "30-F174720", "explanation": "Android import statements", "confidence": "high"}
+{"feat": "30-F176946", "explanation": "Java Swing content panes", "confidence": "high"}
+{"feat": "30-F95657", "explanation": "Java getter/setter fields", "confidence": "medium"}
+{"feat": "30-F175596", "explanation": "JUnit import statements", "confidence": "high"}
+{"feat": "30-F174802", "explanation": "Java numeric casts", "confidence": "medium"}
+{"feat": "30-F175922", "explanation": "Netflix Hystrix Java code", "confidence": "medium"}
+{"feat": "30-F176458", "explanation": "Java assignment statements", "confidence": "medium"}
+{"feat": "30-F176661", "explanation": "Java import package paths", "confidence": "high"}
+{"feat": "30-F177884", "explanation": "Java getTransaction calls", "confidence": "high"}
+{"feat": "30-F178483", "explanation": "Netty ChannelPipeline code", "confidence": "medium"}
+{"feat": "30-F178361", "explanation": "Android Java code", "confidence": "high"}
+{"feat": "30-F168678", "explanation": "Spring beans imports", "confidence": "high"}
+{"feat": "30-F178003", "explanation": "Java hashCode boilerplate", "confidence": "high"}
+{"feat": "30-F178043", "explanation": "SQL column types", "confidence": "high"}
+{"feat": "30-F178531", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F178563", "explanation": "Java code indentation", "confidence": "high"}
+{"feat": "30-F178566", "explanation": "Android View import", "confidence": "high"}
+{"feat": "30-F179067", "explanation": "Android BaseAdapter classes", "confidence": "medium"}
+{"feat": "30-F179125", "explanation": "Android phone specifications", "confidence": "high"}
+{"feat": "30-F179977", "explanation": "RecyclerView onCreateViewHolder", "confidence": "medium"}
+{"feat": "30-F181285", "explanation": "Java serialVersionUID numeric literal", "confidence": "high"}
+{"feat": "30-F180331", "explanation": "Java setCharacterEncoding", "confidence": "high"}
+{"feat": "30-F181705", "explanation": "Android notification code", "confidence": "medium"}
+{"feat": "30-F181745", "explanation": "Java Iterator imports", "confidence": "high"}
+{"feat": "30-F181962", "explanation": "Spring ApplicationContextAware", "confidence": "medium"}
+{"feat": "30-F181821", "explanation": "Android app settings instructions", "confidence": "medium"}
+{"feat": "30-F182489", "explanation": "programming exception names", "confidence": "medium"}
+{"feat": "30-F182844", "explanation": "Java int parameters", "confidence": "medium"}
+{"feat": "30-F182941", "explanation": "Indented code blocks", "confidence": "high"}
+{"feat": "30-F183152", "explanation": "Java import semicolon", "confidence": "high"}
+{"feat": "30-F183887", "explanation": "Java Hadoop imports", "confidence": "high"}
+{"feat": "30-F183997", "explanation": "Java servlet code", "confidence": "high"}
+{"feat": "30-F186666", "explanation": "Java test annotations", "confidence": "high"}
+{"feat": "30-F184225", "explanation": "Type cast syntax", "confidence": "high"}
+{"feat": "30-F185512", "explanation": "Java object instantiation", "confidence": "high"}
+{"feat": "30-F186141", "explanation": "Java String.valueOf", "confidence": "high"}
+{"feat": "30-F188491", "explanation": "Java logging statements", "confidence": "high"}
+{"feat": "30-F192396", "explanation": "Cross-platform code execution", "confidence": "high"}
+{"feat": "30-F188147", "explanation": "Java util imports", "confidence": "high"}
+{"feat": "30-F188270", "explanation": "Gradient graphics code", "confidence": "high"}
+{"feat": "30-F104767", "explanation": "Don't Say Java", "confidence": "high"}
+{"feat": "30-F188300", "explanation": "Java concurrency APIs", "confidence": "medium"}
+{"feat": "30-F188618", "explanation": "Doc-commented methods", "confidence": "medium"}
+{"feat": "30-F188435", "explanation": "org.greenrobot Java imports", "confidence": "high"}
+{"feat": "30-F189468", "explanation": "Java array initialization", "confidence": "medium"}
+{"feat": "30-F192914", "explanation": "Java main method", "confidence": "high"}
+{"feat": "30-F193123", "explanation": "Android import statements", "confidence": "high"}
+{"feat": "30-F181648", "explanation": "Java JMS messaging", "confidence": "medium"}
+{"feat": "30-F193801", "explanation": "Google Sign-In code", "confidence": "medium"}
+{"feat": "30-F193736", "explanation": "Samsung Galaxy phones", "confidence": "medium"}
+{"feat": "30-F195412", "explanation": "Java new Intent", "confidence": "high"}
+{"feat": "30-F194176", "explanation": "Android/Java development tutorials", "confidence": "medium"}
+{"feat": "30-F194189", "explanation": "Android getView method", "confidence": "high"}
+{"feat": "30-F194439", "explanation": "Android Bluetooth imports", "confidence": "high"}
+{"feat": "30-F194462", "explanation": "Android animation code", "confidence": "medium"}
+{"feat": "30-F195308", "explanation": "Selenium test code", "confidence": "high"}
+{"feat": "30-F194698", "explanation": "Java parameter closing parenthesis", "confidence": "medium"}
+{"feat": "30-F197041", "explanation": "jMonkeyEngine game development", "confidence": "medium"}
+{"feat": "30-F196326", "explanation": "Java nullability annotations", "confidence": "high"}
+{"feat": "30-F196544", "explanation": "Java ByteArrayOutputStream", "confidence": "high"}
+{"feat": "30-F196647", "explanation": "Android RecyclerView ViewHolder", "confidence": "high"}
+{"feat": "30-F199377", "explanation": "HTML paragraph tag", "confidence": "high"}
+{"feat": "30-F202531", "explanation": "Minecraft mod version strings", "confidence": "medium"}
+{"feat": "30-F196682", "explanation": "Java main method", "confidence": "medium"}
+{"feat": "30-F200425", "explanation": "Java @Transient annotation", "confidence": "high"}
+{"feat": "30-F202311", "explanation": "Apache license author line", "confidence": "medium"}
+{"feat": "30-F202668", "explanation": "Java Android imports", "confidence": "medium"}
+{"feat": "30-F204126", "explanation": "Android onClick handlers", "confidence": "high"}
+{"feat": "30-F203961", "explanation": "Java annotations", "confidence": "high"}
+{"feat": "30-F204990", "explanation": "Java ParseQuery usage", "confidence": "high"}
+{"feat": "30-F203761", "explanation": "Android image loading", "confidence": "high"}
+{"feat": "30-F206518", "explanation": "Android touch coordinates", "confidence": "high"}
+{"feat": "30-F208902", "explanation": "Bukkit event listeners", "confidence": "high"}
+{"feat": "30-F207918", "explanation": "Java code context", "confidence": "medium"}
+{"feat": "30-F209445", "explanation": "File stream closing", "confidence": "high"}
+{"feat": "30-F208971", "explanation": "Java common package imports", "confidence": "high"}
+{"feat": "30-F209323", "explanation": "Software version numbers", "confidence": "medium"}
+{"feat": "30-F210236", "explanation": "Java Optional fallback", "confidence": "high"}
+{"feat": "30-F216039", "explanation": "Java private fields", "confidence": "high"}
+{"feat": "30-F210995", "explanation": "Java JUnit test class boilerplate", "confidence": "high"}
+{"feat": "30-F211442", "explanation": "Java API method signatures", "confidence": "medium"}
+{"feat": "30-F212665", "explanation": "Java Throwable parameter", "confidence": "high"}
+{"feat": "30-F215575", "explanation": "Java getter methods", "confidence": "high"}
+{"feat": "30-F214342", "explanation": "Java String declarations", "confidence": "medium"}
+{"feat": "30-F118822", "explanation": "Android intent data passing", "confidence": "high"}
+{"feat": "30-F216287", "explanation": "GUI layout numeric literals", "confidence": "medium"}
+{"feat": "30-F218016", "explanation": "Java getter getId", "confidence": "high"}
+{"feat": "30-F216563", "explanation": "Firebase Android imports", "confidence": "high"}
+{"feat": "30-F218217", "explanation": "Android notifications", "confidence": "high"}
+{"feat": "30-F220106", "explanation": "Java new object instantiation", "confidence": "high"}
+{"feat": "30-F225526", "explanation": "Java exception handling", "confidence": "high"}
+{"feat": "30-F221071", "explanation": "Java manager variables", "confidence": "medium"}
+{"feat": "30-F226447", "explanation": "Bumptech Glide imports", "confidence": "high"}
+{"feat": "30-F222319", "explanation": "Java Swing UI code", "confidence": "medium"}
+{"feat": "30-F225410", "explanation": "Java UI callbacks", "confidence": "medium"}
+{"feat": "30-F226546", "explanation": "Java collection iteration", "confidence": "medium"}
+{"feat": "30-F226558", "explanation": "Say queue", "confidence": "high"}
+{"feat": "30-F228026", "explanation": "Jad decompiled Java", "confidence": "high"}
+{"feat": "30-F227540", "explanation": "Java Swing form classes", "confidence": "high"}
+{"feat": "30-F228203", "explanation": "Java event listeners", "confidence": "high"}
+{"feat": "30-F228301", "explanation": "Android RecyclerView imports", "confidence": "high"}
+{"feat": "30-F228387", "explanation": "Java persistence imports", "confidence": "high"}
+{"feat": "30-F232801", "explanation": "Java stream filter", "confidence": "high"}
+{"feat": "30-F228890", "explanation": "Java ServletException declaration", "confidence": "high"}
+{"feat": "30-F230292", "explanation": "Java runtime APIs", "confidence": "medium"}
+{"feat": "30-F230351", "explanation": "Android widget imports", "confidence": "high"}
+{"feat": "30-F231858", "explanation": "Object-oriented source code", "confidence": "medium"}
+{"feat": "30-F233307", "explanation": "public method declarations", "confidence": "medium"}
+{"feat": "30-F233884", "explanation": "Android Parcelable Creator", "confidence": "high"}
+{"feat": "30-F234066", "explanation": "Java implements clause", "confidence": "high"}
+{"feat": "30-F217769", "explanation": "source code syntax", "confidence": "medium"}
+{"feat": "30-F234429", "explanation": "JavaDoc comment start", "confidence": "high"}
+{"feat": "30-F234677", "explanation": "Java toString field separators", "confidence": "high"}
+{"feat": "30-F218290", "explanation": "Java implements Serializable", "confidence": "high"}
+{"feat": "30-F235066", "explanation": "Android SeekBar code", "confidence": "high"}
+{"feat": "30-F235082", "explanation": "Java DAO methods", "confidence": "medium"}
+{"feat": "30-F235248", "explanation": "Java Criteria between methods", "confidence": "medium"}
+{"feat": "30-F235566", "explanation": "source code syntax", "confidence": "medium"}
+{"feat": "30-F236545", "explanation": "Object creation comments", "confidence": "high"}
+{"feat": "30-F236011", "explanation": "Java public method declarations", "confidence": "high"}
+{"feat": "30-F241745", "explanation": "Java comparator zero checks", "confidence": "medium"}
+{"feat": "30-F237604", "explanation": "Quoted Minecraft server buttons", "confidence": "medium"}
+{"feat": "30-F236577", "explanation": "software development code", "confidence": "medium"}
+{"feat": "30-F240711", "explanation": "Android Parcelable classes", "confidence": "high"}
+{"feat": "30-F239324", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F240091", "explanation": "Java Enumeration import", "confidence": "high"}
+{"feat": "30-F240425", "explanation": "Java internal imports", "confidence": "medium"}
+{"feat": "30-F242022", "explanation": "Java/Scala code identifiers", "confidence": "medium"}
+{"feat": "30-F242704", "explanation": "Code line endings", "confidence": "medium"}
+{"feat": "30-F242062", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F242870", "explanation": "Java file I/O", "confidence": "medium"}
+{"feat": "30-F245552", "explanation": "DAO service layer code", "confidence": "high"}
+{"feat": "30-F245746", "explanation": "Android Manager classes", "confidence": "medium"}
+{"feat": "30-F247994", "explanation": "Code assignment operator", "confidence": "high"}
+{"feat": "30-F246457", "explanation": "WebView settings methods", "confidence": "high"}
+{"feat": "30-F246516", "explanation": "Java Swing GUI components", "confidence": "medium"}
+{"feat": "30-F247850", "explanation": "Storage/save identifiers", "confidence": "medium"}
+{"feat": "30-F249545", "explanation": "JavaDoc comment closure", "confidence": "high"}
+{"feat": "30-F249303", "explanation": "Java UUID usage", "confidence": "high"}
+{"feat": "30-F249282", "explanation": "Java javax imports", "confidence": "high"}
+{"feat": "30-F250774", "explanation": "Java new Date", "confidence": "high"}
+{"feat": "30-F251862", "explanation": "Android os import", "confidence": "high"}
+{"feat": "30-F140676", "explanation": "Java getter/setter declarations", "confidence": "high"}
+{"feat": "30-F250726", "explanation": "Java date utility", "confidence": "high"}
+{"feat": "30-F250767", "explanation": "Retrofit Android library", "confidence": "high"}
+{"feat": "30-F253287", "explanation": "Java field assignments", "confidence": "medium"}
+{"feat": "30-F250980", "explanation": "Eclipse Java UI labels", "confidence": "medium"}
+{"feat": "30-F250963", "explanation": "Firebase DatabaseReference", "confidence": "high"}
+{"feat": "30-F253044", "explanation": "Java servlets", "confidence": "high"}
+{"feat": "30-F253186", "explanation": "Java parameter prefix a", "confidence": "medium"}
+{"feat": "30-F256189", "explanation": "JUnit assertThrows tests", "confidence": "high"}
+{"feat": "30-F254031", "explanation": "Android bloatware removal", "confidence": "medium"}
+{"feat": "30-F253554", "explanation": "Hazelcast documentation", "confidence": "medium"}
+{"feat": "30-F254159", "explanation": "RecyclerView onBindViewHolder", "confidence": "high"}
+{"feat": "30-F255220", "explanation": "Java annotations", "confidence": "high"}
+{"feat": "30-F255206", "explanation": "Spring web imports", "confidence": "high"}
+{"feat": "30-F255654", "explanation": "Java Spring annotations", "confidence": "medium"}
+{"feat": "30-F256076", "explanation": "Java IO exceptions", "confidence": "high"}
+{"feat": "30-F257573", "explanation": "Android spinner dropdown setup", "confidence": "high"}
+{"feat": "30-F256598", "explanation": "Use programming constructs", "confidence": "medium"}
+{"feat": "30-F260370", "explanation": "Java request parameters", "confidence": "high"}
+{"feat": "30-F256884", "explanation": "Java public methods", "confidence": "high"}
+{"feat": "30-F258488", "explanation": "Java import statements", "confidence": "medium"}
+{"feat": "30-F258745", "explanation": "programming code syntax", "confidence": "medium"}
+{"feat": "30-F258905", "explanation": "Java Object return type", "confidence": "high"}
+{"feat": "30-F261351", "explanation": "Java Bukkit imports", "confidence": "high"}
+{"feat": "30-F261373", "explanation": "Java import declarations", "confidence": "high"}
+{"feat": "30-F263238", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F262765", "explanation": "Java get method calls", "confidence": "medium"}
+{"feat": "30-F156525", "explanation": "Cursor getString calls", "confidence": "high"}
+{"feat": "30-F262588", "explanation": "Android parent navigation", "confidence": "high"}
+{"feat": "30-F264764", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F161362", "explanation": "Android menu APIs", "confidence": "medium"}
+{"feat": "30-F263259", "explanation": "Android onCreate method", "confidence": "high"}
+{"feat": "30-F263807", "explanation": "Java concurrency", "confidence": "medium"}
+{"feat": "30-F266557", "explanation": "Spring Framework imports", "confidence": "high"}
+{"feat": "30-F265515", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F267493", "explanation": "programming course materials", "confidence": "medium"}
+{"feat": "30-F267033", "explanation": "Android LiveData observation", "confidence": "high"}
+{"feat": "30-F267041", "explanation": "Java boolean setter calls", "confidence": "medium"}
+{"feat": "30-F267383", "explanation": "Java private declarations", "confidence": "high"}
+{"feat": "30-F267589", "explanation": "Android Fragment imports", "confidence": "high"}
+{"feat": "30-F267626", "explanation": "Java BaseActivity imports", "confidence": "high"}
+{"feat": "30-F267642", "explanation": "Java object instantiation", "confidence": "high"}
+{"feat": "30-F271044", "explanation": "Android instrumentation testing", "confidence": "high"}
+{"feat": "30-F270222", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F271465", "explanation": "Java Arrays utility", "confidence": "high"}
+{"feat": "30-F273128", "explanation": "android.net.Uri imports", "confidence": "high"}
+{"feat": "30-F274516", "explanation": "Java Executors thread pools", "confidence": "high"}
+{"feat": "30-F273148", "explanation": "Android XML namespace syntax", "confidence": "medium"}
+{"feat": "30-F274086", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F261602", "explanation": "Say Thread", "confidence": "high"}
+{"feat": "30-F274142", "explanation": "Javadoc comment endings", "confidence": "high"}
+{"feat": "30-F274335", "explanation": "Programming class declarations", "confidence": "high"}
+{"feat": "30-F275060", "explanation": "Java service DAO identifiers", "confidence": "medium"}
+{"feat": "30-F278215", "explanation": "Java public test methods", "confidence": "high"}
+{"feat": "30-F274872", "explanation": "jOOQ Java library", "confidence": "high"}
+{"feat": "30-F275938", "explanation": "Android splash screen classes", "confidence": "high"}
+{"feat": "30-F275982", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F277775", "explanation": "Java float type", "confidence": "high"}
+{"feat": "30-F277311", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F277710", "explanation": "Java source imports", "confidence": "high"}
+{"feat": "30-F171953", "explanation": "C-style indexed for loops", "confidence": "high"}
+{"feat": "30-F278645", "explanation": "Java Swing GroupLayout sizing", "confidence": "high"}
+{"feat": "30-F279221", "explanation": "Telegram bot Java code", "confidence": "medium"}
+{"feat": "30-F279707", "explanation": "Java Temporal APIs", "confidence": "high"}
+{"feat": "30-F280135", "explanation": "Java input validation methods", "confidence": "medium"}
+{"feat": "30-F280544", "explanation": "Code duration literals", "confidence": "medium"}
+{"feat": "30-F271929", "explanation": "Java servlet response parameter", "confidence": "high"}
+{"feat": "30-F281003", "explanation": "Java getter-setter indentation", "confidence": "high"}
+{"feat": "30-F285340", "explanation": "copy operations", "confidence": "high"}
+{"feat": "30-F281300", "explanation": "Hibernate CascadeType annotations", "confidence": "high"}
+{"feat": "30-F282347", "explanation": "Java interface default methods", "confidence": "medium"}
+{"feat": "30-F285245", "explanation": "Android widget Java code", "confidence": "medium"}
+{"feat": "30-F284796", "explanation": "Java final declarations", "confidence": "high"}
+{"feat": "30-F285356", "explanation": "Java code", "confidence": "medium"}
+{"feat": "30-F285934", "explanation": "Android RESULT_OK checks", "confidence": "high"}
+{"feat": "30-F285948", "explanation": "Java equals(Object) boilerplate", "confidence": "high"}
+{"feat": "30-F286709", "explanation": "Java String getters/setters", "confidence": "high"}
+{"feat": "30-F286614", "explanation": "Java primitive types", "confidence": "high"}
+{"feat": "30-F286798", "explanation": "Java Javadoc package header", "confidence": "high"}
+{"feat": "30-F287698", "explanation": "Java programming language", "confidence": "high"}
+{"feat": "30-F288551", "explanation": "Obfuscated Java class names", "confidence": "medium"}
+{"feat": "30-F289514", "explanation": "Java AOP pointcuts", "confidence": "high"}
+{"feat": "30-F288585", "explanation": "Java method calls", "confidence": "medium"}
+{"feat": "30-F290100", "explanation": "Java ResponseEntity", "confidence": "high"}
+{"feat": "30-F291765", "explanation": "Java suppress annotations", "confidence": "medium"}
+{"feat": "30-F291009", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F291340", "explanation": "JsonIgnoreProperties ignoreUnknown", "confidence": "high"}
+{"feat": "30-F291996", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F292882", "explanation": "Java concurrent imports", "confidence": "high"}
+{"feat": "30-F294008", "explanation": "Java servlet request parameter", "confidence": "high"}
+{"feat": "30-F293074", "explanation": "Android Bundle imports", "confidence": "high"}
+{"feat": "30-F295078", "explanation": "Java getter/setter code", "confidence": "high"}
+{"feat": "30-F295935", "explanation": "Java null allowance", "confidence": "medium"}
+{"feat": "30-F296156", "explanation": "Java annotation imports", "confidence": "high"}
+{"feat": "30-F296662", "explanation": "Java util List import", "confidence": "high"}
+{"feat": "30-F297594", "explanation": "Javadoc indentation spaces", "confidence": "high"}
+{"feat": "30-F187752", "explanation": "Java constructor parentheses", "confidence": "high"}
+{"feat": "30-F300097", "explanation": "Java throws declarations", "confidence": "high"}
+{"feat": "30-F300266", "explanation": "Code value variables", "confidence": "medium"}
+{"feat": "30-F301603", "explanation": "Java file exists check", "confidence": "high"}
+{"feat": "30-F302482", "explanation": "Java this assignment", "confidence": "high"}
+{"feat": "30-F302540", "explanation": "Java setDefaultCloseOperation", "confidence": "high"}
+{"feat": "30-F287658", "explanation": "Java static final fields", "confidence": "high"}
+{"feat": "30-F308582", "explanation": "Java compiler version metadata", "confidence": "high"}
+{"feat": "30-F304497", "explanation": "Selenium PageFactory initElements", "confidence": "high"}
+{"feat": "30-F305583", "explanation": "Java type cast syntax", "confidence": "high"}
+{"feat": "30-F305019", "explanation": "Java import java.io", "confidence": "high"}
+{"feat": "30-F305957", "explanation": "IDE Run menu commands", "confidence": "high"}
+{"feat": "30-F307580", "explanation": "Lombok Java annotations", "confidence": "high"}
+{"feat": "30-F309270", "explanation": "Java Servlet implementation comment", "confidence": "medium"}
+{"feat": "30-F308230", "explanation": "Java opening brace", "confidence": "medium"}
+{"feat": "30-F309352", "explanation": "Java MalformedURLException", "confidence": "high"}
+{"feat": "30-F310407", "explanation": "Spring MVC Model parameter", "confidence": "high"}
+{"feat": "30-F311949", "explanation": "Selenium DesiredCapabilities", "confidence": "high"}
+{"feat": "30-F315194", "explanation": "Android SearchView code", "confidence": "high"}
+{"feat": "30-F313745", "explanation": "Apache license URL", "confidence": "low"}
+{"feat": "30-F314324", "explanation": "Minecraft Wither Skeleton", "confidence": "medium"}
+{"feat": "30-F314383", "explanation": "JavaDoc comment formatting", "confidence": "high"}
+{"feat": "30-F311957", "explanation": "Java linked collections", "confidence": "high"}
+{"feat": "30-F317509", "explanation": "Java standard library classes", "confidence": "medium"}
+{"feat": "30-F316721", "explanation": "Matrix rotation code", "confidence": "high"}
+{"feat": "30-F317749", "explanation": "android.view.MotionEvent", "confidence": "high"}
+{"feat": "30-F318348", "explanation": "Code indentation", "confidence": "high"}
+{"feat": "30-F318896", "explanation": "Android networking code", "confidence": "medium"}
+{"feat": "30-F318769", "explanation": "Android spinner ArrayAdapter", "confidence": "high"}
+{"feat": "30-F318940", "explanation": "Empty function call syntax", "confidence": "high"}
+{"feat": "30-F319544", "explanation": "Android UI binding code", "confidence": "medium"}
+{"feat": "30-F320367", "explanation": "Code statement endings", "confidence": "medium"}
+{"feat": "30-F320391", "explanation": "Java DAO/service code", "confidence": "high"}
+{"feat": "30-F319945", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F206319", "explanation": "Java getter return statements", "confidence": "high"}
+{"feat": "30-F320462", "explanation": "Minecraft server questions", "confidence": "medium"}
+{"feat": "30-F321497", "explanation": "Say Scanner", "confidence": "high"}
+{"feat": "30-F322031", "explanation": "Test data providers", "confidence": "high"}
+{"feat": "30-F322507", "explanation": "Tab indentation", "confidence": "high"}
+{"feat": "30-F322639", "explanation": "C# System.Collections imports", "confidence": "high"}
+{"feat": "30-F323228", "explanation": "Java generics syntax", "confidence": "high"}
+{"feat": "30-F323247", "explanation": "Spring MockMvc setup", "confidence": "high"}
+{"feat": "30-F323012", "explanation": "Java toString method", "confidence": "high"}
+{"feat": "30-F324008", "explanation": "Java fluent configuration APIs", "confidence": "medium"}
+{"feat": "30-F325057", "explanation": "Java @NotNull annotation", "confidence": "high"}
+{"feat": "30-F326407", "explanation": "Java programming language", "confidence": "medium"}
+{"feat": "30-F325392", "explanation": "MyBatis generated methods", "confidence": "high"}
+{"feat": "30-F325960", "explanation": "Java stream read loop", "confidence": "high"}
+{"feat": "30-F329725", "explanation": "Java standard library", "confidence": "medium"}
+{"feat": "30-F327851", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F328720", "explanation": "Android XML layout syntax", "confidence": "medium"}
+{"feat": "30-F327875", "explanation": "Java import declarations", "confidence": "high"}
+{"feat": "30-F327862", "explanation": "Java Android imports", "confidence": "high"}
+{"feat": "30-F329216", "explanation": "Java thread pools", "confidence": "medium"}
+{"feat": "30-F331235", "explanation": "Android fragment parameter boilerplate", "confidence": "high"}
+{"feat": "30-F331068", "explanation": "Android Bundle parameter", "confidence": "high"}
+{"feat": "30-F331667", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F332015", "explanation": "Android import statements", "confidence": "high"}
+{"feat": "30-F332513", "explanation": "Javadoc comment formatting", "confidence": "high"}
+{"feat": "30-F222101", "explanation": "catch Exception clauses", "confidence": "high"}
+{"feat": "30-F331971", "explanation": "Java import syntax", "confidence": "medium"}
+{"feat": "30-F332547", "explanation": "LayoutInflater initialization", "confidence": "high"}
+{"feat": "30-F333268", "explanation": "Android data binding", "confidence": "medium"}
+{"feat": "30-F334010", "explanation": "Java Swing Font API", "confidence": "high"}
+{"feat": "30-F334399", "explanation": "Java field declarations", "confidence": "high"}
+{"feat": "30-F334742", "explanation": "ORM generated primary keys", "confidence": "high"}
+{"feat": "30-F334978", "explanation": "Code import block formatting", "confidence": "medium"}
+{"feat": "30-F335399", "explanation": "Android putString/putInt calls", "confidence": "medium"}
+{"feat": "30-F336656", "explanation": "JUnit assert methods", "confidence": "high"}
+{"feat": "30-F335561", "explanation": "Java constructor declarations", "confidence": "high"}
+{"feat": "30-F337817", "explanation": "code indentation", "confidence": "high"}
+{"feat": "30-F337192", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F337365", "explanation": "Please wait messages", "confidence": "medium"}
+{"feat": "30-F339814", "explanation": "Structured block openings", "confidence": "medium"}
+{"feat": "30-F338177", "explanation": "Minecraft server setup instructions", "confidence": "high"}
+{"feat": "30-F340149", "explanation": "absolute file paths", "confidence": "high"}
+{"feat": "30-F340897", "explanation": "Java programming tutorials", "confidence": "medium"}
+{"feat": "30-F342005", "explanation": "Apache HTTP NameValuePair", "confidence": "high"}
+{"feat": "30-F341533", "explanation": "NetBeans template comments", "confidence": "medium"}
+{"feat": "30-F342079", "explanation": "Android location permissions", "confidence": "high"}
+{"feat": "30-F342463", "explanation": "Android savedInstanceState parameter", "confidence": "high"}
+{"feat": "30-F342658", "explanation": "AndroidManifest parent activity", "confidence": "medium"}
+{"feat": "30-F343786", "explanation": "Java GUI form code", "confidence": "medium"}
+{"feat": "30-F344329", "explanation": "Java OnClickListener", "confidence": "high"}
+{"feat": "30-F344826", "explanation": "Collection type declarations", "confidence": "high"}
+{"feat": "30-F344546", "explanation": "Spring Qualifier annotation", "confidence": "high"}
+{"feat": "30-F345258", "explanation": "GUI application code syntax", "confidence": "medium"}
+{"feat": "30-F345270", "explanation": "Java import declarations", "confidence": "medium"}
+{"feat": "30-F346116", "explanation": "Android Unknown Sources setting", "confidence": "high"}
+{"feat": "30-F345289", "explanation": "Java resource shutdown", "confidence": "medium"}
+{"feat": "30-F346912", "explanation": "Android onPreExecute method", "confidence": "high"}
+{"feat": "30-F350134", "explanation": "Java 8 version", "confidence": "medium"}
+{"feat": "30-F336807", "explanation": "Java exception variable e", "confidence": "high"}
+{"feat": "30-F347116", "explanation": "Java indentation whitespace", "confidence": "high"}
+{"feat": "30-F347869", "explanation": "Java exception messages", "confidence": "high"}
+{"feat": "30-F351153", "explanation": "Selenium WebDriver manage", "confidence": "high"}
+{"feat": "30-F351409", "explanation": "Java plugin code", "confidence": "medium"}
+{"feat": "30-F351726", "explanation": "Java required parameter", "confidence": "high"}
+{"feat": "30-F351838", "explanation": "Java equals null checks", "confidence": "high"}
+{"feat": "30-F352657", "explanation": "Java run instructions", "confidence": "medium"}
+{"feat": "30-F351964", "explanation": "Java boolean declarations", "confidence": "high"}
+{"feat": "30-F352307", "explanation": "content identifiers in code", "confidence": "medium"}
+{"feat": "30-F353979", "explanation": "session state access", "confidence": "high"}
+{"feat": "30-F354679", "explanation": "Java Graphics2D imports", "confidence": "high"}
+{"feat": "30-F355128", "explanation": "Spring AOP ProceedingJoinPoint", "confidence": "high"}
+{"feat": "30-F355199", "explanation": "Java Oracle docs URLs", "confidence": "high"}
+{"feat": "30-F359045", "explanation": "Java DAO implementation classes", "confidence": "high"}
+{"feat": "30-F357176", "explanation": "Java web framework imports", "confidence": "high"}
+{"feat": "30-F355766", "explanation": "UI setTitle calls", "confidence": "high"}
+{"feat": "30-F359184", "explanation": "JavaDoc annotation tags", "confidence": "high"}
+{"feat": "30-F360807", "explanation": "XStream XML serialization", "confidence": "high"}
+{"feat": "30-F360069", "explanation": "Java Properties API", "confidence": "high"}
+{"feat": "30-F361417", "explanation": "Java util imports", "confidence": "high"}
+{"feat": "30-F361789", "explanation": "Gson fromJson calls", "confidence": "medium"}
+{"feat": "30-F361966", "explanation": "Android SMS receiver code", "confidence": "medium"}
+{"feat": "30-F363442", "explanation": "Java password encoders", "confidence": "high"}
+{"feat": "30-F362575", "explanation": "Android layout classes", "confidence": "high"}
+{"feat": "30-F362639", "explanation": "Java developer requirements", "confidence": "medium"}
+{"feat": "30-F362734", "explanation": "Java Spring Autowired annotation", "confidence": "high"}
+{"feat": "30-F363528", "explanation": "Java Swing event listeners", "confidence": "high"}
+{"feat": "30-F365283", "explanation": "code indentation", "confidence": "medium"}
+{"feat": "30-F368305", "explanation": "Java long literal suffix", "confidence": "high"}
+{"feat": "30-F365572", "explanation": "Java weak references", "confidence": "high"}
+{"feat": "30-F263855", "explanation": "Java ByteBuffer", "confidence": "high"}
+{"feat": "30-F366676", "explanation": "Spring Framework imports", "confidence": "high"}
+{"feat": "30-F367302", "explanation": "Spring PasswordEncoder imports", "confidence": "high"}
+{"feat": "30-F267173", "explanation": "Xposed Framework", "confidence": "high"}
+{"feat": "30-F367336", "explanation": "Java extends inheritance", "confidence": "high"}
+{"feat": "30-F367379", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F368534", "explanation": "RxJava subscription handling", "confidence": "high"}
+{"feat": "30-F268780", "explanation": "print statements", "confidence": "medium"}
+{"feat": "30-F368779", "explanation": "ExtentReports test reporting", "confidence": "medium"}
+{"feat": "30-F369352", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F369422", "explanation": "Java import paths", "confidence": "high"}
+{"feat": "30-F162836", "explanation": "Java-style method definitions", "confidence": "medium"}
+{"feat": "30-F370940", "explanation": "OS version numbers", "confidence": "high"}
+{"feat": "30-F369981", "explanation": "Spring getBean calls", "confidence": "high"}
+{"feat": "30-F371686", "explanation": "Android resource ID constants", "confidence": "medium"}
+{"feat": "30-F372968", "explanation": "MyBatis addCriterion calls", "confidence": "high"}
+{"feat": "30-F373736", "explanation": "Android navigation drawer", "confidence": "high"}
+{"feat": "30-F382431", "explanation": "JavaDoc comment asterisks", "confidence": "high"}
+{"feat": "30-F373904", "explanation": "JavaFX scene imports", "confidence": "high"}
+{"feat": "30-F375335", "explanation": "Android GPS location code", "confidence": "high"}
+{"feat": "30-F378144", "explanation": "Android Activity imports", "confidence": "high"}
+{"feat": "30-F377529", "explanation": "Android support v4 imports", "confidence": "high"}
+{"feat": "30-F377856", "explanation": "Database save method", "confidence": "high"}
+{"feat": "30-F382632", "explanation": "Android developer documentation URLs", "confidence": "high"}
+{"feat": "30-F382823", "explanation": "Java JWT claims parsing", "confidence": "high"}
+{"feat": "30-F383547", "explanation": "Java Retrofit callback parameter", "confidence": "high"}
+{"feat": "30-F383738", "explanation": "source code identifiers", "confidence": "medium"}
+{"feat": "30-F365420", "explanation": "Java code indentation", "confidence": "high"}
+{"feat": "30-F384163", "explanation": "Java @generated annotations", "confidence": "high"}
+{"feat": "30-F384336", "explanation": "Java null-safe equals", "confidence": "high"}
+{"feat": "30-F384586", "explanation": "Android TypedArray attributes", "confidence": "high"}
+{"feat": "30-F385126", "explanation": "UI empty/error states", "confidence": "medium"}
+{"feat": "30-F385632", "explanation": "decompiled Java code", "confidence": "medium"}
+{"feat": "30-F387077", "explanation": "Android string resources", "confidence": "high"}
+{"feat": "30-F387411", "explanation": "Java HttpServlet imports", "confidence": "high"}
+{"feat": "30-F388492", "explanation": "Android Java imports", "confidence": "medium"}
+{"feat": "30-F390283", "explanation": "JavaFX property imports", "confidence": "high"}
+{"feat": "30-F388794", "explanation": "Java servlet imports", "confidence": "high"}
+{"feat": "30-F390340", "explanation": "Java JVM -XX options", "confidence": "high"}
+{"feat": "30-F391103", "explanation": "numeric literals in code", "confidence": "medium"}
+{"feat": "30-F391832", "explanation": "boilerplate code comments", "confidence": "medium"}
+{"feat": "30-F392768", "explanation": "JNI native method declarations", "confidence": "high"}
+{"feat": "30-F393452", "explanation": "Factory Method pattern", "confidence": "high"}
+{"feat": "30-F373041", "explanation": "Java object references", "confidence": "high"}
+{"feat": "30-F393463", "explanation": "Android Loader imports", "confidence": "high"}
+{"feat": "30-F393697", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F393869", "explanation": "Java constructor opening brace", "confidence": "high"}
+{"feat": "30-F380426", "explanation": "Java interview tutorials", "confidence": "medium"}
+{"feat": "30-F394693", "explanation": "Java Minecraft modding code", "confidence": "medium"}
+{"feat": "30-F395006", "explanation": "JDBC driver configuration", "confidence": "high"}
+{"feat": "30-F395386", "explanation": "IDE template comment", "confidence": "high"}
+{"feat": "30-F395130", "explanation": "Java JSR identifiers", "confidence": "high"}
+{"feat": "30-F400807", "explanation": "Minecraft Player class", "confidence": "high"}
+{"feat": "30-F396288", "explanation": "GUI layout dimensions", "confidence": "medium"}
+{"feat": "30-F396471", "explanation": "Java Executors import", "confidence": "high"}
+{"feat": "30-F401217", "explanation": "Java persistence annotations", "confidence": "high"}
+{"feat": "30-F290757", "explanation": "Java programming coursework", "confidence": "medium"}
+{"feat": "30-F398501", "explanation": "Android root access", "confidence": "high"}
+{"feat": "30-F398782", "explanation": "code indentation", "confidence": "high"}
+{"feat": "30-F399246", "explanation": "Java package .core", "confidence": "high"}
+{"feat": "30-F400169", "explanation": "Selenium WebDriver imports", "confidence": "high"}
+{"feat": "30-F400320", "explanation": "Java FileNotFoundException imports", "confidence": "high"}
+{"feat": "30-F400992", "explanation": "Map key parameter", "confidence": "high"}
+{"feat": "30-F401947", "explanation": "Java Lombok imports", "confidence": "high"}
+{"feat": "30-F294265", "explanation": "Java setAccessible true", "confidence": "high"}
+{"feat": "30-F402885", "explanation": "Hadoop data partitioning", "confidence": "medium"}
+{"feat": "30-F403916", "explanation": "Java Swing dialogs", "confidence": "high"}
+{"feat": "30-F403969", "explanation": "HTTP header setting", "confidence": "high"}
+{"feat": "30-F404046", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F405098", "explanation": "Spring MockMvc jsonPath assertions", "confidence": "high"}
+{"feat": "30-F404513", "explanation": "Java toString concatenation", "confidence": "high"}
+{"feat": "30-F405400", "explanation": "Android menu inflation", "confidence": "high"}
+{"feat": "30-F405109", "explanation": "Java Scanner import", "confidence": "high"}
+{"feat": "30-F405494", "explanation": "Java Scanner variable", "confidence": "high"}
+{"feat": "30-F405557", "explanation": "Java key event handling", "confidence": "high"}
+{"feat": "30-F405597", "explanation": "random number generation", "confidence": "medium"}
+{"feat": "30-F405686", "explanation": "Java add method calls", "confidence": "medium"}
+{"feat": "30-F406251", "explanation": "Spring Security antMatchers", "confidence": "high"}
+{"feat": "30-F405831", "explanation": "Android View constructors", "confidence": "high"}
+{"feat": "30-F406290", "explanation": "Java author annotation", "confidence": "high"}
+{"feat": "30-F406370", "explanation": "Vert.x Java framework", "confidence": "high"}
+{"feat": "30-F407012", "explanation": "Spring Framework imports", "confidence": "high"}
+{"feat": "30-F407077", "explanation": "Spring HTTP imports", "confidence": "high"}
+{"feat": "30-F408893", "explanation": "Say space", "confidence": "medium"}
+{"feat": "30-F407523", "explanation": "Java Spring Boot main", "confidence": "high"}
+{"feat": "30-F408350", "explanation": "Java variables", "confidence": "medium"}
+{"feat": "30-F409489", "explanation": "Java web application code", "confidence": "high"}
+{"feat": "30-F410119", "explanation": "Java ViewHolder instantiation", "confidence": "high"}
+{"feat": "30-F409833", "explanation": "Java Swing imports", "confidence": "high"}
+{"feat": "30-F410952", "explanation": "Java exception variable", "confidence": "high"}
+{"feat": "30-F412046", "explanation": "Java method calls", "confidence": "medium"}
+{"feat": "30-F412301", "explanation": "Java CollectionUtils imports", "confidence": "high"}
+{"feat": "30-F412464", "explanation": "Java zero initialization", "confidence": "medium"}
+{"feat": "30-F413464", "explanation": "memory configuration", "confidence": "high"}
+{"feat": "30-F414387", "explanation": "JUnit Rule annotations", "confidence": "high"}
+{"feat": "30-F414001", "explanation": "Java reflection Method", "confidence": "high"}
+{"feat": "30-F414029", "explanation": "JDBC generated keys", "confidence": "high"}
+{"feat": "30-F415975", "explanation": "Java catch clause", "confidence": "medium"}
+{"feat": "30-F414600", "explanation": "main function signature", "confidence": "high"}
+{"feat": "30-F415421", "explanation": "Database resource closing", "confidence": "medium"}
+{"feat": "30-F414728", "explanation": "Java GUI layout code", "confidence": "high"}
+{"feat": "30-F415480", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F415712", "explanation": "Java == vs equals", "confidence": "high"}
+{"feat": "30-F416949", "explanation": "Android resource references", "confidence": "high"}
+{"feat": "30-F416162", "explanation": "Java DataSource configuration", "confidence": "high"}
+{"feat": "30-F416003", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F417565", "explanation": "Java/Android development", "confidence": "medium"}
+{"feat": "30-F318906", "explanation": "Java override methods", "confidence": "high"}
+{"feat": "30-F417949", "explanation": "Java setter methods", "confidence": "high"}
+{"feat": "30-F417985", "explanation": "JCA resource adapters", "confidence": "medium"}
+{"feat": "30-F418886", "explanation": "Java list model methods", "confidence": "medium"}
+{"feat": "30-F419813", "explanation": "programming code snippets", "confidence": "medium"}
+{"feat": "30-F420089", "explanation": "Java NIO channels", "confidence": "high"}
+{"feat": "30-F419239", "explanation": "software API references", "confidence": "medium"}
+{"feat": "30-F421332", "explanation": "Android menu boilerplate", "confidence": "medium"}
+{"feat": "30-F421638", "explanation": "Java programming content", "confidence": "medium"}
+{"feat": "30-F422686", "explanation": "Java persistence dependencies", "confidence": "medium"}
+{"feat": "30-F420970", "explanation": "Android Intent class", "confidence": "high"}
+{"feat": "30-F425524", "explanation": "Private no-argument constructors", "confidence": "high"}
+{"feat": "30-F423313", "explanation": "array sorting algorithm code", "confidence": "medium"}
+{"feat": "30-F426923", "explanation": "Java reflection fields", "confidence": "high"}
+{"feat": "30-F427058", "explanation": "Java Swing layout dimensions", "confidence": "medium"}
+{"feat": "30-F424395", "explanation": "finally blocks", "confidence": "high"}
+{"feat": "30-F425424", "explanation": "PascalCase code identifiers", "confidence": "medium"}
+{"feat": "30-F427767", "explanation": "Minecraft enchantments", "confidence": "high"}
+{"feat": "30-F427158", "explanation": "Google Play Services imports", "confidence": "high"}
+{"feat": "30-F427286", "explanation": "Android Window imports", "confidence": "medium"}
+{"feat": "30-F427742", "explanation": "Minecraft food items", "confidence": "medium"}
+{"feat": "30-F427872", "explanation": "Android Glide.with calls", "confidence": "high"}
+{"feat": "30-F428995", "explanation": "Boolean return statements", "confidence": "high"}
+{"feat": "30-F432868", "explanation": "JDBC connection statements", "confidence": "medium"}
+{"feat": "30-F327714", "explanation": "Java programming", "confidence": "medium"}
+{"feat": "30-F428821", "explanation": "Java class boilerplate", "confidence": "medium"}
+{"feat": "30-F433585", "explanation": "Java data types", "confidence": "medium"}
+{"feat": "30-F428931", "explanation": "Java logger initialization", "confidence": "high"}
+{"feat": "30-F430179", "explanation": "Programming how-to titles", "confidence": "medium"}
+{"feat": "30-F430691", "explanation": "Minecraft crafting recipes", "confidence": "medium"}
+{"feat": "30-F432697", "explanation": "Android Java import statements", "confidence": "high"}
+{"feat": "30-F435307", "explanation": "Minecraft Java modding APIs", "confidence": "high"}
+{"feat": "30-F434401", "explanation": "Android getContext calls", "confidence": "high"}
+{"feat": "30-F433156", "explanation": "Google Maps model imports", "confidence": "high"}
+{"feat": "30-F436778", "explanation": "Java exception handling", "confidence": "medium"}
+{"feat": "30-F434647", "explanation": "Don't Say class", "confidence": "high"}
+{"feat": "30-F435323", "explanation": "Android BroadcastReceiver imports", "confidence": "high"}
+{"feat": "30-F434626", "explanation": "Java class declarations", "confidence": "high"}
+{"feat": "30-F436621", "explanation": "generated Java XML code", "confidence": "high"}
+{"feat": "30-F436134", "explanation": "Java stack traces", "confidence": "medium"}
+{"feat": "30-F437056", "explanation": "Java Hashtable imports", "confidence": "high"}
+{"feat": "30-F437148", "explanation": "Minecraft GUI code", "confidence": "high"}
+{"feat": "30-F438354", "explanation": "Java servlet doFilter call", "confidence": "high"}
+{"feat": "30-F439140", "explanation": "Java hashCode implementation", "confidence": "high"}
+{"feat": "30-F332395", "explanation": "Spring path variables", "confidence": "high"}
+{"feat": "30-F421738", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F441497", "explanation": "Java package imports", "confidence": "medium"}
+{"feat": "30-F439165", "explanation": "XML encoding declaration", "confidence": "high"}
+{"feat": "30-F440018", "explanation": "Java @Override methods", "confidence": "high"}
+{"feat": "30-F439518", "explanation": "WEB-INF paths", "confidence": "high"}
+{"feat": "30-F439868", "explanation": "JavaFX scene imports", "confidence": "high"}
+{"feat": "30-F440999", "explanation": "Java import statements", "confidence": "medium"}
+{"feat": "30-F440561", "explanation": "Android fragment layout inflation", "confidence": "high"}
+{"feat": "30-F439448", "explanation": "Spring Java imports", "confidence": "high"}
+{"feat": "30-F443393", "explanation": "JavaDoc timestamp header", "confidence": "high"}
+{"feat": "30-F440645", "explanation": "Java Reader/Writer I/O", "confidence": "high"}
+{"feat": "30-F445412", "explanation": "Minecraft Entity imports", "confidence": "high"}
+{"feat": "30-F441796", "explanation": "Java method opening brace", "confidence": "high"}
+{"feat": "30-F442679", "explanation": "Java org imports", "confidence": "high"}
+{"feat": "30-F444818", "explanation": "Java programming", "confidence": "high"}
+{"feat": "30-F447062", "explanation": "Android WiFiManager code", "confidence": "high"}
+{"feat": "30-F447215", "explanation": "String concatenation in toString", "confidence": "high"}
+{"feat": "30-F447672", "explanation": "Android Typeface import", "confidence": "high"}
+{"feat": "30-F447280", "explanation": "Hamcrest Java assertions", "confidence": "high"}
+{"feat": "30-F450099", "explanation": "Java author comments", "confidence": "high"}
+{"feat": "30-F449162", "explanation": "Minecraft redstone automation", "confidence": "medium"}
+{"feat": "30-F450209", "explanation": "JavaDoc comment start", "confidence": "high"}
+{"feat": "30-F451580", "explanation": "Java block comment closing", "confidence": "medium"}
+{"feat": "30-F455500", "explanation": "StringBuilder construction", "confidence": "high"}
+{"feat": "30-F451662", "explanation": "Java Android imports", "confidence": "high"}
+{"feat": "30-F451894", "explanation": "Java SQL string assignment", "confidence": "high"}
+{"feat": "30-F452463", "explanation": "Swagger API annotations", "confidence": "high"}
+{"feat": "30-F453564", "explanation": "Double opening parentheses", "confidence": "high"}
+{"feat": "30-F454085", "explanation": "Hibernate openSession calls", "confidence": "high"}
+{"feat": "30-F454067", "explanation": "Android activity result handling", "confidence": "high"}
+{"feat": "30-F454787", "explanation": "Java generic type parameter", "confidence": "high"}
+{"feat": "30-F456530", "explanation": "Java method declarations", "confidence": "medium"}
+{"feat": "30-F457916", "explanation": "Java generic List types", "confidence": "high"}
+{"feat": "30-F458361", "explanation": "Java Swing add calls", "confidence": "medium"}
+{"feat": "30-F458530", "explanation": "Java static method declarations", "confidence": "high"}
+{"feat": "30-F458551", "explanation": "Java generic array allocation", "confidence": "high"}
+{"feat": "30-F458579", "explanation": "Say launch", "confidence": "low"}
+{"feat": "30-F459044", "explanation": "Android MotionEvent getAction", "confidence": "high"}
+{"feat": "30-F459457", "explanation": "ORMLite database DAO code", "confidence": "high"}
+{"feat": "30-F459315", "explanation": "Java getter return types", "confidence": "medium"}
+{"feat": "30-F459639", "explanation": "Java call terminator", "confidence": "medium"}
+{"feat": "30-F444082", "explanation": "Java class inheritance", "confidence": "high"}
+{"feat": "30-F462005", "explanation": "Spring Framework imports", "confidence": "high"}
+{"feat": "30-F460056", "explanation": "Minecraft mod Java APIs", "confidence": "medium"}
+{"feat": "30-F462989", "explanation": "Java Swing menus", "confidence": "high"}
+{"feat": "30-F460941", "explanation": "Java file streams", "confidence": "high"}
+{"feat": "30-F448976", "explanation": "Java web framework imports", "confidence": "medium"}
+{"feat": "30-F461000", "explanation": "Java opening braces", "confidence": "medium"}
+{"feat": "30-F461780", "explanation": "GUI button click handlers", "confidence": "high"}
+{"feat": "30-F461087", "explanation": "Java CriteriaBuilder imports", "confidence": "high"}
+{"feat": "30-F462182", "explanation": "Java annotation parameters", "confidence": "medium"}
+{"feat": "30-F465583", "explanation": "Java getter/setter opening brace", "confidence": "high"}
+{"feat": "30-F468213", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F467440", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F467915", "explanation": "PowerMock / Mockito testing", "confidence": "high"}
+{"feat": "30-F469996", "explanation": "Android back-button exit", "confidence": "high"}
+{"feat": "30-F468910", "explanation": "Enterprise Java integration code", "confidence": "medium"}
+{"feat": "30-F469608", "explanation": "source code boilerplate", "confidence": "medium"}
+{"feat": "30-F470517", "explanation": "Java Date instantiation", "confidence": "medium"}
+{"feat": "30-F471302", "explanation": "Java class declaration", "confidence": "high"}
+{"feat": "30-F471889", "explanation": "Java public declarations", "confidence": "high"}
+{"feat": "30-F477891", "explanation": "SQLite selection arguments", "confidence": "high"}
+{"feat": "30-F458020", "explanation": "Java Collectors.toMap/toSet", "confidence": "high"}
+{"feat": "30-F474362", "explanation": "Java org imports", "confidence": "high"}
+{"feat": "30-F473335", "explanation": "Java hashCode initialization", "confidence": "high"}
+{"feat": "30-F474780", "explanation": "Sony Xperia phones", "confidence": "medium"}
+{"feat": "30-F475268", "explanation": "Java public method declarations", "confidence": "medium"}
+{"feat": "30-F472158", "explanation": "Android click listener code", "confidence": "high"}
+{"feat": "30-F477642", "explanation": "Java SWT UI code", "confidence": "medium"}
+{"feat": "30-F477824", "explanation": "Java this field assignment", "confidence": "high"}
+{"feat": "30-F479688", "explanation": "Integer type declarations", "confidence": "high"}
+{"feat": "30-F479206", "explanation": "Java Map usage", "confidence": "medium"}
+{"feat": "30-F479153", "explanation": "Java listener callbacks", "confidence": "high"}
+{"feat": "30-F478234", "explanation": "Java XML DOM imports", "confidence": "high"}
+{"feat": "30-F477930", "explanation": "Java TODO auto-generated comments", "confidence": "high"}
+{"feat": "30-F479600", "explanation": "Java logging imports", "confidence": "high"}
+{"feat": "30-F484887", "explanation": "Java Swing UI components", "confidence": "high"}
+{"feat": "30-F479722", "explanation": "Java runtime exceptions", "confidence": "high"}
+{"feat": "30-F481314", "explanation": "Java bytecode version header", "confidence": "high"}
+{"feat": "30-F486846", "explanation": "Java UI styling", "confidence": "high"}
+{"feat": "30-F487239", "explanation": "JPA annotation name attribute", "confidence": "high"}
+{"feat": "30-F483602", "explanation": "Code statement syntax", "confidence": "medium"}
+{"feat": "30-F485049", "explanation": "Selenium FindBy annotations", "confidence": "high"}
+{"feat": "30-F485505", "explanation": "Java getter return types", "confidence": "medium"}
+{"feat": "30-F486188", "explanation": "Java Pair imports", "confidence": "high"}
+{"feat": "30-F486760", "explanation": "JavaDoc comment closure", "confidence": "high"}
+{"feat": "30-F488019", "explanation": "Java servlet init methods", "confidence": "high"}
+{"feat": "30-F489564", "explanation": "Java ResourceBundle imports", "confidence": "high"}
+{"feat": "30-F490270", "explanation": "Java JSON objects", "confidence": "high"}
+{"feat": "30-F491295", "explanation": "Google Play Services API", "confidence": "medium"}
+{"feat": "30-F491370", "explanation": "Android device administrator", "confidence": "high"}
+{"feat": "30-F493343", "explanation": "Java Swing GroupLayout", "confidence": "high"}
+{"feat": "30-F491601", "explanation": "Java Swing JLabel variables", "confidence": "medium"}
+{"feat": "30-F493027", "explanation": "AndroidX NonNull imports", "confidence": "high"}
+{"feat": "30-F494372", "explanation": "Java @Override annotation", "confidence": "high"}
+{"feat": "30-F494875", "explanation": "Android FragmentManager", "confidence": "high"}
+{"feat": "30-F495449", "explanation": "Obfuscated Java identifiers", "confidence": "medium"}
+{"feat": "30-F479682", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F495518", "explanation": "Java generic type brackets", "confidence": "high"}
+{"feat": "30-F495562", "explanation": "Java/Spring annotations", "confidence": "medium"}
+{"feat": "30-F497551", "explanation": "software source code", "confidence": "high"}
+{"feat": "30-F498700", "explanation": "Java package name segments", "confidence": "high"}
+{"feat": "30-F499151", "explanation": "Android view ID prefixes", "confidence": "high"}
+{"feat": "30-F495906", "explanation": "Java file I/O", "confidence": "high"}
+{"feat": "30-F496591", "explanation": "String comparison methods", "confidence": "high"}
+{"feat": "30-F497976", "explanation": "Android onCreate override", "confidence": "high"}
+{"feat": "30-F499125", "explanation": "Android ArrayAdapter classes", "confidence": "high"}
+{"feat": "30-F499915", "explanation": "Android onCreate method", "confidence": "high"}
+{"feat": "30-F501765", "explanation": "Java linked-list node fields", "confidence": "high"}
+{"feat": "30-F378213", "explanation": "Telegram package domains", "confidence": "medium"}
+{"feat": "30-F500632", "explanation": "Hibernate GenericGenerator annotations", "confidence": "high"}
+{"feat": "30-F505570", "explanation": "Java hashCode prime 31", "confidence": "medium"}
+{"feat": "30-F501725", "explanation": "Java LinkedList imports", "confidence": "high"}
+{"feat": "30-F502901", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F504024", "explanation": "Java Swing addGap spacing", "confidence": "high"}
+{"feat": "30-F505835", "explanation": "Android design widget imports", "confidence": "high"}
+{"feat": "30-F506290", "explanation": "Java OOP concepts", "confidence": "medium"}
+{"feat": "30-F507469", "explanation": "Spring annotation configuration", "confidence": "high"}
+{"feat": "30-F507734", "explanation": "Java util imports", "confidence": "high"}
+{"feat": "30-F507891", "explanation": "Java implements listeners", "confidence": "high"}
+{"feat": "30-F508232", "explanation": "Java @Column annotation", "confidence": "high"}
+{"feat": "30-F508841", "explanation": "Java package .data", "confidence": "high"}
+{"feat": "30-F509122", "explanation": "JavaFX collections imports", "confidence": "high"}
+{"feat": "30-F509205", "explanation": "Java/PHP version numbers", "confidence": "medium"}
+{"feat": "30-F509268", "explanation": "programming code snippets", "confidence": "medium"}
+{"feat": "30-F509330", "explanation": "Android platform", "confidence": "high"}
+{"feat": "30-F510752", "explanation": "Java array default initialization", "confidence": "medium"}
+{"feat": "30-F509675", "explanation": "Android AlarmManager imports", "confidence": "high"}
+{"feat": "30-F510940", "explanation": "Java method declarations", "confidence": "high"}
+{"feat": "30-F512345", "explanation": "Android Fragment dialogs", "confidence": "high"}
+{"feat": "30-F512669", "explanation": "Android ViewHolder code", "confidence": "high"}
+{"feat": "30-F512447", "explanation": "Spring Framework", "confidence": "high"}
+{"feat": "30-F513228", "explanation": "Android onMeasure MeasureSpec", "confidence": "high"}
+{"feat": "30-F514156", "explanation": "programming return values", "confidence": "high"}
+{"feat": "30-F514220", "explanation": "AndroidX annotation imports", "confidence": "high"}
+{"feat": "30-F507455", "explanation": "JavaFX ObservableList usage", "confidence": "medium"}
+{"feat": "30-F506474", "explanation": "Java window events", "confidence": "high"}
+{"feat": "30-F514733", "explanation": "code indentation", "confidence": "medium"}
+{"feat": "30-F517668", "explanation": "Java CamelCase identifiers", "confidence": "medium"}
+{"feat": "30-F518321", "explanation": "Java date formatting", "confidence": "high"}
+{"feat": "30-F518503", "explanation": "Object-oriented code", "confidence": "medium"}
+{"feat": "30-F518716", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F519037", "explanation": "Java HttpServlet inheritance", "confidence": "high"}
+{"feat": "30-F520246", "explanation": "Android permission checks", "confidence": "high"}
+{"feat": "30-F520401", "explanation": "Lazy initialization null checks", "confidence": "high"}
+{"feat": "30-F522272", "explanation": "Android profiling tools", "confidence": "medium"}
+{"feat": "30-F523679", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F523748", "explanation": "Java import package prefixes", "confidence": "high"}
+{"feat": "30-F524040", "explanation": "Don't Say blockchain", "confidence": "medium"}
+{"feat": "30-F525976", "explanation": "Android ContentValues imports", "confidence": "high"}
+{"feat": "30-F526261", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F514166", "explanation": "Java exception logging null", "confidence": "high"}
+{"feat": "30-F526533", "explanation": "Base64 encoding/decoding", "confidence": "high"}
+{"feat": "30-F527187", "explanation": "Handler.postDelayed usage", "confidence": "high"}
+{"feat": "30-F526687", "explanation": "Java net imports", "confidence": "high"}
+{"feat": "30-F526900", "explanation": "Java stream mark/reset", "confidence": "high"}
+{"feat": "30-F528389", "explanation": "Android app code", "confidence": "medium"}
+{"feat": "30-F527078", "explanation": "TestNG Java imports", "confidence": "high"}
+{"feat": "30-F528846", "explanation": "Android Fragment Javadoc template", "confidence": "high"}
+{"feat": "30-F527875", "explanation": "Java SE 8 documentation URLs", "confidence": "high"}
+{"feat": "30-F528530", "explanation": "Code statement terminators", "confidence": "high"}
+{"feat": "30-F529343", "explanation": "Java generic async calls", "confidence": "medium"}
+{"feat": "30-F528696", "explanation": "Java exception declarations", "confidence": "high"}
+{"feat": "30-F522448", "explanation": "Java programming", "confidence": "medium"}
+{"feat": "30-F528863", "explanation": "Java identifiers starting In", "confidence": "medium"}
+{"feat": "30-F529997", "explanation": "Java ArrayList import", "confidence": "high"}
+{"feat": "30-F428438", "explanation": "Object field assignment", "confidence": "high"}
+{"feat": "30-F524641", "explanation": "Java SQL imports", "confidence": "high"}
+{"feat": "30-F530060", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F533672", "explanation": "Settings menu navigation", "confidence": "high"}
+{"feat": "30-F530687", "explanation": "Identifier id fields", "confidence": "high"}
+{"feat": "30-F531549", "explanation": "Apache JIRA issue comments", "confidence": "medium"}
+{"feat": "30-F534839", "explanation": "JPA join annotations", "confidence": "medium"}
+{"feat": "30-F535170", "explanation": "Android menu inflation boilerplate", "confidence": "high"}
+{"feat": "30-F536169", "explanation": "MIME boundary identifiers", "confidence": "medium"}
+{"feat": "30-F536327", "explanation": "Android ViewHolder classes", "confidence": "high"}
+{"feat": "30-F538127", "explanation": "Java servlet imports", "confidence": "high"}
+{"feat": "30-F536564", "explanation": "Java generics", "confidence": "high"}
+{"feat": "30-F537843", "explanation": "Exception catch variable", "confidence": "high"}
+{"feat": "30-F537555", "explanation": "C# System.Threading imports", "confidence": "high"}
+{"feat": "30-F538804", "explanation": "Java Node data structures", "confidence": "high"}
+{"feat": "30-F538362", "explanation": "Code indentation", "confidence": "high"}
+{"feat": "30-F540080", "explanation": "Android widget imports", "confidence": "high"}
+{"feat": "30-F539790", "explanation": "code identifiers", "confidence": "medium"}
+{"feat": "30-F541969", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F539923", "explanation": "Java Swing GUI code", "confidence": "high"}
+{"feat": "30-F542550", "explanation": "Java date/time APIs", "confidence": "high"}
+{"feat": "30-F541349", "explanation": "Java static declarations", "confidence": "high"}
+{"feat": "30-F543924", "explanation": "Java programming contexts", "confidence": "medium"}
+{"feat": "30-F543069", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F544906", "explanation": "Java Swing instantiation", "confidence": "high"}
+{"feat": "30-F545249", "explanation": "Java int parameters", "confidence": "high"}
+{"feat": "30-F544919", "explanation": "NetBeans Java event handlers", "confidence": "medium"}
+{"feat": "30-F546207", "explanation": "JavaFX FXML annotations", "confidence": "high"}
+{"feat": "30-F545332", "explanation": "Java constant assignment", "confidence": "high"}
+{"feat": "30-F546824", "explanation": "C# System.Threading.Tasks import", "confidence": "high"}
+{"feat": "30-F548114", "explanation": "Java UI layout sizing", "confidence": "medium"}
+{"feat": "30-F547387", "explanation": "CGLIB Java proxy library", "confidence": "high"}
+{"feat": "30-F548132", "explanation": "Apache POI imports", "confidence": "medium"}
+{"feat": "30-F548655", "explanation": "Java main String args", "confidence": "high"}
+{"feat": "30-F548713", "explanation": "Android SharedPreferences usage", "confidence": "high"}
+{"feat": "30-F549487", "explanation": "Java game graphics", "confidence": "medium"}
+{"feat": "30-F550392", "explanation": "Java SQL createStatement", "confidence": "high"}
+{"feat": "30-F551065", "explanation": "Java random index generation", "confidence": "high"}
+{"feat": "30-F551236", "explanation": "Java Swing GroupLayout", "confidence": "high"}
+{"feat": "30-F553544", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F553721", "explanation": "Java reflection method calls", "confidence": "medium"}
+{"feat": "30-F554922", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F554387", "explanation": "Android Parcel API", "confidence": "high"}
+{"feat": "30-F554523", "explanation": "Java anonymous click listener", "confidence": "high"}
+{"feat": "30-F554879", "explanation": "Java RemoteException imports", "confidence": "high"}
+{"feat": "30-F470759", "explanation": "Java public method declarations", "confidence": "high"}
+{"feat": "30-F555397", "explanation": "Java pagination Page", "confidence": "high"}
+{"feat": "30-F556841", "explanation": "Java getter/setter indentation", "confidence": "high"}
+{"feat": "30-F556006", "explanation": "Android Toast duration constants", "confidence": "high"}
+{"feat": "30-F557173", "explanation": "NetBeans editor-fold comments", "confidence": "medium"}
+{"feat": "30-F557731", "explanation": "Spring messaging listeners", "confidence": "medium"}
+{"feat": "30-F558445", "explanation": "Java anonymous class syntax", "confidence": "high"}
+{"feat": "30-F479546", "explanation": "Java Mapper imports", "confidence": "high"}
+{"feat": "30-F519112", "explanation": "Android dp-pixel conversion", "confidence": "High"}
+{"feat": "30-F480529", "explanation": "Java collections code", "confidence": "medium"}
+{"feat": "30-F559440", "explanation": "character manipulation code", "confidence": "medium"}
+{"feat": "30-F559837", "explanation": "Java REST media annotations", "confidence": "high"}
+{"feat": "30-F559988", "explanation": "Bukkit plugin configuration", "confidence": "medium"}
+{"feat": "30-F561318", "explanation": "Android Gravity imports", "confidence": "high"}
+{"feat": "30-F561795", "explanation": "Spring GrantedAuthority imports", "confidence": "high"}
+{"feat": "30-F562909", "explanation": "Image thumbnail code", "confidence": "medium"}
+{"feat": "30-F491046", "explanation": "Android layout references", "confidence": "high"}
+{"feat": "30-F563259", "explanation": "Android onCreate methods", "confidence": "high"}
+{"feat": "30-F566179", "explanation": "Code line comments", "confidence": "high"}
+{"feat": "30-F563639", "explanation": "Java collection size", "confidence": "high"}
+{"feat": "30-F564364", "explanation": "Android ARM architectures", "confidence": "high"}
+{"feat": "30-F565906", "explanation": "Java @see references", "confidence": "high"}
+{"feat": "30-F567100", "explanation": "Java camelCase identifiers", "confidence": "medium"}
+{"feat": "30-F567694", "explanation": "Android activity transition animations", "confidence": "high"}
+{"feat": "30-F568291", "explanation": "Java Swing GroupLayout", "confidence": "high"}
+{"feat": "30-F499062", "explanation": "Android Activity class", "confidence": "high"}
+{"feat": "30-F568499", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F568731", "explanation": "Android action bar boilerplate", "confidence": "high"}
+{"feat": "30-F570305", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F570786", "explanation": "Java GUI identifiers", "confidence": "medium"}
+{"feat": "30-F571369", "explanation": "Javadoc leading asterisk", "confidence": "high"}
+{"feat": "30-F571592", "explanation": "Java annotations", "confidence": "high"}
+{"feat": "30-F572380", "explanation": "Java Android source code", "confidence": "high"}
+{"feat": "30-F500299", "explanation": "setDisplayHomeAsUpEnabled calls", "confidence": "high"}
+{"feat": "30-F573201", "explanation": "Java Font constructor", "confidence": "high"}
+{"feat": "30-F573408", "explanation": "JavaDoc annotation tags", "confidence": "high"}
+{"feat": "30-F574824", "explanation": "Java test assertions", "confidence": "high"}
+{"feat": "30-F573423", "explanation": "Java util imports", "confidence": "high"}
+{"feat": "30-F579165", "explanation": "Java catch blocks", "confidence": "high"}
+{"feat": "30-F576514", "explanation": "JSP web technology", "confidence": "medium"}
+{"feat": "30-F576915", "explanation": "Java placeholder arguments", "confidence": "high"}
+{"feat": "30-F563615", "explanation": "Arquillian Java framework", "confidence": "medium"}
+{"feat": "30-F577276", "explanation": "Android UI development", "confidence": "medium"}
+{"feat": "30-F578146", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F579227", "explanation": "Java object casting", "confidence": "medium"}
+{"feat": "30-F579653", "explanation": "Spring RedirectAttributes", "confidence": "high"}
+{"feat": "30-F582310", "explanation": "Java annotation arguments", "confidence": "medium"}
+{"feat": "30-F582391", "explanation": "Java Retrofit client code", "confidence": "high"}
+{"feat": "30-F580453", "explanation": "Javadoc comment asterisks", "confidence": "high"}
+{"feat": "30-F582651", "explanation": "Android Animation API", "confidence": "high"}
+{"feat": "30-F584349", "explanation": "Java instanceof checks", "confidence": "high"}
+{"feat": "30-F584200", "explanation": "Java this assignments", "confidence": "high"}
+{"feat": "30-F584768", "explanation": "Java setLocationRelativeTo", "confidence": "high"}
+{"feat": "30-F585401", "explanation": "Java getter/setter methods", "confidence": "high"}
+{"feat": "30-F587746", "explanation": "Jackson core imports", "confidence": "high"}
+{"feat": "30-F587817", "explanation": "Java equals method comparisons", "confidence": "high"}
+{"feat": "30-F586213", "explanation": "Javadoc author annotations", "confidence": "high"}
+{"feat": "30-F392314", "explanation": "pseudorandom number generation", "confidence": "medium"}
+{"feat": "30-F586197", "explanation": "Un- prefix", "confidence": "high"}
+{"feat": "30-F585589", "explanation": "Android Manager classes", "confidence": "medium"}
+{"feat": "30-F587467", "explanation": "Java byte arrays", "confidence": "high"}
+{"feat": "30-F512789", "explanation": "Android onActivityResult data", "confidence": "high"}
+{"feat": "30-F588996", "explanation": "Java wildcard imports", "confidence": "high"}
+{"feat": "30-F588760", "explanation": "Java equals return checks", "confidence": "high"}
+{"feat": "30-F589334", "explanation": "Java Spring class names", "confidence": "medium"}
+{"feat": "30-F591260", "explanation": "Java closing brace", "confidence": "medium"}
+{"feat": "30-F589345", "explanation": "Java PrintWriter import", "confidence": "high"}
+{"feat": "30-F591658", "explanation": "Java String declarations", "confidence": "high"}
+{"feat": "30-F592210", "explanation": "Android compatibility code", "confidence": "medium"}
+{"feat": "30-F590867", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F575273", "explanation": "JasperReports Java code", "confidence": "high"}
+{"feat": "30-F592971", "explanation": "Java package imports", "confidence": "medium"}
+{"feat": "30-F592719", "explanation": "Java Calendar.getInstance", "confidence": "high"}
+{"feat": "30-F593379", "explanation": "JavaFX Stage class", "confidence": "high"}
+{"feat": "30-F593560", "explanation": "Java public declarations", "confidence": "high"}
+{"feat": "30-F593762", "explanation": "String imports in code", "confidence": "medium"}
+{"feat": "30-F594165", "explanation": "Android permission approval", "confidence": "medium"}
+{"feat": "30-F594205", "explanation": "Java Swing GroupLayout", "confidence": "high"}
+{"feat": "30-F595881", "explanation": "SQLiteOpenHelper Java class", "confidence": "high"}
+{"feat": "30-F596037", "explanation": "Java user.dir property", "confidence": "high"}
+{"feat": "30-F596396", "explanation": "mobile devices", "confidence": "high"}
+{"feat": "30-F596842", "explanation": "Android progress dialog dismissal", "confidence": "high"}
+{"feat": "30-F597636", "explanation": "Created by code comments", "confidence": "high"}
+{"feat": "30-F598502", "explanation": "Java code with Chinese comments", "confidence": "medium"}
+{"feat": "30-F601399", "explanation": "Java persistence imports", "confidence": "high"}
+{"feat": "30-F602310", "explanation": "Java media player code", "confidence": "medium"}
+{"feat": "30-F602985", "explanation": "Mockito Java imports", "confidence": "high"}
+{"feat": "30-F600830", "explanation": "Java util imports", "confidence": "high"}
+{"feat": "30-F602243", "explanation": "Don't Say XML", "confidence": "high"}
+{"feat": "30-F600834", "explanation": "Java javax imports", "confidence": "high"}
+{"feat": "30-F599844", "explanation": "Copyright notice parentheses", "confidence": "high"}
+{"feat": "30-F602678", "explanation": "Spring bean annotations", "confidence": "high"}
+{"feat": "30-F604424", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F603607", "explanation": "Spring @Service annotation", "confidence": "high"}
+{"feat": "30-F604328", "explanation": "Java platform independence", "confidence": "high"}
+{"feat": "30-F605961", "explanation": "Java getter calls", "confidence": "medium"}
+{"feat": "30-F604696", "explanation": "Java catch exception variable", "confidence": "high"}
+{"feat": "30-F605540", "explanation": "JUnit After imports", "confidence": "high"}
+{"feat": "30-F605401", "explanation": "Spring REST HATEOAS imports", "confidence": "high"}
+{"feat": "30-F605921", "explanation": "Java getter-setter fields", "confidence": "medium"}
+{"feat": "30-F606091", "explanation": "code header dates", "confidence": "medium"}
+{"feat": "30-F609572", "explanation": "Java Swing EmptyBorder padding", "confidence": "high"}
+{"feat": "30-F608244", "explanation": "Java programming concepts", "confidence": "medium"}
+{"feat": "30-F594030", "explanation": "JavaMail API", "confidence": "medium"}
+{"feat": "30-F609660", "explanation": "Android splash Activity code", "confidence": "medium"}
+{"feat": "30-F610581", "explanation": "Java date imports", "confidence": "high"}
+{"feat": "30-F610762", "explanation": "Android package imports", "confidence": "high"}
+{"feat": "30-F610788", "explanation": "Android OS imports", "confidence": "high"}
+{"feat": "30-F611079", "explanation": "Java servlet PrintWriter out", "confidence": "high"}
+{"feat": "30-F611491", "explanation": "Java catch exception variables", "confidence": "high"}
+{"feat": "30-F611338", "explanation": "programming source code", "confidence": "medium"}
+{"feat": "30-F612015", "explanation": "Java test logging", "confidence": "high"}
+{"feat": "30-F612751", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F612701", "explanation": "JavaDoc comment blocks", "confidence": "high"}
+{"feat": "30-F613076", "explanation": "Java CRUD methods", "confidence": "medium"}
+{"feat": "30-F612905", "explanation": "Android root access", "confidence": "high"}
+{"feat": "30-F615266", "explanation": "Java SSL code", "confidence": "high"}
+{"feat": "30-F614125", "explanation": "Java GUI variables declaration", "confidence": "high"}
+{"feat": "30-F615290", "explanation": "synchronized block syntax", "confidence": "high"}
+{"feat": "30-F615430", "explanation": "IDE template comment", "confidence": "high"}
+{"feat": "30-F618748", "explanation": "Android LayoutInflater service", "confidence": "high"}
+{"feat": "30-F617087", "explanation": "Java logger initialization", "confidence": "high"}
+{"feat": "30-F616941", "explanation": "Java web technologies", "confidence": "high"}
+{"feat": "30-F617624", "explanation": "Java for-loop parenthesis", "confidence": "medium"}
+{"feat": "30-F618381", "explanation": "Java code indentation", "confidence": "medium"}
+{"feat": "30-F530696", "explanation": "software engineering terminology", "confidence": "medium"}
+{"feat": "30-F619039", "explanation": "Java Scanner input", "confidence": "high"}
+{"feat": "30-F618593", "explanation": "Java web application code", "confidence": "medium"}
+{"feat": "30-F618782", "explanation": "Java private methods", "confidence": "high"}
+{"feat": "30-F622790", "explanation": "Spring Autowired fields", "confidence": "high"}
+{"feat": "30-F619696", "explanation": "Spring framework imports", "confidence": "high"}
+{"feat": "30-F621190", "explanation": "TreeNode definition code", "confidence": "high"}
+{"feat": "30-F536328", "explanation": "decompiler rename comments", "confidence": "medium"}
+{"feat": "30-F624546", "explanation": "Android app development", "confidence": "medium"}
+{"feat": "30-F434824", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F620498", "explanation": "FRC robot Java packages", "confidence": "high"}
+{"feat": "30-F621313", "explanation": "Java Options identifiers", "confidence": "medium"}
+{"feat": "30-F621585", "explanation": "URL/path colon syntax", "confidence": "medium"}
+{"feat": "30-F624477", "explanation": "programming code syntax", "confidence": "medium"}
+{"feat": "30-F626503", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F628263", "explanation": "Source code syntax", "confidence": "medium"}
+{"feat": "30-F625246", "explanation": "Minecraft block building", "confidence": "medium"}
+{"feat": "30-F626931", "explanation": "Java org imports", "confidence": "high"}
+{"feat": "30-F627807", "explanation": "Java catch exception clause", "confidence": "high"}
+{"feat": "30-F627543", "explanation": "Java getResourceAsStream", "confidence": "high"}
+{"feat": "30-F627069", "explanation": "Java GUI layout code", "confidence": "medium"}
+{"feat": "30-F627209", "explanation": "UI button code", "confidence": "high"}
+{"feat": "30-F631105", "explanation": "Java code snippets", "confidence": "medium"}
+{"feat": "30-F631648", "explanation": "Java public class declarations", "confidence": "high"}
+{"feat": "30-F633472", "explanation": "Java generic types", "confidence": "high"}
+{"feat": "30-F617572", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F633851", "explanation": "AndroidX imports", "confidence": "high"}
+{"feat": "30-F633437", "explanation": "Javadoc author comments", "confidence": "high"}
+{"feat": "30-F633112", "explanation": "Java charting imports", "confidence": "high"}
+{"feat": "30-F634124", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F631822", "explanation": "Java null inequality check", "confidence": "high"}
+{"feat": "30-F634173", "explanation": "ViewPager scroll callback parameters", "confidence": "high"}
+{"feat": "30-F634844", "explanation": "Java private fields", "confidence": "high"}
+{"feat": "30-F634365", "explanation": "Java import dotted identifiers", "confidence": "medium"}
+{"feat": "30-F637090", "explanation": "Java dependency injection imports", "confidence": "high"}
+{"feat": "30-F635450", "explanation": "Java File API", "confidence": "high"}
+{"feat": "30-F636803", "explanation": "Android LayoutInflater.from", "confidence": "high"}
+{"feat": "30-F636887", "explanation": "Android load-more pagination", "confidence": "medium"}
+{"feat": "30-F638923", "explanation": "Java new allocation", "confidence": "high"}
+{"feat": "30-F640984", "explanation": "Run command in software", "confidence": "high"}
+{"feat": "30-F642223", "explanation": "Java date separator periods", "confidence": "medium"}
+{"feat": "30-F642456", "explanation": "Java HTTP client code", "confidence": "high"}
+{"feat": "30-F644304", "explanation": "Java collection imports", "confidence": "high"}
+{"feat": "30-F642619", "explanation": "JDBC connection strings", "confidence": "high"}
+{"feat": "30-F644602", "explanation": "Java NotFoundException", "confidence": "high"}
+{"feat": "30-F644604", "explanation": "Java JSONException handling", "confidence": "medium"}
+{"feat": "30-F645948", "explanation": "Android BitmapFactory imports", "confidence": "high"}
+{"feat": "30-F548175", "explanation": "Spring ModelAttribute annotations", "confidence": "medium"}
+{"feat": "30-F625678", "explanation": "C-style main method", "confidence": "high"}
+{"feat": "30-F646680", "explanation": "Spring Autowired annotation", "confidence": "high"}
+{"feat": "30-F646057", "explanation": "Java ArrayList import", "confidence": "high"}
+{"feat": "30-F647109", "explanation": "Spring HttpStatus imports", "confidence": "high"}
+{"feat": "30-F647585", "explanation": "Java JDBC variables", "confidence": "medium"}
+{"feat": "30-F631697", "explanation": "Android LayoutInflater usage", "confidence": "high"}
+{"feat": "30-F647750", "explanation": "Soul Sand Valley", "confidence": "medium"}
+{"feat": "30-F648826", "explanation": "Java HashMap imports", "confidence": "high"}
+{"feat": "30-F648651", "explanation": "Parcelable Parcel constructor", "confidence": "high"}
+{"feat": "30-F648763", "explanation": "Java RMI code", "confidence": "medium"}
+{"feat": "30-F650632", "explanation": "Android Context constants", "confidence": "high"}
+{"feat": "30-F650956", "explanation": "Java javax imports", "confidence": "high"}
+{"feat": "30-F651086", "explanation": "Elasticsearch log class name", "confidence": "high"}
+{"feat": "30-F651127", "explanation": "Java HQL DAO methods", "confidence": "high"}
+{"feat": "30-F652852", "explanation": "Java interface implementations", "confidence": "high"}
+{"feat": "30-F652984", "explanation": "Spring Framework imports", "confidence": "high"}
+{"feat": "30-F656773", "explanation": "Java exception documentation", "confidence": "medium"}
+{"feat": "30-F653791", "explanation": "Java public declarations", "confidence": "high"}
+{"feat": "30-F654846", "explanation": "Javadoc comment formatting", "confidence": "medium"}
+{"feat": "30-F656088", "explanation": "Java boolean predicate methods", "confidence": "medium"}
+{"feat": "30-F657505", "explanation": "Java code indentation", "confidence": "high"}
+{"feat": "30-F657386", "explanation": "NetBeans editor-fold comment", "confidence": "medium"}
+{"feat": "30-F657341", "explanation": "Minecraft ResourceLocation imports", "confidence": "high"}
+{"feat": "30-F657468", "explanation": "JPA @Column annotations", "confidence": "high"}
+{"feat": "30-F660185", "explanation": "Java logging imports", "confidence": "high"}
+{"feat": "30-F661618", "explanation": "Java assignment initialization", "confidence": "high"}
+{"feat": "30-F658142", "explanation": "Android Parcelable methods", "confidence": "high"}
+{"feat": "30-F662041", "explanation": "Java JScrollPane usage", "confidence": "high"}
+{"feat": "30-F662538", "explanation": "Java local identifiers", "confidence": "high"}
+{"feat": "30-F662694", "explanation": "ArrayList implementation code", "confidence": "medium"}
+{"feat": "30-F663374", "explanation": "Java GUI font settings", "confidence": "high"}
+{"feat": "30-F664879", "explanation": "Android Java indentation", "confidence": "high"}
+{"feat": "30-F662737", "explanation": "Java Key identifiers", "confidence": "medium"}
+{"feat": "30-F646930", "explanation": "OOP getter/setter code", "confidence": "medium"}
+{"feat": "30-F663425", "explanation": "Android list views", "confidence": "high"}
+{"feat": "30-F664733", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F663073", "explanation": "Java for loop index", "confidence": "high"}
+{"feat": "30-F665305", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F666279", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F666718", "explanation": "Java type casts", "confidence": "high"}
+{"feat": "30-F667462", "explanation": "Java autoboxing", "confidence": "high"}
+{"feat": "30-F669657", "explanation": "Java enum iteration", "confidence": "high"}
+{"feat": "30-F667760", "explanation": "Java/JavaFX source code", "confidence": "medium"}
+{"feat": "30-F671944", "explanation": "Java getter/setter fields", "confidence": "high"}
+{"feat": "30-F668514", "explanation": "Java return new constructor", "confidence": "medium"}
+{"feat": "30-F668669", "explanation": "Coderanch profile metadata", "confidence": "medium"}
+{"feat": "30-F667950", "explanation": "Spring Security authorities", "confidence": "high"}
+{"feat": "30-F670082", "explanation": "JD-Core decompiler footer", "confidence": "high"}
+{"feat": "30-F670755", "explanation": "Android app development", "confidence": "medium"}
+{"feat": "30-F672218", "explanation": "Spring Boot Java imports", "confidence": "high"}
+{"feat": "30-F672844", "explanation": "Android setOnClickListener", "confidence": "high"}
+{"feat": "30-F673409", "explanation": "Minecraft item/block code", "confidence": "high"}
+{"feat": "30-F674151", "explanation": "AndroidManifest parent activity", "confidence": "medium"}
+{"feat": "30-F675838", "explanation": "JPA unique constraints", "confidence": "high"}
+{"feat": "30-F675666", "explanation": "Java implements keyword", "confidence": "high"}
+{"feat": "30-F675473", "explanation": "Java setter assignment", "confidence": "high"}
+{"feat": "30-F553998", "explanation": "Java Android code", "confidence": "medium"}
+{"feat": "30-F565222", "explanation": "Java security vulnerabilities", "confidence": "medium"}
+{"feat": "30-F675880", "explanation": "Android onClick view parameter", "confidence": "high"}
+{"feat": "30-F676460", "explanation": "Android checked-change handler", "confidence": "high"}
+{"feat": "30-F679791", "explanation": "JUnit Before imports", "confidence": "high"}
+{"feat": "30-F677005", "explanation": "Java Thread.sleep", "confidence": "high"}
+{"feat": "30-F677773", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F678746", "explanation": "Java class declaration", "confidence": "high"}
+{"feat": "30-F681150", "explanation": "Java setAttribute calls", "confidence": "high"}
+{"feat": "30-F679251", "explanation": "Minecraft server address field", "confidence": "high"}
+{"feat": "30-F680079", "explanation": "Java for-loop index i", "confidence": "high"}
+{"feat": "30-F679480", "explanation": "Java code formatting", "confidence": "medium"}
+{"feat": "30-F680299", "explanation": "Java getter/setter methods", "confidence": "medium"}
+{"feat": "30-F682897", "explanation": "Java indentation whitespace", "confidence": "high"}
+{"feat": "30-F684761", "explanation": "Java public class syntax", "confidence": "high"}
+{"feat": "30-F670398", "explanation": "Java getter return", "confidence": "high"}
+{"feat": "30-F684886", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F684855", "explanation": "Java adapter variable", "confidence": "high"}
+{"feat": "30-F685287", "explanation": "RxAndroid scheduler imports", "confidence": "high"}
+{"feat": "30-F685317", "explanation": "Kotlin programming", "confidence": "medium"}
+{"feat": "30-F685496", "explanation": "Java package imports", "confidence": "medium"}
+{"feat": "30-F686052", "explanation": "programming code", "confidence": "medium"}
+{"feat": "30-F686789", "explanation": "Java Fibonacci code", "confidence": "high"}
+{"feat": "30-F687490", "explanation": "Minecraft block breaking", "confidence": "medium"}
+{"feat": "30-F687638", "explanation": "Java Spring class annotations", "confidence": "medium"}
+{"feat": "30-F687845", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F687727", "explanation": "Guava/Caffeine caching APIs", "confidence": "high"}
+{"feat": "30-F688391", "explanation": "Selenium WebDriver browser", "confidence": "high"}
+{"feat": "30-F690524", "explanation": "VolleyError exception handling", "confidence": "high"}
+{"feat": "30-F690650", "explanation": "Android onViewCreated method", "confidence": "high"}
+{"feat": "30-F691490", "explanation": "Spring Controller annotations", "confidence": "high"}
+{"feat": "30-F694100", "explanation": "Java drawImage null observer", "confidence": "high"}
+{"feat": "30-F692519", "explanation": "Java public method declarations", "confidence": "high"}
+{"feat": "30-F692617", "explanation": "Java servlet request handling", "confidence": "medium"}
+{"feat": "30-F693129", "explanation": "API package names", "confidence": "high"}
+{"feat": "30-F693691", "explanation": "Android LayoutInflater usage", "confidence": "high"}
+{"feat": "30-F694016", "explanation": "Java assignment statements", "confidence": "high"}
+{"feat": "30-F695106", "explanation": "Java method definitions", "confidence": "medium"}
+{"feat": "30-F682317", "explanation": "Universal Image Loader imports", "confidence": "high"}
+{"feat": "30-F694152", "explanation": "API service classes", "confidence": "high"}
+{"feat": "30-F695049", "explanation": "Java method opening brace", "confidence": "medium"}
+{"feat": "30-F695121", "explanation": "Spring Framework imports", "confidence": "high"}
+{"feat": "30-F695644", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F695365", "explanation": "Spring Autowired annotation", "confidence": "high"}
+{"feat": "30-F695680", "explanation": "Java if statements", "confidence": "medium"}
+{"feat": "30-F696880", "explanation": "Java Collections.sort comparator", "confidence": "high"}
+{"feat": "30-F695748", "explanation": "Android constructor context argument", "confidence": "high"}
+{"feat": "30-F696467", "explanation": "Code variable assignment", "confidence": "medium"}
+{"feat": "30-F698541", "explanation": "Java method parameters", "confidence": "high"}
+{"feat": "30-F698604", "explanation": "software documentation", "confidence": "medium"}
+{"feat": "30-F696874", "explanation": "Java input streams", "confidence": "high"}
+{"feat": "30-F696807", "explanation": "Java adapter methods", "confidence": "high"}
+{"feat": "30-F697963", "explanation": "Java code indentation", "confidence": "high"}
+{"feat": "30-F697948", "explanation": "Java JasperReports code", "confidence": "medium"}
+{"feat": "30-F700850", "explanation": "Android LayoutInflater usage", "confidence": "high"}
+{"feat": "30-F698856", "explanation": "Java getter/setter boilerplate", "confidence": "medium"}
+{"feat": "30-F700347", "explanation": "Java queue operations", "confidence": "high"}
+{"feat": "30-F700649", "explanation": "MySQL JDBC URL parameters", "confidence": "high"}
+{"feat": "30-F700813", "explanation": "Java Future get await", "confidence": "high"}
+{"feat": "30-F700964", "explanation": "Android onActivityResult parameters", "confidence": "high"}
+{"feat": "30-F700957", "explanation": "code implementation terminology", "confidence": "medium"}
+{"feat": "30-F701347", "explanation": "Java setter methods", "confidence": "high"}
+{"feat": "30-F701459", "explanation": "Spring interceptor callbacks", "confidence": "high"}
+{"feat": "30-F701665", "explanation": "Java jsoup imports", "confidence": "high"}
+{"feat": "30-F597785", "explanation": "Java public declarations", "confidence": "high"}
+{"feat": "30-F702652", "explanation": "code comment syntax", "confidence": "high"}
+{"feat": "30-F703252", "explanation": "Java method parameter types", "confidence": "high"}
+{"feat": "30-F703213", "explanation": "Java code structure", "confidence": "medium"}
+{"feat": "30-F704409", "explanation": "Java package com prefix", "confidence": "high"}
+{"feat": "30-F703516", "explanation": "Android Parcelable Java code", "confidence": "medium"}
+{"feat": "30-F705016", "explanation": "Android simple_list_item_1", "confidence": "high"}
+{"feat": "30-F705271", "explanation": "Java object-oriented code", "confidence": "medium"}
+{"feat": "30-F705666", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F708550", "explanation": "Java addAll/removeAll methods", "confidence": "medium"}
+{"feat": "30-F707520", "explanation": "Android Fragment ARG constants", "confidence": "high"}
+{"feat": "30-F709978", "explanation": "Java click handler parameter", "confidence": "high"}
+{"feat": "30-F710448", "explanation": "JavaDoc Fragment subclass template", "confidence": "high"}
+{"feat": "30-F710833", "explanation": "Android Java getPath code", "confidence": "medium"}
+{"feat": "30-F701489", "explanation": "Android/Java UI imports", "confidence": "high"}
+{"feat": "30-F711306", "explanation": "Java package imports", "confidence": "high"}
+{"feat": "30-F702254", "explanation": "Java getter this.field", "confidence": "medium"}
+{"feat": "30-F711776", "explanation": "Java for-loop iteration", "confidence": "high"}
+{"feat": "30-F611890", "explanation": "Java byte conversion code", "confidence": "medium"}
+{"feat": "30-F702639", "explanation": "Java class declarations", "confidence": "high"}
+{"feat": "30-F713713", "explanation": "image processing code", "confidence": "medium"}
+{"feat": "30-F715662", "explanation": "Java database retrieval", "confidence": "medium"}
+{"feat": "30-F712595", "explanation": "Java getItemCount return", "confidence": "high"}
+{"feat": "30-F712631", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F715937", "explanation": "Java negated equals check", "confidence": "medium"}
+{"feat": "30-F714440", "explanation": "Android notification defaults", "confidence": "high"}
+{"feat": "30-F718039", "explanation": "JUnit Assert imports", "confidence": "high"}
+{"feat": "30-F718984", "explanation": "Java exception rethrowing", "confidence": "medium"}
+{"feat": "30-F718521", "explanation": "Java assignment syntax", "confidence": "medium"}
+{"feat": "30-F720046", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F720685", "explanation": "Java public class declaration", "confidence": "high"}
+{"feat": "30-F720713", "explanation": "Spring Data repositories", "confidence": "high"}
+{"feat": "30-F721138", "explanation": "Android Intent navigation", "confidence": "medium"}
+{"feat": "30-F721218", "explanation": "Java serialVersionUID declaration", "confidence": "high"}
+{"feat": "30-F711553", "explanation": "Java Swing invokeLater", "confidence": "high"}
+{"feat": "30-F721420", "explanation": "Java Minecraft mod code", "confidence": "high"}
+{"feat": "30-F723585", "explanation": "Java GUI components", "confidence": "high"}
+{"feat": "30-F722785", "explanation": "User versus daemon threads", "confidence": "high"}
+{"feat": "30-F723650", "explanation": "Java method declarations", "confidence": "high"}
+{"feat": "30-F686348", "explanation": "Code formatting newlines", "confidence": "Medium"}
+{"feat": "30-F724642", "explanation": "MyBatis Generator comments", "confidence": "high"}
+{"feat": "30-F712529", "explanation": "Java enum type constants", "confidence": "high"}
+{"feat": "30-F724989", "explanation": "Hibernate Criteria imports", "confidence": "high"}
+{"feat": "30-F725668", "explanation": "Android findViewById", "confidence": "high"}
+{"feat": "30-F729630", "explanation": "software libraries", "confidence": "medium"}
+{"feat": "30-F727424", "explanation": "CamelCase Java identifiers", "confidence": "medium"}
+{"feat": "30-F728115", "explanation": "Java RecyclerView adapters", "confidence": "high"}
+{"feat": "30-F728478", "explanation": "Say recruitment", "confidence": "medium"}
+{"feat": "30-F730107", "explanation": "Java Thread subclasses", "confidence": "medium"}
+{"feat": "30-F732163", "explanation": "Java boolean is-getter", "confidence": "high"}
+{"feat": "30-F732248", "explanation": "NetBeans generated form warning", "confidence": "high"}
+{"feat": "30-F733080", "explanation": "Javadoc author comments", "confidence": "medium"}
+{"feat": "30-F734465", "explanation": "Java interceptor callbacks", "confidence": "high"}
+{"feat": "30-F735443", "explanation": "Java singleton initialization", "confidence": "high"}
+{"feat": "30-F735955", "explanation": "CamelCase class names", "confidence": "high"}
+{"feat": "30-F736910", "explanation": "import directive semicolons", "confidence": "high"}
+{"feat": "30-F736623", "explanation": "Java Swing/AWT GUI", "confidence": "medium"}
+{"feat": "30-F736454", "explanation": "Java package project names", "confidence": "medium"}
+{"feat": "30-F724538", "explanation": "Java multithreading code", "confidence": "medium"}
+{"feat": "30-F653434", "explanation": "Java @Override annotation", "confidence": "high"}
+{"feat": "30-F737454", "explanation": "Java override method declarations", "confidence": "high"}
+{"feat": "30-F655523", "explanation": "Java setter methods", "confidence": "medium"}
+{"feat": "30-F738026", "explanation": "Java ByteArray streams", "confidence": "high"}
+{"feat": "30-F739231", "explanation": "Java code syntax", "confidence": "medium"}
+{"feat": "30-F738655", "explanation": "Android device settings", "confidence": "high"}
+{"feat": "30-F738641", "explanation": "JavaDoc header comments", "confidence": "medium"}
+{"feat": "30-F740259", "explanation": "Code indentation", "confidence": "high"}
+{"feat": "30-F740788", "explanation": "Java HashMap imports", "confidence": "high"}
+{"feat": "30-F741020", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F741519", "explanation": "Java .impl package path", "confidence": "high"}
+{"feat": "30-F742074", "explanation": "Java Swing GUI layout", "confidence": "medium"}
+{"feat": "30-F742232", "explanation": "No-arg Java constructors", "confidence": "high"}
+{"feat": "30-F743323", "explanation": "Java javax imports", "confidence": "high"}
+{"feat": "30-F743820", "explanation": "Android setSupportActionBar", "confidence": "high"}
+{"feat": "30-F745849", "explanation": "software library documentation", "confidence": "medium"}
+{"feat": "30-F746531", "explanation": "Android app imports", "confidence": "high"}
+{"feat": "30-F737170", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F746767", "explanation": "HTML tag close bracket", "confidence": "medium"}
+{"feat": "30-F747532", "explanation": "Java String identifiers", "confidence": "medium"}
+{"feat": "30-F747063", "explanation": "String immutability", "confidence": "high"}
+{"feat": "30-F748009", "explanation": "Java equals Object parameter", "confidence": "high"}
+{"feat": "30-F672475", "explanation": "software documentation", "confidence": "medium"}
+{"feat": "30-F748598", "explanation": "Java Swing preferred size", "confidence": "high"}
+{"feat": "30-F749126", "explanation": "Android layout match_parent", "confidence": "high"}
+{"feat": "30-F749365", "explanation": "Java update methods", "confidence": "high"}
+{"feat": "30-F750285", "explanation": "Android Java APIs", "confidence": "medium"}
+{"feat": "30-F751246", "explanation": "Java MockMvc assertions", "confidence": "medium"}
+{"feat": "30-F750574", "explanation": "Android SharedPreferences", "confidence": "high"}
+{"feat": "30-F752767", "explanation": "org.eclipse imports", "confidence": "high"}
+{"feat": "30-F754188", "explanation": "Java collection imports", "confidence": "high"}
+{"feat": "30-F754030", "explanation": "Colon in code output", "confidence": "high"}
+{"feat": "30-F755108", "explanation": "CRUD backend code", "confidence": "medium"}
+{"feat": "30-F756209", "explanation": "AndroidManifest.xml references", "confidence": "high"}
+{"feat": "30-F756396", "explanation": "Java method boilerplate", "confidence": "medium"}
+{"feat": "30-F756879", "explanation": "Java annotation attributes", "confidence": "high"}
+{"feat": "30-F762211", "explanation": "Android Java R imports", "confidence": "high"}
+{"feat": "30-F758591", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F762533", "explanation": "Android RecyclerView binding", "confidence": "high"}
+{"feat": "30-F758928", "explanation": "Android lifecycle methods", "confidence": "high"}
+{"feat": "30-F758617", "explanation": "Code import statements", "confidence": "high"}
+{"feat": "30-F759439", "explanation": "Java IOException", "confidence": "high"}
+{"feat": "30-F762595", "explanation": "Java SAX XML imports", "confidence": "high"}
+{"feat": "30-F691061", "explanation": "Java public test methods", "confidence": "high"}
+{"feat": "30-F766768", "explanation": "Netty ChannelPipeline setup", "confidence": "high"}
+{"feat": "30-F767472", "explanation": "Java private field declarations", "confidence": "high"}
+{"feat": "30-F692339", "explanation": "Java empty method parentheses", "confidence": "medium"}
+{"feat": "30-F768680", "explanation": "Java code context", "confidence": "medium"}
+{"feat": "30-F768020", "explanation": "Spring Security UserDetailsService", "confidence": "high"}
+{"feat": "30-F768750", "explanation": "Android getStringExtra calls", "confidence": "high"}
+{"feat": "30-F772208", "explanation": "Java constructor class names", "confidence": "high"}
+{"feat": "30-F772552", "explanation": "Java Preconditions imports", "confidence": "high"}
+{"feat": "30-F754989", "explanation": "Java code context", "confidence": "medium"}
+{"feat": "30-F773010", "explanation": "Apache Commons builders", "confidence": "high"}
+{"feat": "30-F773094", "explanation": "Java callback methods", "confidence": "high"}
+{"feat": "30-F773031", "explanation": "ExoPlayer Android code", "confidence": "medium"}
+{"feat": "30-F695952", "explanation": "JavaDoc header comments", "confidence": "high"}
+{"feat": "30-F773329", "explanation": "Android permission requests", "confidence": "high"}
+{"feat": "30-F773221", "explanation": "Java throws exception declarations", "confidence": "high"}
+{"feat": "30-F774414", "explanation": "com.sun Java imports", "confidence": "high"}
+{"feat": "30-F774476", "explanation": "HashMap capacity resizing", "confidence": "medium"}
+{"feat": "30-F775045", "explanation": "Android storage permissions", "confidence": "medium"}
+{"feat": "30-F776028", "explanation": "Eclipse IDE mentions", "confidence": "high"}
+{"feat": "30-F775150", "explanation": "Java Netty authentication code", "confidence": "medium"}
+{"feat": "30-F776334", "explanation": "Java super calls", "confidence": "high"}
+{"feat": "30-F776335", "explanation": "Android Cursor query code", "confidence": "high"}
+{"feat": "30-F777828", "explanation": "Java package/import syntax", "confidence": "high"}
+{"feat": "30-F776540", "explanation": "Java Android imports", "confidence": "high"}
+{"feat": "30-F777120", "explanation": "Java listener assignment", "confidence": "medium"}
+{"feat": "30-F777339", "explanation": "Spring ResponseStatus annotation", "confidence": "high"}
+{"feat": "30-F778195", "explanation": "Java getter/setter methods", "confidence": "high"}
+{"feat": "30-F777167", "explanation": "Android image resources", "confidence": "high"}
+{"feat": "30-F772564", "explanation": "Java getter/setter fields", "confidence": "high"}
+{"feat": "30-F778782", "explanation": "Android ImageButton imports", "confidence": "high"}
+{"feat": "30-F779015", "explanation": "Java hasNextLine file reading", "confidence": "high"}
+{"feat": "30-F780643", "explanation": "Android SQLite Cursor usage", "confidence": "medium"}
+{"feat": "30-F779608", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F779644", "explanation": "Java error handling", "confidence": "medium"}
+{"feat": "30-F779783", "explanation": "Android surfaceChanged callback", "confidence": "high"}
+{"feat": "30-F781043", "explanation": "Android Fragment imports", "confidence": "high"}
+{"feat": "30-F783014", "explanation": "Don't Say music", "confidence": "medium"}
+{"feat": "30-F704809", "explanation": "Java super method calls", "confidence": "high"}
+{"feat": "30-F782384", "explanation": "NetBeans license template", "confidence": "high"}
+{"feat": "30-F705188", "explanation": "Spring Framework imports", "confidence": "high"}
+{"feat": "30-F782041", "explanation": "Java package com prefix", "confidence": "high"}
+{"feat": "30-F781900", "explanation": "Spring Java annotations", "confidence": "medium"}
+{"feat": "30-F784685", "explanation": "IDE plugin settings", "confidence": "medium"}
+{"feat": "30-F785951", "explanation": "Java toString formatting", "confidence": "high"}
+{"feat": "30-F786422", "explanation": "source code syntax", "confidence": "medium"}
+{"feat": "30-F788233", "explanation": "Android app development", "confidence": "medium"}
+{"feat": "30-F708561", "explanation": "Java GUI component imports", "confidence": "high"}
+{"feat": "30-F788383", "explanation": "Java Swing model classes", "confidence": "high"}
+{"feat": "30-F788884", "explanation": "Android version decimals", "confidence": "medium"}
+{"feat": "30-F789769", "explanation": "Java Map put calls", "confidence": "high"}
+{"feat": "30-F791453", "explanation": "Java import package names", "confidence": "high"}
+{"feat": "30-F702112", "explanation": "Java LogFactory imports", "confidence": "high"}
+{"feat": "30-F790916", "explanation": "Obfuscated Java identifiers", "confidence": "medium"}
+{"feat": "30-F791009", "explanation": "Google Pixel phones", "confidence": "medium"}
+{"feat": "30-F793580", "explanation": "HttpURLConnection request setup", "confidence": "medium"}
+{"feat": "30-F793904", "explanation": "Java collection objects", "confidence": "high"}
+{"feat": "30-F795971", "explanation": "Android logging code", "confidence": "medium"}
+{"feat": "30-F794638", "explanation": "Android button UI code", "confidence": "medium"}
+{"feat": "30-F795104", "explanation": "Android AlertDialog builder", "confidence": "high"}
+{"feat": "30-F795499", "explanation": "Java click event handlers", "confidence": "high"}
+{"feat": "30-F779995", "explanation": "JAX/JAXB Java APIs", "confidence": "medium"}
+{"feat": "30-F796204", "explanation": "Java array brackets", "confidence": "high"}
+{"feat": "30-F797136", "explanation": "Java tutorial setup instructions", "confidence": "medium"}
+{"feat": "30-F797319", "explanation": "unit test setup teardown", "confidence": "high"}
+{"feat": "30-F797883", "explanation": "Constructor declarations", "confidence": "high"}
+{"feat": "30-F798740", "explanation": "Java class identifiers", "confidence": "medium"}
+{"feat": "30-F716392", "explanation": "Android settings navigation", "confidence": "medium"}
+{"feat": "30-F799980", "explanation": "Java package subnames", "confidence": "high"}
+{"feat": "30-F799039", "explanation": "Java import declarations", "confidence": "high"}
+{"feat": "30-F800052", "explanation": "Java logging imports", "confidence": "high"}
+{"feat": "30-F799069", "explanation": "Java for-each loops", "confidence": "medium"}
+{"feat": "30-F800561", "explanation": "Java Swing imports", "confidence": "high"}
+{"feat": "30-F800948", "explanation": "Java toString field formatting", "confidence": "high"}
+{"feat": "30-F801698", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F802359", "explanation": "Java variable declarations", "confidence": "high"}
+{"feat": "30-F802758", "explanation": "Java package declaration", "confidence": "high"}
+{"feat": "30-F803368", "explanation": "Java UI code", "confidence": "medium"}
+{"feat": "30-F804514", "explanation": "Java code context", "confidence": "medium"}
+{"feat": "30-F805053", "explanation": "Java paintComponent methods", "confidence": "high"}
+{"feat": "30-F806711", "explanation": "Java IDE terminology", "confidence": "medium"}
+{"feat": "30-F805848", "explanation": "Software product names", "confidence": "medium"}
+{"feat": "30-F805190", "explanation": "Mobile network settings", "confidence": "high"}
+{"feat": "30-F805196", "explanation": "JD-Core decompiler footer", "confidence": "high"}
+{"feat": "30-F807155", "explanation": "Android os imports", "confidence": "high"}
+{"feat": "30-F809841", "explanation": "Java rollbackFor annotation", "confidence": "high"}
+{"feat": "30-F808427", "explanation": "Java @Override methods", "confidence": "high"}
+{"feat": "30-F811570", "explanation": "non-null column constraints", "confidence": "high"}
+{"feat": "30-F808671", "explanation": "Java programming contexts", "confidence": "medium"}
+{"feat": "30-F810852", "explanation": "Java indentation", "confidence": "high"}
+{"feat": "30-F809634", "explanation": "Java Future imports", "confidence": "high"}
+{"feat": "30-F814144", "explanation": "Java method parameters", "confidence": "medium"}
+{"feat": "30-F815594", "explanation": "Java MyBatis criteria methods", "confidence": "medium"}
+{"feat": "30-F812541", "explanation": "Java Singleton pattern", "confidence": "medium"}
+{"feat": "30-F814705", "explanation": "Java URL variables", "confidence": "high"}
+{"feat": "30-F816117", "explanation": "Java garbage collectors", "confidence": "medium"}
+{"feat": "30-F816854", "explanation": "Android R.id references", "confidence": "high"}
+{"feat": "30-F817356", "explanation": "Android listener id parameter", "confidence": "high"}
+{"feat": "30-F817326", "explanation": "Android Bundle usage", "confidence": "high"}
+{"feat": "30-F817419", "explanation": "Java String type declarations", "confidence": "high"}
+{"feat": "30-F817604", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F818087", "explanation": "Java SQL Statement", "confidence": "high"}
+{"feat": "30-F819859", "explanation": "variable i in code", "confidence": "high"}
+{"feat": "30-F819927", "explanation": "generic type closing bracket", "confidence": "high"}
+{"feat": "30-F821870", "explanation": "Java code indentation", "confidence": "medium"}
+{"feat": "30-F821066", "explanation": "Javadoc HTML tags", "confidence": "high"}
+{"feat": "30-F820313", "explanation": "Throw exception statements", "confidence": "high"}
+{"feat": "30-F820814", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F822490", "explanation": "Java hashCode result", "confidence": "high"}
+{"feat": "30-F823866", "explanation": "Java test code", "confidence": "medium"}
+{"feat": "30-F809913", "explanation": "Android R.id references", "confidence": "high"}
+{"feat": "30-F824200", "explanation": "Java closing parenthesis", "confidence": "medium"}
+{"feat": "30-F824738", "explanation": "Android onClick handlers", "confidence": "high"}
+{"feat": "30-F738070", "explanation": "Java Spring WebSocket code", "confidence": "high"}
+{"feat": "30-F815143", "explanation": "Java Map imports", "confidence": "high"}
+{"feat": "30-F825857", "explanation": "Java Spring code", "confidence": "medium"}
+{"feat": "30-F826786", "explanation": "Java programming tutorials", "confidence": "medium"}
+{"feat": "30-F814710", "explanation": "Java builder pattern", "confidence": "medium"}
+{"feat": "30-F826637", "explanation": "Java logger getName", "confidence": "high"}
+{"feat": "30-F827374", "explanation": "Android Adapter getCount", "confidence": "high"}
+{"feat": "30-F827866", "explanation": "Java numeric casts", "confidence": "high"}
+{"feat": "30-F827688", "explanation": "Android Fragment container parameter", "confidence": "high"}
+{"feat": "30-F828309", "explanation": "Android JobScheduler", "confidence": "medium"}
+{"feat": "30-F828475", "explanation": "random number generation", "confidence": "high"}
+{"feat": "30-F828533", "explanation": "Java Beans", "confidence": "high"}
+{"feat": "30-F828560", "explanation": "Swing setLayout(null)", "confidence": "high"}
+{"feat": "30-F828897", "explanation": "Block face sides", "confidence": "medium"}
+{"feat": "30-F831318", "explanation": "Android dialog button setters", "confidence": "high"}
+{"feat": "30-F830523", "explanation": "Android MenuItem imports", "confidence": "high"}
+{"feat": "30-F831460", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F834156", "explanation": "Java array operations", "confidence": "medium"}
+{"feat": "30-F835029", "explanation": "Say font", "confidence": "high"}
+{"feat": "30-F835733", "explanation": "Java catch exception variable", "confidence": "high"}
+{"feat": "30-F835549", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F835721", "explanation": "Implement interface methods", "confidence": "high"}
+{"feat": "30-F835992", "explanation": "Java hashCode method", "confidence": "medium"}
+{"feat": "30-F836590", "explanation": "CharSequence s parameter", "confidence": "medium"}
+{"feat": "30-F837449", "explanation": "Netty future callbacks", "confidence": "high"}
+{"feat": "30-F837762", "explanation": "HttpServlet method comments", "confidence": "high"}
+{"feat": "30-F840122", "explanation": "Android 5.0 requirement", "confidence": "high"}
+{"feat": "30-F839535", "explanation": "Java Parcelable CREATOR boilerplate", "confidence": "high"}
+{"feat": "30-F839514", "explanation": "GoogleApiClient connection callbacks", "confidence": "medium"}
+{"feat": "30-F841774", "explanation": "Selenium WebDriver imports", "confidence": "high"}
+{"feat": "30-F841782", "explanation": "Android cursor getColumnIndex", "confidence": "high"}
+{"feat": "30-F842021", "explanation": "File writing handles", "confidence": "high"}
+{"feat": "30-F842873", "explanation": "Java abstract class names", "confidence": "medium"}
+{"feat": "30-F842356", "explanation": "Annotated Java class declarations", "confidence": "high"}
+{"feat": "30-F752492", "explanation": "Java logger declarations", "confidence": "high"}
+{"feat": "30-F843156", "explanation": "Android LinearLayoutManager setup", "confidence": "medium"}
+{"feat": "30-F845247", "explanation": "Android FragmentManager code", "confidence": "high"}
+{"feat": "30-F845664", "explanation": "Android Handler handleMessage", "confidence": "high"}
+{"feat": "30-F845091", "explanation": "software version identifiers", "confidence": "medium"}
+{"feat": "30-F846892", "explanation": "Android Java imports", "confidence": "medium"}
+{"feat": "30-F845957", "explanation": "Spring annotation imports", "confidence": "high"}
+{"feat": "30-F849153", "explanation": "Timestamp date-time separator", "confidence": "medium"}
+{"feat": "30-F846100", "explanation": "Java collection initialization", "confidence": "medium"}
+{"feat": "30-F850966", "explanation": "Android theme styles", "confidence": "high"}
+{"feat": "30-F847741", "explanation": "NetBeans template comment", "confidence": "high"}
+{"feat": "30-F847604", "explanation": "software version numbers", "confidence": "high"}
+{"feat": "30-F851387", "explanation": "Java GUI labels", "confidence": "high"}
+{"feat": "30-F746587", "explanation": "Android SharedPreferences usage", "confidence": "high"}
+{"feat": "30-F852494", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F853519", "explanation": "Java GC survivor spaces", "confidence": "high"}
+{"feat": "30-F852282", "explanation": "Android menu item ID", "confidence": "high"}
+{"feat": "30-F853130", "explanation": "Java servlet doGet/doPost", "confidence": "high"}
+{"feat": "30-F853233", "explanation": "Java ArrayList initialization", "confidence": "high"}
+{"feat": "30-F855758", "explanation": "Spring controller return", "confidence": "medium"}
+{"feat": "30-F854900", "explanation": "WebView URL handling", "confidence": "medium"}
+{"feat": "30-F856469", "explanation": "Java assignment equals", "confidence": "medium"}
+{"feat": "30-F856699", "explanation": "Java Scanner class", "confidence": "high"}
+{"feat": "30-F856767", "explanation": "Android Java code", "confidence": "high"}
+{"feat": "30-F857010", "explanation": "Java NonNull annotation", "confidence": "high"}
+{"feat": "30-F857021", "explanation": "Java Calendar API", "confidence": "high"}
+{"feat": "30-F857445", "explanation": "Java semicolon syntax", "confidence": "medium"}
+{"feat": "30-F858055", "explanation": "Java implements clause", "confidence": "high"}
+{"feat": "30-F858134", "explanation": "Java implements clause", "confidence": "high"}
+{"feat": "30-F858783", "explanation": "Java servlet request parameter", "confidence": "high"}
+{"feat": "30-F858420", "explanation": "Java Lombok @Getter", "confidence": "high"}
+{"feat": "30-F773457", "explanation": "Android RecyclerView getItemCount", "confidence": "high"}
+{"feat": "30-F758165", "explanation": "switch case colon", "confidence": "high"}
+{"feat": "30-F858622", "explanation": "Java annotation array initializer", "confidence": "medium"}
+{"feat": "30-F859165", "explanation": "Android design widget imports", "confidence": "high"}
+{"feat": "30-F859200", "explanation": "Android onBackPressed handling", "confidence": "medium"}
+{"feat": "30-F859444", "explanation": "Android ProgressDialog imports", "confidence": "high"}
+{"feat": "30-F860123", "explanation": "Java ternary colon", "confidence": "medium"}
+{"feat": "30-F859563", "explanation": "Java InputStreamReader", "confidence": "high"}
+{"feat": "30-F860346", "explanation": "Java JPA query code", "confidence": "high"}
+{"feat": "30-F860670", "explanation": "Android import statements", "confidence": "high"}
+{"feat": "30-F864525", "explanation": "for-loop less-than condition", "confidence": "high"}
+{"feat": "30-F861644", "explanation": "Java getter/setter indentation", "confidence": "high"}
+{"feat": "30-F863158", "explanation": "Java service classes", "confidence": "high"}
+{"feat": "30-F863399", "explanation": "JPA insertable/updatable annotations", "confidence": "medium"}
+{"feat": "30-F865211", "explanation": "Java logging calls", "confidence": "high"}
+{"feat": "30-F866075", "explanation": "Java creation comments", "confidence": "medium"}
+{"feat": "30-F865411", "explanation": "Spring request mapping", "confidence": "high"}
+{"feat": "30-F865614", "explanation": "Java Swing GUI code", "confidence": "high"}
+{"feat": "30-F865900", "explanation": "Code comment date separators", "confidence": "high"}
+{"feat": "30-F866250", "explanation": "Java JPA NamedQuery annotations", "confidence": "high"}
+{"feat": "30-F869001", "explanation": "Java annotation assignments", "confidence": "high"}
+{"feat": "30-F866823", "explanation": "LibGDX texture imports", "confidence": "high"}
+{"feat": "30-F868981", "explanation": "Java Arrays.copyOf", "confidence": "high"}
+{"feat": "30-F866936", "explanation": "Java access modifiers", "confidence": "high"}
+{"feat": "30-F867600", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F783174", "explanation": "Java opening brace", "confidence": "medium"}
+{"feat": "30-F869065", "explanation": "files in project folders", "confidence": "medium"}
+{"feat": "30-F788690", "explanation": "Java Collections API", "confidence": "medium"}
+{"feat": "30-F860712", "explanation": "camelCase method calls", "confidence": "medium"}
+{"feat": "30-F788752", "explanation": "Say image loading", "confidence": "high"}
+{"feat": "30-F869147", "explanation": "Java Swing component names", "confidence": "high"}
+{"feat": "30-F871660", "explanation": "JAX-RS application paths", "confidence": "medium"}
+{"feat": "30-F870227", "explanation": "JavaDoc boolean return comments", "confidence": "high"}
+{"feat": "30-F874119", "explanation": "Java decompiler referenced classes", "confidence": "high"}
+{"feat": "30-F872960", "explanation": "Java int return type", "confidence": "high"}
+{"feat": "30-F861677", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F873739", "explanation": "Javadoc @return comments", "confidence": "high"}
+{"feat": "30-F874136", "explanation": "Getter/setter property names", "confidence": "high"}
+{"feat": "30-F874300", "explanation": "Java equals null check", "confidence": "high"}
+{"feat": "30-F875477", "explanation": "Apache License headers", "confidence": "high"}
+{"feat": "30-F876051", "explanation": "RuoYi Java code", "confidence": "high"}
+{"feat": "30-F876325", "explanation": "Java Selenium code", "confidence": "high"}
+{"feat": "30-F876658", "explanation": "Java Discord bot code", "confidence": "high"}
+{"feat": "30-F878538", "explanation": "Android WebView callbacks", "confidence": "medium"}
+{"feat": "30-F879088", "explanation": "Android onClick handlers", "confidence": "high"}
+{"feat": "30-F879708", "explanation": "Android Java imports", "confidence": "high"}
+{"feat": "30-F882260", "explanation": "Java public class declarations", "confidence": "high"}
+{"feat": "30-F879808", "explanation": "Zero-width spaces in Javadoc", "confidence": "high"}
+{"feat": "30-F880278", "explanation": "Spring Security imports", "confidence": "high"}
+{"feat": "30-F880471", "explanation": "Java @Override annotation", "confidence": "high"}
+{"feat": "30-F882390", "explanation": "Java Collections import", "confidence": "high"}
+{"feat": "30-F883906", "explanation": "Javadoc author tag", "confidence": "high"}
+{"feat": "30-F882582", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F882893", "explanation": "MD5 hash functions", "confidence": "high"}
+{"feat": "30-F883479", "explanation": "Java Scanner input variables", "confidence": "high"}
+{"feat": "30-F873974", "explanation": "Java GUI startup template", "confidence": "high"}
+{"feat": "30-F884923", "explanation": "Java setLayout method", "confidence": "high"}
+{"feat": "30-F885402", "explanation": "Java method calls", "confidence": "medium"}
+{"feat": "30-F885423", "explanation": "Android settings menus", "confidence": "medium"}
+{"feat": "30-F888546", "explanation": "Java logging statements", "confidence": "high"}
+{"feat": "30-F886524", "explanation": "Java class closing brace", "confidence": "high"}
+{"feat": "30-F886592", "explanation": "Selenium WebDriver Actions", "confidence": "high"}
+{"feat": "30-F888515", "explanation": "Java this field access", "confidence": "high"}
+{"feat": "30-F889051", "explanation": "C# using semicolons", "confidence": "high"}
+{"feat": "30-F889218", "explanation": "Java setId setter", "confidence": "high"}
+{"feat": "30-F890068", "explanation": "Android widget imports", "confidence": "high"}
+{"feat": "30-F890306", "explanation": "Java project file paths", "confidence": "medium"}
+{"feat": "30-F891730", "explanation": "Java printStackTrace calls", "confidence": "high"}
+{"feat": "30-F892778", "explanation": "Apache Axis2 framework", "confidence": "high"}
+{"feat": "30-F893792", "explanation": "Glide image loading library", "confidence": "high"}
+{"feat": "30-F893563", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F893957", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F894948", "explanation": "Java listener parameters", "confidence": "high"}
+{"feat": "30-F895682", "explanation": "Spring Security login configuration", "confidence": "high"}
+{"feat": "30-F884662", "explanation": "Java Swing initialization", "confidence": "high"}
+{"feat": "30-F895347", "explanation": "Java private fields", "confidence": "high"}
+{"feat": "30-F895867", "explanation": "debug logging configuration", "confidence": "medium"}
+{"feat": "30-F897250", "explanation": "Kafka producer/consumer APIs", "confidence": "high"}
+{"feat": "30-F896188", "explanation": "Java object memory references", "confidence": "medium"}
+{"feat": "30-F897913", "explanation": "Java string concatenation", "confidence": "high"}
+{"feat": "30-F898201", "explanation": "Java class syntax", "confidence": "medium"}
+{"feat": "30-F898835", "explanation": "Java HttpServletRequest parameter", "confidence": "high"}
+{"feat": "30-F899058", "explanation": "Java equals object parameter", "confidence": "high"}
+{"feat": "30-F900305", "explanation": "Java builder pattern", "confidence": "high"}
+{"feat": "30-F901240", "explanation": "Gson JSON serialization", "confidence": "high"}
+{"feat": "30-F816685", "explanation": "Android ListView references", "confidence": "high"}
+{"feat": "30-F902173", "explanation": "Android Toast.LENGTH_SHORT", "confidence": "high"}
+{"feat": "30-F901450", "explanation": "Java util package", "confidence": "high"}
+{"feat": "30-F830136", "explanation": "Java Swing GroupLayout", "confidence": "high"}
+{"feat": "30-F903902", "explanation": "software version numbers", "confidence": "medium"}
+{"feat": "30-F902985", "explanation": "Java .do endpoints", "confidence": "medium"}
+{"feat": "30-F904168", "explanation": "2D graphics geometry", "confidence": "medium"}
+{"feat": "30-F835440", "explanation": "JavaDoc @param tags", "confidence": "high"}
+{"feat": "30-F904354", "explanation": "Android View variables", "confidence": "high"}
+{"feat": "30-F904736", "explanation": "Code comment formatting", "confidence": "medium"}
+{"feat": "30-F904828", "explanation": "SQLite onUpgrade method", "confidence": "high"}
+{"feat": "30-F905532", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F906425", "explanation": "Android Java code", "confidence": "medium"}
+{"feat": "30-F907228", "explanation": "Java CAS concurrency", "confidence": "high"}
+{"feat": "30-F906598", "explanation": "Java setText calls", "confidence": "high"}
+{"feat": "30-F907243", "explanation": "Java servlet imports", "confidence": "high"}
+{"feat": "30-F907295", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F840591", "explanation": "Java database iteration", "confidence": "high"}
+{"feat": "30-F907302", "explanation": "Java class declarations", "confidence": "high"}
+{"feat": "30-F908316", "explanation": "Java org imports", "confidence": "high"}
+{"feat": "30-F907475", "explanation": "Java object instantiation", "confidence": "high"}
+{"feat": "30-F908031", "explanation": "Code -1 sentinel", "confidence": "high"}
+{"feat": "30-F907706", "explanation": "Key substring", "confidence": "medium"}
+{"feat": "30-F908556", "explanation": "Java BufferedReader imports", "confidence": "high"}
+{"feat": "30-F910133", "explanation": "Java version strings", "confidence": "medium"}
+{"feat": "30-F910369", "explanation": "scroll pane widgets", "confidence": "high"}
+{"feat": "30-F902437", "explanation": "Java HttpURLConnection imports", "confidence": "medium"}
+{"feat": "30-F909770", "explanation": "Code indentation", "confidence": "high"}
+{"feat": "30-F911504", "explanation": "Java setter methods", "confidence": "high"}
+{"feat": "30-F912989", "explanation": "Java private declarations", "confidence": "high"}
+{"feat": "30-F915512", "explanation": "ButterKnife Android imports", "confidence": "high"}
+{"feat": "30-F913929", "explanation": "Java package imports", "confidence": "high"}
+{"feat": "30-F916339", "explanation": "Java stream API", "confidence": "high"}
+{"feat": "30-F848216", "explanation": "Java getter/setter blocks", "confidence": "high"}
+{"feat": "30-F916460", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F917429", "explanation": "Indented code blocks", "confidence": "medium"}
+{"feat": "30-F850987", "explanation": "Android LayoutInflater usage", "confidence": "high"}
+{"feat": "30-F917862", "explanation": "Java import declarations", "confidence": "medium"}
+{"feat": "30-F918140", "explanation": "Java new ArrayList initialization", "confidence": "high"}
+{"feat": "30-F918434", "explanation": "Java import package paths", "confidence": "high"}
+{"feat": "30-F919025", "explanation": "Java mock testing", "confidence": "high"}
+{"feat": "30-F919142", "explanation": "Android SQLite query calls", "confidence": "medium"}
+{"feat": "30-F920025", "explanation": "Java text editor code", "confidence": "medium"}
+{"feat": "30-F920035", "explanation": "Android main thread code", "confidence": "medium"}
+{"feat": "30-F921736", "explanation": "Spring Java controller code", "confidence": "high"}
+{"feat": "30-F921678", "explanation": "Java Enum references", "confidence": "high"}
+{"feat": "30-F922075", "explanation": "Apache POI Excel classes", "confidence": "high"}
+{"feat": "30-F922160", "explanation": "Android development", "confidence": "high"}
+{"feat": "30-F924813", "explanation": "Java authentication code", "confidence": "medium"}
+{"feat": "30-F925707", "explanation": "Android WebView settings", "confidence": "medium"}
+{"feat": "30-F922645", "explanation": "Java anonymous classes", "confidence": "high"}
+{"feat": "30-F925169", "explanation": "Java throws declarations", "confidence": "high"}
+{"feat": "30-F926999", "explanation": "Java getter return statements", "confidence": "high"}
+{"feat": "30-F927682", "explanation": "Java MessageDigest hashing", "confidence": "high"}
+{"feat": "30-F929535", "explanation": "Java javax imports", "confidence": "high"}
+{"feat": "30-F927913", "explanation": "C-style block comments", "confidence": "high"}
+{"feat": "30-F928920", "explanation": "Java singleton holder pattern", "confidence": "high"}
+{"feat": "30-F928071", "explanation": "Android onCreateView closing parenthesis", "confidence": "high"}
+{"feat": "30-F931124", "explanation": "Java throws documentation", "confidence": "high"}
+{"feat": "30-F929809", "explanation": "Android XML layout attributes", "confidence": "high"}
+{"feat": "30-F934190", "explanation": "Java equals obj parameter", "confidence": "high"}
+{"feat": "30-F933197", "explanation": "Long-press gesture", "confidence": "high"}
+{"feat": "30-F932968", "explanation": "Java HTTP APIs", "confidence": "high"}
+{"feat": "30-F933445", "explanation": "UnsupportedEncodingException", "confidence": "high"}
+{"feat": "30-F934436", "explanation": "Java concurrent imports", "confidence": "high"}
+{"feat": "30-F935035", "explanation": "Java annotation string close", "confidence": "high"}
+{"feat": "30-F934536", "explanation": "Android anti-aliasing code", "confidence": "high"}
+{"feat": "30-F936914", "explanation": "Java anonymous event handlers", "confidence": "high"}
+{"feat": "30-F937861", "explanation": "Java Hibernate class lookup", "confidence": "medium"}
+{"feat": "30-F938176", "explanation": "Java Spring RestTemplate", "confidence": "high"}
+{"feat": "30-F923042", "explanation": "programming import paths", "confidence": "medium"}
+{"feat": "30-F938289", "explanation": "Java Swing window switching", "confidence": "high"}
+{"feat": "30-F938889", "explanation": "Java REST service code", "confidence": "high"}
+{"feat": "30-F940033", "explanation": "Java annotations", "confidence": "high"}
+{"feat": "30-F939323", "explanation": "Android ProgressDialog", "confidence": "high"}
+{"feat": "30-F939172", "explanation": "Spring Transactional annotation", "confidence": "high"}
+{"feat": "30-F939431", "explanation": "Hibernate session handling", "confidence": "high"}
+{"feat": "30-F858102", "explanation": "Android Fragment code", "confidence": "medium"}
+{"feat": "30-F940317", "explanation": "Java properties files", "confidence": "high"}
+{"feat": "30-F941160", "explanation": "Java code generation", "confidence": "high"}
+{"feat": "30-F941619", "explanation": "screen resolution dimensions", "confidence": "high"}
+{"feat": "30-F941536", "explanation": "Java field declarations", "confidence": "medium"}
+{"feat": "30-F941865", "explanation": "Android Bluetooth Java code", "confidence": "high"}
+{"feat": "30-F943343", "explanation": "Java/Android programming", "confidence": "medium"}
+{"feat": "30-F943383", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F944227", "explanation": "Java generic type parameters", "confidence": "medium"}
+{"feat": "30-F945488", "explanation": "thread blocking/waiting", "confidence": "high"}
+{"feat": "30-F945674", "explanation": "Android Volley imports", "confidence": "high"}
+{"feat": "30-F945784", "explanation": "Spring web.bind imports", "confidence": "high"}
+{"feat": "30-F945876", "explanation": "Java Default classes", "confidence": "high"}
+{"feat": "30-F945935", "explanation": "Java Swing LookAndFeel", "confidence": "high"}
+{"feat": "30-F937694", "explanation": "Android DataBindingUtil imports", "confidence": "high"}
+{"feat": "30-F870527", "explanation": "Java servlet boilerplate", "confidence": "medium"}
+{"feat": "30-F946827", "explanation": "decompiled Java variables", "confidence": "high"}
+{"feat": "30-F946823", "explanation": "AndroidX annotation imports", "confidence": "high"}
+{"feat": "30-F947960", "explanation": "Java import semicolons", "confidence": "high"}
+{"feat": "30-F948039", "explanation": "Javadoc comments", "confidence": "medium"}
+{"feat": "30-F948597", "explanation": "Copyright year digit", "confidence": "high"}
+{"feat": "30-F951148", "explanation": "Java JNDI naming", "confidence": "high"}
+{"feat": "30-F951680", "explanation": "Unit test assertions", "confidence": "high"}
+{"feat": "30-F875755", "explanation": "Java getter methods", "confidence": "high"}
+{"feat": "30-F951255", "explanation": "Kotlin Android Activity code", "confidence": "high"}
+{"feat": "30-F951822", "explanation": "copyright license headers", "confidence": "medium"}
+{"feat": "30-F952031", "explanation": "Java robotics code", "confidence": "medium"}
+{"feat": "30-F949957", "explanation": "Java variable identifiers", "confidence": "medium"}
+{"feat": "30-F952854", "explanation": "Lucene TokenStream filters", "confidence": "medium"}
+{"feat": "30-F952195", "explanation": "Java package qualifiers", "confidence": "high"}
+{"feat": "30-F953833", "explanation": "Java method invocation", "confidence": "medium"}
+{"feat": "30-F953465", "explanation": "Java InputStream imports", "confidence": "high"}
+{"feat": "30-F953835", "explanation": "camera/photo capture code", "confidence": "medium"}
+{"feat": "30-F955794", "explanation": "Java new object instantiation", "confidence": "high"}
+{"feat": "30-F956049", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F956642", "explanation": "Spring ApplicationContext imports", "confidence": "high"}
+{"feat": "30-F946390", "explanation": "Java TODO comments", "confidence": "high"}
+{"feat": "30-F956886", "explanation": "Java time Zone classes", "confidence": "medium"}
+{"feat": "30-F957606", "explanation": "Minecraft gameplay terminology", "confidence": "medium"}
+{"feat": "30-F946953", "explanation": "Java byte stream reading", "confidence": "high"}
+{"feat": "30-F886106", "explanation": "Java code formatting", "confidence": "medium"}
+{"feat": "30-F957835", "explanation": "Java sandbox security", "confidence": "medium"}
+{"feat": "30-F958247", "explanation": "Java package paths", "confidence": "high"}
+{"feat": "30-F958463", "explanation": "Java entity CRUD comments", "confidence": "low"}
+{"feat": "30-F959594", "explanation": "Javadoc comment formatting", "confidence": "medium"}
+{"feat": "30-F959783", "explanation": "Java 5 version", "confidence": "high"}
+{"feat": "30-F959123", "explanation": "Java compile/run instructions", "confidence": "high"}
+{"feat": "30-F960554", "explanation": "Java block comment ending", "confidence": "medium"}
+{"feat": "30-F952037", "explanation": "Java import statements", "confidence": "medium"}
+{"feat": "30-F961175", "explanation": "Date picker month variable", "confidence": "high"}
+{"feat": "30-F961888", "explanation": "server port numbers", "confidence": "high"}
+{"feat": "30-F962473", "explanation": "Android OnClickListener syntax", "confidence": "high"}
+{"feat": "30-F963754", "explanation": "Android API level", "confidence": "high"}
+{"feat": "30-F964922", "explanation": "JUnit imports", "confidence": "high"}
+{"feat": "30-F964174", "explanation": "Java arg0 parameter", "confidence": "medium"}
+{"feat": "30-F892069", "explanation": "Java hashCode calculation", "confidence": "high"}
+{"feat": "30-F954318", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F965045", "explanation": "software version numbers", "confidence": "medium"}
+{"feat": "30-F966183", "explanation": "Java GridLayout usage", "confidence": "high"}
+{"feat": "30-F969292", "explanation": "Java hasNext loops", "confidence": "high"}
+{"feat": "30-F966407", "explanation": "org.springframework imports", "confidence": "high"}
+{"feat": "30-F966271", "explanation": "Java logging imports", "confidence": "high"}
+{"feat": "30-F967392", "explanation": "Software version numbers", "confidence": "high"}
+{"feat": "30-F968775", "explanation": "Java object instantiation", "confidence": "high"}
+{"feat": "30-F969718", "explanation": "Java FlowLayout imports", "confidence": "high"}
+{"feat": "30-F969778", "explanation": "Uninterpretable", "confidence": "low"}
+{"feat": "30-F972064", "explanation": "Minecraft terminology", "confidence": "high"}
+{"feat": "30-F972317", "explanation": "Android findViewById", "confidence": "high"}
+{"feat": "30-F970334", "explanation": "null checks in code", "confidence": "high"}
+{"feat": "30-F973638", "explanation": "Java multipart upload APIs", "confidence": "high"}
+{"feat": "30-F974803", "explanation": "message identifiers", "confidence": "high"}
+{"feat": "30-F975001", "explanation": "Java package org namespace", "confidence": "high"}
+{"feat": "30-F975070", "explanation": "Java thread programming", "confidence": "medium"}
+{"feat": "30-F975739", "explanation": "Google Web Toolkit Java", "confidence": "high"}
+{"feat": "30-F977816", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F977118", "explanation": "Java getter/setter fields", "confidence": "high"}
+{"feat": "30-F978013", "explanation": "Java getter/setter methods", "confidence": "high"}
+{"feat": "30-F979496", "explanation": "Command design pattern", "confidence": "medium"}
+{"feat": "30-F979249", "explanation": "Java Swing layout gaps", "confidence": "medium"}
+{"feat": "30-F981443", "explanation": "Java method parameters", "confidence": "high"}
+{"feat": "30-F978926", "explanation": "Android Adapter classes", "confidence": "high"}
+{"feat": "30-F981970", "explanation": "Java paintComponent method", "confidence": "high"}
+{"feat": "30-F981998", "explanation": "Selenium WebDriver manage calls", "confidence": "high"}
+{"feat": "30-F981144", "explanation": "Java Spring service imports", "confidence": "high"}
+{"feat": "30-F983818", "explanation": "Java JUnit imports", "confidence": "high"}
+{"feat": "30-F983720", "explanation": "Android ViewHolder classes", "confidence": "high"}
+{"feat": "30-F983773", "explanation": "Java array initializers", "confidence": "high"}
+{"feat": "30-F984510", "explanation": "Code negated conditions", "confidence": "high"}
+{"feat": "30-F984674", "explanation": "Java camelCase identifiers", "confidence": "medium"}
+{"feat": "30-F986687", "explanation": "Java code indentation", "confidence": "medium"}
+{"feat": "30-F987013", "explanation": "Java hashCode implementation", "confidence": "high"}
+{"feat": "30-F985450", "explanation": "Java entity imports", "confidence": "high"}
+{"feat": "30-F988101", "explanation": "Android picker dialogs", "confidence": "high"}
+{"feat": "30-F988434", "explanation": "Princeton algorithms assignments", "confidence": "medium"}
+{"feat": "30-F989018", "explanation": "Java validation annotations", "confidence": "high"}
+{"feat": "30-F989914", "explanation": "Java qualified constants", "confidence": "high"}
+{"feat": "30-F991378", "explanation": "App bar declarations", "confidence": "high"}
+{"feat": "30-F992254", "explanation": "Java org.eclipse imports", "confidence": "high"}
+{"feat": "30-F991434", "explanation": "Say ForkJoin splitting", "confidence": "high"}
+{"feat": "30-F992684", "explanation": "Spring HTTP imports", "confidence": "high"}
+{"feat": "30-F992770", "explanation": "Java source code", "confidence": "high"}
+{"feat": "30-F993740", "explanation": "Java Integer parsing", "confidence": "high"}
+{"feat": "30-F993704", "explanation": "Android MediaStore API", "confidence": "high"}
+{"feat": "30-F996070", "explanation": "Sun Microsystems", "confidence": "high"}
+{"feat": "30-F994615", "explanation": "Java equals identity check", "confidence": "high"}
+{"feat": "30-F997334", "explanation": "Java compiler diagnostics", "confidence": "medium"}
+{"feat": "30-F999026", "explanation": "Java openConnection calls", "confidence": "high"}
+{"feat": "30-F998855", "explanation": "Boolean is-method predicates", "confidence": "high"}
+{"feat": "30-F1002319", "explanation": "Out of bounds errors", "confidence": "high"}
+{"feat": "30-F999407", "explanation": "Java getter return", "confidence": "high"}
+{"feat": "30-F1001643", "explanation": "Android RecyclerView adapters", "confidence": "high"}
+{"feat": "30-F909099", "explanation": "Java Gson imports", "confidence": "high"}
+{"feat": "30-F1001890", "explanation": "Java toString formatting", "confidence": "high"}
+{"feat": "30-F1007103", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F1004082", "explanation": "Minecraft multiplayer setup", "confidence": "high"}
+{"feat": "30-F1004420", "explanation": "Java Eclipse EMF code", "confidence": "medium"}
+{"feat": "30-F1006631", "explanation": "IntelliJ OpenAPI imports", "confidence": "high"}
+{"feat": "30-F904012", "explanation": "Android ViewHolder binding", "confidence": "high"}
+{"feat": "30-F1006901", "explanation": "Java class/method declarations", "confidence": "high"}
+{"feat": "30-F1007457", "explanation": "Android onCreate savedInstanceState", "confidence": "high"}
+{"feat": "30-F1007472", "explanation": "Java REST response handling", "confidence": "medium"}
+{"feat": "30-F1007725", "explanation": "Java static final constants", "confidence": "high"}
+{"feat": "30-F991891", "explanation": "Java import statements", "confidence": "medium"}
+{"feat": "30-F1008765", "explanation": "Java import statements", "confidence": "medium"}
+{"feat": "30-F1008262", "explanation": "Java RMI code", "confidence": "high"}
+{"feat": "30-F1009007", "explanation": "Android ArrayAdapter initialization", "confidence": "high"}
+{"feat": "30-F1010787", "explanation": "Java Javadoc comments", "confidence": "medium"}
+{"feat": "30-F1011939", "explanation": "Builder build method", "confidence": "medium"}
+{"feat": "30-F1011950", "explanation": "Java Curator ZooKeeper code", "confidence": "medium"}
+{"feat": "30-F1012195", "explanation": "JavaDoc comment start", "confidence": "high"}
+{"feat": "30-F1013636", "explanation": "Android SoundPool API", "confidence": "medium"}
+{"feat": "30-F1013226", "explanation": "JavaDoc comment asterisk", "confidence": "high"}
+{"feat": "30-F1012781", "explanation": "Java main args parameter", "confidence": "high"}
+{"feat": "30-F1012803", "explanation": "Java Buffered I/O classes", "confidence": "high"}
+{"feat": "30-F1013896", "explanation": "Java import statements", "confidence": "high"}
+{"feat": "30-F1014521", "explanation": "Java JFrame creation", "confidence": "high"}
+{"feat": "30-F1013818", "explanation": "Java code declarations", "confidence": "medium"}
+{"feat": "30-F1014631", "explanation": "Bukkit Location API", "confidence": "high"}
+{"feat": "30-F1016285", "explanation": "Hadoop MapReduce Job import", "confidence": "high"}
+{"feat": "30-F1015211", "explanation": "Android RecyclerView ViewHolder", "confidence": "high"}
+{"feat": "30-F1015540", "explanation": "Copyright years", "confidence": "high"}
+{"feat": "30-F1017190", "explanation": "Java if conditions", "confidence": "medium"}
+{"feat": "30-F1015781", "explanation": "Spring Framework imports", "confidence": "high"}
+{"feat": "30-F1018482", "explanation": "Java class declarations", "confidence": "high"}
+{"feat": "30-F1018974", "explanation": "Say listener", "confidence": "high"}
+{"feat": "30-F1020596", "explanation": "Java Date imports", "confidence": "high"}
+{"feat": "30-F1020138", "explanation": "Java import declarations", "confidence": "medium"}
+{"feat": "30-F1022220", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F1009050", "explanation": "Java annotation imports", "confidence": "high"}
+{"feat": "30-F1022569", "explanation": "Javadoc metadata annotations", "confidence": "medium"}
+{"feat": "30-F1021589", "explanation": "Spring exception handlers", "confidence": "high"}
+{"feat": "30-F1022912", "explanation": "Java exception classes", "confidence": "high"}
+{"feat": "30-F1025017", "explanation": "Java Collections import", "confidence": "high"}
+{"feat": "30-F1022923", "explanation": "JavaFX layout imports", "confidence": "high"}
+{"feat": "30-F1023253", "explanation": "public access modifier", "confidence": "high"}
+{"feat": "30-F1023393", "explanation": "Java Swing UI fields", "confidence": "high"}
+{"feat": "30-F936812", "explanation": "Java class definitions", "confidence": "medium"}
+{"feat": "30-F1025910", "explanation": "Java SQL imports", "confidence": "high"}
+{"feat": "30-F1026104", "explanation": "User identifier", "confidence": "high"}
+{"feat": "30-F1027892", "explanation": "Java code identifiers", "confidence": "medium"}
+{"feat": "30-F1027241", "explanation": "Android touch events", "confidence": "high"}
+{"feat": "30-F1028941", "explanation": "Capital L prefix", "confidence": "medium"}
+{"feat": "30-F1030374", "explanation": "Java W3C DOM imports", "confidence": "high"}
+{"feat": "30-F1030560", "explanation": "Android adapter position", "confidence": "high"}
+{"feat": "30-F1031807", "explanation": "Android list refresh methods", "confidence": "high"}
+{"feat": "30-F1031907", "explanation": "Google Pixel 6", "confidence": "medium"}
+{"feat": "30-F1033106", "explanation": "Java Path file handling", "confidence": "medium"}
+{"feat": "30-F1033822", "explanation": "JD-Core Java decompiler header", "confidence": "high"}
+{"feat": "30-F1034531", "explanation": "Java Struts errors", "confidence": "medium"}
+{"feat": "30-F1036313", "explanation": "android.util.AttributeSet import", "confidence": "high"}
+{"feat": "30-F1038636", "explanation": "Clear app cache instructions", "confidence": "high"}
+{"feat": "30-F1038741", "explanation": "Java boolean is-methods", "confidence": "high"}
+{"feat": "30-F1038851", "explanation": "contact form fields", "confidence": "medium"}
+{"feat": "30-F1039918", "explanation": "Apache HttpClient imports", "confidence": "high"}
+{"feat": "30-F941510", "explanation": "Java source code", "confidence": "medium"}
+{"feat": "30-F1040235", "explanation": "Java toString return", "confidence": "high"}
+{"feat": "30-F1040747", "explanation": "Java logging statements", "confidence": "high"}
+{"feat": "30-F1040751", "explanation": "Database helper classes", "confidence": "high"}
+{"feat": "30-F1023772", "explanation": "URL syntax", "confidence": "high"}
+{"feat": "30-F1041320", "explanation": "Java sorting code", "confidence": "medium"}
+{"feat": "30-F1041642", "explanation": "Java util imports", "confidence": "high"}
+{"feat": "30-F1042300", "explanation": "Spring authenticated user retrieval", "confidence": "medium"}
+{"feat": "30-F1041897", "explanation": "JavaFX FXMLLoader", "confidence": "high"}
+{"feat": "30-F1042134", "explanation": "Android IntentFilter actions", "confidence": "high"}
+{"feat": "30-F1042531", "explanation": "Java generic type syntax", "confidence": "high"}
+{"feat": "30-F1043237", "explanation": "Java private fields", "confidence": "high"}
+{"feat": "30-F1028102", "explanation": "Java StringTokenizer usage", "confidence": "medium"}
+{"feat": "30-F1043820", "explanation": "Java getter return", "confidence": "high"}
+{"feat": "30-F1044997", "explanation": "Java file streams", "confidence": "medium"}
+{"feat": "30-F1044024", "explanation": "Code line number digits", "confidence": "medium"}
+{"feat": "30-F1045571", "explanation": "Android app development", "confidence": "medium"}
+{"feat": "30-F1048108", "explanation": "Java programming code", "confidence": "medium"}
+{"feat": "30-F1045690", "explanation": "Enable settings toggles", "confidence": "medium"}
+{"feat": "30-F1047846", "explanation": "Java equals method", "confidence": "high"}
+{"feat": "30-F874897", "explanation": "Android view holder itemView", "confidence": "high"}
+{"feat": "30-F965915", "explanation": "Java equals self-check", "confidence": "medium"}
+{"feat": "30-F969972", "explanation": "Java equals method", "confidence": "high"}
+{"feat": "30-F973878", "explanation": "JavaDoc comment syntax", "confidence": "medium"}
+{"feat": "30-F984885", "explanation": "Java cast parenthesis", "confidence": "high"}
+{"feat": "30-F1030908", "explanation": "JavaDoc comment opening", "confidence": "high"}
+{"feat": "30-F1043915", "explanation": "JPA query class argument", "confidence": "high"}
+{"feat": "30-F1024658", "explanation": "Java applets", "confidence": "High"}

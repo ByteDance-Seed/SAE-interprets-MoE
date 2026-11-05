@@ -1,0 +1,11 @@
+torch>=2.1
+transformers>=4.51,<5
+accelerate
+safetensors
+huggingface_hub
+pyarrow
+numpy
+matplotlib
+wordcloud
+openai>=1.0
+tqdm
