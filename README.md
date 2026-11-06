@@ -8,8 +8,7 @@ fractions over a corpus and thresholding them gives a bipartite *dominance graph
 and latents, and auto-interpreting the latents an expert dominates describes what the expert does.
 
 **Links:** [Project page](https://bytedance-seed.github.io/SAE-interprets-MoE/) ·
-[SAE weights](https://huggingface.co/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE) ·
-Paper (arXiv): TODO
+[SAE weights](https://huggingface.co/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE) · [Paper](https://arxiv.org/abs/2611.08089)
 
 ## Layout
 
@@ -174,7 +173,17 @@ project and copied into `docs/static/`; to change the page, edit `docs/index.htm
 
 ## Citation
 
-TODO: arXiv link and BibTeX will be added once the paper is public.
+```plain
+@misc{zhuo2026saeinterpretsmoesparse,
+      title={SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization}, 
+      author={Anyuan Zhuo and Shaohua Zhang and Yuan Lin and Pinyan Lu},
+      year={2026},
+      eprint={2611.08089},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2611.08089}, 
+}
+```
 
 ## License
 
