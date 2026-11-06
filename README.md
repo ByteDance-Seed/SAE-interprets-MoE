@@ -1,4 +1,4 @@
-# Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization
+# SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization
 
 Code and data to reproduce the experiments of the paper on Qwen3-30B-A3B (layers 4, 30 and 46).
 
